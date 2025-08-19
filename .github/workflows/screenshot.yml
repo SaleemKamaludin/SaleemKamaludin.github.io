@@ -1,10 +1,12 @@
 name: Update site screenshot
 
 on:
-  workflow_dispatch:  # allows manual trigger
+  workflow_dispatch: {}         # allow manual runs
   push:
-    branches:
-      - main  # also run on pushes to main
+    branches: [ "main" ]        # also run on pushes
+
+permissions:
+  contents: write               # REQUIRED so the workflow can commit PNGs
 
 jobs:
   screenshot:
@@ -12,22 +14,28 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
+      - name: Install xvfb (virtual display for Chrome)
+        run: sudo apt-get update && sudo apt-get install -y xvfb
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: "20"
 
       - name: Install Puppeteer
-        run: npm install puppeteer
+        run: npm i puppeteer@22
 
-      - name: Take screenshot with xvfb
+      - name: Take screenshots (desktop + mobile)
+        env:
+          SITE_URL: "https://saleemkamaludin.github.io"
         run: |
-          npx xvfb-run --auto-servernum node scripts/screenshot.mjs
+          npx xvfb-run --auto-servernum node scripts/screenshot.mjs "$SITE_URL" screenshot.png
+          npx xvfb-run --auto-servernum node scripts/screenshot.mjs "$SITE_URL" screenshot-mobile.png --mobile
 
-      - name: Commit screenshot
+      - name: Commit screenshots (only if changed)
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update site screenshot"
-          file_pattern: screenshot*.png
+          commit_message: "chore: refresh site screenshots"
+          file_pattern: "screenshot*.png"
