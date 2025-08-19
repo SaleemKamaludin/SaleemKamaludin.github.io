@@ -23,23 +23,27 @@ Below, click to expand each solution. Math renders with MathJax.
 <details>
 <summary><strong>Show/Hide Solution</strong></summary>
 
-**Prompt.** A market has linear demand \(p = a - bq\) with \(a,b>0\). Revenue is \(R(q)=pq\).
-Find the output \(q^\*\) that maximizes revenue and the corresponding price \(p^\*\).
+A market has linear demand $p = a- bq$ with $a,b>0$. Revenue is $R(q)=pq$.
 
-**Solution.** Revenue:
+Find the output $q^*$ that maximizes revenue and the corresponding price $p^*$.
+
+**Solution.** 
+
+Revenue:
 $$
 R(q) = (a-bq)\,q = aq - bq^2.
 $$
 Differentiate and set to zero:
 $$
-R'(q) = a - 2bq = 0 \;\;\Rightarrow\;\; q^\*=\frac{a}{2b}.
+R'(q) = a - 2bq = 0 \;\;\Rightarrow\;\; q^*=\frac{a}{2b}.
 $$
-Second derivative \(R''(q)=-2b<0\) (since \(b>0\)), so \(q^\*\) gives a max.
+Second derivative $R''(q)=-2b<0$ (since $b>0$), so $q^*$ gives a max.
 Then
 $$
-p^\* = a - bq^\* = a - b\left(\frac{a}{2b}\right)=\frac{a}{2}.
+p^* = a - bq^* = a - b\left(\frac{a}{2b}\right)=\frac{a}{2}.
 $$
-Thus revenue is maximized at \(q^\*=\tfrac{a}{2b}\) and \(p^\*=\tfrac{a}{2}\).
+Thus revenue is maximized at $q^*=\dfrac{a}{2b}$ and $p^*=\dfrac{a}{2}$.
+
 
 </details>
 
