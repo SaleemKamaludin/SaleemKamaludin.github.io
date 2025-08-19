@@ -25,12 +25,20 @@ Topics include:
 - Matrices and linear programming
 - Mathematics of finance
 
+
+## Lecture Notes
+- Week 1: Introduction to Functions  
+- Week 2: Linear Models in Business  
+- Week 3: Differentiation Rules and Business Applications  
+*(expand with more as you go)*
+
 ---
 
 ## Resources
-- Lecture notes and worked examples will be added here.
-- Practice problem sets will be available soon.
+- 📘 Textbook reference: Haeussler, Paul, & Wood (2013).  
+- 📝 Problem sets will be posted here.  
+- 💡 Worked solutions will be added as the course progresses.
 
 ---
 
-📩 If you’re a student, please check back regularly for updates!
+📩 *Check back regularly for updates to lecture notes, practice problems, and solutions.*
