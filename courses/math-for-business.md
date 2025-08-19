@@ -34,6 +34,11 @@ Topics include:
 
 ---
 
+## Additional Resources
+
+- [Possible Solutions](/courses/math-for-business/solutions/)
+
+
 ## Resources
 - 📘 Textbook reference: Haeussler, Paul, & Wood (2013).  
 - 📝 Problem sets will be posted here.  
