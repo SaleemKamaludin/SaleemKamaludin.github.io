@@ -2,6 +2,9 @@ title: Saleem Kamaludin
 description: Mathematics • Discrete structures • Graph theory
 theme: minima
 
+permalink: pretty
+
+
 # Use minima’s built‑in dark mode
 minima:
   skin: dark
