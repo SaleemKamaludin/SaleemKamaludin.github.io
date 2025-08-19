@@ -1,23 +1,26 @@
-title: Discrete Mathematics Solutions
-description: Final-year discrete mathematics — worked solutions
+title: Saleem Kamaludin
+description: Mathematics • Discrete structures • Graph theory
 theme: minima
 
-# Build settings
+# Use minima’s built‑in dark mode
+minima:
+  skin: dark
+  social_links:
+    - { platform: github,  user_url: "https://github.com/SaleemKamaludin" }
+    # add more if you like:
+    # - { platform: email,   user_url: "mailto:your.email@uwi.edu" }
+    # - { platform: linkedin, user_url: "https://www.linkedin.com/in/your-handle" }
+
+# Show these pages in the top nav (order matters)
+header_pages:
+  - index.md
+  - research.md
+  - teaching.md
+  - courses.md
+  - links.md
+
+# MathJax for LaTeX
 markdown: kramdown
 kramdown:
   input: GFM
   math_engine: mathjax
-  syntax_highlighter_opts:
-    block:
-      line_numbers: false
-
-# Collections: a first-class "Solutions" section
-collections:
-  solutions:
-    output: true
-    permalink: /solutions/:name/
-
-# Helpful links in the top-right (optional)
-minima:
-  social_links:
-    - { platform: github,   user_url: "https://github.com/your-username" }
