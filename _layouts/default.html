@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {%- if site.theme == "minima" -%}
+      <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+    {%- endif -%}
+    <!-- MathJax (renders LaTeX) -->
+    <script>
+      window.MathJax = {
+        tex: { inlineMath: [['\\(','\\)']], displayMath: [['$$','$$']] },
+        svg: { fontCache: 'global' }
+      };
+    </script>
+    <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+  </head>
+  <body>
+    <main class="page-content" aria-label="Content" style="max-width: 900px; margin: 2rem auto; padding: 0 1rem;">
+      <header>
+        <h1 style="margin-bottom:0.2rem;"><a href="{{ '/' | relative_url }}" style="text-decoration:none;color:inherit;">{{ site.title }}</a></h1>
+        <p style="margin-top:0; color:#555;">{{ site.description }}</p>
+        <hr>
+      </header>
+
+      {{ content }}
+
+      <hr>
+      <footer>
+        <p style="font-size:0.9rem;color:#666;">
+          © {{ "now" | date: "%Y" }} · Built with GitHub Pages, Jekyll, and MathJax.
+        </p>
+      </footer>
+    </main>
+  </body>
+</html>
