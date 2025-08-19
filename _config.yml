@@ -20,6 +20,7 @@ header_pages:
   - research.md
   - teaching.md
   - courses.md
+  - courses/math-for-business.md
   - links.md
 
 # MathJax for LaTeX
