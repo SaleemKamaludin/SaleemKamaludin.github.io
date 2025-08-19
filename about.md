@@ -1,14 +1,31 @@
 ---
 layout: default
 title: About
-permalink: /about/
 ---
 
-## Saleem Kamaludin
+# About Me
 
-I am a mathematician and university lecturer with interests in **discrete mathematics**, **graph theory** (with a focus on the Szeged index), and **mathematical pedagogy**.  
+Hello, I’m **Saleem Kamaludin**, a professor of Mathematics and Computer Science with a passion for teaching, research, and mentoring students at all levels.  
+My work spans **graph theory, mathematical modeling, and applied computing**, and I am deeply engaged in developing accessible resources to support learning and exploration in mathematics.
 
-This site serves as a **hub** for my teaching and research material.  
-- See the [Courses]({{ '/courses/' | relative_url }}) page for lecture notes and worked solutions.  
-- Visit my [GitHub profile](https://github.com/SaleemKamaludin) for code, projects, and collaborations.
+---
 
+## Teaching & Mentorship
+I teach a variety of university-level courses in **mathematics, discrete structures, and computer science**.  
+My goal is to create learning environments where students not only master technical skills but also develop critical thinking and problem-solving abilities.
+
+---
+
+## Research Interests
+- **Graph Theory & Invariants** — with special focus on the Szeged Index and symmetric graph structures  
+- **Mathematical Modeling** in natural and applied sciences  
+- **Computational Tools** — Python, Mathematica, and LaTeX for research and teaching  
+
+---
+
+## Beyond Academia
+Outside of formal teaching and research, I design **educational materials, worked solutions, and guided notes** to help students bridge the gap between classroom theory and practical applications.  
+
+---
+
+📩 Feel free to reach out or connect with me if you’re interested in collaboration, mentorship, or accessing my resources.
