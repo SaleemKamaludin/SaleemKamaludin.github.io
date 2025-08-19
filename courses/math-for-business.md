@@ -1,3 +1,12 @@
+---
+layout: default
+title: Mathematics for Business
+permalink: /courses/math-for-business/
+---
+
+
+
+
 # Mathematics for Business
 
 Welcome to the **Mathematics for Business** course.  
