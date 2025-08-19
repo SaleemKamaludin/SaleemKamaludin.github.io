@@ -1,30 +1,22 @@
 ---
-layout: default
+layout: page
 title: Home
 ---
 
-# Welcome
+I am a lecturer in the **Department of Mathematics and Statistics** at the **University of the West Indies, St. Augustine**.  
+My teaching centers on discrete mathematics, linear algebra, and advanced topics in graph theory; my current research focuses on the **Szeged index** and symmetry in graphs.
 
-Welcome to my academic site. I am **Saleem Kamaludin**, a mathematician and lecturer with interests in **discrete mathematics**, **graph theory**, and **mathematical pedagogy**.  
+<img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Saleem Kamaludin" style="float:right; margin:0 0 1rem 1rem; max-width:220px; border:1px solid #555; padding:3px;">
 
-This site is designed as a hub for:
-- **About** — background and research interests  
-- **Courses** — lecture notes and worked solutions for my classes  
-- Occasional updates and resources for students  
+### Facts
+- I teach and supervise final‑year projects in mathematics and computer science.
+- My interests span graph invariants, combinatorics, and mathematical pedagogy.
 
----
+### Hobbies
+- Reading mathematics & history of science  
+- Writing clear, student‑friendly notes
 
-### Quick Links
-- [About]({{ '/about/' | relative_url }})
-- [Courses]({{ '/courses/' | relative_url }})
-
----
-
-### Featured Work
-Mathematics is best communicated with clear exposition and rigorous examples. Here you will find carefully prepared solutions, notes, and explorations written with **LaTeX** and rendered online with **MathJax**.
-
-For instance, here is a sample identity that often arises in combinatorics:
-
-$$
-\sum_{k=0}^{n} \binom{n}{k} = 2^n.
-$$
+### More information
+This website uses the minimal **Jekyll theme _minima_** and is hosted on **GitHub Pages**.  
+Mathematics on this site is typeset via LaTeX using MathJax, e.g.
+\( \sum_{k=0}^{n}\binom{n}{k} = 2^n \).
