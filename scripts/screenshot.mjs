@@ -1,16 +1,36 @@
-import puppeteer from 'puppeteer';
+// Usage:
+//   node scripts/screenshot.mjs https://example.com screenshot.png
+//   node scripts/screenshot.mjs https://example.com screenshot-mobile.png --mobile
+import puppeteer from "puppeteer";
 
-const url = 'https://saleemkamaludin.github.io'; // your live site
-const browser = await puppeteer.launch({ headless: true });
-const page = await browser.newPage();
-await page.goto(url, { waitUntil: 'networkidle2' });
+const url = process.argv[2];
+const out = process.argv[3] || "screenshot.png";
+const isMobile = process.argv.includes("--mobile");
 
-// Desktop screenshot
-await page.screenshot({ path: 'screenshot.png', fullPage: true });
+if (!url) {
+  console.error("Missing URL. Example: node scripts/screenshot.mjs https://example.com screenshot.png");
+  process.exit(1);
+}
 
-// Mobile screenshot
-const mobile = puppeteer.devices['iPhone X'];
-await page.emulate(mobile);
-await page.screenshot({ path: 'screenshot-mobile.png', fullPage: true });
+const viewports = {
+  desktop: { width: 1366, height: 900, deviceScaleFactor: 1 },
+  mobile:  { width: 390,  height: 844, deviceScaleFactor: 2, isMobile: true, hasTouch: true }
+};
 
-await browser.close();
+(async () => {
+  const browser = await puppeteer.launch({
+    headless: "new",
+    args: ["--no-sandbox","--disable-setuid-sandbox"]
+  });
+  const page = await browser.newPage();
+
+  const vp = isMobile ? viewports.mobile : viewports.desktop;
+  await page.setViewport(vp);
+
+  await page.goto(url, { waitUntil: "networkidle2", timeout: 120000 });
+  await page.waitForTimeout(1500); // give MathJax a moment
+
+  await page.screenshot({ path: out, fullPage: false });
+  await browser.close();
+  console.log(`Saved ${out}`);
+})();
