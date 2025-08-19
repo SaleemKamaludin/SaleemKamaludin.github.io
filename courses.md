@@ -25,7 +25,7 @@ Here you’ll find organized links to course notes, worked solutions, and suppor
 ## 💻 Computer Science
 - [COMP 1604: Discrete Mathematics](#) – Logic, proofs, sets, combinatorics, and graph theory  
 - [Algorithms & Data Structures](#) – Complexity, sorting, searching, and applications  
-- [Mathematics for Business](#) – Applied mathematics for economics and social sciences  
+- [Mathematics for Business](/courses/math-for-business/) — Applied mathematics for economics and social sciences
 
 ---
 
