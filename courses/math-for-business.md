@@ -33,10 +33,9 @@ Topics include:
 *(expand with more as you go)*
 
 ---
-
 ## Additional Resources
-
 - [Possible Solutions](/courses/math-for-business/solutions/)
+- [Chapter 1 Solutions](/courses/math-for-business/solutions/chapter1/)
 
 
 ## Resources
