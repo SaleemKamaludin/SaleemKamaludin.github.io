@@ -8,7 +8,7 @@ title: Home
      alt="Saleem Kamaludin"
      style="float:right; margin:0 0 1rem 1rem; max-width:200px; border:1px solid #ccc; padding:3px; border-radius:4px;">
 
-Welcome to my academic site. I am **Saleem Kamaludin**, a mathematician and lecturer with interests in **algebraic topology**,  **discrete mathematics**, **graph theory**, and **combinatorial analysis**.
+I am **Saleem Kamaludin**, a mathematician and lecturer with interests in **algebraic topology**,  **discrete mathematics**, **graph theory**, and **combinatorial analysis**.
 
 This site serves as a hub for:
 - **[About]({{ '/about/' | relative_url }})** — background and research interests  
@@ -39,10 +39,7 @@ My research lies in **graph invariants** and **mathematical chemistry**, with em
 ---
 
 ## Featured Mathematics
-Mathematics here is written in **LaTeX** and rendered via **MathJax**. For example:
-\[
-\sum_{k=0}^{n} \binom{n}{k} = 2^n.
-\]
+TBD
 
 ---
 
