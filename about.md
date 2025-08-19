@@ -5,7 +5,7 @@ title: About
 
 # About Me
 
-Hello, I’m **Saleem Kamaludin**, a professor of Mathematics and Computer Science with a passion for teaching, research, and mentoring students at all levels.  
+Hello, I’m **Saleem Kamaludin**, an educator in  Mathematics and Computer Science with a passion for teaching, research, and mentoring students at all levels.  
 My work spans **graph theory, mathematical modeling, and applied computing**, and I am deeply engaged in developing accessible resources to support learning and exploration in mathematics.
 
 ---
