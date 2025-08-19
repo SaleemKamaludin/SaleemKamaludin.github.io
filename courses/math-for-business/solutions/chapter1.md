@@ -54,10 +54,12 @@ Thus revenue is maximized at $q^*=\dfrac{a}{2b}$ and $p^*=\dfrac{a}{2}$.
 <details>
 <summary><strong>Show/Hide Solution</strong></summary>
 
-**Prompt.** A firm sells at price \(p\) per unit with linear cost \(C(q)=F+cq\) where \(F>0\), \(c>0\).
+A firm sells at price \(p\) per unit with linear cost \(C(q)=F+cq\) where \(F>0\), \(c>0\).
 Find the break-even quantity \(q_{\text{BE}}\).
 
-**Solution.** Profit \(\pi(q)=pq - (F+cq)=(p-c)q - F\).
+**Solution.**
+
+Profit \(\pi(q)=pq - (F+cq)=(p-c)q - F\).
 Break-even when \(\pi(q)=0\):
 $$
 (p-c)q_{\text{BE}} - F = 0
