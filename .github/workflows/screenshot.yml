@@ -1,17 +1,16 @@
 name: Update site screenshot
 
 on:
-  workflow_dispatch: {}         # allow manual runs
+  workflow_dispatch: {}
   push:
-    branches: [ "main" ]        # also run on pushes
+    branches: [ "main" ]
 
 permissions:
-  contents: write               # REQUIRED so the workflow can commit PNGs
+  contents: write
 
 jobs:
   screenshot:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -31,8 +30,8 @@ jobs:
         env:
           SITE_URL: "https://saleemkamaludin.github.io"
         run: |
-          npx xvfb-run --auto-servernum node scripts/screenshot.mjs "$SITE_URL" screenshot.png
-          npx xvfb-run --auto-servernum node scripts/screenshot.mjs "$SITE_URL" screenshot-mobile.png --mobile
+          xvfb-run --auto-servernum node scripts/screenshot.mjs "$SITE_URL" screenshot.png
+          xvfb-run --auto-servernum node scripts/screenshot.mjs "$SITE_URL" screenshot-mobile.png --mobile
 
       - name: Commit screenshots (only if changed)
         uses: stefanzweifel/git-auto-commit-action@v5
