@@ -1,0 +1,23 @@
+title: Discrete Mathematics Solutions
+description: Final-year discrete mathematics — worked solutions
+theme: minima
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+# Collections: a first-class "Solutions" section
+collections:
+  solutions:
+    output: true
+    permalink: /solutions/:name/
+
+# Helpful links in the top-right (optional)
+minima:
+  social_links:
+    - { platform: github,   user_url: "https://github.com/your-username" }
