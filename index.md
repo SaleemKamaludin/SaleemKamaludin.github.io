@@ -50,7 +50,7 @@ TBD
 ---
 
 <p style="font-size:0.9rem; color:#666; text-align:center; margin-top:1.5rem;">
-📧 <a href="mailto:saleem.kamaludin@uwi.edu">your.email@sta.uwi.edu</a> ·
+📧 <a href="mailto:saleem.kamaludin@uwi.edu">saleem.kamaludin@uwi.edu</a> ·
 🔗 <a href="https://github.com/SaleemKamaludin">GitHub</a> ·
 🌍 University of the West Indies, St. Augustine
 </p>
