@@ -1,6 +1,24 @@
 ---
 layout: default
-title: "Session 2: Solutions"
+title: "Session 2: Quadratics"
+---
+
+# Session 2: Quadratics
+
+See below for slides
+
+## Resources
+
+* [Download the slides (PDF)](/assets/math-clinic/session-02/Quadratics.pdf)
+
+PDF preview not available. [Download the PDF](/assets/math-clinic/session-02/Quadratics.pdf).
+
+
+
+
+---
+layout: default
+title: "Session 2: Extra Practice Solutions"
 ---
 
 # Session 2: Solutions
