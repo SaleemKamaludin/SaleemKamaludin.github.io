@@ -1,0 +1,19 @@
+---
+layout: default
+title: Math Clinic
+permalink: /courses/math-clinic/
+---
+
+# Math Clinic
+
+A short refresher/bridging clinic for incoming students.
+Materials will appear here as they’re prepared.
+
+## What you'll find (soon)
+- **Sessions** — slide decks and notes  
+- **Worksheets** — practice sets with solutions  
+
+<!-- You can start adding subpages later, e.g.
+- [Session 1: Percentages & Ratios](/courses/math-clinic/sessions/session-01/)
+- [Worksheet 1: Fundamentals](/courses/math-clinic/worksheets/ws-01/)
+-->
