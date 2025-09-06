@@ -5,8 +5,7 @@ permalink: /courses/math-clinic/sessions/session-01/
 ---
 
 # Session 1: Percentages
-Content coming soon.
-
+See below for slides
 
 ## Resources
 - [Download the slides (PDF)]({{ "/assets/math-clinic/session-01/Percentages.pdf" | relative_url }})
