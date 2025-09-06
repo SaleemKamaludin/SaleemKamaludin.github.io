@@ -41,6 +41,10 @@ Here you'll find organized links to course notes and resources. This hub will ex
 
 ---
 
+## Math Clinic
+
+- [Math Clinic](/courses/math-clinic/) — Refresher workshops and bridge materials *(coming soon)*
+
 ## 🧪 Notes
 
 - Graph Theory (Szeged Index) — see research notes *(link coming soon)*  
