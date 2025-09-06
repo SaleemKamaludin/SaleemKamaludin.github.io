@@ -15,7 +15,7 @@ Materials will appear here as they’re prepared.
 
 ## Sessions
 - [Session 1: Percentages](/courses/math-clinic/sessions/session-01/)
-- [Session 2: Solutions](/courses/math-clinic/sessions/session-02/)
+- [Session 2: Extra Practice Solutions](/courses/math-clinic/sessions/session-02/)
 
 
 
