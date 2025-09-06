@@ -11,6 +11,8 @@ Content coming soon.
 
 - [Download the slides (PDF)]({{ "/assets/math-clinic/session-01/session-01-slides.pdf" | relative_url }})
 
-<!-- Optional inline preview -->
+![Example image]({{ "/assets/math-clinic/session-01/img-1.png" | relative_url }})
+
+<!-- Inline PDF preview (optional) -->
 <iframe src="{{ '/assets/math-clinic/session-01/session-01-slides.pdf' | relative_url }}#view=FitH"
         width="100%" height="700"></iframe>
