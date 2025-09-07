@@ -57,34 +57,37 @@ $$(1+0.06/4)^4-1\approx 6.1364\%.$$
 ---
 
 ## Q3. Break-Even and Profit
-Fixed costs \$12,000; variable cost \$18 per unit; price \$30. (i) Break-even quantity and revenue; (ii) profit at \(q=1500\).
+Fixed costs \$12,000; variable cost \$18 per unit; price \$30. (i) Break-even quantity and revenue; (ii) profit at $q=1500$.
 
 **Solution.**  
-Revenue \(R(q)=30q\), cost \(C(q)=12000+18q\).  
-Break-even from \(R=C\): \(30q=12000+18q\Rightarrow q=1000\), so revenue is \(30\,000\).  
-At \(q=1500\):  
-\(\pi=R-C=30(1500)-(12000+18\cdot1500)=45000-39000=6000\).  
+Revenue $R(q)=30q$, cost $C(q)=12000+18q$.  
+Break-even from $R=C$: $30q=12000+18q \Rightarrow q=1000$, so revenue is $30{,}000$.  
+At $q=1500$:
+$\pi = R-C = 30(1500) - (12000+18\cdot1500) = 45000 - 39000 = 6000$.  
 Profit: **\$6,000**.
+
 
 ---
 
 ## Q4. Maximize Revenue for Linear Demand
-Inverse demand \(p=200-0.5q\). (a) Find \(q\) that maximizes \(R\). (b) Find price and max revenue. (c) \(MR\) at \(q=100\).
+Inverse demand $p=200-0.5q$. (a) Find $q$ that maximizes $R$. (b) Find price and max revenue. (c) $MR$ at $q=100$.
 
-**Solution.** \(R(q)=q(200-0.5q)=200q-0.5q^2\) is a concave quadratic with vertex at  
+**Solution.** $R(q)=q(200-0.5q)=200q-0.5q^2$ is a concave quadratic with vertex at  
 $$q^\ast=\frac{-b}{2a}=\frac{-200}{2(-0.5)}=200.$$
-Then \(p^\ast=200-0.5(200)=100\) and \(R_{\max}=200\cdot100=20{,}000\).  
-Marginal revenue \(R'(q)=200-q\), so \(R'(100)=100\): an extra unit near \(q=100\) raises revenue by about \$100.
+Then $p^\ast=200-0.5(200)=100$ and $R_{\max}=200\cdot100=20{,}000$.  
+Marginal revenue $R'(q)=200-q$, so $R'(100)=100$.
+
 
 ---
 
 ## Q5. Elasticity and Revenue
-Demand \(q(p)=5000\,p^{-1.5}\). (a) Compute absolute elasticity. (b) Approximate revenue change if price rises by 1%.
+Demand $q(p)=5000\,p^{-1.5}$. (a) Compute absolute elasticity. (b) Approximate revenue change if price rises by $1\%$.
 
 **Solution.**  
-Elasticity \(E=\left|\dfrac{p}{q}\dfrac{dq}{dp}\right|=1.5\) (constant), hence elastic.  
-A 1% price rise → about 1.5% drop in quantity; net revenue change \(\approx 1\%-1.5\%=-0.5\%\).  
+Elasticity $E=\left|\dfrac{p}{q}\dfrac{dq}{dp}\right|=1.5$ (constant), hence elastic.  
+A $1\%$ price rise $\Rightarrow$ about $1.5\%$ drop in quantity; net revenue change $\approx 1\%-1.5\%=-0.5\%$.  
 Revenue **falls by ≈0.5%**.
+
 
 ---
 
