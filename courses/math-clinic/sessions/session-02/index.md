@@ -12,7 +12,7 @@ See below for slides
 
 <!-- Embedded PDF viewer (with a fallback link) -->
 <object
-  data="{{ '/assets/math-clinic/session-02/Quadratics.pdf' | relative_url }}"
+  data="{{ '/assets/math-clinic/session-02/Quadratics_1.pdf' | relative_url }}"
   type="application/pdf"
   width="100%"
   height="800">
