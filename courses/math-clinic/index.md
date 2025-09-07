@@ -40,3 +40,13 @@ Materials will appear here as they’re prepared.
   <a class="btn" href="{{ '/courses/math-clinic/sessions/session-01/' | relative_url }}">Session 1: Percentages</a>
   <a class="btn btn-primary" href="{{ '/courses/math-clinic/sessions/session-02/' | relative_url }}">Session 2: Quadratics</a>
 </div>
+
+
+<hr />
+
+## Possible solutions
+<div class="session-buttons">
+  <a class="btn" href="{{ '/courses/math-clinic/solutions/percentages/' | relative_url }}">Percentages — Practice Solutions</a>
+  <a class="btn" href="{{ '/courses/math-clinic/solutions/quadratics/'  | relative_url }}">Quadratics — Practice Solutions</a>
+  <!-- add more buttons as you create more solutions pages -->
+</div>
