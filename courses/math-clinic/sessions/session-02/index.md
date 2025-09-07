@@ -27,11 +27,11 @@ See below for slides
 
 
 ---
-title: "Session 2: Quadratics"
+ Session 2: Quadratics
 ---
 
 
-title: "Session 2: Extra Practice Solutions"
+Session 2: Extra Practice Solutions
 ---
 
 # Session 2: Solutions
