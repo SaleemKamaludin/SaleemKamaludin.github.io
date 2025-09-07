@@ -20,8 +20,7 @@ Materials will appear here as they’re prepared.
 
 
 ---
-layout: default
-title: "Math Clinic"
+ "Math Clinic"
 ---
 
 <!-- Lightweight page-level styles for buttons -->
@@ -33,13 +32,7 @@ title: "Math Clinic"
 .btn-primary{background:#4c8bf5;color:#fff}
 </style>
 
-# Math Clinic
 
-A short refresher/bridging clinic for incoming students. Materials will appear here as they’re prepared.
-
-## What you'll find (soon)
-- **Sessions** — slide decks and notes
-- **Worksheets** — practice sets with solutions
 
 ## Sessions
 
