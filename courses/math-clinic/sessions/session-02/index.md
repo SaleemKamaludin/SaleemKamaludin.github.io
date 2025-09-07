@@ -13,7 +13,7 @@ title: "Session 2: Extra Practice Solutions"
 
 _Last updated: September 6, 2025_
 
-Below are worked solutions in clear prose with rendered math (MathJax).
+Below are worked solutions in rendered math (MathJax).
 
 ---
 
