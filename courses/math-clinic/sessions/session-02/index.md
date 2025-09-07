@@ -3,6 +3,33 @@ layout: default
 title: "Session 2: Quadratics"
 ---
 
+# Session 2: Quadratics
+
+See below for slides
+
+## Resources
+- [Download the slides (PDF)]({{ '/assets/math-clinic/session-02/Quadratics.pdf' | relative_url }})
+
+<!-- Embedded PDF viewer (with a fallback link) -->
+<object
+  data="{{ '/assets/math-clinic/session-02/Quadratics.pdf' | relative_url }}"
+  type="application/pdf"
+  width="100%"
+  height="800">
+  <p>PDF preview not available in this browser.
+     <a href="{{ '/assets/math-clinic/session-02/Quadratics.pdf' | relative_url }}">Download the PDF</a>.
+  </p>
+</object>
+
+
+
+
+
+
+---
+title: "Session 2: Quadratics"
+---
+
 
 title: "Session 2: Extra Practice Solutions"
 ---
