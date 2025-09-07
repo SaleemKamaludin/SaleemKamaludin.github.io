@@ -9,7 +9,7 @@ permalink: /courses/math-clinic/
 A short refresher/bridging clinic for incoming students.
 Materials will appear here as they’re prepared.
 
-## What you'll find (soon)
+## What you'll find (Updated regularly) 
 - **Sessions** — slide decks and notes  
 - **Worksheets** — practice sets with solutions  
 
