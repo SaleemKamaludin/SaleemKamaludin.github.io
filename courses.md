@@ -41,6 +41,17 @@ Here you'll find organized links to course notes and resources. This hub will ex
 
 ---
 
+## Graduate Courses
+
+-Functional Analysis
+-Measure Theory
+-Mathematical Modelling 
+
+
+---
+
+
+
 ## Math Clinic
 
 - [Math Clinic](/courses/math-clinic/) — Refresher workshops and bridge materials *(coming soon)*
