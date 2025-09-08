@@ -6,14 +6,14 @@ title: "Percentages — Practice Solutions"
 # Percentages — Practice Solutions
 
 ## Resources
-- [Download the solutions (PDF)]({{ '/assets/math-clinic/solutions/Percentage solutions.pdf' | relative_url }})
+- [Download the solutions (PDF)]({{ '/assets/math-clinic/solutions/Percentage%20solutions.pdf' | relative_url }})
 
 <object
-  data="{{ '/assets/math-clinic/solutions/Percentage solutions.pdf' | relative_url }}"
+  data="{{ '/assets/math-clinic/solutions/Percentage%20solutions.pdf' | relative_url }}"
   type="application/pdf"
   width="100%"
   height="850">
   <p>PDF preview not available in this browser.
-     <a href="{{ '/assets/math-clinic/solutions/Percentage solutions.pdf' | relative_url }}">Download the PDF</a>.
+     <a href="{{ '/assets/math-clinic/solutions/Percentage%20solutions.pdf' | relative_url }}">Download the PDF</a>.
   </p>
 </object>
