@@ -50,3 +50,15 @@ Materials will appear here as they’re prepared.
   <a class="btn" href="{{ '/courses/math-clinic/solutions/quadratics/'  | relative_url }}">Quadratics — Practice Solutions</a>
   <!-- add more buttons as you create more solutions pages -->
 </div>
+
+
+<hr />
+
+## Handouts
+
+<div class="session-buttons">
+  <a class="btn" href="{{ '/courses/math-clinic/handouts/conversion-targets/' | relative_url }}">
+    Conversion Targets — Handout (PDF)
+  </a>
+</div>
+
