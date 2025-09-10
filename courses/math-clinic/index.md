@@ -24,12 +24,6 @@ title: "Math Clinic"
   </a>
 </div>
 
-
-
----
-layout: default
-title: Math Clinic
-permalink: /courses/math-clinic/
 ---
 
 # Math Clinic
