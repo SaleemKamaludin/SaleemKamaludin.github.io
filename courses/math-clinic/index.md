@@ -1,5 +1,33 @@
 ---
 layout: default
+title: "Math Clinic"
+---
+
+<!-- lightweight styles -->
+<style>
+.notice{
+  margin:1rem 0 1.25rem;
+  padding:.9rem 1rem;
+  border:1px solid #4c8bf5;
+  border-radius:.6rem;
+  background:rgba(76,139,245,.12);
+}
+.notice b{font-weight:600}
+</style>
+
+# Math Clinic
+
+<div class="notice">
+  <b>Need help?</b> If you’re having trouble with any topic, email me and I’ll point you to the right notes or practice set:
+  <a href="mailto:YOUR.EMAIL@EXAMPLE.EDU?subject=Math%20Clinic%20question&body=Hi%20Saleem%2C%0D%0A%0DI%27m%20struggling%20with%20[%20topic%20]%20from%20Session%20[%201%20or%202%20].%20Could%20you%20advise%20materials%20or%20practice%20questions%3F%0D%0A%0D%0AThanks.">
+    YOUR.EMAIL@EXAMPLE.EDU
+  </a>
+</div>
+
+
+
+---
+layout: default
 title: Math Clinic
 permalink: /courses/math-clinic/
 ---
