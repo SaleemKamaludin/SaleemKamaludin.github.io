@@ -57,7 +57,7 @@ Here you'll find organized links to course notes and resources. This hub will ex
 
 - [Math Clinic](/courses/math-clinic/) — Refresher workshops and bridge materials *(coming soon)*
 
-## 🧪 Notes
+## 🧪 Research work 
 
 - Graph Theory (Szeged Index) — see research notes.  
 - Counterfeit Drugs Project — statistical analysis and interpretation.
