@@ -19,9 +19,11 @@ My goal is to create learning environments where students not only master techni
 ---
 
 ## Research Interests
-- **Graph Theory & Invariants** — with special focus on the Szeged Index and symmetric graph structures  
+- <a href="{{ '/notes/graph-theory/' | relative_url }}"><strong>Graph Theory & Invariants</strong></a> — Comprehensive notes from my MSc: Szeged, edge-Szeged, and Wiener indices; orbit partitions and cut-based computations; unicyclic, star-like, complete bipartite, and hypercube families; extremal/bounds results; chemical graph applications (alkanes),(Gutman, Polansky, Chang).
 - **Mathematical Modeling** in natural and applied sciences  
-- **Computational Tools** — Python, Mathematica, and LaTeX for research and teaching  
+- **Computational Tools** — Python, Mathematica, and LaTeX for research and teaching
+
+
 
 ---
 
