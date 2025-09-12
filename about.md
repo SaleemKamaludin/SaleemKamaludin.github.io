@@ -14,7 +14,7 @@ My work spans **graph theory, discrete mathematics, and applied computing**, and
 
 ## Teaching & Mentorship
 I teach a variety of university-level courses in **mathematics, discrete structures, and computer science**.  
-My goal is to create learning environments where students not only master technical skills but also develop critical thinking and problem-solving abilities.
+My goal is to create learning environments where students not only master technical skills but also develop critical thinking and problem solving abilities.
 
 ---
 
