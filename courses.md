@@ -41,11 +41,12 @@ Here you'll find organized links to course notes and resources. This hub will ex
 
 ---
 
-## Graduate Courses
+### Graduate Courses
 
--Functional Analysis
--Measure Theory
--Mathematical Modelling 
+- <a href="{{ '/courses/graduate/functional-analysis/' | relative_url }}">Functional Analysis</a> — Normed/Hilbert spaces, bounded operators, spectral basics.
+- <a href="{{ '/courses/graduate/measure-theory/' | relative_url }}">Measure Theory</a> — σ-algebras, measures, Lebesgue integration, convergence theorems.
+- <a href="{{ '/courses/graduate/mathematical-modelling/' | relative_url }}">Mathematical Modelling</a> — Deterministic & stochastic models, optimization, simulation.
+
 
 
 ---
