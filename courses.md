@@ -28,7 +28,6 @@ Here you'll find organized links to course notes and resources. This hub will ex
 
 - [COMP 1604: Discrete Mathematics](/courses/)  
 - [Algorithms & Data Structures](/courses/)  
-- [Mathematics for Business]({% link courses/math-for-business.md %}) — Applied mathematics for economics and social sciences
 
 ---
 
@@ -58,6 +57,11 @@ Here you'll find organized links to course notes and resources. This hub will ex
 - [Math Clinic](/courses/math-clinic/) — Refresher workshops and bridge materials 
 
 ---
+## Other courses
+- [Mathematics for Business]({% link courses/math-for-business.md %}) — Applied mathematics for economics and social sciences
+
+---
+
 
 
 ## 🧪 Research work 
