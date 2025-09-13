@@ -24,9 +24,8 @@ My research lies in **graph invariants** and **mathematical chemistry**, with em
 
 ## News & Updates
 - **Aug 2025** — Updating *Calculus II* and *Linear Algebra and Analytical Geometry* notes for the new semester.  
-- **Jul 2025** — Draft chapter on symmetric graphs and Szeged index completed (thesis work).  
-- **Jun 2025** — Pre‑semester problem‑solving boot camp concluded — materials to be posted.
-
+- **Jul 2025** — Symmetric graphs and Szeged index results updated.
+- **Jun 2025** — Pre‑semester problem‑solving boot camp concluded.
 > Want course materials? See **[Courses]({{ '/courses/' | relative_url }})**.
 
 ---
