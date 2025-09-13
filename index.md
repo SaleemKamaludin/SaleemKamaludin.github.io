@@ -38,7 +38,7 @@ My research lies in **graph invariants** and **mathematical chemistry**, with em
 ---
 
 ## Featured Mathematics
-In progress
+Update in progress
 
 ---
 
