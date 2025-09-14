@@ -35,7 +35,7 @@ Here you'll find organized links to course notes and resources. This hub will ex
 
 - [Sets and Number Systems]({% link courses/sets-number-systems.md %}) — Logic, sets, binary operations and induction.
 - [Abstract Algebra I]({% link courses/abstract-algebra-1.md %}) — Groups, subgroups, cosets, Lagrange’s theorem. A basic intoruduction to rings.
-- [Abstract Algebra II]({% link courses/abstract-algebra-2.md %}) — Rings, fields, ideals, polynomial factorization  
+- [Abstract Algebra II]({% link courses/abstract-algebra-2.md %}) — Rings, fields, ideals, polynomial factorization, Galois Theory and Sylow Theorems.
 - [Combinatorics]({% link courses/combinatorics.md %}) — Counting principles, permutations, combinations, graph‑based methods
 
 ---
