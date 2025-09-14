@@ -33,7 +33,7 @@ Here you'll find organized links to course notes and resources. This hub will ex
 
 ## 📚 Foundations of Mathematics
 
-- [Sets and Number Systems]({% link courses/sets-number-systems.md %}) — Logic, sets, integers, rationals, reals, complex numbers  
+- [Sets and Number Systems]({% link courses/sets-number-systems.md %}) — Logic, sets, binary operations and induction.
 - [Abstract Algebra I]({% link courses/abstract-algebra-1.md %}) — Groups, subgroups, cosets, Lagrange’s theorem  
 - [Abstract Algebra II]({% link courses/abstract-algebra-2.md %}) — Rings, fields, ideals, polynomial factorization  
 - [Combinatorics]({% link courses/combinatorics.md %}) — Counting principles, permutations, combinations, graph‑based methods
