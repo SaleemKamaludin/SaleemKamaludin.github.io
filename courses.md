@@ -26,7 +26,7 @@ Here you'll find organized links to course notes and resources. This hub will ex
 
 ## 💻 Computer Science
 
-- [COMP 1604: Discrete Mathematics](/courses/)  
+- [COMP 1604: Discrete Mathematics](/courses/)  - Logic, sets, induction(weak and strong)
 - [Algorithms & Data Structures](/courses/)  
 
 ---
