@@ -54,7 +54,7 @@ Here you'll find organized links to course notes and resources. This hub will ex
 
 ## Math Clinic
 
-- [Math Clinic](/courses/math-clinic/) — Refresher workshops and bridge materials 
+- [Math Clinic](/courses/math-clinic/) — Refresher workshops with materials.
 
 ---
 ## Other courses
