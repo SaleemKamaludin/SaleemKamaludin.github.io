@@ -26,7 +26,7 @@ Here you'll find organized links to course notes and resources. This hub will ex
 
 ## 💻 Computer Science
 
-- [COMP 1604: Discrete Mathematics](/courses/)  - Logic, sets, induction(weak and strong), equivalence classes, pigeonhole principle
+- [COMP 1604: Discrete Mathematics](/courses/)  - Logic, sets, induction(weak and strong), equivalence classes, pigeonhole principle and elementary combinatorics. 
 - [Algorithms & Data Structures](/courses/)  
 
 ---
