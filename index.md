@@ -31,7 +31,7 @@ My research lies in **graph invariants** and **mathematical chemistry**, with em
 ---
 
 ## Selected Work
-- *The Szeged Index of Symmetric Graphs* — Click the apache link for the PDF.  
+- *The Szeged Index of Symmetric Graphs* — Follow the apache link for the PDF.  
 - *Optimizing a Math Fair Experience: A Network Model for Layout and Flow* (2024).  
 - *Counterfeit Drugs: Statistical Approaches to Awareness and Impact* (2024 collaboration).
 
