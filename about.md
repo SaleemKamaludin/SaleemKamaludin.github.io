@@ -8,7 +8,7 @@ permalink: /about/
 # About Me
 
 Hello, I’m **Saleem Kamaludin**, an educator in  Mathematics and Computer Science with a passion for teaching, research, and mentoring students at all levels.  
-My work spans **graph theory, discrete mathematics, and applied computing**, and I am deeply engaged in developing accessible resources to support learning and exploration in mathematics.
+My work spans **graph theory, discrete mathematics, algebraic topology and applied computing**, and I am deeply engaged in developing accessible resources to support learning and exploration in mathematics.
 
 ---
 
