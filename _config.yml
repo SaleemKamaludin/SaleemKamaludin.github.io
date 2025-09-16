@@ -22,6 +22,8 @@ header_pages:
   - courses.md
   - courses/math-for-business.md
   - links.md
+  - courses/math-1115/index.md
+
 
 # MathJax for LaTeX
 markdown: kramdown
