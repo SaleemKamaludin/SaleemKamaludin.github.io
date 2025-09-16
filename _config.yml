@@ -17,12 +17,13 @@ minima:
 # Show these pages in the top nav (order matters)
 header_pages:
   - index.md
+  - about.md
+  - courses.md
+  - courses/math-1115/index.md
+  - courses/math-for-business.md
   - research.md
   - teaching.md
-  - courses.md
-  - courses/math-for-business.md
   - links.md
-  - courses/math-1115/index.md
 
 
 # MathJax for LaTeX
