@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Mathematics for Business
 permalink: /courses/math-for-business/
 ---
