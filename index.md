@@ -18,7 +18,7 @@ This site serves as a hub for:
 ---
 
 ## Research Interests
-My research lies in **graph invariants** and **mathematical chemistry**, with emphasis on the **Szeged index**, cut‑based methods, and the role of symmetry in discrete structures. I also work on **teaching practice**  clear exposition, proof skills, and problem‑solving strategies.
+My research lies in **graph invariants** and **mathematical chemistry**, **algebraic topology** and discrete mathematics with emphasis on the **Szeged index**, cut‑based methods, and the role of symmetry in discrete structures. I also work on **teaching practice**  clear exposition, proof skills, and problem‑solving strategies.
 
 ---
 
