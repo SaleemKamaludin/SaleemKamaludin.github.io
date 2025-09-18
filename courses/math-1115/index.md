@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: MATH 1115
 permalink: /courses/math-1115/
 ---
