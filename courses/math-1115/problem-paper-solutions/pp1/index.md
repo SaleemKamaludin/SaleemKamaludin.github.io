@@ -11,11 +11,12 @@ permalink: /courses/math-1115/problem-paper-solutions/pp1/
 <div class="problem">
   <div class="prompt">Which of the following numbers represent an integer?</div>
   <ol type="a" class="options four">
-    <li>$$\sqrt{2}$$</li>
-    <li>$$\dfrac{9}{17}$$</li>
-    <li>$$\sqrt{15}$$</li>
-    <li>$$20$$</li>
-  </ol>
+  <li>\(\sqrt{2}\)</li>
+  <li>\(\dfrac{9}{17}\)</li>
+  <li>\(\sqrt{15}\)</li>
+  <li>\(20\)</li>
+</ol>
+
 </div>
 
 <details class="solution">
