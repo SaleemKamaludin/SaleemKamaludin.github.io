@@ -111,3 +111,23 @@ $$
 $$
 </details>
 
+
+
+## Q5. When glucose is metabolized in the body, it combines with oxygen to form carbon dioxide and water through cellular respiration. The process follows a \(1:6\) ratio of glucose molecules to oxygen molecules. If the reaction uses \(3600\) oxygen molecules, how many glucose molecules are required?
+
+<div class="problem">
+  <div class="prompt">
+    Ratio: glucose : oxygen \(=1:6\). If oxygen \(=3600\), find glucose.
+  </div>
+</div>
+
+<details class="solution">
+  <summary><strong>Solution</strong></summary>
+Let the common scaling factor be \(k\). Then glucose \(=1k\), oxygen \(=6k\).
+From \(6k=3600\), we get \(k=3600/6=600\).  
+Therefore glucose \(=1k=600\).
+
+$$\boxed{600\ \text{glucose molecules}}.$$
+</details>
+
+
