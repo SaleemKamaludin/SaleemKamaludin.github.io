@@ -10,6 +10,16 @@ Welcome to the **Courses Hub**.
 Here you'll find organized links to course notes and resources. This hub will expand as new materials are added.
 
 ---
+## Elementary Mathematics 
+
+- **MATH 1115 — Foundations of Mathematics**
+  - [Course hub]({{ '/courses/math-1115/' | relative_url }})
+  - [Lecture Notes]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
+  - [Problem Paper Solutions]({{ '/courses/math-1115/problem-paper-solutions/' | relative_url }})
+  - [Coursework & Exam Solutions]({{ '/courses/math-1115/coursework-exam-solutions/' | relative_url }})
+  - [Video Lectures (YouTube)]({{ '/courses/math-1115/videos/' | relative_url }})
+    
+---
 
 ## 🔷 Pure Mathematics
 
