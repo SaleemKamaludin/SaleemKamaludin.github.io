@@ -128,6 +128,56 @@ From \(6k=3600\), we get \(k=3600/6=600\).
 Therefore glucose \(=1k=600\).
 
 $$\boxed{600\ \text{glucose molecules}}.$$
+
+
+## Q6. In a protein molecule, valine and leucine are present in a \(3:7\) ratio.
+
+<div class="problem">
+  <div class="prompt">Answer the following.</div>
+  <ol type="a" class="options">
+    <li>There are \(12000\) molecules in the sample. How many are valine and how many are leucine?</li>
+    <li>In another sample there are \(525\) molecules of valine. How many molecules of leucine?</li>
+    <li>What percentage of the sample in part (a) is valine?</li>
+  </ol>
+</div>
+
+<details class="solution">
+  <summary><strong>Solution</strong></summary>
+
+Write \(\text{valine}:\text{leucine}=3:7\). The total “parts” is \(3+7=10\).
+
+<ol type="a">
+  <li>
+    Each part represents \(12000/10=1200\) molecules.  
+    Hence \(\text{valine}=3\times1200=3600\), \(\text{leucine}=7\times1200=8400\).
+  </li>
+  <li>
+    Let \(3k=525\Rightarrow k=175\). Then \(\text{leucine}=7k=7\times175=1225\).  
+    (Equivalently, \(\text{leucine}=\frac{7}{3}\cdot525=1225\).)
+  </li>
+  <li>
+    Valine is \(\dfrac{3}{10}=0.3=30\%\).  
+    Check: \(3600/12000=0.3\).
+  </li>
+</ol>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </details>
 
 
