@@ -106,8 +106,8 @@ Thus the irrational number is \(\boxed{\text{(c) }\sqrt{20}}\).
 - (d) Irrationals; \(\sqrt{81}=9\) is rational → cross out \(\sqrt{81}\).<br>
 
 Therefore,
-\[
+$$
 \boxed{9.5,\ \tfrac{1}{4},\ \sqrt{60},\ \sqrt{81}}.
-\]
+$$
 </details>
 
