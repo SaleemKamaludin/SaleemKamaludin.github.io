@@ -74,12 +74,12 @@ Hence the correct choice is \(\boxed{\text{(c) }\sqrt{16}}\).
   <summary><strong>Solution</strong></summary>
 
 An irrational number cannot be expressed as a ratio of integers.
-\[
+$$
 0\in\mathbb{Z},\qquad 20\in\mathbb{Z},\qquad \sqrt{25}=5\in\mathbb{Z}.
-\]
-\[
+$$
+$$
 \sqrt{20}=2\sqrt{5}\notin\mathbb{Q}.
-\]
+$$
 Thus the irrational number is \(\boxed{\text{(c) }\sqrt{20}}\).
 </details>
 
