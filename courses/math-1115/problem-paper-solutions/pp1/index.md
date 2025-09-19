@@ -100,10 +100,10 @@ Thus the irrational number is \(\boxed{\text{(c) }\sqrt{20}}\).
 <details class="solution">
   <summary><strong>Solution</strong></summary>
 
-- (a) Mostly integers (whole numbers); \(9.5\) is not an integer → cross out \(9.5\).
-- (b) Integers; \(\tfrac{1}{4}\) is fractional → cross out \(\tfrac{1}{4}\).
-- (c) Rationals; \(\sqrt{60}\) is irrational → cross out \(\sqrt{60}\).
-- (d) Irrationals; \(\sqrt{81}=9\) is rational → cross out \(\sqrt{81}\).
+- (a) Mostly integers (whole numbers); \(9.5\) is not an integer → cross out \(9.5\).<br>
+- (b) Integers; \(\tfrac{1}{4}\) is fractional → cross out \(\tfrac{1}{4}\).<br>
+- (c) Rationals; \(\sqrt{60}\) is irrational → cross out \(\sqrt{60}\).<br>
+- (d) Irrationals; \(\sqrt{81}=9\) is rational → cross out \(\sqrt{81}\).<br>
 
 Therefore,
 \[
