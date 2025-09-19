@@ -1,13 +1,34 @@
 ---
-layout: default
+layout: page
 title: MATH 1115 — Problem Paper Solutions
 permalink: /courses/math-1115/problem-paper-solutions/
 ---
 
-# Problem Paper Solutions
+## 1. Which of the following numbers represent an integer?
 
-- Problem Set 1 — Solutions  
-  [PDF]({{ '/assets/math-1115/solutions/ps1-solutions.pdf' | relative_url }})
+<div class="problem">
+  <div class="prompt">Which of the following numbers represent an integer?</div>
 
-- Problem Set 2 — Solutions  
-  [PDF]({{ '/assets/math-1115/solutions/ps2-solutions.pdf' | relative_url }})
+  <ol type="a" class="options four">
+    <li>$$\sqrt{2}$$</li>
+    <li>$$\dfrac{9}{17}$$</li>
+    <li>$$\sqrt{15}$$</li>
+    <li>$$20$$</li>
+  </ol>
+</div>
+
+<details class="solution">
+  <summary><strong>Solution</strong></summary>
+
+An integer is a whole number (positive, negative, or zero).
+
+$$
+\sqrt{2}\approx1.41\notin\mathbb{Z},\qquad
+\dfrac{9}{17}\in\mathbb{Q}\setminus\mathbb{Z},\qquad
+\sqrt{15}\approx3.87\notin\mathbb{Z},\qquad
+20\in\mathbb{Z}.
+$$
+
+Thus the correct choice is
+$$\boxed{\text{(d) }20}.$$
+</details>
