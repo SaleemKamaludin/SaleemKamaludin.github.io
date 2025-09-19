@@ -48,11 +48,11 @@ $$\boxed{\text{(d) }20}.$$
 <details class="solution">
   <summary><strong>Solution</strong></summary>
 
-A rational number can be written as a fraction $$ \(\tfrac{p}{q}\) with \(p,q\in\mathbb{Z}\) and \(q\neq 0\). $$
-\[
+A rational number can be written as a fraction \(\tfrac{p}{q}\) with \(p,q\in\mathbb{Z}\) and \(q\neq 0\). 
+$$
 \sqrt{2},\ \sqrt{13},\ \sqrt{6}\ \text{are irrational},\qquad
 \sqrt{16}=4\in\mathbb{Z}\subset\mathbb{Q}.
-\]
+$$
 Hence the correct choice is \(\boxed{\text{(c) }\sqrt{16}}\).
 </details>
 
