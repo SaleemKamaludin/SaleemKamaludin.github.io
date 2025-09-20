@@ -150,16 +150,16 @@ Write \(\text{valine}:\text{leucine}=3:7\). The total “parts” is \(3+7=10\).
 
 <ol type="a">
   <li>
-    Each part represents \(12000/10=1200\) molecules.  
-    Hence \(\text{valine}=3\times1200=3600\), \(\text{leucine}=7\times1200=8400\).
+    Each part represents \(12000/10=1200\) molecules.  <br>
+    Hence \(\text{valine}=3\times1200=3600\), \(\text{leucine}=7\times1200=8400\). <br>
   </li>
   <li>
-    Let \(3k=525\Rightarrow k=175\). Then \(\text{leucine}=7k=7\times175=1225\).  
-    (Equivalently, \(\text{leucine}=\frac{7}{3}\cdot525=1225\).)
+    Let \(3k=525\Rightarrow k=175\). Then \(\text{leucine}=7k=7\times175=1225\).   <br>
+    (Equivalently, \(\text{leucine}=\frac{7}{3}\cdot525=1225\).)  <br>
   </li>
   <li>
-    Valine is \(\dfrac{3}{10}=0.3=30\%\).  
-    Check: \(3600/12000=0.3\).
+    Valine is \(\dfrac{3}{10}=0.3=30\%\).   <br>
+    Check: \(3600/12000=0.3\).  <br>
   </li>
 </ol>
 
