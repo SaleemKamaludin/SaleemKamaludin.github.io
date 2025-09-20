@@ -128,6 +128,8 @@ From \(6k=3600\), we get \(k=3600/6=600\).
 Therefore glucose \(=1k=600\).
 
 $$\boxed{600\ \text{glucose molecules}}.$$
+</details>
+
 
 
 ## Q6. In a protein molecule, valine and leucine are present in a \(3:7\) ratio.
@@ -160,7 +162,6 @@ Write \(\text{valine}:\text{leucine}=3:7\). The total “parts” is \(3+7=10\).
     Check: \(3600/12000=0.3\).
   </li>
 </ol>
-</details>
 
 
 
