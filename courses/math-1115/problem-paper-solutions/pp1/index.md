@@ -157,6 +157,7 @@ Write \(\text{valine}:\text{leucine}=3:7\). The total “parts” is \(3+7=10\).
   <li>
     Let \(3k=525\Rightarrow k=175\). Then \(\text{leucine}=7k=7\times175=1225\).   <br>
     (Equivalently, \(\text{leucine}=\frac{7}{3}\cdot525=1225\).)  <br>
+     <br>
   </li>
   <li>
     Valine is \(\dfrac{3}{10}=0.3=30\%\).   <br>
