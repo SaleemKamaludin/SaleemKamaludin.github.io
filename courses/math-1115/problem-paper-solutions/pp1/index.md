@@ -166,6 +166,54 @@ Write \(\text{valine}:\text{leucine}=3:7\). The total “parts” is \(3+7=10\).
 </ol>
 
 
+## Q7. Simplify each expression (assume all symbols are nonzero real numbers).
+
+<div class="problem">
+  <div class="prompt"></div>
+  <ol type="a" class="options">
+    <li>\(\dfrac{2xy}{z}\times\dfrac{6z^{4}}{4y^{3}}\)</li>
+    <li>\(\dfrac{p^{3}}{q^{4}} \div \dfrac{q}{p}\)</li>
+    <li>\(\left(\dfrac{2a}{b}\right)^{2}\times\dfrac{db}{a^{3}}\)</li>
+    <li>\(\sqrt{x^{14}y^{16}}\div\dfrac{3y^{4}}{x}\)</li>
+  </ol>
+</div>
+
+<details class="solution">
+  <summary><strong>Solution</strong></summary>
+
+<strong>(a)</strong>
+$$
+\frac{2xy}{z}\times\frac{6z^{4}}{4y^{3}}
+=\frac{12\,x\,y\,z^{4}}{4\,y^{3}\,z}
+=3x\,\frac{z^{4}}{z}\,\frac{y}{y^{3}}
+=\boxed{\frac{3xz^{3}}{y^{2}}}.
+$$
+
+<strong>(b)</strong>
+$$
+\frac{p^{3}}{q^{4}} \div \frac{q}{p}
+=\frac{p^{3}}{q^{4}}\cdot\frac{p}{q}
+=\frac{p^{4}}{q^{5}}
+=\boxed{\frac{p^{4}}{q^{5}}}.
+$$
+
+<strong>(c)</strong>
+$$
+\left(\frac{2a}{b}\right)^{2}\times\frac{db}{a^{3}}
+=\frac{4a^{2}}{b^{2}}\cdot\frac{db}{a^{3}}
+=\frac{4d}{ab}
+=\boxed{\frac{4d}{ab}}.
+$$
+
+<strong>(d)</strong>
+First \(\sqrt{x^{14}y^{16}}=x^{7}y^{8}\). Then
+$$
+x^{7}y^{8}\div\frac{3y^{4}}{x}
+=x^{7}y^{8}\cdot\frac{x}{3y^{4}}
+=\frac{x^{8}y^{4}}{3}
+=\boxed{\frac{x^{8}y^{4}}{3}}.
+$$
+</details>
 
 
 
