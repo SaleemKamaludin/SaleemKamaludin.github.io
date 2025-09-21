@@ -38,7 +38,6 @@ $$
 
 
 
-
 ## Q2. Classify elements of the set by number type.
 
 <div class="problem">
@@ -47,7 +46,9 @@ $$
     (d) Irrational number(s), (e) Real number(s), (f) Undefined?
   </div>
 
-  $$S=\left\{-\sqrt 7,\,-0.4,\,3,\,4,\,6,\,7,\,\sqrt5,\,-4,\,\frac{1}{0},\,\frac{1}{3},\,0,\,0.\overline{2},\,\frac{16}{5},\,\frac{20}{2}\right\}.$$
+  $$
+  S=\{-\sqrt{7},\, -0.4,\, 3,\, 4,\, 6,\, 7,\, \sqrt{5},\, -4,\, \tfrac{1}{0},\, \tfrac{1}{3},\, 0,\, 0.\overline{2},\, \tfrac{16}{5},\, \tfrac{20}{2}\}
+  $$
 </div>
 
 <details class="solution">
@@ -68,7 +69,7 @@ $$
 $$
 
 $$
-\text{(d) Irrational numbers}:\ \{\,-\sqrt7,\,\sqrt5\,\}.
+\text{(d) Irrational numbers}:\ \{\,-\sqrt{7},\,\sqrt{5}\,\}.
 $$
 
 $$
@@ -79,3 +80,4 @@ $$
 \text{(f) Undefined}:\ \left\{\tfrac{1}{0}\right\}.
 $$
 </details>
+
