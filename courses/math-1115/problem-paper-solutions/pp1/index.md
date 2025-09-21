@@ -164,6 +164,7 @@ Write \(\text{valine}:\text{leucine}=3:7\). The total “parts” is \(3+7=10\).
     Check: \(3600/12000=0.3\).  <br>
   </li>
 </ol>
+</details>
 
 
 ## Q7. Simplify each expression (assume all symbols are nonzero real numbers).
