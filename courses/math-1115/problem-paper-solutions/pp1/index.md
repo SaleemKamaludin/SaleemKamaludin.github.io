@@ -188,7 +188,7 @@ Write \(\text{valine}:\text{leucine}=3:7\). The total “parts” is \(3+7=10\).
 =\frac{12\,x\,y\,z^{4}}{4\,y^{3}\,z}
 =3x\,\frac{z^{4}}{z}\,\frac{y}{y^{3}}
 =\boxed{\frac{3xz^{3}}{y^{2}}}.
-\)
+\) <br>
 
 <strong>(b)</strong>
 $$
