@@ -190,13 +190,17 @@ Write \(\text{valine}:\text{leucine}=3:7\). The total “parts” is \(3+7=10\).
 =\boxed{\frac{3xz^{3}}{y^{2}}}.
 \) <br>
 
+<br>
+
 <strong>(b)</strong>
-$$
+\(
 \frac{p^{3}}{q^{4}} \div \frac{q}{p}
 =\frac{p^{3}}{q^{4}}\cdot\frac{p}{q}
 =\frac{p^{4}}{q^{5}}
 =\boxed{\frac{p^{4}}{q^{5}}}.
-$$
+\)<br>
+
+<br>
 
 <strong>(c)</strong>
 $$
