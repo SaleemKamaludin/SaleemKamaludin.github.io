@@ -6,7 +6,7 @@ permalink: /courses/math-1115/problem-paper-solutions/pp3/
 
 [← Back to Problem Papers]({{ '/courses/math-1115/problem-paper-solutions/' | relative_url }})
 
-## Q1. Solve for $x$ in $ 16^{x+1}=8^{-x} $.
+## Q1. Solve for \(x\) in $ 16^{x+1}=8^{-x} $.
 
 <div class="problem">
   <div class="prompt">Solve the exponential equation.</div>
