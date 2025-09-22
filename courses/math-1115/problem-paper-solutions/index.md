@@ -18,7 +18,7 @@ permalink: /courses/math-1115/problem-paper-solutions/
   </a>
 
  <a class="card" href="{{ '/courses/math-1115/problem-paper-solutions/pp3/' | relative_url }}">
-    <h3>Problem Paper 1</h3>
+    <h3>Problem Paper 3</h3>
     <p>Ratios.</p>
   </a>
   </div>
