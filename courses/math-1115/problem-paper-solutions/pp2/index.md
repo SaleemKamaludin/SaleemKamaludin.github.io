@@ -118,3 +118,48 @@ $$
 </details>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Q4. Choose the best description of \(10767\).
+
+<div class="problem">
+  <div class="prompt">
+    Types: I – Natural Number, II – Integer, III – Rational, IV – Irrational.
+    Which of the following choices <strong>best</strong> describes the number \(10767\)?
+  </div>
+
+  <ol type="a" class="options four">
+    <li>I, II, III, IV</li>
+    <li>I, II, IV</li>
+    <li>I, II, III</li>
+    <li>II, III, IV</li>
+  </ol>
+</div>
+
+<details class="solution">
+  <summary><strong>Solution</strong></summary>
+
+\(10767\) is a positive whole number \(\Rightarrow\) natural number (I).  
+Every natural number is an integer (II).  
+Any integer can be written as a fraction, e.g. \(10767=\tfrac{10767}{1}\) \(\Rightarrow\) rational (III).  
+It is not irrational (IV).
+
+Therefore the number belongs to I, II, and III:
+$$\boxed{\text{(c) I, II, III}}.$$
+</details>
+
+
