@@ -163,3 +163,53 @@ $$\boxed{\text{(c) I, II, III}}.$$
 </details>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Q5. Evaluate the following exactly.
+
+<div class="problem">
+  <div class="prompt">Compute each value.</div>
+  <ol type="a" class="options four">
+    <li>\(|-4|\)</li>
+    <li>\(-\,|10|\)</li>
+    <li>\(|-20| + |10|\)</li>
+    <li>\(|-15| + |5|\)</li>
+  </ol>
+</div>
+
+<details class="solution">
+  <summary><strong>Solution</strong></summary>
+
+Recall the definition of absolute value:
+$$
+|x|=
+\begin{cases}
+x, & x\ge 0,\\[2pt]
+-x, & x<0.
+\end{cases}
+$$
+
+Applying this:
+$$
+\text{(a)}\ |{-4}|=4,\qquad
+\text{(b)}\ -\,|10|=-10,
+$$
+$$
+\text{(c)}\ |{-20}|+|10|=20+10=30,\qquad
+\text{(d)}\ |{-15}|+|5|=15+5=20.
+$$
+</details>
+
+
