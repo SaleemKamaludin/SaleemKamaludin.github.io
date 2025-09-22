@@ -38,4 +38,39 @@ Equal bases imply equal exponents:
 $$\boxed{x=-\dfrac{4}{7}}.$$
 </details>
 
-<!-- Add Q2, Q3, ... below in the same pattern -->
+
+
+
+
+
+## Q2. Solve for \(x\) in \(5^{\,2x-3}=125^{\,x+1}\).
+
+<div class="problem">
+  <div class="prompt">Solve the exponential equation.</div>
+</div>
+
+<details class="solution">
+  <summary><strong>Solution</strong></summary>
+
+Recognize that \(125=5^{3}\).
+\[
+125^{\,x+1}=(5^{3})^{\,x+1}=5^{\,3(x+1)}.
+\]
+
+Thus the equation becomes
+\[
+5^{\,2x-3}=5^{\,3(x+1)}.
+\]
+
+Since the bases are identical and positive, set the exponents equal:
+\[
+2x-3=3(x+1).
+\]
+
+Expand and solve:
+\[
+2x-3=3x+3 \quad\Longrightarrow\quad -x=6 \quad\Longrightarrow\quad x=-6.
+\]
+
+$$\boxed{x=-6}$$
+</details>
