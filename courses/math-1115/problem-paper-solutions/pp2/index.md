@@ -81,3 +81,40 @@ $$
 $$
 </details>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Q3. Write each number as a product of a real number and \(i\). Simplify roots where possible.
+
+<div class="problem">
+  <div class="prompt">Express each as \((\text{real})\cdot i\).</div>
+  <ol type="a" class="options">
+    <li>\(\sqrt{-81}\)</li>
+    <li>\(\sqrt{-7}\)</li>
+  </ol>
+</div>
+
+<details class="solution">
+  <summary><strong>Solution</strong></summary>
+
+Use \(\sqrt{-a}=i\sqrt{a}\) for \(a\ge 0\).
+
+$$
+\text{(a)}\ \sqrt{-81}=i\sqrt{81}=9i,
+\qquad
+\text{(b)}\ \sqrt{-7}=i\sqrt{7}=\sqrt{7}\,i.
+$$
+</details>
+
+
