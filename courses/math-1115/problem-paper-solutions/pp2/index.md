@@ -193,23 +193,29 @@ $$\boxed{\text{(c) I, II, III}}.$$
   <summary><strong>Solution</strong></summary>
 
 Recall the definition of absolute value:
-$$
+\(
 |x|=
 \begin{cases}
 x, & x\ge 0,\\[2pt]
 -x, & x<0.
 \end{cases}
-$$
+\)<br>
 
+
+<br>
 Applying this:
-$$
+\(
 \text{(a)}\ |{-4}|=4,\qquad
 \text{(b)}\ -\,|10|=-10,
-$$
-$$
+\)<br>
+
+
+<br>
+
+\(
 \text{(c)}\ |{-20}|+|10|=20+10=30,\qquad
 \text{(d)}\ |{-15}|+|5|=15+5=20.
-$$
+\)
 </details>
 
 
