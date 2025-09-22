@@ -17,5 +17,8 @@ permalink: /courses/math-1115/problem-paper-solutions/
     <p>Numbers and ratios.</p>
   </a>
 
-  <!-- Duplicate a card for PP3, PP4, ... as you add them -->
-</div>
+ <a class="card" href="{{ '/courses/math-1115/problem-paper-solutions/pp3/' | relative_url }}">
+    <h3>Problem Paper 1</h3>
+    <p>Ratios.</p>
+  </a>
+  </div>
