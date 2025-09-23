@@ -17,11 +17,11 @@ permalink: /courses/math-1115/problem-paper-solutions/pp3/
 
 Write both sides with base \(2\).
 
-- \(16=2^{4}\), so
-  \(
+ $$16=2^{4}$$, so
+ $$
   16^{x+1}=(2^{4})^{x+1}=2^{4(x+1)}=2^{4x+4}.
- \)
-- \(8=2^{3}\), so
+ $$
+ \(8=2^{3}\), so
   \(
   8^{-x}=(2^{3})^{-x}=2^{-3x}.
  \)
