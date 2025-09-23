@@ -52,10 +52,10 @@ $$\boxed{x=-\dfrac{4}{7}}.$$
 <details class="solution">
   <summary><strong>Solution</strong></summary>
 
-Recognize that \(125=5^{3}\).
-\[
+Recognize that $$125=5^{3}$$.
+$$
 125^{\,x+1}=(5^{3})^{\,x+1}=5^{\,3(x+1)}.
-\]
+$$
 
 Thus the equation becomes
 \[
