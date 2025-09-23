@@ -43,7 +43,7 @@ $$\boxed{x=-\dfrac{4}{7}}.$$
 
 
 
-## Q2. Solve for \(x\) in \(5^{\,2x-3}=125^{\,x+1}\).
+## Q2. Solve for $$x$$ in $$5^{\,2x-3}=125^{\,x+1}$$.
 
 <div class="problem">
   <div class="prompt">Solve the exponential equation.</div>
