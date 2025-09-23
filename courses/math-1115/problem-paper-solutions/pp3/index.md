@@ -58,19 +58,19 @@ $$
 $$
 
 Thus the equation becomes
-\[
+$$
 5^{\,2x-3}=5^{\,3(x+1)}.
-\]
+$$
 
 Since the bases are identical and positive, set the exponents equal:
-\[
+$$
 2x-3=3(x+1).
-\]
+$$
 
 Expand and solve:
-\[
+$$
 2x-3=3x+3 \quad\Longrightarrow\quad -x=6 \quad\Longrightarrow\quad x=-6.
-\]
+$$
 
 $$\boxed{x=-6}$$
 </details>
