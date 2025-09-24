@@ -77,7 +77,7 @@ $$\boxed{x=-6}$$
 
 
 
-## Q3. Solve for \(x\) in \(4^{\,2x+1}=8^{\,x-2}\).
+## Q3. Solve for  $$x $$ in  $$4^{\,2x+1}=8^{\,x-2} $$.
 
 <div class="problem">
   <div class="prompt">Solve the exponential equation.</div>
@@ -88,25 +88,25 @@ $$\boxed{x=-6}$$
 
 Express both sides with base \(2\).
 
-- \(4=2^{2}\), so
-  \[
+ $$4=2^{2} $$, so
+  $$
   4^{\,2x+1}=(2^{2})^{\,2x+1}=2^{2(2x+1)}=2^{\,4x+2}.
-  \]
+  $$
 
-- \(8=2^{3}\), so
-  \[
+ $$8=2^{3} $$, so
+  $$
   8^{\,x-2}=(2^{3})^{\,x-2}=2^{\,3(x-2)}=2^{\,3x-6}.
-  \]
+  $$
 
 Now compare exponents:
-\[
+ $$
 2^{\,4x+2}=2^{\,3x-6}\quad\Longrightarrow\quad 4x+2=3x-6.
-\]
+ $$
 
 Simplify:
-\[
+ $$
 x+2=-6 \quad\Longrightarrow\quad x=-8.
-\]
+ $$
 
 $$\boxed{x=-8}$$
 </details>
