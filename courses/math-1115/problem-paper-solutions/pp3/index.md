@@ -130,9 +130,13 @@ $$\boxed{x=-8}$$
   <div class="prompt">Simplify each expression.</div>
   <ol type="a" class="options">
     <li>\(5\sqrt{32}-2\sqrt{18}\)</li>
+    <br>
     <li>\(\sqrt{\dfrac{q^{4}}{49}}\)</li>
+    <br>
     <li>\(4\sqrt{50}-6\sqrt{18}\)</li>
+    <br>
     <li>\(-\sqrt[4]{256\,r^{10}s^{14}}\)</li>
+    <br>
     <li>\(-5\sqrt{45}+3\sqrt{20}\)</li>
   </ol>
 </div>
