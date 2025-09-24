@@ -151,12 +151,16 @@ $$
 =\boxed{14\sqrt{2}}.
 $$
 
+<br>
+
 <strong>(b)</strong> Use \(\sqrt{\tfrac{A}{B}}=\tfrac{\sqrt{A}}{\sqrt{B}}\) and \(49=7^{2}\):
 $$
 \sqrt{\frac{q^{4}}{49}}=\frac{\sqrt{q^{4}}}{\sqrt{49}}
 =\frac{q^{2}}{7}
 =\boxed{\frac{q^{2}}{7}}.
 $$
+
+<br>
 
 <strong>(c)</strong> Pull perfect squares:
 $$
@@ -170,6 +174,8 @@ $$
 =\boxed{2\sqrt{2}}.
 $$
 
+<br>
+
 <strong>(d)</strong> Extract perfect fourth powers (\(256=4^{4}\); \(r^{10}=(r^{2})^{4}\cdot r^{2}\); \(s^{14}=(s^{3})^{4}\cdot s^{2}\)):
 $$
 -\sqrt[4]{256\,r^{10}s^{14}}
@@ -177,6 +183,9 @@ $$
 =-4\,r^{2}s^{3}\,\sqrt[4]{r^{2}s^{2}}
 =\boxed{-4\,r^{2}s^{3}\,\sqrt[4]{r^{2}s^{2}}}.
 $$
+
+
+<br>
 
 <strong>(e)</strong> Extract perfect squares:
 $$
