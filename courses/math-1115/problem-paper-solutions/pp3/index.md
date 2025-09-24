@@ -77,19 +77,37 @@ $$\boxed{x=-6}$$
 
 
 
+## Q3. Solve for \(x\) in \(4^{\,2x+1}=8^{\,x-2}\).
 
+<div class="problem">
+  <div class="prompt">Solve the exponential equation.</div>
+</div>
 
+<details class="solution">
+  <summary><strong>Solution</strong></summary>
 
-## Q3. Solve for $x$ in $$5^{\,2x-3} \;=\; 125^{\,x+1}.$$
+Express both sides with base \(2\).
 
-::: solution
-Recognise that $125$ is a power of $5$:
-$$125^{\,x+1} \;=\; (5^3)^{\,x+1} \;=\; 5^{\,3(x+1)}.$$ Since the bases
-are now identical and positive, equality of the expressions forces
-equality of the exponents: $$2x - 3 \;=\; 3(x + 1).$$ Expand and gather
-like terms: $$2x - 3 \;=\; 3x + 3
-\quad\Longrightarrow\quad
--x \;=\; 6
-\quad\Longrightarrow\quad
-x \;=\; -6.$$
-:::
+- \(4=2^{2}\), so
+  \[
+  4^{\,2x+1}=(2^{2})^{\,2x+1}=2^{2(2x+1)}=2^{\,4x+2}.
+  \]
+
+- \(8=2^{3}\), so
+  \[
+  8^{\,x-2}=(2^{3})^{\,x-2}=2^{\,3(x-2)}=2^{\,3x-6}.
+  \]
+
+Now compare exponents:
+\[
+2^{\,4x+2}=2^{\,3x-6}\quad\Longrightarrow\quad 4x+2=3x-6.
+\]
+
+Simplify:
+\[
+x+2=-6 \quad\Longrightarrow\quad x=-8.
+\]
+
+$$\boxed{x=-8}$$
+</details>
+
