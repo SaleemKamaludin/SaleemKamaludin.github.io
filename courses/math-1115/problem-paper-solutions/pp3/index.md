@@ -180,7 +180,7 @@ $$
 
 <br>
 
-<strong>(d)</strong> Extract perfect fourth powers (\(256=4^{4}\) \, $$r^{10}=(r^{2})^{4}\cdot r^{2}\); \(s^{14}=(s^{3})^{4}\cdot s^{2}$$:
+<strong>(d)</strong> Extract perfect fourth powers $$256=4^{4}$$  $$r^{10}=(r^{2})^{4}\cdot r^{2}$$; $$s^{14}=(s^{3})^{4}\cdot s^{2}$$:
 $$
 -\sqrt[4]{256\,r^{10}s^{14}}
 =-\,4\,\sqrt[4]{(r^{2})^{4}(s^{3})^{4}\,r^{2}s^{2}}
