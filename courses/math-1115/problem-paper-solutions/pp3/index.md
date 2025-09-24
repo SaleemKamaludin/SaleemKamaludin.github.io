@@ -74,3 +74,22 @@ $$
 
 $$\boxed{x=-6}$$
 </details>
+
+
+
+
+
+
+## Q3. Solve for $x$ in $$5^{\,2x-3} \;=\; 125^{\,x+1}.$$
+
+::: solution
+Recognise that $125$ is a power of $5$:
+$$125^{\,x+1} \;=\; (5^3)^{\,x+1} \;=\; 5^{\,3(x+1)}.$$ Since the bases
+are now identical and positive, equality of the expressions forces
+equality of the exponents: $$2x - 3 \;=\; 3(x + 1).$$ Expand and gather
+like terms: $$2x - 3 \;=\; 3x + 3
+\quad\Longrightarrow\quad
+-x \;=\; 6
+\quad\Longrightarrow\quad
+x \;=\; -6.$$
+:::
