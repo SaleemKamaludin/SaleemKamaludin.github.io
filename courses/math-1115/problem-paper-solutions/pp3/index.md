@@ -111,3 +111,83 @@ x+2=-6 \quad\Longrightarrow\quad x=-8.
 $$\boxed{x=-8}$$
 </details>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Q4. Express each in simplified surd form (if possible), where \(r,s,q\in \mathbb{R}^{+}\).
+
+<div class="problem">
+  <div class="prompt">Simplify each expression.</div>
+  <ol type="a" class="options">
+    <li>\(5\sqrt{32}-2\sqrt{18}\)</li>
+    <li>\(\sqrt{\dfrac{q^{4}}{49}}\)</li>
+    <li>\(4\sqrt{50}-6\sqrt{18}\)</li>
+    <li>\(-\sqrt[4]{256\,r^{10}s^{14}}\)</li>
+    <li>\(-5\sqrt{45}+3\sqrt{20}\)</li>
+  </ol>
+</div>
+
+<details class="solution">
+  <summary><strong>Solution</strong></summary>
+
+<strong>(a)</strong> Factor perfect squares:
+$$
+\sqrt{32}=4\sqrt{2},\qquad \sqrt{18}=3\sqrt{2}.
+$$
+Hence
+$$
+5\sqrt{32}-2\sqrt{18}=5(4\sqrt{2})-2(3\sqrt{2})
+=20\sqrt{2}-6\sqrt{2}
+=\boxed{14\sqrt{2}}.
+$$
+
+<strong>(b)</strong> Use \(\sqrt{\tfrac{A}{B}}=\tfrac{\sqrt{A}}{\sqrt{B}}\) and \(49=7^{2}\):
+$$
+\sqrt{\frac{q^{4}}{49}}=\frac{\sqrt{q^{4}}}{\sqrt{49}}
+=\frac{q^{2}}{7}
+=\boxed{\frac{q^{2}}{7}}.
+$$
+
+<strong>(c)</strong> Pull perfect squares:
+$$
+\sqrt{50}=5\sqrt{2},\qquad \sqrt{18}=3\sqrt{2}.
+$$
+Thus
+$$
+4\sqrt{50}-6\sqrt{18}
+=4(5\sqrt{2})-6(3\sqrt{2})
+=20\sqrt{2}-18\sqrt{2}
+=\boxed{2\sqrt{2}}.
+$$
+
+<strong>(d)</strong> Extract perfect fourth powers (\(256=4^{4}\); \(r^{10}=(r^{2})^{4}\cdot r^{2}\); \(s^{14}=(s^{3})^{4}\cdot s^{2}\)):
+$$
+-\sqrt[4]{256\,r^{10}s^{14}}
+=-\,4\,\sqrt[4]{(r^{2})^{4}(s^{3})^{4}\,r^{2}s^{2}}
+=-4\,r^{2}s^{3}\,\sqrt[4]{r^{2}s^{2}}
+=\boxed{-4\,r^{2}s^{3}\,\sqrt[4]{r^{2}s^{2}}}.
+$$
+
+<strong>(e)</strong> Extract perfect squares:
+$$
+\sqrt{45}=3\sqrt{5},\qquad \sqrt{20}=2\sqrt{5}.
+$$
+Therefore
+$$
+-5\sqrt{45}+3\sqrt{20}
+=-5(3\sqrt{5})+3(2\sqrt{5})
+=-15\sqrt{5}+6\sqrt{5}
+=\boxed{-9\sqrt{5}}.
+$$
+</details>
+
