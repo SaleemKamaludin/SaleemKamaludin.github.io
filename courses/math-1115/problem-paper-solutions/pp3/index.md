@@ -124,7 +124,7 @@ $$\boxed{x=-8}$$
 
 
 
-## Q4. Express each in simplified surd form (if possible), where \(r,s,q\in \mathbb{R}^{+}\).
+## Q4. Express each in simplified surd form (if possible), where $$r,s,q\in \mathbb{R}^{+}$$.
 
 <div class="problem">
   <div class="prompt">Simplify each expression.</div>
