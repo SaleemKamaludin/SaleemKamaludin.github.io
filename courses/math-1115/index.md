@@ -12,6 +12,6 @@ Welcome to the MATH 1115 hub. Use the quick links below.
   <a class="btn" href="{{ '/courses/math-1115/lecture-notes/' | relative_url }}">Lecture Notes</a>
   <a class="btn" href="{{ '/courses/math-1115/problem-paper-solutions/' | relative_url }}">Problem Paper Solutions</a>
   <a class="btn" href="{{ '/courses/math-1115/coursework-exam-solutions/' | relative_url }}">Coursework & Exam Solutions</a>
-  <a class="btn" href="{{ '/courses/math-1115/videos/' | relative_url }}">Video Lectures (YouTube)</a>
+  <a class="btn" href="{{ '/courses/math-1115/videos/' | relative_url }}">Past Course work exam solutions (YouTube)</a>
 </p>
 
