@@ -172,9 +172,9 @@ Write \(\text{valine}:\text{leucine}=3:7\). The total “parts” is \(3+7=10\).
 <div class="problem">
   <div class="prompt"></div>
   <ol type="a" class="options">
-    <li>\(\dfrac{2xy}{z}\times\dfrac{6z^{4}}{4y^{3}}\)</li>
-    <li>\(\dfrac{p^{3}}{q^{4}} \div \dfrac{q}{p}\)</li>
-    <li>\(\left(\dfrac{2a}{b}\right)^{2}\times\dfrac{db}{a^{3}}\)</li>
+    <li>\(\dfrac{2xy}{z}\times\dfrac{6z^{4}}{4y^{3}}\)</li><br>
+    <li>\(\dfrac{p^{3}}{q^{4}} \div \dfrac{q}{p}\)</li><br>
+    <li>\(\left(\dfrac{2a}{b}\right)^{2}\times\dfrac{db}{a^{3}}\)</li><br>
     <li>\(\sqrt{x^{14}y^{16}}\div\dfrac{3y^{4}}{x}\)</li>
   </ol>
 </div>
