@@ -4,7 +4,7 @@ title: MATH 1115 — Video Lectures
 permalink: /courses/math-1115/videos/
 ---
 
-# Video Lectures (YouTube)
+# Coursework Exam Past solutions (YouTube)
 
 <!-- Option 1: Link to playlist/channel -->
 - Watch the playlist:  
