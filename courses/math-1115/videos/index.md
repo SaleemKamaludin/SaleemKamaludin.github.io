@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MATH 1115 — Video Lectures
+title: MATH 1115 — Coursework Exam Past solutions
 permalink: /courses/math-1115/videos/
 ---
 
