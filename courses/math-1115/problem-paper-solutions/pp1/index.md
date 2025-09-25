@@ -209,7 +209,7 @@ Write \(\text{valine}:\text{leucine}=3:7\). The total “parts” is \(3+7=10\).
 =\frac{4d}{ab}
 =\boxed{\frac{4d}{ab}}.
 \)
-
+<br>
 <br>
 
 <strong>(d)</strong>
