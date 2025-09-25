@@ -205,7 +205,7 @@ x, & x\ge 0,\\[2pt]
 <br>
 Applying this:
 \(
-\text{(a)}\ |{-4}|=4,\qquad
+\text{(a)}\ |{-4}|=4,\qquad <br>
 \text{(b)}\ -\,|10|=-10,
 \)<br>
 
