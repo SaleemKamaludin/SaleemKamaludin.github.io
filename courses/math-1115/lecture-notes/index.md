@@ -12,4 +12,4 @@ permalink: /courses/math-1115/lecture-notes/
 - Week 2 – Topic Name  
   [PDF]({{ '/assets/math-1115/lectures/week02-topic.pdf' | relative_url }})
 
-> Put your PDFs in `assets/math-1115/lectures/` and add links above.
+
