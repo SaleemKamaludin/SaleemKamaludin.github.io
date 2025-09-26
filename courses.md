@@ -36,7 +36,7 @@ Here you'll find organized links to course notes and resources. This hub will ex
 
 ## 💻 Computer Science
 
-- [COMP 1604: Discrete Mathematics]({% link courses/comp1604.md %}) — Logic, sets, induction (weak & strong), equivalence classes, pigeonhole principle, elementary combinatorics.
+- [COMP 1604: Discrete Mathematics]({{ '/courses/comp1604/' | relative_url }})
 - [Algorithms & Data Structures](/courses/)  
 
 ---
