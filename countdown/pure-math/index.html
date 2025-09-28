@@ -81,16 +81,7 @@ title: Pure Mathematics Exam Countdown
             <span class="pill">Timezone: <strong>America/Port_of_Spain (UTC−04:00)</strong></span>
           </div>
         </div>
-        <div class="config">
-          <label class="kbd">Set exam date/time:
-            <input class="exam-input" type="datetime-local" />
-          </label>
-          <label class="kbd">Label:
-            <input class="label-input" type="text" placeholder="e.g., CAPE Unit 1 Paper 02" />
-          </label>
-          <button class="save">Save</button>
-          <button class="reset btn-ghost">Reset</button>
-        </div><!-- (temporarily hidden) URL params help text was here -->
+        <!-- (temporarily hidden) URL params help text was here -->
       </div>
 
       <!-- UNIT 2 -->
@@ -110,16 +101,7 @@ title: Pure Mathematics Exam Countdown
             <span class="pill">Timezone: <strong>America/Port_of_Spain (UTC−04:00)</strong></span>
           </div>
         </div>
-        <div class="config">
-          <label class="kbd">Set exam date/time:
-            <input class="exam-input" type="datetime-local" />
-          </label>
-          <label class="kbd">Label:
-            <input class="label-input" type="text" placeholder="e.g., CAPE Unit 2 Paper 02" />
-          </label>
-          <button class="save">Save</button>
-          <button class="reset btn-ghost">Reset</button>
-        </div><!-- (temporarily hidden) URL params help text was here -->
+        <!-- (temporarily hidden) URL params help text was here -->
       </div>
     </section>
 
@@ -127,7 +109,7 @@ title: Pure Mathematics Exam Countdown
   </main>
 
   <script>
-    // ======== DEFAULTS (change these to your official dates) ========
+    // ======== DEFAULTS (official, fixed on page) ========
     const defaults = {
       u1: { date: '2026-05-15T09:00:00-04:00', label: 'CAPE Unit 1 Pure Mathematics' },
       u2: { date: '2026-05-22T09:00:00-04:00', label: 'CAPE Unit 2 Pure Mathematics' }
@@ -135,36 +117,29 @@ title: Pure Mathematics Exam Countdown
 
     // ======== UTILITIES ========
     const fmt2 = (n) => String(Math.max(0, Math.floor(n))).padStart(2,'0');
-    const localISO16 = (dt) => new Date(dt.getTime()-dt.getTimezoneOffset()*60000).toISOString().slice(0,16);
     const getParams = () => new URLSearchParams(location.search);
 
-    function readState(key, urlPrefix){
+    function readState(urlPrefix){
+      // Allow owner to prefill via URL, but no on-page editing
       const params = getParams();
       const urlDate = params.get(urlPrefix+'date');
       const urlLabel = params.get(urlPrefix+'label');
-      const stored = JSON.parse(localStorage.getItem('examCountdown_'+urlPrefix)||'{}');
       return {
-        date: urlDate || stored.date || defaults[urlPrefix].date,
-        label: urlLabel || stored.label || defaults[urlPrefix].label
+        date: urlDate || defaults[urlPrefix].date,
+        label: urlLabel || defaults[urlPrefix].label
       };
-    }
-
-    function saveState(key, urlPrefix, state){
-      localStorage.setItem('examCountdown_'+urlPrefix, JSON.stringify(state));
     }
 
     function initTimer(rootId, urlPrefix){
       const root = document.getElementById(rootId);
       const q = (sel)=>root.querySelector(sel);
-      let state = readState('examCountdown_'+urlPrefix, urlPrefix);
+      const state = readState(urlPrefix);
 
       function updateUI(){
         const dt = new Date(state.date);
         if (isNaN(dt)) return;
         q('.exam-date-text').textContent = dt.toLocaleString([], {year:'numeric', month:'short', day:'2-digit', hour:'2-digit', minute:'2-digit'});
         q('.exam-label').textContent = state.label;
-        q('.exam-input').value = localISO16(dt);
-        q('.label-input').value = state.label;
       }
 
       function tick(){
@@ -186,28 +161,6 @@ title: Pure Mathematics Exam Countdown
         if (total <= 0) q('.progress').style.width = '100%';
       }
 
-      // wire up controls
-      q('.save').addEventListener('click', ()=>{
-        const localVal = q('.exam-input').value;
-        if(!localVal){ alert('Choose a date/time.'); return; }
-        const labelVal = q('.label-input').value.trim() || defaults[urlPrefix].label;
-        const tzOffsetMin = new Date().getTimezoneOffset();
-        const sign = tzOffsetMin > 0 ? '-' : '+';
-        const hh = String(Math.floor(Math.abs(tzOffsetMin)/60)).padStart(2,'0');
-        const mm = String(Math.abs(tzOffsetMin)%60).padStart(2,'0');
-        const iso = localVal + sign + hh + ':' + mm;
-        state = { date: iso, label: labelVal };
-        saveState('examCountdown_'+urlPrefix, urlPrefix, state);
-        updateUI();
-      });
-
-      q('.reset').addEventListener('click', ()=>{
-        localStorage.removeItem('examCountdown_'+urlPrefix);
-        state = { ...defaults[urlPrefix] };
-        updateUI();
-      });
-
-      // start
       updateUI();
       tick();
       setInterval(tick, 1000);
