@@ -27,6 +27,7 @@ My research lies in **graph invariants** and **mathematical chemistry**, **algeb
 - **Jul 2025** — Symmetric graphs and Szeged index results updated.
 - **Jun 2025** — Pre‑semester problem‑solving boot camp concluded.
 - **Summer 2025** MATH 1141 concluded.
+- [Exam Countdown]({{ '/countdown/pure-math/' | relative_url }})
 > Want course materials? See **[Courses]({{ '/courses/' | relative_url }})**.
 
 ---
