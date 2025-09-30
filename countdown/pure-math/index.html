@@ -109,11 +109,12 @@ title: Pure Mathematics Exam Countdown
   </main>
 
   <script>
-    // ======== DEFAULTS (official, fixed on page) ========
-    const defaults = {
-      u1: { date: '2026-05-15T01:00:00-00:00', label: 'CAPE Unit 1 Pure Mathematics' },
-      u2: { date: '2026-05-13T09:00:00-00:00', label: 'CAPE Unit 2 Pure Mathematics' }
-    };
+    // ======= DEFAULTS (official, fixed on page) =======
+const defaults = {
+  u1: { date: '2026-05-15T09:00:00-04:00', label: 'CAPE Unit 1 Pure Mathematics' }, // 9:00 AM
+  u2: { date: '2026-05-13T13:00:00-04:00', label: 'CAPE Unit 2 Pure Mathematics' }  // 1:00 PM
+};
+
 
     // ======== UTILITIES ========
     const fmt2 = (n) => String(Math.max(0, Math.floor(n))).padStart(2,'0');
