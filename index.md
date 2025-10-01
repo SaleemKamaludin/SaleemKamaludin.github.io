@@ -13,7 +13,7 @@ I am **Saleem Kamaludin**, a mathematician and lecturer with interests in **alge
 This site serves as a hub for:
 - **[About]({{ '/about/' | relative_url }})** — background and research interests  
 - **[Courses]({{ '/courses/' | relative_url }})** — lecture notes and worked solutions  
-- Occasional updates and resources for students
+- Occasional updates and resources for students.
 
 ---
 
