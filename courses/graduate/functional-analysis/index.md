@@ -6,4 +6,4 @@ permalink: /courses/graduate/functional-analysis/
 
 # Functional Analysis
 
-All notes and solutions are on the Apache link from the main page.
+All notes and solutions are on the Apache link.
