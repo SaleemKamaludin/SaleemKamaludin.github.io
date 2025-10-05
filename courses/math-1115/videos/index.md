@@ -13,7 +13,7 @@ permalink: /courses/math-1115/videos/
 <!-- Option 2: Embed playlist (replace YOUR_PLAYLIST_ID) -->
 <div style="position:relative;padding-top:56.25%;height:0;overflow:hidden;margin-top:1rem;">
   <iframe
-    src="https://www.youtube.com/embed/videoseries?list=YOUR_PLAYLIST_ID"
+    src="https://www.youtube.com/watch?v=LGYVJB0AIYU"
     title="MATH 1115 Playlist"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
