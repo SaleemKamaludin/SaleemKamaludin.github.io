@@ -7,7 +7,7 @@ permalink: /courses/math-1115/videos/
 # Coursework Exam Past solutions (YouTube)
 
 <!-- Option 1: Link to playlist/channel -->
-- Watch the playlist:  
+Coursework exam 2 solutions 2024:  
   <a class="btn" href="https://www.youtube.com/watch?v=LGYVJB0AIYU" target="_blank" rel="noopener">Open on YouTube</a>
 
 <!-- Option 2: Embed playlist (replace YOUR_PLAYLIST_ID) -->
