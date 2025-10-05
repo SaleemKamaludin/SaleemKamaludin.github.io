@@ -4,7 +4,7 @@ title: MATH 1115 — Coursework Exam Past solutions
 permalink: /courses/math-1115/videos/
 ---
 
-# Coursework Exam Past solutions (YouTube)
+# Coursework Exam Past solutions 
 
 <!-- Option 1: Link to playlist/channel -->
 Coursework exam 2 solutions 2024:  
