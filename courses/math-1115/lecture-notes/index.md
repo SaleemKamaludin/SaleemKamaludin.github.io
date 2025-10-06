@@ -9,6 +9,5 @@ permalink: /courses/math-1115/lecture-notes/
 - Week 1 – Real Numbers  
 
 - Week 2 – Indices 
-  [PDF]({{ '/assets/math-1115/lectures/week02-topic.pdf' | relative_url }})
 
 
