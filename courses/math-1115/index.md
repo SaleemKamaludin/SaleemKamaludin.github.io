@@ -4,7 +4,6 @@ title: MATH 1115
 permalink: /courses/math-1115/
 ---
 
-# MATH 1115
 
 Welcome to the MATH 1115 hub. Use the quick links below.
 
