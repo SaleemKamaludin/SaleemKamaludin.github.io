@@ -24,8 +24,11 @@ Sets are the building blocks of mathematics. Before diving into formal definitio
 </ul>
 
 
+<!-- ==========================================
+     SET-BUILDER DIAGRAM  (copy-paste block)
+=========================================== -->
+<h4 style="margin-top:1.5rem;">Parts of the set-builder expression</h4>
 
-<!-- Set-builder notation diagram -->
 <div class="sbn-wrap">
   <div class="sbn-expr">
     <span class="sbn-set">{</span>
@@ -42,3 +45,4 @@ Sets are the building blocks of mathematics. Before diving into formal definitio
     <div><span class="dot prop"></span> <em>x</em> has given property <em>P</em></div>
   </div>
 </div>
+
