@@ -26,3 +26,24 @@ Sets are the building blocks of mathematics. Before diving into formal definitio
 
 
 
+### Sets: Fundamental Concepts
+
+Sets constitute the language in which modern mathematics is written.  
+A *set* is a well-defined collection of distinct objects called *elements*.  
+Sets are usually denoted by capital letters, while their elements are written in braces, for example  
+\( \{0,1,2,3\} \).
+
+---
+
+#### Definition — Membership
+
+Given a set \(A\) and an object \(x\):
+
+- The notation \(x \in A\) means “\(x\) is an element of \(A\).”
+- Conversely, \(x \notin A\) means that \(x\) is **not** contained in \(A\).
+
+---
+
+> **Example (notation in context):**
+>
+> \( 3 \in \{1,2,3,4,5\} \), but \( 7 \notin \{1,2,3,4,5\}. \)
