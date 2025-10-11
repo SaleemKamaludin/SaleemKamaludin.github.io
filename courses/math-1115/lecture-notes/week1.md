@@ -46,3 +46,19 @@ Given a set \(A\) and an object \(x\):
 >
 > $3 \in \{1,2,3,4,5\}$, but $7 \notin \{1,2,3,4,5\}$.
 
+
+
+
+
+### The Empty Set and Infinite Sets
+
+The *empty set*, written $\varnothing$, contains no elements.  
+Some sets are *finite*, while others contain *infinitely many* elements.  
+For example:
+
+$$
+\mathbb{N} = \{0,1,2,3,4,5,\dots\},
+$$
+
+where the dots (an *ellipsis*) indicate that the list continues in the same pattern.
+
