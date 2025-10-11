@@ -29,7 +29,7 @@ Sets are the building blocks of mathematics. Before diving into formal definitio
 Sets constitute the language in which modern mathematics is written.  
 A *set* is a well-defined collection of distinct objects called *elements*.  
 Sets are usually denoted by capital letters, while their elements are written in braces, for example  
-\( \{0,1,2,3\} \).
+ \{0,1,2,3\}.
 
 ---
 
