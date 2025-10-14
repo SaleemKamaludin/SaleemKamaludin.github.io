@@ -44,7 +44,7 @@ Given a set $$A$$ and an object $$x$$:
 
 > **Example (notation in context):**  
 >
-> $3 \in \{1,2,3,4,5\}$, but $7 \notin \{1,2,3,4,5\}$.
+> $$3 \in \{1,2,3,4,5\}$$, but $$7 \notin \{1,2,3,4,5\}$$.
 
 
 
