@@ -35,7 +35,7 @@ Sets are usually denoted by capital letters, while their elements are written in
 
 #### Definition — Membership
 
-Given a set $A$ and an object $x$:
+Given a set $$A$$ and an object $$x$$:
 
 - The notation $$x \in A $$ means “$$x$$ is an element of $$A$$.”
 - Conversely, $x \notin A$ means that $x$ is **not** contained in $A$.
