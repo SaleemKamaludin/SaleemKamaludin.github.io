@@ -52,7 +52,7 @@ Given a set $$A$$ and an object $$x$$:
 
 ### The Empty Set and Infinite Sets
 
-The *empty set*, written $\varnothing$, contains no elements.  
+The *empty set*, written $$\varnothing$$, contains no elements.  
 Some sets are *finite*, while others contain *infinitely many* elements.  
 For example:
 
