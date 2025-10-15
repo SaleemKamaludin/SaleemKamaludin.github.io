@@ -57,7 +57,7 @@ Some sets are *finite*, while others contain *infinitely many* elements.
 For example:
 
 
-\(\mathbb{N} = \{0,1,2,3,4,5,\dots\},\)
+\[\mathbb{N} = \{0,1,2,3,4,5,\dots\}, \]
 
 
 where the dots (an *ellipsis*) indicate that the list continues in the same pattern.
