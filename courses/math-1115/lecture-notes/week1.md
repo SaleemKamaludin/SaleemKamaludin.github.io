@@ -75,9 +75,7 @@ where the dots (an *ellipsis*) indicate that the list continues in the same patt
 ###  Set-builder Notation
 A concise way to specify large or infinite sets is *set-builder notation*:
 
-$$
-\{\,x \mid x\text{ has property }P\,\}.
-$$
+$$ { \,x \mid x\text{ has property } P\, }.$$
 
 For instance,
 
