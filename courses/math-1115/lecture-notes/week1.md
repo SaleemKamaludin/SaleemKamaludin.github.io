@@ -62,3 +62,43 @@ For example:
 
 where the dots (an *ellipsis*) indicate that the list continues in the same pattern.
 
+
+
+
+
+
+
+
+
+
+
+###  Set-builder Notation
+A concise way to specify large or infinite sets is \emph{set-builder notation}:
+$$
+\{\,x \mid x\text{ has property }P\,\}.
+$$
+For instance,
+$$
+\{\,x\in\mathbb N \mid 3< x < 15\,\} = \{4,5,6,7,\dots,14\}.
+$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
