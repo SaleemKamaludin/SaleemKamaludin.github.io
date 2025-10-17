@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Week 1 — Real Numbers
+math: true
 permalink: /courses/math-1115/lecture-notes/week-1/
 ---
 
