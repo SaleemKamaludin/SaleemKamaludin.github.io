@@ -27,7 +27,10 @@ header_pages:
 
 
 # MathJax for LaTeX
+# _config.yml
 markdown: kramdown
+
 kramdown:
   input: GFM
-  math_engine: mathjax
+  math_engine: mathjax      # tells kramdown to leave math for MathJax
+  hard_wrap: false
