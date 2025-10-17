@@ -67,8 +67,6 @@ where the dots (an *ellipsis*) indicate that the list continues in the same patt
 
 
 
-
-
 ### Set-builder Notation
 
 A concise way to specify large or infinite sets is *set-builder notation*:
@@ -82,6 +80,7 @@ For example:
 $$
 \{\,x \in \mathbb{N} \mid 3 < x < 15\,\} = \{4,5,6,7,\dots,14\}.
 $$
+
 
 
 
