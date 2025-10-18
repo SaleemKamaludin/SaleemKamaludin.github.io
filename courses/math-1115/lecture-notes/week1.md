@@ -5,6 +5,22 @@ math: true
 permalink: /courses/math-1115/lecture-notes/week-1/
 ---
 
+<!-- TEMP: page-level MathJax to prove it works -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']],
+      processEscapes: true,
+      tags: 'ams'
+    },
+    svg: { fontCache: 'global' }
+  };
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+
+
 ### Basic Terms
 
 Sets are the building blocks of mathematics. Before diving into formal definitions, we recall some fundamental ideas and notation.
