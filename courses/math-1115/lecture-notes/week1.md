@@ -103,6 +103,15 @@ $$
 
 
 
+## Subsets
+
+If every element of $B$ is also an element of $A$, we write $B\subseteq A$ and say “$B$ is a subset of $A$.”
+
+If $A$ and $B$ have the same elements, then $A=B$.
+
+When $B\subseteq A$ and $B\neq A$ we write $B\subset A$ (a *proper* subset).
+
+So, if $A$ and $B$ are sets, then $B$ is a **proper subset** of $A$, written $B\subset A$, if and only if every element of $B$ is an element of $A$ but there is at least one element of $A$ that is not in $B$.
 
 
 
