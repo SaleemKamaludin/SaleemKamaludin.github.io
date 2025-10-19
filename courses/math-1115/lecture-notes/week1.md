@@ -123,15 +123,21 @@ So, if $A$ and $B$ are sets, then $B$ is a **proper subset** of $A$, written $B\
 
 
 > **Example.** Consider the sets $X=\{a,b,c,d\}$ and $Y=\{a,b,c,d\}$.  
-> Since $X=Y$, we have that $Y\subseteq X$, but not $Y\subset X$.  
-> Therefore, $Y$ is a subset of $X$, but not a **proper** subset.
->
-> $$
-> Y \subseteq X \quad \text{but} \quad Y \not\subset X.
-> $$
+ Since $X=Y$, we have that $Y\subseteq X$, but not $Y\subset X$.  
+ Therefore, $Y$ is a subset of $X$, but not a **proper** subset.
+ $$
+ Y \subseteq X \quad \text{but} \quad Y \not\subset X.
+ $$
 
 
 
 
+## Set Operations
+
+Given sets $A$ and $B$ inside a universal set $U$:
+
+- $A \cup B$ (*union*) contains elements in $A$ **or** $B$.
+- $A \cap B$ (*intersection*) contains elements common to both.
+- $A \setminus B$ (*relative complement*) comprises elements in $A$ but not in $B$.
 
 
