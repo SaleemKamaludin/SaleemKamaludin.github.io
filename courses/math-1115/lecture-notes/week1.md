@@ -115,6 +115,8 @@ So, if $A$ and $B$ are sets, then $B$ is a **proper subset** of $A$, written $B\
 
 
 
+> **Example.** Let $A=\{1,2,3,4,5,6\}$ and $B=\{2,4,6\}$.  
+> Since every element of $B$ lies in $A$, we have $B\subset A$.
 
 
 
