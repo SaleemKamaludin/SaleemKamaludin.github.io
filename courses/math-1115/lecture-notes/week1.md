@@ -176,4 +176,7 @@ Venn diagrams visualize relationships among sets. In the plane, sets are represe
   </figcaption>
 </figure>
 
+## The Number Systems {#sec-number-systems}
+
+Numbers encountered in calculus and the physical sciences are organised into nested sets, each extending the previous to include new objects.
 
