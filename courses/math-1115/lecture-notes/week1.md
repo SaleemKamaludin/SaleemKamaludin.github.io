@@ -208,3 +208,11 @@ Because any integer $n$ can be written as $n=\dfrac{n}{1}$, we have $\mathbb{Z}\
 A real number is *irrational* if it is not rational, e.g. $\pi,\ e,\ \sqrt{2}$.
 In decimal form, rationals terminate or eventually repeat, whereas irrationals are non-terminating and non-repeating.
 
+### Real Numbers $\mathbb{R}$
+
+Placing all rationals and irrationals onto the continuous number line gives the real numbers:
+$$
+\mathbb{R} = \mathbb{Q} \cup (\mathbb{R}\setminus \mathbb{Q}).
+$$
+
+
