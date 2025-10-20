@@ -216,3 +216,13 @@ $$
 $$
 
 
+### Complex Numbers $\mathbb{C}$
+
+To solve equations like $x^2=-1$ we introduce the imaginary unit $i$ with $i^2=-1$.  
+The complex numbers are
+$$
+\mathbb{C} = \{\,p+qi \mid p,q\in\mathbb{R}\}.
+$$
+When $q=0$ a complex number reduces to a real one, so $\mathbb{R}\subset \mathbb{C}$.
+
+
