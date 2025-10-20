@@ -187,4 +187,10 @@ $$
 \mathbb{N} = \{0,1,2,3,\dots\}.
 $$
 
+### Integers $\mathbb{Z}$
+
+Adding negative counterparts yields
+$$
+\mathbb{Z} = \{\dots,-3,-2,-1,0,1,2,3,\dots\}.
+$$
 
