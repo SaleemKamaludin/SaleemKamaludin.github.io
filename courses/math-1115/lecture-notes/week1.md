@@ -201,3 +201,10 @@ $$
 \mathbb{Q} = \left\{\,\frac{p}{q}\,\Bigm|\, p,q\in\mathbb{Z},\; q\neq 0\right\}.
 $$
 Because any integer $n$ can be written as $n=\dfrac{n}{1}$, we have $\mathbb{Z}\subset \mathbb{Q}$.
+
+
+### Irrational Numbers
+
+A real number is *irrational* if it is not rational, e.g. $\pi,\ e,\ \sqrt{2}$.
+In decimal form, rationals terminate or eventually repeat, whereas irrationals are non-terminating and non-repeating.
+
