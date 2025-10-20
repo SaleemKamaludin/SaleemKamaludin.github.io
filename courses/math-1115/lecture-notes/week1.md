@@ -180,3 +180,11 @@ Venn diagrams visualize relationships among sets. In the plane, sets are represe
 
 Numbers encountered in calculus and the physical sciences are organised into nested sets, each extending the previous to include new objects.
 
+### Natural Numbers $\mathbb{N}$
+
+The natural numbers model counting:
+$$
+\mathbb{N} = \{0,1,2,3,\dots\}.
+$$
+
+
