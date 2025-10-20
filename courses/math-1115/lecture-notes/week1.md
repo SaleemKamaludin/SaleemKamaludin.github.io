@@ -194,3 +194,10 @@ $$
 \mathbb{Z} = \{\dots,-3,-2,-1,0,1,2,3,\dots\}.
 $$
 
+### Rational Numbers $\mathbb{Q}$
+
+A *rational* number is a ratio of integers:
+$$
+\mathbb{Q} = \left\{\,\frac{p}{q}\,\Bigm|\, p,q\in\mathbb{Z},\; q\neq 0\right\}.
+$$
+Because any integer $n$ can be written as $n=\dfrac{n}{1}$, we have $\mathbb{Z}\subset \mathbb{Q}$.
