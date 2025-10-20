@@ -141,3 +141,39 @@ Given sets $A$ and $B$ inside a universal set $U$:
 - $A \setminus B$ (*relative complement*) comprises elements in $A$ but not in $B$.
 
 
+## Venn Diagrams
+
+Venn diagrams visualize relationships among sets. In the plane, sets are represented by regions (often circles) inside a rectangle indicating the universal set.
+
+<!-- Inline SVG (works on GitHub Pages) -->
+<figure>
+  <svg viewBox="0 0 800 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="vennTitle vennDesc">
+    <title id="vennTitle">Venn diagram of sets A and B inside universal set U</title>
+    <desc id="vennDesc">U = {1,2,3,...,10}. A ∩ B = {5,6}. Left-only: 2,3,4. Right-only: 7,9,10.</desc>
+
+    <!-- Universal set rectangle -->
+    <rect x="20" y="20" width="760" height="360" fill="none" stroke="black" stroke-width="3"/>
+    <text x="28" y="40" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-size="16">U = {1,2,3,…,10}</text>
+
+    <!-- Circles A and B -->
+    <circle cx="320" cy="200" r="130" fill="none" stroke="black" stroke-width="3"/>
+    <circle cx="480" cy="200" r="130" fill="none" stroke="black" stroke-width="3"/>
+
+    <!-- Labels A and B -->
+    <text x="300" y="70" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-size="18">A</text>
+    <text x="480" y="70" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-size="18">B</text>
+
+    <!-- Elements -->
+    <!-- A only -->
+    <text x="250" y="210" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-size="18">2, 3, 4</text>
+    <!-- Intersection -->
+    <text x="390" y="210" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-size="18">5, 6</text>
+    <!-- B only -->
+    <text x="540" y="210" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-size="18">7, 9, 10</text>
+  </svg>
+  <figcaption style="font-size: 0.95rem; margin-top: 0.5rem;">
+    A Venn diagram of sets $A$ and $B$ with $A \cap B = \{5,6\}$.
+  </figcaption>
+</figure>
+
+
