@@ -225,4 +225,11 @@ $$
 $$
 When $q=0$ a complex number reduces to a real one, so $\mathbb{R}\subset \mathbb{C}$.
 
+> **Example.** Let $z = 3 - 4i$. This is a complex number where the real part is $3$ and the imaginary part is $-4$.
+>
+> We can write it in the form $z = p + qi$ with $p = 3$ and $q = -4$.
+>
+> Note that since $q \ne 0$, $z$ is not a real number but a genuine complex number.
+
+
 
