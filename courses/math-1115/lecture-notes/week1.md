@@ -266,4 +266,18 @@ As a consequence, the rationals, though *countable*, are interwoven throughout t
 > **Example.** Let $a=-2$ and $b=-1.5$. The number $-1.75$ is a rational number that lies between $a$ and $b$.
 >
 > Hence, even between two negative real numbers, we can always find a rational number.
+>
+> ## Decimal Representations
+
+Every real number has a (possibly infinite) decimal expansion.
+Rationals correspond to terminating or eventually repeating decimals, e.g.
+$$
+\frac{3}{8}=0.375,\qquad
+\frac{2}{3}=0.\overline{6},
+$$
+while irrationals yield non-terminating, non-repeating strings such as
+$$
+\pi=3.141592653\ldots
+$$
+
 
