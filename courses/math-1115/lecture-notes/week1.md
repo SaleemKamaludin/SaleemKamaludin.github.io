@@ -255,3 +255,12 @@ Intuitively, no matter how closely two real numbers are chosen, one can find a r
 
 As a consequence, the rationals, though *countable*, are interwoven throughout the continuum of real numbers.
 
+
+
+
+
+> **Example.** Let $a=1.2$ and $b=1.3$. Then $1.25$ is a rational number that lies between $a$ and $b$.
+>
+> This shows that between any two real numbers, there exists at least one rational number.
+
+
