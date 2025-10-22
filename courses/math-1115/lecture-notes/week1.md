@@ -263,4 +263,7 @@ As a consequence, the rationals, though *countable*, are interwoven throughout t
 >
 > This shows that between any two real numbers, there exists at least one rational number.
 
+> **Example.** Let $a=-2$ and $b=-1.5$. The number $-1.75$ is a rational number that lies between $a$ and $b$.
+>
+> Hence, even between two negative real numbers, we can always find a rational number.
 
