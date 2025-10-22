@@ -233,3 +233,24 @@ When $q=0$ a complex number reduces to a real one, so $\mathbb{R}\subset \mathbb
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Density of Rational and Irrational Numbers
+
+> **Definition.** A subset $S \subset \mathbb{R}$ is *dense* in $\mathbb{R}$ if every open interval contains an element of $S$. *(Not tested)*
+
+Both $\mathbb{Q}$ and $\mathbb{R}\setminus \mathbb{Q}$ are dense in $\mathbb{R}$.  
+Intuitively, no matter how closely two real numbers are chosen, one can find a rational, and also an irrational, between them.
+
+
