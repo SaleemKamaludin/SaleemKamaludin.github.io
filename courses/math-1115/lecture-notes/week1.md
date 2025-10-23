@@ -283,4 +283,9 @@ $$
 
 ## Classification Exercise
 
+Determine the most specific set(s) to which each number belongs.
+
+
+
+
 
