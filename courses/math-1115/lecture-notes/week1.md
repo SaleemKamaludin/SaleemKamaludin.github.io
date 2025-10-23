@@ -286,13 +286,36 @@ $$
 Determine the most specific set(s) to which each number belongs.
 
 
+<table style="border-collapse:collapse; width:100%;">
+  <thead>
+    <tr>
+      <th style="border:1px solid #ccc; padding:6px;">Number</th>
+      <th style="border:1px solid #ccc; padding:6px;">Classification</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #ccc; padding:6px;">$18$</td>
+      <td style="border:1px solid #ccc; padding:6px;">$\mathbb{N},\ \mathbb{Z},\ \mathbb{Q},\ \mathbb{R},\ \mathbb{C}$</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc; padding:6px;">$-\sqrt{144}$</td>
+      <td style="border:1px solid #ccc; padding:6px;">$\mathbb{Z},\ \mathbb{Q},\ \mathbb{R},\ \mathbb{C}$</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc; padding:6px;">$3i$</td>
+      <td style="border:1px solid #ccc; padding:6px;">$\mathbb{C}\setminus \mathbb{R}$</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc; padding:6px;">$-\dfrac{7}{8}$</td>
+      <td style="border:1px solid #ccc; padding:6px;">$\mathbb{Q},\ \mathbb{R},\ \mathbb{C}$</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc; padding:6px;">$-137$</td>
+      <td style="border:1px solid #ccc; padding:6px;">$\mathbb{Z},\ \mathbb{Q},\ \mathbb{R},\ \mathbb{C}$</td>
+    </tr>
+  </tbody>
+</table>
 
-| Number            | Classification                                  |
-|-------------------|--------------------------------------------------|
-| $18$              | $\mathbb{N},\ \mathbb{Z},\ \mathbb{Q},\ \mathbb{R},\ \mathbb{C}$ |
-| $-\sqrt{144}$     | $\mathbb{Z},\ \mathbb{Q},\ \mathbb{R},\ \mathbb{C}$              |
-| $3i$              | $\mathbb{C}\setminus \mathbb{R}$                                |
-| $-\dfrac{7}{8}$   | $\mathbb{Q},\ \mathbb{R},\ \mathbb{C}$                           |
-| $-137$            | $\mathbb{Z},\ \mathbb{Q},\ \mathbb{R},\ \mathbb{C}$              |
 
 
