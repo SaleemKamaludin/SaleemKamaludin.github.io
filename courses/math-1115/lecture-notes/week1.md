@@ -287,5 +287,12 @@ Determine the most specific set(s) to which each number belongs.
 
 
 
+| Number            | Classification                                  |
+|-------------------|--------------------------------------------------|
+| $18$              | $\mathbb{N},\ \mathbb{Z},\ \mathbb{Q},\ \mathbb{R},\ \mathbb{C}$ |
+| $-\sqrt{144}$     | $\mathbb{Z},\ \mathbb{Q},\ \mathbb{R},\ \mathbb{C}$              |
+| $3i$              | $\mathbb{C}\setminus \mathbb{R}$                                |
+| $-\dfrac{7}{8}$   | $\mathbb{Q},\ \mathbb{R},\ \mathbb{C}$                           |
+| $-137$            | $\mathbb{Z},\ \mathbb{Q},\ \mathbb{R},\ \mathbb{C}$              |
 
 
