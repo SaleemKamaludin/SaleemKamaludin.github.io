@@ -317,5 +317,7 @@ Determine the most specific set(s) to which each number belongs.
   </tbody>
 </table>
 
+> *Remark.* Although $3i$ is complex, its real part is zero, so it is *purely imaginary*.  
+> All other numbers in the table are real; among these, only $18$ lies in $\mathbb{N}$.
 
 
