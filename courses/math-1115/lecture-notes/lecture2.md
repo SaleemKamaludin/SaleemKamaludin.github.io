@@ -76,7 +76,9 @@ Handling their signs correctly is essential across algebra, calculus, and even d
   <li>\(-4 - (-5)\)</li>
   <li>\(8 - (-6)\)</li>
 </ol>
-<p><em>(Answers appear in the <a href="#answers">Appendix</a>.)</em></p>
+<span style="font-style: normal;">
+  (Answers appear in the <a href="#answers">Appendix</a>.)
+</span>
 
 
 
