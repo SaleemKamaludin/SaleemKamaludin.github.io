@@ -8,6 +8,6 @@ permalink: /courses/math-1115/lecture-notes/
 
 - [Week 1 — Real Numbers]({{ '/courses/math-1115/lecture-notes/week-1/' | relative_url }})
 
-- Week 2 – Indices 
+- [Lecture 2 — Manipulating Numbers, Ratios, Percentages and Proportions]({{ '/courses/math-1115/lecture-notes/lecture2/' | relative_url }})
 
 
