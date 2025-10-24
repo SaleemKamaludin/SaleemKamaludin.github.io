@@ -46,4 +46,13 @@ Handling their signs correctly is essential across algebra, calculus, and even d
 </div>
 
 
+
+<div style="border-left:4px solid #d97706; background:#fff7ed; padding:1em; border-radius:6px; margin:1em 0;">
+  <strong>Example A – Common exam mistakes</strong><br><br>
+  Evaluate \( -4 - ( -5 - 2) \). Be careful: distribute the outer minus first.
+  <p style="text-align:center; margin-top:0.6em;">\( -4 -(-5 - 2) = -4 + 5 + 2 = 3 \).</p>
+</div>
+
+
+
 [⬅ Back to Lecture Index]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
