@@ -34,15 +34,7 @@ Handling their signs correctly is essential across algebra, calculus, and even d
 </div>
 
 
-**Example**
 
-Compute \( 9 - 15 \).
-
-Because \( |15| > |9| \), subtract and keep the sign of 15:
-
-\[
-9 - 15 = -(15 - 9) = -6
-\]
 
 
 
