@@ -55,4 +55,45 @@ Handling their signs correctly is essential across algebra, calculus, and even d
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+<h3 id="ex-neg1">Exercise</h3>
+<p>Find the values of:</p>
+<ol type="a">
+  <li>\(9 - 15\)</li>
+  <li>\(13 - 4\)</li>
+  <li>\(15 - 7 - 8\)</li>
+  <li>\(-4 - (-5)\)</li>
+  <li>\(8 - (-6)\)</li>
+</ol>
+<p><em>(Answers appear in the <a href="#answers">Appendix</a>.)</em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [⬅ Back to Lecture Index]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
