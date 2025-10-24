@@ -33,6 +33,19 @@ Handling their signs correctly is essential across algebra, calculus, and even d
   </table>
 </div>
 
+
+**Example**
+
+Compute \( 9 - 15 \).
+
+Because \( |15| > |9| \), subtract and keep the sign of 15:
+
+\[
+9 - 15 = -(15 - 9) = -6
+\]
+
+
+
 <div style="border-left: 4px solid #007acc; background-color: #f4faff; padding: 1em; border-radius: 6px; margin: 1em 0;">
   <strong>Example</strong><br><br>
   Compute \( 9 - 15 \).<br><br>
