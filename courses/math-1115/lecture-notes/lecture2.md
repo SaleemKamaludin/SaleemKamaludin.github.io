@@ -85,6 +85,10 @@ Handling their signs correctly is essential across algebra, calculus, and even d
 
 
 
+<h3 id="subsec-muldiv">Multiplication and Division</h3>
+<p>
+The product or quotient of two numbers has a <strong>positive</strong> sign if the signs are the same, and a <strong>negative</strong> sign if they differ.
+</p>
 
 
 
