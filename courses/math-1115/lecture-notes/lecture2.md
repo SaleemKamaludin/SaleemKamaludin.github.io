@@ -93,6 +93,10 @@ The product or quotient of two numbers has a <strong>positive</strong> sign if t
 
 
 
+<table>
+  <tr><td>(+)&middot;(+) = +</td><td>(−)&middot;(−) = +</td><td>(+)&middot;(−) = −</td></tr>
+  <tr><td>(+)/(+) = +</td><td>(−)/(−) = +</td><td>(+)/(−) = −</td></tr>
+</table>
 
 
 
