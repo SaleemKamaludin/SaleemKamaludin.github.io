@@ -100,6 +100,14 @@ The product or quotient of two numbers has a <strong>positive</strong> sign if t
 
 
 
+<div style="border-left:4px solid #007acc; background:#f4faff; padding:1em; border-radius:6px; margin:1em 0;">
+  <strong>Example</strong><br><br>
+  <p style="text-align:center;">
+    \( 7 \times (-3) = -21, \qquad
+    \frac{-14}{2} = -7, \qquad
+    \frac{20}{-5} = -4 \)
+  </p>
+</div>
 
 
 
