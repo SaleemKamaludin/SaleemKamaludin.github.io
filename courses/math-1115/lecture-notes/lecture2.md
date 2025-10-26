@@ -157,5 +157,14 @@ The product or quotient of two numbers has a <strong>positive</strong> sign if t
   <li>\( |7 - 17| \)</li>
 </ol>
 
+<h3>Exercise</h3>
+<p>Compute:</p>
+<ol type="a">
+  <li>\( |4| + |-2| \)</li>
+  <li>\( \left|\dfrac{15}{-5}\right| \)</li>
+  <li>\( |7 - 17| \)</li>
+</ol>
+
+
 
 [⬅ Back to Lecture Index]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
