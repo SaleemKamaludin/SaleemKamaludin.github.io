@@ -166,5 +166,10 @@ The product or quotient of two numbers has a <strong>positive</strong> sign if t
 </ol>
 
 
+<h2 id="sec-fractions">Fractions and Reciprocals</h2>
+<p>
+A fraction \( \dfrac{p}{q} \) consists of a <em>numerator</em> \( p \) and a
+<em>denominator</em> \( q \), where \( q \ne 0 \).
+</p>
 
 [⬅ Back to Lecture Index]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
