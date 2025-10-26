@@ -143,6 +143,12 @@ The product or quotient of two numbers has a <strong>positive</strong> sign if t
   </p>
 </div>
 
+<div style="border-left:4px solid #6366f1; background:#eef2ff; padding:1em; border-radius:6px; margin:1em 0;">
+  <strong>Example B – Nested absolute values</strong><br><br>
+  Evaluate \( \left|\,5 - |7 - 12|\,\right| \).<br><br>
+  First \( |7 - 12| = 5 \), so the expression becomes \( \left|\,5 - 5\,\right| = 0 \).
+</div>
+
 
 
 [⬅ Back to Lecture Index]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
