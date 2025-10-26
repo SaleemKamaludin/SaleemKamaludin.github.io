@@ -124,6 +124,15 @@ The product or quotient of two numbers has a <strong>positive</strong> sign if t
 <p>Thus \( |x| \) measures the distance of \(x\) from \(0\) on the real line.</p>
 
 
+<h3>Core Properties</h3>
+<p>For all real \(x, y\) with \(y \ne 0\),</p>
+<p style="text-align:center;">
+  \(
+  |xy| = |x|\,|y|, \qquad
+  \left|\frac{x}{y}\right| = \frac{|x|}{|y|}, \qquad
+  |x - y| = |y - x|.
+  \)
+</p>
 
 
 
