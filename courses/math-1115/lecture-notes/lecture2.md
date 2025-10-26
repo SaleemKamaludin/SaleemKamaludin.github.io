@@ -149,6 +149,13 @@ The product or quotient of two numbers has a <strong>positive</strong> sign if t
   First \( |7 - 12| = 5 \), so the expression becomes \( \left|\,5 - 5\,\right| = 0 \).
 </div>
 
+<h3>Exercise</h3>
+<p>Compute:</p>
+<ol type="a">
+  <li>\( |4| + |-2| \)</li>
+  <li>\( \left|\dfrac{15}{-5}\right| \)</li>
+  <li>\( |7 - 17| \)</li>
+</ol>
 
 
 [⬅ Back to Lecture Index]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
