@@ -111,6 +111,19 @@ The product or quotient of two numbers has a <strong>positive</strong> sign if t
 
 
 
+<h2 id="sec-modulus">The Modulus (Absolute Value) Function</h2>
+<p>For any real number \(x\),</p>
+<p style="text-align:center;">
+  \(
+  |x|=\begin{cases}
+  x, & x \ge 0,\\
+  -x, & x < 0.
+  \end{cases}
+  \)
+</p>
+<p>Thus \( |x| \) measures the distance of \(x\) from \(0\) on the real line.</p>
+
+
 
 
 
