@@ -181,4 +181,11 @@ A fraction \( \dfrac{p}{q} \) consists of a <em>numerator</em> \( p \) and a
 </ul>
 
 
+<h3>Conversions (Recap)</h3>
+<p>To convert \( 8\dfrac{3}{4} \) into an improper fraction:</p>
+<p style="text-align:center;">
+  \( 8 + \frac{3}{4} = \frac{8 \cdot 4 + 3}{4} = \frac{35}{4}. \)
+</p>
+
+
 [⬅ Back to Lecture Index]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
