@@ -172,4 +172,13 @@ A fraction \( \dfrac{p}{q} \) consists of a <em>numerator</em> \( p \) and a
 <em>denominator</em> \( q \), where \( q \ne 0 \).
 </p>
 
+
+<h3>Types</h3>
+<ul>
+  <li><strong>Proper:</strong> \( |p| < |q| \) (value \(< 1\)), e.g. \( \tfrac{3}{4} \).</li>
+  <li><strong>Improper:</strong> \( |p| > |q| \), e.g. \( \tfrac{4}{3} \).</li>
+  <li><strong>Mixed:</strong> integer \( \pm \) proper fraction, e.g. \( 4\tfrac{2}{3} \).</li>
+</ul>
+
+
 [⬅ Back to Lecture Index]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
