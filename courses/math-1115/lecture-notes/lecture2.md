@@ -191,5 +191,17 @@ A fraction \( \dfrac{p}{q} \) consists of a <em>numerator</em> \( p \) and a
 </p>
 
 
+<h3>Reciprocals and Division</h3>
+<p>
+The <em>reciprocal</em> of \( x \), where \( x \ne 0 \), is \( \dfrac{1}{x} \).  
+To divide fractions, multiply by the reciprocal of the second:
+</p>
+<p style="text-align:center;">
+  \( \frac{2}{5} \div \frac{3}{4}
+  = \frac{2}{5} \cdot \frac{4}{3}
+  = \frac{8}{15}. \)
+</p>
+
+
 
 [⬅ Back to Lecture Index]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
