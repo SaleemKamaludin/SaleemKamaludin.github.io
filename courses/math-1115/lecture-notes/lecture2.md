@@ -181,5 +181,15 @@ A fraction \( \dfrac{p}{q} \) consists of a <em>numerator</em> \( p \) and a
   \( 8 + \frac{3}{4} = \frac{8 \cdot 4 + 3}{4} = \frac{35}{4}. \)
 </p>
 
+<h3>Addition and Subtraction</h3>
+<p>Find a common denominator:</p>
+<p style="text-align:center;">
+  \( \frac{25}{2} + \frac{38}{7}
+  = \frac{175 + 76}{14}
+  = \frac{251}{14}
+  = 17\dfrac{13}{14}. \)
+</p>
+
+
 
 [⬅ Back to Lecture Index]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
