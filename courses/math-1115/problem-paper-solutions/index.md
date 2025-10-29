@@ -25,7 +25,7 @@ permalink: /courses/math-1115/problem-paper-solutions/
 
   <a class="card" href="{{ '/courses/math-1115/problem-paper-solutions/pp6/' | relative_url }}">
     <h3>Problem Paper 6</h3>
-    <p>Ratios.</p>
+    <p>Linear regression and Coordinate Geometry.</p>
   </a>
   </div>
 
