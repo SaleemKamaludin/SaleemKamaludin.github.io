@@ -22,3 +22,5 @@ permalink: /courses/math-1115/problem-paper-solutions/
     <p>Ratios.</p>
   </a>
   </div>
+
+- [Problem Paper 6 — Solutions]({{ '/courses/math-1115/problem-paper-solutions/pp6/' | relative_url }})
