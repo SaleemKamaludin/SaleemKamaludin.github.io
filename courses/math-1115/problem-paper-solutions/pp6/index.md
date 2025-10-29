@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "MATH 1115 — Problem Paper 6 Solutions"
 permalink: /courses/math-1115/problem-paper-solutions/pp6/
 ---
