@@ -23,9 +23,12 @@ permalink: /courses/math-1115/problem-paper-solutions/
   </a>
   </div>
 
-  <a class="card" href="{{ '/courses/math-1115/problem-paper-solutions/pp6/' | relative_url }}">
-    <h3>Problem Paper 6</h3>
-    <p>Linear regression and Coordinate Geometry.</p>
+ <h3>Problem Paper 6</h3>
+<p>Linear regression and Coordinate Geometry.</p>
+<p>
+  <a class="btn" href="{{ '/courses/math-1115/problem-paper-solutions/pp6/' | relative_url }}">
+    View solutions
   </a>
-  </div>
+</p>
+
 
