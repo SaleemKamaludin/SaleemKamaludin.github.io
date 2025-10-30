@@ -42,6 +42,12 @@ permalink: /courses/math-1115/problem-paper-solutions/pp6/
 </details>
 
 
+<script>
+  window.MathJax = { tex: { inlineMath: [['\\(','\\)']], displayMath: [['\\[','\\]']] } };
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
+
+
 <a class="btn" href="{{ '/courses/math-1115/problem-paper-solutions/' | relative_url }}">← Back to Problem Paper Solutions</a>
 &nbsp;
 <a class="btn" href="{{ '/courses/math-1115/problem-paper-solutions/pp6/pp6-solutions.pdf' | relative_url }}">Download PDF</a>
