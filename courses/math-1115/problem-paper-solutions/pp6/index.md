@@ -82,6 +82,43 @@ permalink: /courses/math-1115/problem-paper-solutions/pp6/
 
 
 
+<details open>
+  <summary><strong>Q4(c)</strong> — Solve the system</summary>
+
+  <h4>Given</h4>
+  <p>
+    $$\begin{aligned}
+      2x + y &= 1 \quad &(1)\\
+      3x + 4y &= 14 \quad &(2)
+    \end{aligned}$$
+  </p>
+
+  <h4>Step 1: Multiply (1) by 4</h4>
+  <p>
+    $$8x + 4y = 4 \quad (3)$$
+  </p>
+
+  <h4>Step 2: Eliminate \(y\) using (3) − (2)</h4>
+  <p>
+    $$\begin{aligned}
+      (8x + 4y) - (3x + 4y) &= 4 - 14 \\
+      5x &= -10 \\
+      x &= -2
+    \end{aligned}$$
+  </p>
+
+  <h4>Step 3: Substitute \(x=-2\) into (2)</h4>
+  <p>
+    $$\begin{aligned}
+      3(-2) + 4y &= 14 \\
+      -6 + 4y &= 14 \\
+      4y &= 20 \\
+      y &= 5
+    \end{aligned}$$
+  </p>
+
+  <p><strong>Conclusion:</strong> The solution is \(\boxed{(x,y)=(-2,\,5)}\).</p>
+</details>
 
 
 
