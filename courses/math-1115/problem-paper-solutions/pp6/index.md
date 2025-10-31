@@ -122,6 +122,37 @@ permalink: /courses/math-1115/problem-paper-solutions/pp6/
 
 
 
+<details open>
+  <summary><strong>Q4(d)</strong> — Solve the system</summary>
+
+  <h4>Given</h4>
+  <p>
+    $$\begin{aligned}
+      3x + 2y &= 14 \quad &(1)\\
+      x - 2y &= 2 \quad &(2)
+    \end{aligned}$$
+  </p>
+
+  <h4>Step 1: Add equations (1) and (2)</h4>
+  <p>
+    $$\begin{aligned}
+      (3x + 2y) + (x - 2y) &= 14 + 2 \\
+      4x &= 16 \\
+      x &= 4
+    \end{aligned}$$
+  </p>
+
+  <h4> Substitute \(x = 4\) into (2)</h4>
+  <p>
+    $$\begin{aligned}
+      4 - 2y &= 2 \\
+      -2y &= -2 \\
+      y &= 1
+    \end{aligned}$$
+  </p>
+
+  <p><strong>Conclusion:</strong> The solution is \(\boxed{(x, y) = (4,\,1)}\).</p>
+</details>
 
 
 
