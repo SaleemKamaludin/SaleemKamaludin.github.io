@@ -47,6 +47,37 @@ permalink: /courses/math-1115/problem-paper-solutions/pp6/
 
 
 
+<details open>
+  <summary><strong>Q4(b)</strong> — Solve the system</summary>
+
+  <h4>Given</h4>
+  <p>
+    $$\begin{aligned}
+      5y - 2x &= -2 \quad &(1)\\
+      4x - 10y &= 4 \quad &(2)
+    \end{aligned}$$
+  </p>
+
+  <h4>Step 1: Multiply equation (1) by 2</h4>
+  <p>
+    $$10y - 4x = -4 \quad (3)$$
+  </p>
+
+  <h4>Step 2: Compare equations (2) and (3)</h4>
+  <p>
+    $$\begin{cases}
+      -4x + 10y = -4 \\
+      4x - 10y = 4
+    \end{cases}$$
+  </p>
+
+  <p>
+    Notice that equation (3) is a scalar multiple of equation (2).  
+    Hence, the two equations are <strong>dependent</strong>; they represent the same line.
+  </p>
+
+  <p><strong>Conclusion:</strong> There are infinitely many solutions.</p>
+</details>
 
 
 
