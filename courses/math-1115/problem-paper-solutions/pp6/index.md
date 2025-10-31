@@ -156,6 +156,74 @@ permalink: /courses/math-1115/problem-paper-solutions/pp6/
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<details open>
+  <summary><strong>Q5(a)</strong> — Descriptive totals for the regression dataset</summary>
+
+  <h4>Data</h4>
+  <table>
+    <thead>
+      <tr><th>x</th><th>y</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>2.1</td><td>2.4</td></tr>
+      <tr><td>3.2</td><td>3.6</td></tr>
+      <tr><td>4.2</td><td>4.8</td></tr>
+      <tr><td>5.2</td><td>5.5</td></tr>
+      <tr><td>6.0</td><td>7.2</td></tr>
+    </tbody>
+  </table>
+
+  <ol type="i">
+    <li>
+      \(\displaystyle \sum x_i = 20.7\)
+    </li>
+    <li>
+      \(\displaystyle \sum x_i^{2} = 95.33\)
+    </li>
+    <li>
+      \(\displaystyle \sum y_i = 23.5\)
+    </li>
+    <li>
+      \(\displaystyle \sum y_i^{2} = 123.85\)
+    </li>
+    <li>
+      \(\displaystyle \sum x_i y_i = 108.52\)
+    </li>
+    <li>
+      \(\displaystyle \bar{x}=\frac{\sum x_i}{n}=\frac{20.7}{5}=4.14\)
+    </li>
+    <li>
+      \(\displaystyle \bar{y}=\frac{\sum y_i}{n}=\frac{23.5}{5}=4.7\)
+    </li>
+  </ol>
+
+  <p><em>Checked:</em> sums and products agree with the table values.</p>
+</details>
+
+
+
 <a class="btn" href="{{ '/courses/math-1115/problem-paper-solutions/' | relative_url }}">← Back to Problem Paper Solutions</a>
 &nbsp;
 <a class="btn" href="{{ '/courses/math-1115/problem-paper-solutions/pp6/pp6-solutions.pdf' | relative_url }}">Download PDF</a>
