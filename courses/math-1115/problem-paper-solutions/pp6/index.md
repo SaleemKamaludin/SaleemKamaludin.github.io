@@ -177,23 +177,52 @@ permalink: /courses/math-1115/problem-paper-solutions/pp6/
 
 
 
+<!-- Place this style block once on the page (above the table is fine) -->
+<style>
+  .mini-table{
+    width:100%;
+    max-width:420px;
+    border-collapse:separate;
+    border-spacing:0;
+    margin:.5rem 0 1rem;
+    font-variant-numeric: tabular-nums;
+  }
+  .mini-table caption{
+    caption-side: top;
+    text-align:left;
+    font-weight:600;
+    margin-bottom:.25rem;
+  }
+  .mini-table th,
+  .mini-table td{
+    padding:.45rem .65rem;
+    border-bottom:1px solid #e9eef5;
+  }
+  .mini-table thead th{
+    background:#f7f9fc;
+    font-weight:700;
+    letter-spacing:.02em;
+  }
+  .mini-table th{ text-align:right; }
+  .mini-table td{ text-align:right; }
+  .mini-table tr:nth-child(even) td{ background:#fcfdff; }
+  .mini-table tr:hover td{ background:#f4f8ff; }
+</style>
 
-<details open>
-  <summary><strong>Q5(a)</strong> — Descriptive totals for the regression dataset</summary>
+<table class="mini-table">
+  <caption>Data</caption>
+  <thead>
+    <tr><th>x</th><th>y</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>2.1</td><td>2.4</td></tr>
+    <tr><td>3.2</td><td>3.6</td></tr>
+    <tr><td>4.2</td><td>4.8</td></tr>
+    <tr><td>5.2</td><td>5.5</td></tr>
+    <tr><td>6.0</td><td>7.2</td></tr>
+  </tbody>
+</table>
 
-  <h4>Data</h4>
-  <table>
-    <thead>
-      <tr><th>x</th><th>y</th></tr>
-    </thead>
-    <tbody>
-      <tr><td>2.1</td><td>2.4</td></tr>
-      <tr><td>3.2</td><td>3.6</td></tr>
-      <tr><td>4.2</td><td>4.8</td></tr>
-      <tr><td>5.2</td><td>5.5</td></tr>
-      <tr><td>6.0</td><td>7.2</td></tr>
-    </tbody>
-  </table>
 
   <ol type="i">
     <li>
