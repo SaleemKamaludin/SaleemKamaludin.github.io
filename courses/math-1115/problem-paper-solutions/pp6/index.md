@@ -254,6 +254,15 @@ permalink: /courses/math-1115/problem-paper-solutions/pp6/
 
 
 
+<ol type="i" class="spaced-list">
+  <li>\(\displaystyle \sum x_i = 20.7\)</li>
+  <li>\(\displaystyle \sum x_i^2 = 95.33\)</li>
+  <li>\(\displaystyle \sum y_i = 23.5\)</li>
+  <li>\(\displaystyle \sum y_i^2 = 123.85\)</li>
+  <li>\(\displaystyle \sum x_i y_i = 108.52\)</li>
+  <li>\(\displaystyle \bar{x} = \frac{\sum x_i}{n} = \frac{20.7}{5} = 4.14\)</li>
+  <li>\(\displaystyle \bar{y} = \frac{\sum y_i}{n} = \frac{23.5}{5} = 4.7\)</li>
+</ol>
 
 
 
