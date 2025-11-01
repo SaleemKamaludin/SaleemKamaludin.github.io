@@ -240,6 +240,32 @@ permalink: /courses/math-1115/problem-paper-solutions/pp6/
 </table>
 
 
+
+
+
+
+
+<style>
+  .spaced-list li {
+    margin-bottom: 1rem;  /* adjust spacing between items */
+  }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   <ol type="i">
     <li>
       \(\displaystyle \sum x_i = 20.7\)
