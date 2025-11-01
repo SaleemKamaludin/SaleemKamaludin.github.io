@@ -249,6 +249,42 @@ permalink: /courses/math-1115/problem-paper-solutions/pp6/
   </ol>
 
   <p><em>Checked:</em> sums and products agree with the table values.</p>
+
+
+
+
+<details open>
+  <summary><strong>Q5(b)</strong> — Compute the regression coefficients</summary>
+
+  <p>The simple linear regression model is \( y = a_0 + a_1 x \).</p>
+
+  <h4>Slope \(a_1\)</h4>
+  <p>
+    $$a_1=\frac{\,n\sum x_i y_i-\left(\sum x_i\right)\left(\sum y_i\right)\,}{\,n\sum x_i^{2}-\left(\sum x_i\right)^2\,}$$
+  </p>
+  <p>
+    $$\begin{aligned}
+      a_1
+      &= \frac{(5)(108.52)-(20.7)(23.5)}{(5)(95.33)-(20.7)^2} \\
+      &= \frac{542.60-486.45}{476.65-428.49} \\
+      &= \frac{56.15}{48.16}
+      \;\approx\; \boxed{1.1659}
+    \end{aligned}$$
+  </p>
+
+  <h4>Intercept \(a_0\)</h4>
+  <p>Using \(\bar x=4.14\) and \(\bar y=4.7\):</p>
+  <p>
+    $$\begin{aligned}
+      a_0 &= \bar y - a_1 \bar x \\
+          &= 4.7 - (1.1659)(4.14) \\
+          &\approx \boxed{-0.1268}
+    \end{aligned}$$
+  </p>
+
+  <p><strong>Regression line (to 4 d.p.):</strong>
+    \(\displaystyle \boxed{\hat y = -0.1268 + 1.1659\,x}\).
+  </p>
 </details>
 
 
