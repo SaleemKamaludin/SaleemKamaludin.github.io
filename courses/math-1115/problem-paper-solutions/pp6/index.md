@@ -367,6 +367,83 @@ $$</p>
 </details>
 
 
+
+<!-- Minimal step card styling (include once on the page) -->
+<style>
+  .calc-card{
+    border-left: 4px solid #0ea5e9; /* accent */
+    background:#f8fafc;
+    padding:1rem 1.1rem;
+    border-radius:.5rem;
+    margin:.75rem 0 1.25rem;
+  }
+  .calc-card h4{ margin:.1rem 0 .6rem; font-weight:700; color:#0b6ea9; }
+</style>
+
+<details open>
+  <summary><strong>Q5(e)</strong> — Pearson correlation coefficient \(r\)</summary>
+
+  <div class="calc-card">
+    <h4>Formula</h4>
+    <p>
+      $$r=\frac{\,n\sum x_i y_i-\left(\sum x_i\right)\left(\sum y_i\right)\,}
+      {\sqrt{\Big(n\sum x_i^2-\left(\sum x_i\right)^2\Big)
+             \Big(n\sum y_i^2-\left(\sum y_i\right)^2\Big)}}$$
+    </p>
+  </div>
+
+  <div class="calc-card">
+    <h4>Values from parts (a)–(b)</h4>
+    <p>
+      $$\sum x_i=20.7,\quad \sum y_i=23.5,\quad
+        \sum x_i^2=95.33,\quad \sum y_i^2=123.85,\quad
+        \sum x_i y_i=108.52,\quad n=5.$$
+    </p>
+  </div>
+
+  <div class="calc-card">
+    <h4>Numerator</h4>
+    <p>
+      $$\begin{aligned}
+        N &= n\sum x_i y_i-\left(\sum x_i\right)\left(\sum y_i\right) \\[8pt]
+          &= (5)(108.52)-(20.7)(23.5) \\[4pt]
+          &= 542.60-486.45 \\[4pt]
+          &= 56.15
+      \end{aligned}$$
+    </p>
+  </div>
+
+  <div class="calc-card">
+    <h4>Denominator terms</h4>
+    <p>
+      $$\begin{aligned}
+        A &= n\sum x_i^2-\left(\sum x_i\right)^2
+           =(5)(95.33)-(20.7)^2=48.16 \\[8pt]
+        B &= n\sum y_i^2-\left(\sum y_i\right)^2
+           =(5)(123.85)-(23.5)^2 \\[4pt]
+          &= 619.25-552.25 \\[4pt]
+          &= 67.00
+      \end{aligned}$$
+    </p>
+  </div>
+
+  <div class="calc-card">
+    <h4>Compute \(r\)</h4>
+    <p>
+      $$\begin{aligned}
+        r &= \frac{56.15}{\sqrt{(48.16)(67.00)}} \\[8pt]
+          &= \frac{56.15}{\sqrt{3226.72}} \\[8pt]
+          &= \frac{56.15}{56.8042} \\[4pt]
+          &\approx \boxed{0.988} \;\;(\text{about }0.99\text{ to 2 d.p.})
+      \end{aligned}$$
+    </p>
+  </div>
+
+  <p><strong>Interpretation:</strong> \(r\approx0.99\) indicates a very strong positive linear relationship between \(x\) and \(y\) for this dataset.</p>
+</details>
+
+
+
 <a class="btn" href="{{ '/courses/math-1115/problem-paper-solutions/' | relative_url }}">← Back to Problem Paper Solutions</a>
 &nbsp;
 <a class="btn" href="{{ '/courses/math-1115/problem-paper-solutions/pp6/pp6-solutions.pdf' | relative_url }}">Download PDF</a>
