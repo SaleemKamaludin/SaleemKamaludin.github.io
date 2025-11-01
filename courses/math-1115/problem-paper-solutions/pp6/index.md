@@ -83,6 +83,15 @@ permalink: /courses/math-1115/problem-paper-solutions/pp6/
 
 
 
+
+
+
+
+
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #dbeafe, #60a5fa, #dbeafe); margin: 2rem 0;">
+
+
+
 <details open>
   <summary><strong>Q4(c)</strong> — Solve the system</summary>
 
@@ -121,6 +130,11 @@ permalink: /courses/math-1115/problem-paper-solutions/pp6/
   <p><strong>Conclusion:</strong> The solution is \(\boxed{(x,y)=(-2,\,5)}\).</p>
 </details>
 
+
+
+
+
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #dbeafe, #60a5fa, #dbeafe); margin: 2rem 0;">
 
 
 <details open>
@@ -168,6 +182,7 @@ permalink: /courses/math-1115/problem-paper-solutions/pp6/
 
 
 
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #dbeafe, #60a5fa, #dbeafe); margin: 2rem 0;">
 
 
 
@@ -252,6 +267,7 @@ permalink: /courses/math-1115/problem-paper-solutions/pp6/
   <p><em>Checked:</em> sums and products agree with the table values.</p>
 
 
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #dbeafe, #60a5fa, #dbeafe); margin: 2rem 0;">
 
 
 <details open>
@@ -287,6 +303,10 @@ $$</p>
     \(\displaystyle \boxed{\hat y = -0.1268 + 1.1659\,x}\).
   </p>
 </details>
+
+
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #dbeafe, #60a5fa, #dbeafe); margin: 2rem 0;">
+
 
 <details open>
   <summary><strong>Q5(c)</strong> — Regression equation</summary>
