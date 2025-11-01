@@ -23,12 +23,12 @@ permalink: /courses/math-1115/problem-paper-solutions/pp6/
     \end{aligned}$$
   </p>
 
-  <h4>Step 1: Make \(y\) the subject of (2)</h4>
+  <h4>Make \(y\) the subject of (2)</h4>
   <p>
     $$y = \tfrac{3}{2}x + 5 \quad (3)$$
   </p>
 
-  <h4>Step 2: Substitute (3) into (1)</h4>
+  <h4>Substitute (3) into (1)</h4>
   <p>
     $$\begin{aligned}
       3x - 2\!\left(\tfrac{3}{2}x + 5\right) &= 7 \\
