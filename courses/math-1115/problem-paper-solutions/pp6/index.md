@@ -58,12 +58,12 @@ permalink: /courses/math-1115/problem-paper-solutions/pp6/
     \end{aligned}$$
   </p>
 
-  <h4>Step 1: Multiply equation (1) by 2</h4>
+  <h4>Multiply equation (1) by 2</h4>
   <p>
     $$10y - 4x = -4 \quad (3)$$
   </p>
 
-  <h4>Step 2: Compare equations (2) and (3)</h4>
+  <h4>Compare equations (2) and (3)</h4>
   <p>
     $$\begin{cases}
       -4x + 10y = -4 \\
