@@ -336,6 +336,37 @@ $$</p>
 
 
 
+
+<details open>
+  <summary><strong>Q5(d)(ii)</strong> — Find \(x\) when \(y = 2.5\)</summary>
+
+  <p>From the regression equation:</p>
+  <p>
+    $$\hat{y} = -0.1268 + 1.1659x$$
+  </p>
+
+  <h4>Step 1: Substitute \(y = 2.5\)</h4>
+  <p>
+    $$\begin{aligned}
+      2.5 &= -0.1268 + 1.1659x \\[8pt]
+      2.5 + 0.1268 &= 1.1659x \\[8pt]
+      2.6268 &= 1.1659x
+    \end{aligned}$$
+  </p>
+
+  <h4>Step 2: Solve for \(x\)</h4>
+  <p>
+    $$\begin{aligned}
+      x &= \frac{2.6268}{1.1659} \\[6pt]
+      &\approx 2.25 \\[4pt]
+      &\approx \boxed{2.3}
+    \end{aligned}$$
+  </p>
+
+  <p><strong>Result:</strong> When \(y = 2.5\), the estimated value of \(x\) is <strong>2.3</strong>.</p>
+</details>
+
+
 <a class="btn" href="{{ '/courses/math-1115/problem-paper-solutions/' | relative_url }}">← Back to Problem Paper Solutions</a>
 &nbsp;
 <a class="btn" href="{{ '/courses/math-1115/problem-paper-solutions/pp6/pp6-solutions.pdf' | relative_url }}">Download PDF</a>
