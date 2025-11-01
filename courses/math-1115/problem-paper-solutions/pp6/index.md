@@ -133,7 +133,7 @@ permalink: /courses/math-1115/problem-paper-solutions/pp6/
     \end{aligned}$$
   </p>
 
-  <h4>Step 1: Add equations (1) and (2)</h4>
+  <h4>Add equations (1) and (2)</h4>
   <p>
     $$\begin{aligned}
       (3x + 2y) + (x - 2y) &= 14 + 2 \\
