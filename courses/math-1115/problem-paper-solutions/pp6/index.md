@@ -43,6 +43,7 @@ permalink: /courses/math-1115/problem-paper-solutions/pp6/
 
 
 
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #dbeafe, #60a5fa, #dbeafe); margin: 2rem 0;">
 
 
 
