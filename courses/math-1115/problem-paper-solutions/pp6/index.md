@@ -287,6 +287,19 @@ $$</p>
   </p>
 </details>
 
+<details open>
+  <summary><strong>Q5(c)</strong> — Regression equation</summary>
+
+  <p>The least-squares line is</p>
+  <p>
+    $$\hat{y} \;=\; a_0 + a_1 x
+      \;=\; -0.1268 \;+\; 1.1659\,x.$$
+  </p>
+
+  <p><em>(Coefficients from part (b); values shown to 4 d.p.)</em></p>
+</details>
+
+
 
 
 <a class="btn" href="{{ '/courses/math-1115/problem-paper-solutions/' | relative_url }}">← Back to Problem Paper Solutions</a>
