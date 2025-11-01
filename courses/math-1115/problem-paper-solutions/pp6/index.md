@@ -444,6 +444,81 @@ $$</p>
 
 
 
+
+
+
+
+
+
+
+
+
+<!-- (optional) keep if you didn't add it before on this page) -->
+<style>
+  .calc-card{
+    border-left: 4px solid #10b981; /* emerald accent */
+    background:#f8fafc;
+    padding:1rem 1.1rem;
+    border-radius:.5rem;
+    margin:.9rem 0 1.25rem;
+  }
+  .calc-card h4{ margin:.1rem 0 .6rem; font-weight:700; color:#0b6ea9; }
+</style>
+
+<details open>
+  <summary><strong>Q5(f)</strong> — Sample standard deviations \(S_x\) and \(S_y\)</summary>
+
+  <div class="calc-card">
+    <h4>Formulas</h4>
+    <p>
+      $$S_x=\sqrt{\frac{\sum (x_i-\bar x)^2}{n-1}}
+      =\sqrt{\frac{\;\;n\sum x_i^2-n\bar x^{\,2}\;\;}{n-1}},\qquad
+        S_y=\sqrt{\frac{\sum (y_i-\bar y)^2}{n-1}}
+      =\sqrt{\frac{\;\;n\sum y_i^2-n\bar y^{\,2}\;\;}{n-1}}.$$
+    </p>
+  </div>
+
+  <div class="calc-card">
+    <h4>Given (from earlier parts)</h4>
+    <p>
+      $$\sum x_i^2=95.33,\quad \sum y_i^2=123.85,\quad
+        \bar x=4.14,\quad \bar y=4.7,\quad n=5.$$
+    </p>
+  </div>
+
+  <div class="calc-card">
+    <h4>Compute \(S_x\)</h4>
+    <p>
+      $$\begin{aligned}
+        n\bar x^{\,2} &= 5(4.14)^2 = 5(17.1396) = 85.698 \\[8pt]
+        n\sum x_i^2 - n\bar x^{\,2} &= 95.33 - 85.698 = 9.632 \\[8pt]
+        S_x &= \sqrt{\frac{9.632}{\,5-1\,}}
+             = \sqrt{\frac{9.632}{4}}
+             = \sqrt{2.408} \\[6pt]
+            &\approx \boxed{1.55}
+      \end{aligned}$$
+    </p>
+  </div>
+
+  <div class="calc-card">
+    <h4>Compute \(S_y\)</h4>
+    <p>
+      $$\begin{aligned}
+        n\bar y^{\,2} &= 5(4.7)^2 = 5(22.09) = 110.45 \\[8pt]
+        n\sum y_i^2 - n\bar y^{\,2} &= 123.85 - 110.45 = 13.40 \\[8pt]
+        S_y &= \sqrt{\frac{13.40}{\,5-1\,}}
+             = \sqrt{\frac{13.40}{4}}
+             = \sqrt{3.35} \\[6pt]
+            &\approx \boxed{1.83}
+      \end{aligned}$$
+    </p>
+  </div>
+
+  <p><strong>Result:</strong> \(S_x \approx 1.55\) and \(S_y \approx 1.83\) (2 d.p.).</p>
+</details>
+
+
+
 <a class="btn" href="{{ '/courses/math-1115/problem-paper-solutions/' | relative_url }}">← Back to Problem Paper Solutions</a>
 &nbsp;
 <a class="btn" href="{{ '/courses/math-1115/problem-paper-solutions/pp6/pp6-solutions.pdf' | relative_url }}">Download PDF</a>
