@@ -262,15 +262,15 @@ permalink: /courses/math-1115/problem-paper-solutions/pp6/
   <p>
     $$a_1=\frac{\,n\sum x_i y_i-\left(\sum x_i\right)\left(\sum y_i\right)\,}{\,n\sum x_i^{2}-\left(\sum x_i\right)^2\,}$$
   </p>
-  <p>
-    $$\begin{aligned}
-      a_1
-      &= \frac{(5)(108.52)-(20.7)(23.5)}{(5)(95.33)-(20.7)^2} \\
-      &= \frac{542.60-486.45}{476.65-428.49} \\
-      &= \frac{56.15}{48.16}
-      \;\approx\; \boxed{1.1659}
-    \end{aligned}$$
-  </p>
+  <p>$$
+\begin{aligned}
+a_1
+&= \frac{(5)(108.52)-(20.7)(23.5)}{(5)(95.33)-(20.7)^2} \\[8pt]
+&= \frac{542.60-486.45}{476.65-428.49} \\[8pt]
+&= \frac{56.15}{48.16} \approx \boxed{1.1659}
+\end{aligned}
+$$</p>
+
 
   <h4>Intercept \(a_0\)</h4>
   <p>Using \(\bar x=4.14\) and \(\bar y=4.7\):</p>
