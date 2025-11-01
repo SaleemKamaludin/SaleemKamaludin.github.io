@@ -302,6 +302,40 @@ $$</p>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+<details open>
+  <summary><strong>Q5(d)(i)</strong> — Substitute \(x = 1.5\) into the regression equation</summary>
+
+  <p>From part (c), the regression equation is:</p>
+  <p>
+    $$\hat{y} = -0.1268 + 1.1659x$$
+  </p>
+
+  <p>Substitute \(x = 1.5\):</p>
+  <p>
+    $$\begin{aligned}
+      \hat{y} &= -0.1268 + 1.1659(1.5) \\[6pt]
+      \hat{y} &= 1.62265 \\[4pt]
+      &\approx \boxed{1.6}
+    \end{aligned}$$
+  </p>
+
+  <p><strong>Predicted value:</strong> \(\hat{y} = 1.6\)</p>
+</details>
+
+
+
 <a class="btn" href="{{ '/courses/math-1115/problem-paper-solutions/' | relative_url }}">← Back to Problem Paper Solutions</a>
 &nbsp;
 <a class="btn" href="{{ '/courses/math-1115/problem-paper-solutions/pp6/pp6-solutions.pdf' | relative_url }}">Download PDF</a>
