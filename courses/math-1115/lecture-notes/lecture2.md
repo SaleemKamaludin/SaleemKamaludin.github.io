@@ -294,5 +294,9 @@ To divide fractions, multiply by the reciprocal of the second:
 </div>
 
 
+<h2 id="sec-factorials">Factorials</h2>
+
+
+
 
 [⬅ Back to Lecture Index]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
