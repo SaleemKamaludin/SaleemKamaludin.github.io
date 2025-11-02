@@ -271,6 +271,12 @@ To divide fractions, multiply by the reciprocal of the second:
 </div>
 
 
+<h2 id="sec-decimals">Decimals to Fractions</h2>
+<p>Write the decimal digits over an appropriate power of 10 and simplify:</p>
+<p style="text-align:center;">
+  \( 0.28 = \frac{28}{10^2} = \frac{7}{25}, \qquad
+     1.25 = 1 + \frac{25}{100} = 1\dfrac{1}{4}. \)
+</p>
 
 
 [⬅ Back to Lecture Index]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
