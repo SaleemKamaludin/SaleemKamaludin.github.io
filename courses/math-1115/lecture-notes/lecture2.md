@@ -279,4 +279,20 @@ To divide fractions, multiply by the reciprocal of the second:
 </p>
 
 
+
+
+
+
+<div style="border-left:4px solid #10b981; background:#ecfdf5; padding:1em; border-radius:6px; margin:1em 0;">
+  <strong>Example C – Repeating decimals</strong><br><br>
+  Express \( 0.\overline{36} \) as a fraction.<br><br>
+  Let \( x = 0.\overline{36} \). Then \( 100x = 36.\overline{36} \).<br><br>
+  Subtract:<br>
+  <p style="text-align:center;">
+    \( 99x = 36 \implies x = \frac{36}{99} = \frac{4}{11}. \)
+  </p>
+</div>
+
+
+
 [⬅ Back to Lecture Index]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
