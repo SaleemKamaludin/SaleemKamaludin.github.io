@@ -204,4 +204,73 @@ To divide fractions, multiply by the reciprocal of the second:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="border-left:4px solid #007acc; background:#f4faff; padding:1.2em; border-radius:6px; margin:1.2em 0;">
+  <strong>Example</strong><br><br>
+  <em>Evaluate:</em><br><br>
+
+  <strong>a)</strong> \( \dfrac{3}{4} \times 1\dfrac{7}{9} \)<br>
+  Convert to improper fraction:<br>
+  <p style="text-align:center;">
+    \( 1\dfrac{7}{9} = \frac{16}{9}, \quad \text{so} \quad \frac{3}{4} \times \frac{16}{9} = \frac{48}{36} = \frac{4}{3}. \)
+  </p>
+
+  <hr style="border:none; border-top:1px solid #ccc;">
+
+  <strong>b)</strong> \( 3\dfrac{1}{4} - 2\dfrac{3}{8} \)<br>
+  Convert to improper fractions:<br>
+  <p style="text-align:center;">
+    \( 3\dfrac{1}{4} = \frac{13}{4}, \quad 2\dfrac{3}{8} = \frac{19}{8} \)<br>
+    \( \frac{13}{4} - \frac{19}{8} = \frac{26}{8} - \frac{19}{8} = \frac{7}{8}. \)
+  </p>
+
+  <hr style="border:none; border-top:1px solid #ccc;">
+
+  <strong>c)</strong> \( 7\dfrac{2}{3} + 6\dfrac{3}{5} \)<br>
+  Convert to improper fractions:<br>
+  <p style="text-align:center;">
+    \( 7\dfrac{2}{3} = \frac{23}{3}, \quad 6\dfrac{3}{5} = \frac{33}{5} \)<br>
+    \( \frac{23}{3} + \frac{33}{5} = \frac{115}{15} + \frac{99}{15} = \frac{214}{15} = 14\dfrac{4}{15}. \)
+  </p>
+
+  <hr style="border:none; border-top:1px solid #ccc;">
+
+  <strong>d)</strong> \( \dfrac{5}{8} \div \dfrac{15}{32} \)<br>
+  Multiply by the reciprocal:<br>
+  <p style="text-align:center;">
+    \( \frac{5}{8} \div \frac{15}{32} = \frac{5}{8} \times \frac{32}{15} = \frac{160}{120} = \frac{4}{3}. \)
+  </p>
+</div>
+
+
+
+
 [⬅ Back to Lecture Index]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
