@@ -336,5 +336,15 @@ Quantities \( x \) and \( y \) are <strong>directly proportional</strong> (\( x 
 A percentage is a fraction with denominator \( 100 \).
 </p>
 
+<div style="border-left:4px solid #22c55e; background:#f0fdf4; padding:1em; border-radius:6px; margin:1em 0;">
+  <strong>Example</strong><br><br>
+  A chair bought for \$1000 is sold for \$1200.<br>
+  Profit \( = 1200 - 1000 = 200 \); hence
+  <p style="text-align:center; margin-top:0.6em;">
+    \( \text{Profit \%} = \frac{200}{1000} \times 100 = 20\%.\)
+  </p>
+</div>
+
+
 
 [⬅ Back to Lecture Index]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
