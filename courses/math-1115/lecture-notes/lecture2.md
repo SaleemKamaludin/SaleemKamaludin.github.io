@@ -316,5 +316,10 @@ To divide fractions, multiply by the reciprocal of the second:
 </div>
 
 
+<h2 id="sec-ratios">Ratios, Proportions and Percentages</h2>
+<p>
+A <em>ratio</em> compares two quantities, \( a : b = \dfrac{a}{b} \).  
+A <em>proportion</em> is an equality of two ratios.
+</p>
 
 [⬅ Back to Lecture Index]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
