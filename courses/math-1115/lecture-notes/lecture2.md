@@ -297,6 +297,12 @@ To divide fractions, multiply by the reciprocal of the second:
 <h2 id="sec-factorials">Factorials</h2>
 
 
+<div style="border-left:4px solid #007acc; background:#f4faff; padding:1em; border-radius:6px; margin:1em 0;">
+  <strong>Example</strong>
+  <p style="text-align:center; margin-top:0.6em;">
+    \( \frac{7!}{5!} = 7 \cdot 6 = 42. \)
+  </p>
+</div>
 
 
 [⬅ Back to Lecture Index]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
