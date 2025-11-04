@@ -331,4 +331,10 @@ Quantities \( x \) and \( y \) are <strong>directly proportional</strong> (\( x 
 </p>
 
 
+<h3>Percentages</h3>
+<p>
+A percentage is a fraction with denominator \( 100 \).
+</p>
+
+
 [⬅ Back to Lecture Index]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
