@@ -305,4 +305,16 @@ To divide fractions, multiply by the reciprocal of the second:
 </div>
 
 
+<div style="border-left:4px solid #0ea5e9; background:#f0f9ff; padding:1em; border-radius:6px; margin:1em 0;">
+  <strong>Example D – Simplifying large ratios</strong><br><br>
+  Show that \( \dfrac{10!}{8!\,2!} = 45 \).
+  <p style="text-align:center; margin-top:0.6em;">
+    \( \frac{10 \cdot 9 \cdot 8!}{8! \cdot 2!}
+    = \frac{10 \cdot 9}{2}
+    = 45. \)
+  </p>
+</div>
+
+
+
 [⬅ Back to Lecture Index]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
