@@ -322,4 +322,13 @@ A <em>ratio</em> compares two quantities, \( a : b = \dfrac{a}{b} \).
 A <em>proportion</em> is an equality of two ratios.
 </p>
 
+
+<h3>Direct and Inverse Proportions</h3>
+<p>
+Quantities \( x \) and \( y \) are <strong>directly proportional</strong> (\( x \propto y \)) if
+\( \dfrac{x}{y} \) is constant;
+<strong>inversely proportional</strong> (\( x \propto \tfrac{1}{y} \)) if \( xy \) is constant.
+</p>
+
+
 [⬅ Back to Lecture Index]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
