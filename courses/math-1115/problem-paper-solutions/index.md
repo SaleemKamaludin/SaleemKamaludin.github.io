@@ -32,3 +32,7 @@ permalink: /courses/math-1115/problem-paper-solutions/
 </p>
 
 
+  <a class="card" href="{{ '/courses/math-1115/problem-paper-solutions/pp8/' | relative_url }}">
+    <h3>Problem Paper 8</h3>
+    <p>Worked solutions.</p>
+  </a>
