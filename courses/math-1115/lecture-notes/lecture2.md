@@ -354,5 +354,29 @@ A percentage is a fraction with denominator \( 100 \).
 </div>
 
 
+<div style="border-left:4px solid #10b981; background:#ecfdf5; padding:1.2em; border-radius:6px; margin:1.2em 0;">
+  <strong>Solution</strong><br><br>
+  To determine the mass of each component, we begin by recognizing that the total parts in the ratio are:
+  <p style="text-align:center;">
+    \( 2 + 3 + 5 = 10 \text{ parts.} \)
+  </p>
+
+  This means that copper constitutes \( \frac{2}{10} \) of the total mass, zinc accounts for \( \frac{3}{10} \), and tin for \( \frac{5}{10} \).
+  We now apply these proportions to the total mass of 75 kg.
+  <br><br>
+
+  <strong>Copper:</strong>
+  <p style="text-align:center;">\( \text{Cu} = 75 \times \frac{2}{10} = 15 \text{ kg} \)</p>
+
+  <strong>Zinc:</strong>
+  <p style="text-align:center;">\( \text{Zn} = 75 \times \frac{3}{10} = 22.5 \text{ kg} \)</p>
+
+  <strong>Tin:</strong>
+  <p style="text-align:center;">\( \text{Sn} = 75 \times \frac{5}{10} = 37.5 \text{ kg} \)</p>
+
+  Thus, the 75 kg alloy contains <strong>15 kg of copper</strong>, <strong>22.5 kg of zinc</strong>, and <strong>37.5 kg of tin</strong>.
+</div>
+
+
 
 [⬅ Back to Lecture Index]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
