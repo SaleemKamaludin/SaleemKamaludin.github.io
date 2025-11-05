@@ -7,6 +7,7 @@ permalink: /courses/math-1115/problem-paper-solutions/
 # Problem Paper Solutions
 
 <div class="card-grid">
+
   <a class="card" href="{{ '/courses/math-1115/problem-paper-solutions/pp1/' | relative_url }}">
     <h3>Problem Paper 1</h3>
     <p>Types of numbers.</p>
@@ -17,27 +18,21 @@ permalink: /courses/math-1115/problem-paper-solutions/
     <p>Numbers and ratios.</p>
   </a>
 
- <a class="card" href="{{ '/courses/math-1115/problem-paper-solutions/pp3/' | relative_url }}">
+  <a class="card" href="{{ '/courses/math-1115/problem-paper-solutions/pp3/' | relative_url }}">
     <h3>Problem Paper 3</h3>
     <p>Ratios.</p>
   </a>
-  </div>
 
- <h3>Problem Paper 6</h3>
-<p>Linear regression and Coordinate Geometry.</p>
-<p>
-  <a class="btn" href="{{ '/courses/math-1115/problem-paper-solutions/pp6/' | relative_url }}">
-    View solutions
+  <a class="card" href="{{ '/courses/math-1115/problem-paper-solutions/pp6/' | relative_url }}">
+    <h3>Problem Paper 6</h3>
+    <p>Linear regression and Coordinate Geometry.</p>
   </a>
-</p>
-
 
   <a class="card" href="{{ '/courses/math-1115/problem-paper-solutions/pp8/' | relative_url }}">
     <h3>Problem Paper 8</h3>
     <p>Worked solutions.</p>
   </a>
 
-  
 </div>
 
 <style>
