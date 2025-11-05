@@ -346,5 +346,13 @@ A percentage is a fraction with denominator \( 100 \).
 </div>
 
 
+<div style="border-left:4px solid #3b82f6; background:#eff6ff; padding:1em; border-radius:6px; margin:1em 0;">
+  <strong>Example 6.2 – Ratio application</strong><br><br>
+  An alloy is composed of copper, zinc, and tin in the ratio \( 2 : 3 : 5 \) respectively.<br>
+  Suppose a 75 kg sample of this alloy is produced.<br>
+  How much of each metal is present in the mixture?
+</div>
+
+
 
 [⬅ Back to Lecture Index]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
