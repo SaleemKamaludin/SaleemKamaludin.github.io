@@ -36,3 +36,27 @@ permalink: /courses/math-1115/problem-paper-solutions/
     <h3>Problem Paper 8</h3>
     <p>Worked solutions.</p>
   </a>
+
+  
+</div>
+
+<style>
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 16px;
+    margin-top: 1rem;
+  }
+  .card {
+    display: block;
+    padding: 1rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    background: #fafafa;
+    text-decoration: none;
+    color: inherit;
+  }
+  .card h3 { margin: 0 0 .25rem 0; font-size: 1.05rem; }
+  .card p  { margin: 0; color: #444; }
+  .card:hover { background: #f3f4f6; border-color: #d1d5db; }
+</style>
