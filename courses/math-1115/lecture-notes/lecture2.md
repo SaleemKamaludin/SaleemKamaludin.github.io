@@ -400,4 +400,13 @@ A percentage is a fraction with denominator \( 100 \).
 
 
 
+<h2 id="sec-answers">Appendix</h2>
+<h3>Answers to Selected Exercises</h3>
+<ul>
+  <li><strong>Exercise ex-neg1:</strong> (a)&nbsp;−6;&nbsp;(b)&nbsp;9;&nbsp;(c)&nbsp;0;&nbsp;(d)&nbsp;1;&nbsp;(e)&nbsp;14.</li>
+  <li>Remaining answers are left to the reader for practice.</li>
+</ul>
+
+
+
 [⬅ Back to Lecture Index]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
