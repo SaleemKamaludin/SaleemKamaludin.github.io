@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Problem Paper 8 — Worked Solutions (MATH 1115)"
+title: "Problem Paper 8 — Solutions "
 permalink: /courses/math-1115/problem-paper-solutions/pp8/
 description: "Fully worked, step-by-step solutions for Problem Paper 8."
 nav_order: 8
