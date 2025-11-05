@@ -379,4 +379,25 @@ A percentage is a fraction with denominator \( 100 \).
 
 
 
+
+
+
+
+
+
+
+
+
+<h3>Exercise</h3>
+<ol type="a">
+  <li>Divide \$800 in the ratio \( 5 : 3 \).</li>
+  <li>
+    Ten men make 500 articles in 5 days.  
+    How long for 15 men?  
+    <em>(Assume productivity is proportional to workers.)</em>
+  </li>
+</ol>
+
+
+
 [⬅ Back to Lecture Index]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
