@@ -6,7 +6,6 @@ description: "Fully worked, step-by-step solutions for Problem Paper 8."
 nav_order: 8
 ---
 
-# Problem Paper 8 — Worked Solutions
 
 
 
