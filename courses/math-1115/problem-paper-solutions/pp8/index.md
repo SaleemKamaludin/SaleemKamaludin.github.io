@@ -320,6 +320,77 @@ nav_order: 8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="pp8-q1vi">
+  <h3>Question 1(vi)</h3>
+  <p><strong>Express the following as partial fractions:</strong></p>
+  <p>
+    $$\frac{x^{4}+8}{x^{3}+8x}.$$
+  </p>
+
+  <details>
+    <summary><strong>Solution</strong> (click to expand)</summary>
+
+    <p>The degree of the numerator exceeds that of the denominator, so first do
+       polynomial division:
+    </p>
+    $$
+      \frac{x^{4}+8}{x^{3}+8x}
+      = x \;+\; \frac{\,8-8x^{2}\,}{x^{3}+8x}
+      = x \;+\; \frac{\,8-8x^{2}\,}{x(x^{2}+8)}.
+    $$
+
+    <p>Decompose the remainder term using
+      $$\frac{8-8x^{2}}{x(x^{2}+8)}=\frac{A}{x}+\frac{Bx+C}{x^{2}+8}.$$
+      Clearing denominators gives
+      $$8-8x^{2}=A(x^{2}+8)+(Bx+C)x=(A+B)x^{2}+Cx+8A.$$
+      Equating coefficients:
+      $$
+      \begin{cases}
+      -8=A+B,\\
+      0=C,\\
+      8=8A
+      \end{cases}
+      \;\Rightarrow\;
+      A=1,\quad B=-9,\quad C=0.
+      $$
+    </p>
+
+    <p>Therefore,
+      $$
+      \boxed{\displaystyle
+      \frac{x^{4}+8}{x^{3}+8x}
+      = x \;+\; \frac{1}{x} \;-\; \frac{9x}{x^{2}+8}}
+      $$
+      (equivalently \(x + \dfrac{1}{x} - \dfrac{9x}{x^{2}+8}\)).
+    </p>
+  </details>
+</section>
+
+
+
 <script>
 // Optional: "Expand All" / "Collapse All" helpers for convenience
 function setAllDetails(open) {
