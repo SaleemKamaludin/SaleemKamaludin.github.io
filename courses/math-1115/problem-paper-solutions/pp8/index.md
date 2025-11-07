@@ -108,6 +108,50 @@ nav_order: 8
 
 
 
+<section id="pp8-q1iii">
+  <h3>Question 1(iii)</h3>
+  <p><strong>Express the following as partial fractions:</strong></p>
+  <p>
+    $$\frac{2x^{2}+x+2}{(x+1)^{3}}.$$
+  </p>
+
+  <details>
+    <summary><strong>Solution</strong> (click to expand)</summary>
+
+    <p>For a repeated linear factor \((x+1)^{3}\), set
+      $$\frac{2x^{2}+x+2}{(x+1)^{3}}
+        = \frac{A}{x+1} + \frac{B}{(x+1)^{2}} + \frac{C}{(x+1)^{3}}.$$
+      Clearing denominators gives
+      $$2x^{2}+x+2 = A(x+1)^{2}+B(x+1)+C.$$
+    </p>
+
+    <p>Substitute \(x=-1\) to find \(C\):
+      \(2(-1)^{2}+(-1)+2 = C \Rightarrow 2-1+2=3 \Rightarrow C=3.\)
+    </p>
+
+    <p>Expand and compare coefficients:
+      \[
+      A(x+1)^{2}+B(x+1)+C
+      = A x^{2} + (2A+B)x + (A+B+C).
+      \]
+      Hence
+      \[
+      \begin{cases}
+      A = 2,\\
+      2A+B = 1 \Rightarrow B = -3,\\
+      A+B+C = 2 \quad(\text{checks with } C=3).
+      \end{cases}
+      \]
+    </p>
+
+    <p>Therefore,
+      $$\boxed{\displaystyle
+        \frac{2x^{2}+x+2}{(x+1)^{3}}
+        = \frac{2}{x+1} - \frac{3}{(x+1)^{2}} + \frac{3}{(x+1)^{3}}
+      }.$$
+    </p>
+  </details>
+</section>
 
 
 
