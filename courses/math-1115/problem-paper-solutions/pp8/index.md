@@ -46,6 +46,112 @@ nav_order: 8
 
 
 
+
+
+
+
+
+
+
+
+
+<section id="pp8-q1ii">
+  <h3>Question 1(ii)</h3>
+  <p><strong>Express the following as partial fractions:</strong></p>
+  <p>
+    $$\frac{4x-1}{(x+2)(x-6)}.$$
+  </p>
+
+  <details>
+    <summary><strong>Solution</strong> (click to expand)</summary>
+
+    <p>Assume constants \(A,B\) such that
+      $$\frac{4x-1}{(x+2)(x-6)}=\frac{A}{x+2}+\frac{B}{x-6}.$$
+      Clearing denominators gives
+      $$4x-1=A(x-6)+B(x+2).$$
+    </p>
+
+    <p>Let \(x=6\) to eliminate \(A\):
+      \(4(6)-1 = 8B \Rightarrow 23=8B \Rightarrow B=\dfrac{23}{8}\).
+      <br>
+      Let \(x=-2\) to eliminate \(B\):
+      \(4(-2)-1 = -8A \Rightarrow -9=-8A \Rightarrow A=\dfrac{9}{8}\).
+    </p>
+
+    <p>Therefore,
+      $$\boxed{\displaystyle
+        \frac{4x-1}{(x+2)(x-6)}
+        = \frac{9}{8}\cdot\frac{1}{x+2} + \frac{23}{8}\cdot\frac{1}{x-6}
+      }.$$
+    </p>
+
+    <p><em>Check.</em>
+      \(\dfrac{9}{8(x+2)}+\dfrac{23}{8(x-6)}
+       = \dfrac{9(x-6)+23(x+2)}{8(x+2)(x-6)}
+       = \dfrac{(9x-54)+(23x+46)}{8(x+2)(x-6)}
+       = \dfrac{32x-8}{8(x+2)(x-6)}
+       = \dfrac{4x-1}{(x+2)(x-6)}.\)
+    </p>
+  </details>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <script>
 // Optional: "Expand All" / "Collapse All" helpers for convenience
 function setAllDetails(open) {
