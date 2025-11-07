@@ -234,6 +234,92 @@ nav_order: 8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="pp8-q1v">
+  <h3>Question 1(v)</h3>
+  <p><strong>Express the following as partial fractions:</strong></p>
+  <p>
+    $$\frac{34}{(3x+5)\,(x^{2}+1)}.$$
+  </p>
+
+  <details>
+    <summary><strong>Solution</strong> (click to expand)</summary>
+
+    <p>Since \(x^{2}+1\) is irreducible over \(\mathbb{R}\), write
+      $$
+      \frac{34}{(3x+5)(x^{2}+1)}
+      = \frac{A}{3x+5} + \frac{Bx+C}{x^{2}+1}.
+      $$
+      Clearing denominators:
+      $$
+      34 = A(x^{2}+1) + (Bx+C)(3x+5).
+      $$
+    </p>
+
+    <p>Let \(x=-\tfrac{5}{3}\) so that \(3x+5=0\):
+      \[
+      34 = A\!\left(\left(-\tfrac{5}{3}\right)^{2}+1\right)
+      = A\!\left(\tfrac{25}{9}+1\right)
+      = A\!\left(\tfrac{34}{9}\right)
+      \Rightarrow A = 9.
+      \]
+    </p>
+
+    <p>Compare coefficients from
+      \(34 = (A+3B)x^{2} + (5B+3C)x + (A+5C)\):
+      \[
+      \begin{cases}
+      A+3B=0,\\
+      5B+3C=0,\\
+      A+5C=34.
+      \end{cases}
+      \qquad\Rightarrow\qquad
+      A=9,\; B=-3,\; C=5.
+      \]
+    </p>
+
+    <p>Hence,
+      $$
+      \boxed{\displaystyle
+        \frac{34}{(3x+5)(x^{2}+1)}
+        = \frac{9}{3x+5} + \frac{-3x+5}{x^{2}+1}
+      }
+      $$
+      (equivalently \( \frac{9}{3x+5}+\frac{5-3x}{x^{2}+1}\)).
+    </p>
+  </details>
+</section>
+
+
+
+
+
 <script>
 // Optional: "Expand All" / "Collapse All" helpers for convenience
 function setAllDetails(open) {
