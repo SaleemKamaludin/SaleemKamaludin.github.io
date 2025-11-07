@@ -188,6 +188,47 @@ nav_order: 8
 
 
 
+<section id="pp8-q1iv">
+  <h3>Question 1(iv)</h3>
+  <p><strong>Express the following as partial fractions:</strong></p>
+  <p>
+    $$\frac{4x^{2}+4}{(x-1)^{2}(x+1)}.$$
+  </p>
+
+  <details>
+    <summary><strong>Solution</strong> (click to expand)</summary>
+
+    <p>Because \((x-1)\) is repeated, write
+      $$
+      \frac{4x^{2}+4}{(x-1)^{2}(x+1)}
+      = \frac{A}{x-1}+\frac{B}{(x-1)^{2}}+\frac{C}{x+1}.
+      $$
+      Clearing denominators:
+      $$
+      4x^{2}+4 = A(x-1)(x+1) + B(x+1) + C(x-1)^{2}.
+      $$
+    </p>
+
+    <p>Let \(x=1\): \(4(1)^{2}+4 = 2B \Rightarrow 8=2B \Rightarrow B=4\).</p>
+    <p>Let \(x=-1\): \(4(-1)^{2}+4 = 4C \Rightarrow 8=4C \Rightarrow C=2\).</p>
+
+    <p>Use any convenient \(x\) (e.g. \(x=0\)) to find \(A\):  
+      \(4 = A(-1)(1) + 4(1) + 2(1)\Rightarrow 4 = -A+6 \Rightarrow A=2.\)
+    </p>
+
+    <p>Therefore,
+      $$
+      \boxed{\displaystyle
+      \frac{4x^{2}+4}{(x-1)^{2}(x+1)}
+      = \frac{2}{x-1}+\frac{4}{(x-1)^{2}}+\frac{2}{x+1}}
+      $$
+      (coefficients check: \(A+C=4\), \(B-2C=0\), \(-A+B+C=4\)).
+    </p>
+  </details>
+</section>
+
+
+
 
 
 
