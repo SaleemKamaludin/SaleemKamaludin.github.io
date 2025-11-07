@@ -30,7 +30,7 @@ permalink: /courses/math-1115/problem-paper-solutions/
 
   <a class="card" href="{{ '/courses/math-1115/problem-paper-solutions/pp8/' | relative_url }}">
     <h3>Problem Paper 8</h3>
-    <p>Worked solutions.</p>
+    <p>Partial fractions and logs</p>
   </a>
 
 </div>
