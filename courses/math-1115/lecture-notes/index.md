@@ -10,4 +10,7 @@ permalink: /courses/math-1115/lecture-notes/
 
 - [Lecture 2 — Manipulating Numbers, Ratios, Percentages and Proportions]({{ '/courses/math-1115/lecture-notes/lecture2/' | relative_url }})
 
+-  [Lecture 3 — Order of Operations and Brackets]({{ '/courses/math-1115/lecture-notes/lecture3/' | relative_url }})
+
+
 
