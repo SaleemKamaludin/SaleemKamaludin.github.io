@@ -112,6 +112,8 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
+<h2 id="integral-laws-of-indices">Integral Laws of Indices</h2>
+<p>The repeated multiplication viewpoint yields the familiar algebraic identities:</p>
 
 
 
