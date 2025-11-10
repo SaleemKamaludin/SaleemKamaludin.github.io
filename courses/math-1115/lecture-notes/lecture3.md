@@ -105,6 +105,10 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
+<p>
+  When \(n=2\), the expression \(a^{2}\) is read “\(a\) squared,” while \(a^{3}\) is read “\(a\) cubed.”
+  Special cases include \(0^{n}=0\) and \(1^{n}=1\) for every positive integer \(n\).
+</p>
 
 
 
