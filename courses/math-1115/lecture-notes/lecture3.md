@@ -119,7 +119,9 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+<div id="prop-integral-laws">
+  <p><strong>Proposition.</strong> For every non-zero real \(a\) and all integers \(m,n\),</p>
+  <p style="text-align:center;">
 
 
 
