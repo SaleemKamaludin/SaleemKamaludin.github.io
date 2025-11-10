@@ -98,6 +98,10 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
+<p>
+  ( \(n\) factors ). The number \(a\) is called the <em>base</em>, and \(n\) is the
+  <em>index</em> or <em>exponent</em>.
+</p>
 
 
 
