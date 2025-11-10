@@ -24,6 +24,97 @@ To ensure consistency, these operations must be performed in a **specific order*
 </div>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="text-align:center; margin: 1.25rem 0;">
+  <!-- Diagram -->
+  <svg viewBox="0 0 600 260" role="img" aria-label="Base and exponent diagram" style="max-width:100%; height:auto;">
+    <defs>
+      <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M 0 0 L 10 5 L 0 10 z"></path>
+      </marker>
+      <style>
+        .exp-text{ font: 700 38px system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif; }
+        .label{ font: 700 18px system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif; }
+        .blue{ fill:#1f78b4; stroke:#1f78b4; }
+        .red{ fill:#e53935; stroke:#e53935; }
+        .rule{ stroke:#333; stroke-width:3; }
+      </style>
+    </defs>
+
+    <!-- a^n -->
+    <text x="300" y="120" class="exp-text" text-anchor="middle" fill="#111">
+      a<tspan dy="-14" font-size="70%">n</tspan>
+      <tspan dy="14"></tspan>
+    </text>
+
+    <!-- Exponent label -->
+    <text x="460" y="50" class="label blue">Exponent (n)</text>
+    <!-- Arrow to exponent -->
+    <line x1="430" y1="55" x2="320" y2="85" class="blue" stroke-width="3" marker-end="url(#arrow)"></line>
+
+    <!-- Base label -->
+    <text x="90" y="200" class="label red">Base (a)</text>
+    <!-- Arrow to base -->
+    <line x1="165" y1="195" x2="270" y2="135" class="red" stroke-width="3" marker-end="url(#arrow)"></line>
+  </svg>
+
+  <!-- Underbrace statement (rendered by KaTeX/MathJax on the page) -->
+  <p style="margin-top:0.75rem; font-size:1.1rem;">
+    \( a^{n} \;=\; \underbrace{a \times a \times \cdots \times a}_{n\text{ times}} \)
+  </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
