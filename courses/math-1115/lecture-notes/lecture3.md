@@ -138,6 +138,9 @@ To ensure consistency, these operations must be performed in a **specific order*
 </p>
 
 
+<h2 id="rational-indices-and-roots">Rational Indices and Roots</h2>
+
+
 
 ---
 
