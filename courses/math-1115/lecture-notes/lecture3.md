@@ -122,6 +122,11 @@ To ensure consistency, these operations must be performed in a **specific order*
 <div id="prop-integral-laws">
   <p><strong>Proposition.</strong> For every non-zero real \(a\) and all integers \(m,n\),</p>
   <p style="text-align:center;">
+   \( a^{m}a^{n}=a^{m+n}, \quad
+       \dfrac{a^{m}}{a^{n}} = a^{\,m-n}, \quad
+       \bigl(a^{m}\bigr)^{\!n} = a^{mn}. \)
+  </p>
+</div>
 
 
 
