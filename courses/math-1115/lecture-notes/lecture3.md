@@ -155,6 +155,12 @@ To ensure consistency, these operations must be performed in a **specific order*
   Proposition&nbsp;<a href="#prop-integral-laws">Integral Laws</a>. Consequently,
 </p>
 
+<p style="text-align:center;">
+  \( \bigl(a^{\tfrac{m}{n}}\bigr)^{n} = a^{m}, \qquad
+     \bigl(a^{r}\bigr)^{s} = a^{rs}, \quad
+     \text{for all } r,s \in \mathbb{Q}. \)
+</p>
+
 
 
 ---
