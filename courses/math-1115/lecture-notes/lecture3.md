@@ -129,6 +129,13 @@ To ensure consistency, these operations must be performed in a **specific order*
 </div>
 
 
+<p>
+  To render \( a^{0} \) and \( a^{-n} \) coherent with Proposition&nbsp;<a href="#prop-integral-laws">Integral Laws</a>, one defines
+</p>
+
+<p style="text-align:center;">
+  \( a^{0} = 1, \qquad a^{-n} = \dfrac{1}{a^{\,n}} \qquad (n \in \mathbb{Z}_{>0}). \)
+</p>
 
 
 
