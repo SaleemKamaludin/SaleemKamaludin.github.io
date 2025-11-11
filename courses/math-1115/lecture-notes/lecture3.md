@@ -150,6 +150,10 @@ To ensure consistency, these operations must be performed in a **specific order*
   \( a^{\tfrac{m}{n}} = \bigl( \sqrt[n]{a} \bigr)^{m} \)
 </p>
 
+<p>
+  extends the index notation to rational exponents while preserving the identities in
+  Proposition&nbsp;<a href="#prop-integral-laws">Integral Laws</a>. Consequently,
+</p>
 
 
 
