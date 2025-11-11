@@ -142,6 +142,17 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
+<p>
+  For positive integers \(m, n\) and any real \(a \ge 0\) when \(n\) is even, the expression
+</p>
+
+<p style="text-align:center;">
+  \( a^{\tfrac{m}{n}} = \bigl( \sqrt[n]{a} \bigr)^{m} \)
+</p>
+
+
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
