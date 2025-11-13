@@ -165,6 +165,12 @@ To ensure consistency, these operations must be performed in a **specific order*
 <div id="thm-equality">
   <p><strong>Theorem (Equality of Indices).</strong></p>
 </div>
+<div style="margin-top:0.7rem; margin-bottom:0.7rem;">
+  <p>
+    Let \( a > 0 \) and \( r,s \in \mathbb{R} \).  
+    If \( a^{r} = a^{s} \), then \( r = s \).
+  </p>
+</div>
 
 ---
 
