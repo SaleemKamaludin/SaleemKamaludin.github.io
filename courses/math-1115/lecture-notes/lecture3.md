@@ -172,6 +172,15 @@ To ensure consistency, these operations must be performed in a **specific order*
   </p>
 </div>
 
+<div id="ex-index-equation">
+  <p><strong>Example.</strong></p>
+
+  <div style="margin-top:0.7rem;">
+    <p>Solve for \(x\) in \( 3^{x} = 27^{\,6 - 3x} \).</p>
+  </div>
+</div>
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
