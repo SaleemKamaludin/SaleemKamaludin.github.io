@@ -181,6 +181,16 @@ To ensure consistency, these operations must be performed in a **specific order*
 </div>
 
 
+
+<div class="solution">
+  <p><strong>Solution.</strong> We wish to determine the real number \(x\) that satisfies</p>
+
+  <p style="text-align:center;">
+    \( 3^{x} = 27^{\,6 - 3x}. \)
+  </p>
+</div>
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
