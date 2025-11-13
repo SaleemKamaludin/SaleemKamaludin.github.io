@@ -190,6 +190,12 @@ To ensure consistency, these operations must be performed in a **specific order*
   </p>
 </div>
 
+<p style="margin-top:1rem;">
+  <strong>Rewrite all powers with the <em>same</em> base.</strong><br>
+  The base \(27\) is itself a power of \(3\) because \(27 = 3^{3}\). Hence
+</p>
+
+
 
 ---
 
