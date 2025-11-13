@@ -162,6 +162,9 @@ To ensure consistency, these operations must be performed in a **specific order*
 </p>
 
 
+<div id="thm-equality">
+  <p><strong>Theorem (Equality of Indices).</strong></p>
+</div>
 
 ---
 
