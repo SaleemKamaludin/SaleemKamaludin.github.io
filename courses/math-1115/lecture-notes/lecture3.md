@@ -195,6 +195,12 @@ To ensure consistency, these operations must be performed in a **specific order*
   The base \(27\) is itself a power of \(3\) because \(27 = 3^{3}\). Hence
 </p>
 
+<p style="text-align:center;">
+  \( 27^{\,6 - 3x}
+    = \bigl(3^{3}\bigr)^{\,6 - 3x}
+    = 3^{\,3(6 - 3x)}
+    = 3^{\,18 - 9x}. \)
+</p>
 
 
 ---
