@@ -214,6 +214,12 @@ To ensure consistency, these operations must be performed in a **specific order*
   x = 18 - 9x. \)
 </p>
 
+<p style="margin-top:0.75rem;">
+  <strong>Now you can solve the resulting linear equation.</strong><br>
+  Bringing like terms together gives
+</p>
+
+
 
 ---
 
