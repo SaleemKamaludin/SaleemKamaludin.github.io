@@ -208,6 +208,13 @@ To ensure consistency, these operations must be performed in a **specific order*
   Because the exponential function with positive base \(3\) is one-to-one,
 </p>
 
+<p style="text-align:center;">
+  \( 3^{x} = 3^{\,18 - 9x}
+  \quad\Longrightarrow\quad
+  x = 18 - 9x. \)
+</p>
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
