@@ -202,6 +202,11 @@ To ensure consistency, these operations must be performed in a **specific order*
     = 3^{\,18 - 9x}. \)
 </p>
 
+<p style="margin-top:0.75rem;">
+  <strong>Equate exponents.</strong><br>
+  Both sides of the original equation are now written as powers of \(3\).
+  Because the exponential function with positive base \(3\) is one-to-one,
+</p>
 
 ---
 
