@@ -239,6 +239,15 @@ To ensure consistency, these operations must be performed in a **specific order*
 </p>
 
 
+<p style="margin-top:1rem;">
+  The unique real solution is
+</p>
+
+<p style="text-align:center; font-size:1.15rem;">
+  \( \boxed{\,x = \dfrac{9}{5}\,} \)
+</p>
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
