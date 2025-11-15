@@ -221,6 +221,17 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
+
+<p style="text-align:center;">
+  \( x + 9x = 18
+  \quad\Longrightarrow\quad
+  10x = 18
+  \quad\Longrightarrow\quad
+  x = \frac{18}{10} = \frac{9}{5}. \)
+</p>
+
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
