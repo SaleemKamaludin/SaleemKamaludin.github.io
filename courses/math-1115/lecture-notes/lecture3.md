@@ -230,6 +230,13 @@ To ensure consistency, these operations must be performed in a **specific order*
   x = \frac{18}{10} = \frac{9}{5}. \)
 </p>
 
+<p style="margin-top:1rem;">
+  The unique real solution is
+</p>
+
+<p style="text-align:center; font-size:1.15rem;">
+  \( \boxed{\,x = \dfrac{9}{5}\,} \)
+</p>
 
 
 ---
