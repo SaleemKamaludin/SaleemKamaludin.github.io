@@ -239,6 +239,11 @@ To ensure consistency, these operations must be performed in a **specific order*
 </p>
 
 
+<div class="example">
+  <p><strong>Example.</strong> Evaluate \(6^{-3}\).</p>
+</div>
+
+
 
 
 <div class="solution">
