@@ -268,6 +268,12 @@ To ensure consistency, these operations must be performed in a **specific order*
 </p>
 
 
+<p style="text-align:center;">
+  \( =\, \frac{1}{6} \times \frac{1}{6} \times \frac{1}{6} \quad
+     \textcolor{olive}{\bigl(\text{exponent means repeated multiplication}\bigr)} \)
+</p>
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
