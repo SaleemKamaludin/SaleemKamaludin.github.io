@@ -274,6 +274,11 @@ To ensure consistency, these operations must be performed in a **specific order*
 </p>
 
 
+<p style="text-align:center;">
+  \( =\, \frac{1}{216}. \)
+</p>
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
