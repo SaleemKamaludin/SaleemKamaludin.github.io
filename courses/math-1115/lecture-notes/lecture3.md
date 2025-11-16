@@ -262,6 +262,10 @@ To ensure consistency, these operations must be performed in a **specific order*
   </p>
 </div>
 
+<p style="text-align:center;">
+  \( =\, \left(\frac{1}{6}\right)^{3} \quad
+     \textcolor{blue}{\bigl(\text{rewriting a reciprocal as a power}\bigr)} \)
+</p>
 
 
 ---
