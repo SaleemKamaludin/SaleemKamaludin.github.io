@@ -254,6 +254,15 @@ To ensure consistency, these operations must be performed in a **specific order*
   </p>
 </div>
 
+<div class="solution">
+  <p style="text-align:center;">
+    \( 6^{-3}
+      = \dfrac{1}{6^{3}} \quad
+      \textcolor{red}{\bigl(\text{negative–exponent rule}\bigr)} \)
+  </p>
+</div>
+
+
 
 ---
 
