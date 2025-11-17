@@ -279,6 +279,57 @@ To ensure consistency, these operations must be performed in a **specific order*
 </p>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="example">
+  <p><strong>Example.</strong> Evaluate \( \displaystyle \left(\frac{2}{5}\right)^{-3} \).</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
