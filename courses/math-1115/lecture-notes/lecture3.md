@@ -340,7 +340,11 @@ To ensure consistency, these operations must be performed in a **specific order*
        \textcolor{olive}{\bigl(\text{exponent distributes over a fraction}\bigr)} \)
   </p>
 
+ <p style="text-align:center;">
+    \( = \frac{125}{8}. \)
+  </p>
 
+</div>
 
 
 
