@@ -306,7 +306,13 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
+<div class="solution">
 
+  <p style="text-align:center;">
+    \( \left(\frac{2}{5}\right)^{-3} \quad
+       \text{is the reciprocal (inverse) of }
+       \left(\frac{2}{5}\right)^{3}; \)
+  </p>
 
 
 
