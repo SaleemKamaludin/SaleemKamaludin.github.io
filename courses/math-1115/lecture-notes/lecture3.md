@@ -329,7 +329,16 @@ To ensure consistency, these operations must be performed in a **specific order*
   </p>
 
 
-
+<p style="text-align:center;">
+    \( = \frac{5^{3}}{2^{3}} \quad
+       \textcolor{olive}{\bigl(\text{exponent distributes over a fraction}\bigr)} \)
+  </p><p style="text-align:center;">
+    \( = \frac{5^{3}}{2^{3}} \quad
+       \textcolor{olive}{\bigl(\text{exponent distributes over a fraction}\bigr)} \)
+  </p><p style="text-align:center;">
+    \( = \frac{5^{3}}{2^{3}} \quad
+       \textcolor{olive}{\bigl(\text{exponent distributes over a fraction}\bigr)} \)
+  </p>
 
 
 
