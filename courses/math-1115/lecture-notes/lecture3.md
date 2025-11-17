@@ -323,7 +323,10 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+<p style="text-align:center;">
+    \( = \left(\frac{5}{2}\right)^{3} \quad
+       \textcolor{blue}{\bigl(\text{rewriting the reciprocal}\bigr)} \)
+  </p>
 
 
 
