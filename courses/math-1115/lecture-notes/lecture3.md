@@ -387,6 +387,12 @@ To ensure consistency, these operations must be performed in a **specific order*
        \textcolor{blue}{\bigl(\text{fractional–exponent ↔ root rule}\bigr)} \)
   </p>
 
+   <p style="text-align:center;">
+    \( = \frac{1}{3}. \)
+  </p>
+
+</div>
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
