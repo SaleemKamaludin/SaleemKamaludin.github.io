@@ -355,6 +355,27 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="example">
+  <p><strong>Example.</strong> Evaluate \(81^{-\tfrac14}\) and justify each transformation.</p>
+</div>
+
+
+
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
