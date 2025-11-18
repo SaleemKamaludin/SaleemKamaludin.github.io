@@ -381,6 +381,12 @@ To ensure consistency, these operations must be performed in a **specific order*
        \textcolor{red}{\bigl(\text{negative–exponent rule}\bigr)} \)
   </p>
 
+
+  <p style="text-align:center;">
+    \( = \frac{1}{\sqrt[4]{81}} \quad
+       \textcolor{blue}{\bigl(\text{fractional–exponent ↔ root rule}\bigr)} \)
+  </p>
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
