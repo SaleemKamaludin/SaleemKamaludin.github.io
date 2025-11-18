@@ -375,6 +375,11 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 <div class="solution">
 
+ <p style="text-align:center;">
+    \( 81^{-\tfrac14}
+       = \frac{1}{81^{\tfrac14}} \quad
+       \textcolor{red}{\bigl(\text{negative–exponent rule}\bigr)} \)
+  </p>
 
 ---
 
