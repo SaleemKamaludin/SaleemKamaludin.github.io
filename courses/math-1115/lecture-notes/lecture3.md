@@ -414,7 +414,7 @@ To ensure consistency, these operations must be performed in a **specific order*
   <p><strong>Exercise.</strong></p>
  <ol style="list-style-type: decimal;">
     <li>Evaluate \( 2^{3} \).</li>
-
+    <li>Evaluate \( 5^{-1} \).</li>
 
 
 
