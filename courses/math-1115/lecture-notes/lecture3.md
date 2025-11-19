@@ -393,6 +393,43 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 </div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="exercise">
+  <p><strong>Exercise.</strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
