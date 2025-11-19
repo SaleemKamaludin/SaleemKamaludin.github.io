@@ -412,7 +412,8 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 <div class="exercise">
   <p><strong>Exercise.</strong></p>
-
+ <ol style="list-style-type: decimal;">
+    <li>Evaluate \( 2^{3} \).</li>
 
 
 
