@@ -417,7 +417,7 @@ To ensure consistency, these operations must be performed in a **specific order*
     <li>Evaluate \( 5^{-1} \).</li>
     <li>Simplify \( 3^{4} \times 3^{2} \).</li>
     <li>Evaluate \( 8^{\tfrac{2}{3}} \).</li>
-
+    <li>Solve \( 4^{x} = 64 \) for \(x\).</li>
 
 
 
