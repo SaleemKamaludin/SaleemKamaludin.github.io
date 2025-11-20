@@ -461,7 +461,11 @@ To ensure consistency, these operations must be performed in a **specific order*
 </div>
 
 
+<p>
+  Because such numbers possess non-terminating, non-recurring decimal expansions, one manipulates them symbolically via the rules inherited from rational exponents.
+</p>
 
+<h3 id="surd-simplification">Simplification</h3>
 
 
 
