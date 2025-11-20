@@ -483,7 +483,9 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+<p>
+  The procedure relies on unique factorisation of integers.
+</p>
 
 
 ---
