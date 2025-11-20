@@ -488,6 +488,11 @@ To ensure consistency, these operations must be performed in a **specific order*
 </p>
 
 
+
+<h3 id="surd-multiplication-division">Multiplication and Division</h3>
+
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
