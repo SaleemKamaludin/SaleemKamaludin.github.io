@@ -467,7 +467,9 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 <h3 id="surd-simplification">Simplification</h3>
 
-
+<p>
+  An expression like \( \sqrt[n]{b} \) is simplified by extracting the largest perfect \(n\)th power dividing \(b\):
+</p>
 
 ---
 
