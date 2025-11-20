@@ -433,6 +433,38 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 id="surds-and-irrational-roots">Surds and Irrational Roots</h2>
+
+<div id="def-surd" class="definition" style="border: 2px solid #007acc; border-radius: 8px; padding: 1em; background-color: #f9f9f9;">
+  <p><strong>Definition.</strong> A <em>surd</em> is an irrational number obtainable as a root of a rational number, for instance
+    \( \sqrt{2} \), \( \sqrt{3} \), or \( \sqrt[3]{5} \).
+  </p>
+</div>
+
+
+
+
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
