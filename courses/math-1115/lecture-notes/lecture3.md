@@ -471,6 +471,21 @@ To ensure consistency, these operations must be performed in a **specific order*
   An expression like \( \sqrt[n]{b} \) is simplified by extracting the largest perfect \(n\)th power dividing \(b\):
 </p>
 
+
+
+
+
+<p style="text-align:center;">
+  \( \sqrt{48} = 4\sqrt{3}, \qquad
+     \sqrt{\dfrac{12}{121}} = \dfrac{2\sqrt{3}}{11}. \quad
+     \textnormal{\color{red}{(\text{Solutions done in class})}} \)
+</p>
+
+
+
+
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
