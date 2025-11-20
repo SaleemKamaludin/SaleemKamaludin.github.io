@@ -492,6 +492,12 @@ To ensure consistency, these operations must be performed in a **specific order*
 <h3 id="surd-multiplication-division">Multiplication and Division</h3>
 
 
+<p style="text-align:center;">
+  \( \sqrt{ab} = \sqrt{a}\,\sqrt{b}, \qquad
+     \sqrt{\dfrac{a}{b}} = \dfrac{\sqrt{a}}{\sqrt{b}} \quad (b \neq 0), \)
+</p>
+
+
 
 ---
 
