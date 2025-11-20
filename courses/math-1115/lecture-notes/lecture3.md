@@ -497,7 +497,10 @@ To ensure consistency, these operations must be performed in a **specific order*
      \sqrt{\dfrac{a}{b}} = \dfrac{\sqrt{a}}{\sqrt{b}} \quad (b \neq 0), \)
 </p>
 
-
+<p>
+  with analogous identities for higher roots. Caution is necessary: in general
+  \( \sqrt{a+b} \neq \sqrt{a} + \sqrt{b} \).
+</p>
 
 ---
 
