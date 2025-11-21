@@ -512,7 +512,13 @@ To ensure consistency, these operations must be performed in a **specific order*
     <strong>Example.</strong>
     <span style="color:red;">(Solutions done in class)</span>
   </p>
-
+  <p style="text-align:center;">
+    \( \sqrt{8}\,\sqrt{16}\,\sqrt{32}
+       = 2^{\left(\tfrac{3}{2} + \tfrac{4}{2} + \tfrac{5}{2}\right)}
+       = 2^{6}
+       = 64. \)
+  </p>
+</div>
 
 
 
