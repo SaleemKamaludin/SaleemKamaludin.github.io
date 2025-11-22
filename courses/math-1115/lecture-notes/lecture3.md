@@ -557,6 +557,8 @@ To ensure consistency, these operations must be performed in a **specific order*
  \( \sqrt{12 \cdot 3} = \sqrt{36} \). Since \(36\) is a perfect square, the expression
    collapses to the integer \(6\), thereby illustrating the multiplicative rule for
     square roots.
+     </p>
+</div>
 
 ---
 
