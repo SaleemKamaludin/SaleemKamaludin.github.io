@@ -555,6 +555,8 @@ To ensure consistency, these operations must be performed in a **specific order*
   <p>
     Because \(12\) and \(3\) are non-negative, one may combine the radicals to obtain
  \( \sqrt{12 \cdot 3} = \sqrt{36} \). Since \(36\) is a perfect square, the expression
+   collapses to the integer \(6\), thereby illustrating the multiplicative rule for
+    square roots.
 
 ---
 
