@@ -554,7 +554,7 @@ To ensure consistency, these operations must be performed in a **specific order*
 <div class="proof" style="margin:0.75rem 0 1.5rem 0;">
   <p>
     Because \(12\) and \(3\) are non-negative, one may combine the radicals to obtain
-
+ \( \sqrt{12 \cdot 3} = \sqrt{36} \). Since \(36\) is a perfect square, the expression
 
 ---
 
