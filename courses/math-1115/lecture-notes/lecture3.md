@@ -547,7 +547,9 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 <h3 id="additional-surd-examples">Additional Worked Examples on Surds</h3>
-
+<div class="example" style="border:1px solid #ddd; border-radius:8px; padding:0.85rem 1rem; margin:1rem 0; background:#fafafa;">
+  <p><strong>Example.</strong> Demonstrate the property \( \sqrt{u}\,\sqrt{v} = \sqrt{uv} \) by evaluating the product \( \sqrt{12}\,\sqrt{3} \).</p>
+</div>
 
 
 ---
