@@ -551,6 +551,10 @@ To ensure consistency, these operations must be performed in a **specific order*
   <p><strong>Example.</strong> Demonstrate the property \( \sqrt{u}\,\sqrt{v} = \sqrt{uv} \) by evaluating the product \( \sqrt{12}\,\sqrt{3} \).</p>
 </div>
 
+<div class="proof" style="margin:0.75rem 0 1.5rem 0;">
+  <p>
+    Because \(12\) and \(3\) are non-negative, one may combine the radicals to obtain
+
 
 ---
 
