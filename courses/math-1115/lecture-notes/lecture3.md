@@ -560,6 +560,9 @@ To ensure consistency, these operations must be performed in a **specific order*
      </p>
 </div>
 
+<hr style="margin:2rem 0; border:none; border-top:1px solid #e0e0e0;">
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
