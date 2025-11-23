@@ -472,6 +472,13 @@ To ensure consistency, these operations must be performed in a **specific order*
 </p>
 
 
+<p style="text-align:center;">
+  \( \sqrt{48} = 4\sqrt{3}, \qquad
+     \sqrt{\dfrac{12}{121}} = \dfrac{2\sqrt{3}}{11}. \)
+  <span style="color:#c62828; font-style:normal;">
+    (Solutions done in class)
+  </span>
+</p>
 
 
 
