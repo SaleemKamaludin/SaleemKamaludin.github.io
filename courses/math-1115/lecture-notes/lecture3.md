@@ -666,7 +666,9 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+<p style="margin-top:1rem;">
+  <strong>The conjugate idea</strong>
+</p>
 
 
 
