@@ -658,7 +658,11 @@ To ensure consistency, these operations must be performed in a **specific order*
 </h3>
 
 
-
+<p>
+  <strong>Why do we do this?</strong>
+  Fractions that contain square roots in the denominator are often awkward to compare or combine.
+  By <em>rationalising</em> we rewrite the fraction so the denominator is an ordinary (rational) number.
+</p>
 
 
 
