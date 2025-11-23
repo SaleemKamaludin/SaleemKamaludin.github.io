@@ -564,6 +564,34 @@ To ensure consistency, these operations must be performed in a **specific order*
 <hr style="margin:2rem 0; border:none; border-top:1px solid #e0e0e0;">
 
 
+
+
+
+
+
+
+
+<div class="example" style="border:1px solid #ddd; border-radius:8px; padding:0.85rem 1rem; margin:1rem 0; background:#fafafa;">
+  <p><strong>Example.</strong> Express the surd \( \sqrt{72} \) in its simplest form.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
