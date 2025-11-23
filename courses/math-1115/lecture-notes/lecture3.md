@@ -627,7 +627,12 @@ To ensure consistency, these operations must be performed in a **specific order*
   </p>
 
 
-
+<p style="text-align:center;">
+    \( \sqrt{\frac{40}{169}}
+       = \sqrt{\frac{4\cdot 10}{169}}
+       = \frac{\sqrt{4}\,\sqrt{10}}{\sqrt{169}}
+       = \frac{2\sqrt{10}}{13}. \)
+  </p>
 
 
 
