@@ -588,7 +588,9 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+<div class="example" style="border:1px solid #ddd; border-radius:8px; padding:0.85rem 1rem; margin:1rem 0; background:#fafafa;">
+  <p><strong>Example.</strong> Simplify the mixed radical \( \displaystyle \sqrt{\frac{40}{169}} \).</p>
+</div>
 
 
 
