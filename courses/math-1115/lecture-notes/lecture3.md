@@ -582,7 +582,8 @@ To ensure consistency, these operations must be performed in a **specific order*
     Decomposing \(72\) as \(36 \cdot 2\) reveals the largest square factor. Extracting the square root of
     \(36\) yields \(6\sqrt{2}\), and no further square divisor remains beneath the radical, so
     \(6\sqrt{2}\) is fully simplified.
-
+  </p>
+</div>
 
 
 
