@@ -33,6 +33,12 @@ permalink: /courses/math-1115/problem-paper-solutions/
     <p>Partial fractions and logs</p>
   </a>
 
+   <a class="card" href="{{ '/courses/math-1115/problem-paper-solutions/pp9/' | relative_url }}">
+  <h3>Problem Paper 9</h3>
+  <p>Trigonometry</p>
+</a>
+
+
 </div>
 
 <style>
