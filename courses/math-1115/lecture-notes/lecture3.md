@@ -653,7 +653,9 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+<h3 id="rationalising-conjugate" style="margin-top:1.5rem;">
+  Rationalising a Denominator Using the Conjugate
+</h3>
 
 
 
