@@ -642,6 +642,11 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
+  <p>
+    The denominator is rational and the remaining radicand \(10\) contains no square factor,
+    so \( \tfrac{2\sqrt{10}}{13} \) is as simple as possible.
+  </p>
+</div>
 
 
 
