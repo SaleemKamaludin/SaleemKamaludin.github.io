@@ -42,3 +42,87 @@ permalink: /courses/math-1115/problem-paper-solutions/pp9/
   </div>
 </section>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Question 2 -->
+<div style="border:1px solid #444; border-radius:16px; padding:1.2rem 1.5rem; margin:1.5rem 0; position:relative;">
+
+  <div style="position:absolute; top:-0.95rem; left:1.2rem; background:#fff; border:1px solid #444; border-radius:16px; padding:0.15rem 0.9rem; font-size:1.1rem;">
+    <strong>Question 2</strong>
+  </div>
+
+  <p style="margin-top:0.8rem; font-size:1.1rem;">
+    Convert the following from radians to degrees:
+  </p>
+
+  <p style="margin:1.2rem 0 0.4rem 0; font-size:1.05rem;">
+    (a) \(4.1\) &emsp; (b) \(4.9\) &emsp; (c) \(5.5\)
+  </p>
+</div>
+
+<!-- Solution -->
+<div class="solution" style="margin:0.5rem 0 1.5rem 0;">
+  <p><strong>Solution.</strong> Recall that to convert from radians to degrees we multiply by \( \dfrac{180}{\pi} \).</p>
+
+  <ol style="margin-top:0.6rem;">
+    <li style="margin-bottom:0.4rem;">
+      For \(4.1\ \text{rad}\):
+      <span style="display:block; text-align:center; margin-top:0.2rem;">
+        \( \left(\dfrac{180}{\pi} \times 4.1\right)^\circ \approx 234.9^\circ \)
+      </span>
+    </li>
+
+    <li style="margin-bottom:0.4rem;">
+      For \(4.9\ \text{rad}\):
+      <span style="display:block; text-align:center; margin-top:0.2rem;">
+        \( \left(\dfrac{180}{\pi} \times 4.9\right)^\circ \approx 280.7^\circ \)
+      </span>
+    </li>
+
+    <li>
+      For \(5.5\ \text{rad}\):
+      <span style="display:block; text-align:center; margin-top:0.2rem;">
+        \( \left(\dfrac{180}{\pi} \times 5.5\right)^\circ \approx 315.1^\circ \)
+      </span>
+    </li>
+  </ol>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
