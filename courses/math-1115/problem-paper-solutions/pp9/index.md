@@ -161,7 +161,19 @@ permalink: /courses/math-1115/problem-paper-solutions/pp9/
 
 
 
+<div class="solution" style="margin:0.75rem 0 1.5rem 0;">
+  <p><strong>Solution.</strong></p>
 
+  <ol type="a" style="margin-top:0.5rem;">
+
+    <li style="margin-bottom:0.5rem;">
+      \( \sin\theta = \dfrac{1}{5},\ 0^\circ \le \theta \le 360^\circ \).  
+      Using the reference angle \( \theta_0 = \sin^{-1}\!\left(\dfrac{1}{5}\right) \approx 11.5^\circ \),  
+      the solutions in one full turn are
+      <span style="display:block; text-align:center; margin-top:0.2rem;">
+        \( \theta \approx 11.5^\circ,\ 168.5^\circ. \)
+      </span>
+    </li>
 
 
 
