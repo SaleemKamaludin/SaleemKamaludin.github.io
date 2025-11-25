@@ -201,3 +201,80 @@ permalink: /courses/math-1115/problem-paper-solutions/pp9/
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="solution" style="margin:0.75rem 0 1.5rem 0;">
+  <p><strong>Solution (continued).</strong></p>
+
+  <!-- Part (c) -->
+  <p style="margin-top:0.4rem;">
+    <strong>(c)</strong> Solve \( \cos\theta - \dfrac{1}{6} = 0 \) for \( 0 \le \theta \le 2\pi \).
+  </p>
+  <p>
+    First rewrite the equation as
+  </p>
+  <p style="text-align:center; margin-top:0.2rem;">
+    \( \cos\theta = \dfrac{1}{6}. \)
+  </p>
+  <p>
+    The associated acute angle is
+    \( \alpha = \cos^{-1}\!\left(\dfrac{1}{6}\right) \approx 1.4 \text{ rad}. \)
+    Cosine is positive in Quadrants&nbsp;I and IV, so the angles are
+  </p>
+  <p style="text-align:center; margin-top:0.2rem;">
+    \( \theta = \alpha \quad \text{or} \quad \theta = 2\pi - \alpha \)
+    \( \;\Rightarrow\;
+       \theta \approx 1.4\ \text{rad},\ 4.8\ \text{rad}. \)
+  </p>
+
+  <!-- Part (d) -->
+  <p style="margin-top:0.9rem;">
+    <strong>(d)</strong> Solve \( 2\sin\theta = 1 \) for \( 0 \le \theta \le 2\pi \).
+  </p>
+  <p>
+    Divide both sides by \(2\):
+  </p>
+  <p style="text-align:center; margin-top:0.2rem;">
+    \( \sin\theta = \dfrac{1}{2}. \)
+  </p>
+  <p>
+    The principal angle is
+    \( \theta_0 = \sin^{-1}\!\left(\dfrac{1}{2}\right) = \dfrac{\pi}{6} \approx 0.524 \text{ rad}. \)
+    Since sine is positive in Quadrants&nbsp;I and II, the two solutions are
+  </p>
+  <p style="text-align:center; margin-top:0.2rem;">
+    \( \theta = \theta_0 = \dfrac{\pi}{6} \approx 0.524 \text{ rad}, \qquad
+       \theta = \pi - \theta_0 = \pi - \dfrac{\pi}{6} = \dfrac{5\pi}{6} \approx 2.61 \text{ rad}. \)
+  </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
