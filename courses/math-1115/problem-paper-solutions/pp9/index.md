@@ -248,7 +248,7 @@ permalink: /courses/math-1115/problem-paper-solutions/pp9/
 
 
 <div class="solution" style="margin:0.75rem 0 1.5rem 0;">
-  <p><strong>Solution (e).</strong> Solve \( \sin(\theta) = \dfrac{1}{2} \) for \( 0^\circ \le \theta \le 360^\circ \).</p>
+  <p><strong>(e).</strong> Solve \( \sin(\theta) = \dfrac{1}{2} \) for \( 0^\circ \le \theta \le 360^\circ \).</p>
 
   <p>
     First find the reference angle:
