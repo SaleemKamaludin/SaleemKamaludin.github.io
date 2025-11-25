@@ -165,15 +165,38 @@ permalink: /courses/math-1115/problem-paper-solutions/pp9/
   <p><strong>Solution.</strong></p>
 
   <ol type="a" style="margin-top:0.5rem;">
+<div class="solution" style="margin:0.75rem 0 1.5rem 0;">
+  <p><strong>Solution.</strong></p>
 
-    <li style="margin-bottom:0.5rem;">
-      \( \sin\theta = \dfrac{1}{5},\ 0^\circ \le \theta \le 360^\circ \).  
-      Using the reference angle \( \theta_0 = \sin^{-1}\!\left(\dfrac{1}{5}\right) \approx 11.5^\circ \),  
-      the solutions in one full turn are
-      <span style="display:block; text-align:center; margin-top:0.2rem;">
-        \( \theta \approx 11.5^\circ,\ 168.5^\circ. \)
-      </span>
-    </li>
+  <!-- Part (a) -->
+  <p style="margin-top:0.4rem;">
+    <strong>(a)</strong> We solve \( \sin\theta = \dfrac{1}{5} \) for \( 0^\circ \le \theta \le 360^\circ \).
+  </p>
+  <p>
+    The associated acute angle is
+    \( \alpha = \sin^{-1}\!\left(\dfrac{1}{5}\right) \approx 11.5^\circ \).
+    Since sine is positive in Quadrants&nbsp;I and II,
+  </p>
+  <p style="text-align:center; margin-top:0.2rem;">
+    \( \theta = \alpha \quad \text{or} \quad \theta = 180^\circ - \alpha \)
+    \( \;\Rightarrow\;
+       \theta \approx 11.5^\circ,\ 168.5^\circ. \)
+  </p>
+
+  <!-- Part (b) -->
+  <p style="margin-top:0.9rem;">
+    <strong>(b)</strong> Now solve \( \sin\theta = -0.6325 \) for \( 0^\circ \le \theta \le 360^\circ \).
+  </p>
+  <p>
+    First find the reference angle
+    \( \alpha = \sin^{-1}(0.6325) \approx 39.2^\circ \).
+    Because sine is negative in Quadrants&nbsp;III and IV, the angles are
+  </p>
+  <p style="text-align:center; margin-top:0.2rem;">
+    \( \theta = 180^\circ + \alpha \approx 219.2^\circ, \qquad
+       \theta = 360^\circ - \alpha \approx 320.8^\circ. \)
+  </p>
+</div>
 
 
 
