@@ -251,7 +251,7 @@ permalink: /courses/math-1115/problem-paper-solutions/pp9/
 
 
 <div class="solution" style="margin:0.75rem 0 1.5rem 0;">
-  <p><strong>Solution (f).</strong> Solve \( \tan\theta = -\dfrac{1}{9} \) for \( -180^\circ \le \theta \le 180^\circ \).</p>
+  <p><strong>(f).</strong> Solve \( \tan\theta = -\dfrac{1}{9} \) for \( -180^\circ \le \theta \le 180^\circ \).</p>
 
   <p>
     First find the associated acute angle:
