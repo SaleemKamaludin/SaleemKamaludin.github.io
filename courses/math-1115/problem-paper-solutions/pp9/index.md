@@ -246,6 +246,28 @@ permalink: /courses/math-1115/problem-paper-solutions/pp9/
 
 
 
+<div class="solution" style="margin:0.75rem 0 1.5rem 0;">
+  <p><strong>Solution (f).</strong> Solve \( \tan\theta = -\dfrac{1}{9} \) for \( -180^\circ \le \theta \le 180^\circ \).</p>
+
+  <p>
+    First find the associated acute angle:
+  </p>
+
+  <p style="text-align:center; margin-top:0.2rem;">
+    \( \alpha = \tan^{-1}\!\left(\dfrac{1}{9}\right) \approx 6.34^\circ. \)
+  </p>
+
+  <p>
+    Since the tangent is negative, \( \theta \) must lie in Quadrants&nbsp;II or IV for this range.
+    Thus the two solutions are
+  </p>
+
+  <p style="text-align:center; margin-top:0.2rem;">
+    \( \theta = 180^\circ - \alpha,\quad \theta = -\alpha \)
+    \( \;\Rightarrow\;
+       \theta \approx 173.7^\circ,\ -6.34^\circ. \)
+  </p>
+</div>
 
 
 
