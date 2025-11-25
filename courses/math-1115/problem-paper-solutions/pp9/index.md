@@ -4,18 +4,22 @@ title: "Problem Paper 9 – Solutions"
 permalink: /courses/math-1115/problem-paper-solutions/pp9/
 ---
 
+<!-- Question 1 -->
+<div style="border:1px solid #444; border-radius:16px; padding:1.2rem 1.5rem; margin:1.5rem 0; position:relative;">
 
+  <div style="position:absolute; top:-0.95rem; left:1.2rem; background:#fff; border:1px solid #444; border-radius:16px; padding:0.15rem 0.9rem; font-size:1.1rem;">
+    <strong>Question 1</strong>
+  </div>
 
-<section class="qp9-question">
-  <h2 class="qp9-question-title">Question 1</h2>
-
-  <p>Convert the following from degrees to radians.</p>
-
-  <p class="qp9-question-items">
-    <span>(a) 80&deg;</span>
-    <span>(b) 135&deg;</span>
-    <span>(c) 200&deg;</span>
+  <p style="margin-top:0.8rem; font-size:1.1rem;">
+    Convert the following from degrees to radians:
   </p>
+
+  <p style="margin:1.2rem 0 0.4rem 0; font-size:1.05rem;">
+    (a) \(80^\circ\) &emsp; (b) \(135^\circ\) &emsp; (c) \(200^\circ\)
+  </p>
+</div>
+
 
   <div class="qp9-solution">
     <h3>Solution</h3>
