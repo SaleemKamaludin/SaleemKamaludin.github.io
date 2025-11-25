@@ -196,29 +196,9 @@ permalink: /courses/math-1115/problem-paper-solutions/pp9/
     \( \theta = 180^\circ + \alpha \approx 219.2^\circ, \qquad
        \theta = 360^\circ - \alpha \approx 320.8^\circ. \)
   </p>
-</div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="solution" style="margin:0.75rem 0 1.5rem 0;">
-  <p><strong>Solution (continued).</strong></p>
-
+  
   <!-- Part (c) -->
   <p style="margin-top:0.4rem;">
     <strong>(c)</strong> Solve \( \cos\theta - \dfrac{1}{6} = 0 \) for \( 0 \le \theta \le 2\pi \).
@@ -260,6 +240,26 @@ permalink: /courses/math-1115/problem-paper-solutions/pp9/
        \theta = \pi - \theta_0 = \pi - \dfrac{\pi}{6} = \dfrac{5\pi}{6} \approx 2.61 \text{ rad}. \)
   </p>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
