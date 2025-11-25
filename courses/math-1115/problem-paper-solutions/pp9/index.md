@@ -247,6 +247,27 @@ permalink: /courses/math-1115/problem-paper-solutions/pp9/
 
 
 
+<div class="solution" style="margin:0.75rem 0 1.5rem 0;">
+  <p><strong>Solution (e).</strong> Solve \( \sin(\theta) = \dfrac{1}{2} \) for \( 0^\circ \le \theta \le 360^\circ \).</p>
+
+  <p>
+    First find the reference angle:
+  </p>
+
+  <p style="text-align:center; margin-top:0.2rem;">
+    \( \theta_0 = \sin^{-1}\!\left(\dfrac{1}{2}\right) = 30^\circ. \)
+  </p>
+
+  <p>
+    Since sine is positive in Quadrants&nbsp;I and II, the two solutions are:
+  </p>
+
+  <p style="text-align:center; margin-top:0.2rem;">
+    \( \theta = 30^\circ, \qquad \theta = 150^\circ. \)
+  </p>
+</div>
+
+
 
 
 
