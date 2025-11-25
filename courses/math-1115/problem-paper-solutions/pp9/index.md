@@ -117,6 +117,47 @@ permalink: /courses/math-1115/problem-paper-solutions/pp9/
 
 
 
+<!-- Question 3 -->
+<div style="border:1px solid #444; border-radius:16px; padding:1.2rem 1.5rem; margin:1.5rem 0; position:relative;">
+
+  <div style="position:absolute; top:-0.95rem; left:1.2rem; background:#fff; border:1px solid #444; border-radius:16px; padding:0.15rem 0.9rem; font-size:1.1rem;">
+    <strong>Question 3</strong>
+  </div>
+
+  <p style="margin-top:0.8rem; font-size:1.1rem;">
+    Find the solutions of the following within the indicated range:
+  </p>
+
+  <div style="display:flex; flex-wrap:wrap; gap:2.5rem; margin-top:1rem; font-size:1.05rem;">
+
+    <!-- Left column (a)–(c) -->
+    <ol type="a" style="margin:0; padding-left:1.4rem;">
+      <li style="margin-bottom:0.5rem;">
+        \( \sin\theta = \dfrac{1}{5} \quad \text{for } 0^\circ \le \theta \le 360^\circ \)
+      </li>
+      <li style="margin-bottom:0.5rem;">
+        \( \sin\theta = -0.6325 \quad \text{for } 0^\circ \le \theta \le 360^\circ \)
+      </li>
+      <li style="margin-bottom:0.5rem;">
+        \( \cos\theta - \dfrac{1}{6} = 0 \quad \text{for } 0^\circ \le \theta \le 2\pi \)
+      </li>
+    </ol>
+
+    <!-- Right column (d)–(f) -->
+    <ol type="a" start="4" style="margin:0; padding-left:1.4rem;">
+      <li style="margin-bottom:0.5rem;">
+        \( 2\sin\theta = 1 \quad \text{for } 0^\circ \le \theta \le 2\pi \)
+      </li>
+      <li style="margin-bottom:0.5rem;">
+        \( \sin(\theta) = \dfrac{1}{2} \quad \text{for } 0^\circ \le \theta \le 360^\circ \)
+      </li>
+      <li style="margin-bottom:0.5rem;">
+        \( \tan\theta = -\dfrac{1}{9} \quad \text{for } -180^\circ \le \theta \le 180^\circ \)
+      </li>
+    </ol>
+
+  </div>
+</div>
 
 
 
