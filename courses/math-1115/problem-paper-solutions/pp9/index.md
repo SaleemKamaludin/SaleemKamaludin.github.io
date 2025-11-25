@@ -81,28 +81,28 @@ permalink: /courses/math-1115/problem-paper-solutions/pp9/
 <div class="solution" style="margin:0.5rem 0 1.5rem 0;">
   <p><strong>Solution.</strong> Recall that to convert from radians to degrees we multiply by \( \dfrac{180}{\pi} \).</p>
 
-  <ol style="margin-top:0.6rem;">
-    <li style="margin-bottom:0.4rem;">
-      For \(4.1\ \text{rad}\):
-      <span style="display:block; text-align:center; margin-top:0.2rem;">
-        \( \left(\dfrac{180}{\pi} \times 4.1\right)^\circ \approx 234.9^\circ \)
-      </span>
-    </li>
+ <ol style="margin-top:0.6rem; list-style:none; padding-left:0;">
+  <li style="margin-bottom:0.4rem;">
+    <strong>(a)</strong> For \(4.1\) rad:
+    <span style="display:block; text-align:center; margin-top:0.2rem;">
+      \( \left(\dfrac{180}{\pi} \times 4.1\right)^\circ \approx 234.9^\circ \)
+    </span>
+  </li>
 
-    <li style="margin-bottom:0.4rem;">
-      For \(4.9\ \text{rad}\):
-      <span style="display:block; text-align:center; margin-top:0.2rem;">
-        \( \left(\dfrac{180}{\pi} \times 4.9\right)^\circ \approx 280.7^\circ \)
-      </span>
-    </li>
+  <li style="margin-bottom:0.4rem;">
+    <strong>(b)</strong> For \(4.9\) rad:
+    <span style="display:block; text-align:center; margin-top:0.2rem;">
+      \( \left(\dfrac{180}{\pi} \times 4.9\right)^\circ \approx 280.7^\circ \)
+    </span>
+  </li>
 
-    <li>
-      For \(5.5\ \text{rad}\):
-      <span style="display:block; text-align:center; margin-top:0.2rem;">
-        \( \left(\dfrac{180}{\pi} \times 5.5\right)^\circ \approx 315.1^\circ \)
-      </span>
-    </li>
-  </ol>
+  <li>
+    <strong>(c)</strong> For \(5.5\) rad:
+    <span style="display:block; text-align:center; margin-top:0.2rem;">
+      \( \left(\dfrac{180}{\pi} \times 5.5\right)^\circ \approx 315.1^\circ \)
+    </span>
+  </li>
+</ol>
 </div>
 
 
