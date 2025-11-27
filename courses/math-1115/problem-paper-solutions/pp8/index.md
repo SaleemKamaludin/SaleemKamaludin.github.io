@@ -422,6 +422,28 @@ nav_order: 8
 </div>
 
 
+<details>
+  <summary><strong>Solution</strong> (click to expand)</summary>
+
+  <p><strong>(i)</strong> We combine the logarithms using the product rule.</p>
+
+  <p style="text-align:center;">
+    \( \log a^{2} + \log b^{3} + \log c^{4}
+      = \log\bigl(a^{2} \times b^{3} \times c^{4}\bigr)
+      = \log\bigl(a^{2} b^{3} c^{4}\bigr). \)
+  </p>
+
+  <p><strong>(ii)</strong> We rewrite the expression as a difference of logs and then apply the quotient rule.</p>
+
+  <p style="text-align:center;">
+    \( \log(10x) - \log x
+      = \log\!\left(\dfrac{10x}{x}\right)
+      = \log 10. \)
+  </p>
+
+</details>
+
+
 
 
 <script>
