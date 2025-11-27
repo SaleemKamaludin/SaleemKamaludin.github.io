@@ -579,6 +579,63 @@ nav_order: 8
 
 
 
+<details>
+  <summary><strong>Solution (ii)</strong> (click to expand)</summary>
+
+  <p>
+    We solve the equation
+    \( (x+4)(2x+5) = x(x+1) \).
+  </p>
+
+  <p style="text-align:center;">
+    \( (x+4)(2x+5) = x(x+1) \)
+  </p>
+
+  <p>
+    Expand both sides:
+  </p>
+
+  <p style="text-align:center;">
+    \( 2x^{2} + 5x + 8x + 20 = x^{2} + x. \)
+  </p>
+
+  <p>
+    Bring all terms to one side and simplify:
+  </p>
+
+  <p style="text-align:center;">
+    \( 2x^{2} - x^{2} + 13x - x + 20 = 0 \;\Rightarrow\;
+       x^{2} + 12x + 20 = 0. \)
+  </p>
+
+  <p>
+    To factor, split the middle term:
+  </p>
+
+  <p style="text-align:center;">
+    \( x^{2} + 12x + 20
+       = x^{2} + 10x + 2x + 20 = 0. \)
+  </p>
+
+  <p>
+    Factor by grouping:
+  </p>
+
+  <p style="text-align:center;">
+    \( x(x+10) + 2(x+10) = 0
+       \;\Rightarrow\; (x+10)(x+2) = 0. \)
+  </p>
+
+  <p>
+    Therefore
+  </p>
+
+  <p style="text-align:center;">
+    \( x+10 = 0 \;\text{or}\; x+2 = 0
+       \;\Rightarrow\; x = -10 \;\text{or}\; x = -2. \)
+  </p>
+
+</details>
 
 
 
