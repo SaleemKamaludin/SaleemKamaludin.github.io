@@ -512,6 +512,66 @@ nav_order: 8
 
 
 
+<details>
+  <summary><strong>Solution</strong> (click to expand)</summary>
+
+  <p>
+    We solve the exponential equation
+    \( 6^{x+2} = 3^{x+4} \) for \(x\).
+  </p>
+
+  <p>
+    Taking logarithms of both sides:
+  </p>
+
+  <p style="text-align:center;">
+    \( \log\bigl(6^{x+2}\bigr) = \log\bigl(3^{x+4}\bigr). \)
+  </p>
+
+  <p>
+    Use the power rule \( \log(a^k) = k\log a \):
+  </p>
+
+  <p style="text-align:center;">
+    \( (x+2)\log 6 = (x+4)\log 3. \)
+  </p>
+
+  <p>
+    Expand both sides:
+  </p>
+
+  <p style="text-align:center;">
+    \( x\log 6 + 2\log 6 = x\log 3 + 4\log 3. \)
+  </p>
+
+  <p>
+    Gather the terms in \(x\) on one side and the constants on the other:
+  </p>
+
+  <p style="text-align:center;">
+    \( x\log 6 - x\log 3 = 4\log 3 - 2\log 6. \)
+  </p>
+
+  <p>
+    Factor out \(x\):
+  </p>
+
+  <p style="text-align:center;">
+    \( x(\log 6 - \log 3) = 4\log 3 - 2\log 6. \)
+  </p>
+
+  <p>
+    Finally, divide both sides by \( \log 6 - \log 3 \):
+  </p>
+
+  <p style="text-align:center;">
+    \( \displaystyle
+      x = \frac{4\log 3 - 2\log 6}{\log 6 - \log 3}
+      \approx 1.17.
+    \)
+  </p>
+
+</details>
 
 
 
