@@ -385,6 +385,45 @@ nav_order: 8
 
 
 
+
+<!-- Question 2 -->
+<div style="border:1px solid #444; border-radius:16px; padding:1.2rem 1.5rem; margin:1.5rem 0; position:relative;">
+
+  <div style="position:absolute; top:-0.95rem; left:1.2rem; background:#fff; border:1px solid #444; border-radius:16px; padding:0.15rem 0.9rem; font-size:1.1rem;">
+    <strong>Question 2</strong>
+  </div>
+
+  <p style="margin-top:0.8rem; font-size:1.1rem;">
+    (a)&nbsp; Simplify the following:
+  </p>
+
+  <ol style="margin:0.4rem 0 0.8rem 3rem; list-style:none; font-size:1.05rem;">
+    <li style="margin-bottom:0.35rem;">
+      (i)&nbsp; Simplify \( \log a^{2} + \log b^{3} + \log c^{4} \).
+    </li>
+    <li>
+      (ii)&nbsp; Simplify \( -\log x + \log 10 \).
+    </li>
+  </ol>
+
+  <p style="margin-top:0.8rem; font-size:1.1rem;">
+    (b)&nbsp; Evaluate the following without using calculators:
+  </p>
+
+  <ol style="margin:0.4rem 0 0 3rem; list-style:none; font-size:1.05rem;">
+    <li style="margin-bottom:0.35rem;">
+      (i)&nbsp; \( \displaystyle \frac{\log_{3} 81}{\log_{4} 64} \)
+    </li>
+    <li>
+      (ii)&nbsp; \( \log_{81} 22 \times \log_{2} 243 \times \log_{22} 16 \)
+    </li>
+  </ol>
+
+</div>
+
+
+
+
 <script>
 // Optional: "Expand All" / "Collapse All" helpers for convenience
 function setAllDetails(open) {
