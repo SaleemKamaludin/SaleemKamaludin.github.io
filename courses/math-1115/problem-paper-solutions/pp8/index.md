@@ -445,6 +445,89 @@ nav_order: 8
 
 
 
+<details>
+  <summary><strong>Solution</strong> (click to expand)</summary>
+
+  <!-- (b)(i) -->
+  <p><strong>(i)</strong> Evaluate \( \displaystyle \frac{\log_{3} 81}{\log_{4} 64} \).</p>
+
+  <p style="text-align:center;">
+    \( \displaystyle
+      \frac{\log_{3} 81}{\log_{4} 64}
+      = \frac{\log_{3} 3^{4}}{\log_{4} 4^{3}}
+      = \frac{4\log_{3} 3}{3\log_{4} 4}
+      = \frac{4}{3}.
+    \)
+  </p>
+
+  <!-- (b)(ii) -->
+  <p style="margin-top:0.75rem;">
+    <strong>(ii)</strong> Evaluate
+    \( \log_{81} 22 \times \log_{2} 243 \times \log_{22} 16 \).
+  </p>
+
+  <p>
+    Use the change–of–base formula \( \log_{a} b = \dfrac{\log b}{\log a} \):
+  </p>
+
+  <p style="text-align:center;">
+    \( \displaystyle
+      \log_{81} 22 \times \log_{2} 243 \times \log_{22} 16
+      = \frac{\log 22}{\log 81} \times \frac{\log 243}{\log 2} \times \frac{\log 16}{\log 22}.
+    \)
+  </p>
+
+  <p>
+    The factors \( \log 22 \) cancel, leaving
+  </p>
+
+  <p style="text-align:center;">
+    \( \displaystyle
+      = \frac{\log 243 \,\log 16}{\log 81 \,\log 2}.
+    \)
+  </p>
+
+  <p>
+    Now write each number as a power:
+    \( 243 = 3^{5} \), \( 81 = 3^{4} \), \( 16 = 2^{4} \).
+  </p>
+
+  <p style="text-align:center;">
+    \( \displaystyle
+      \frac{\log 3^{5} \,\log 2^{4}}{\log 3^{4} \,\log 2}
+      = \frac{5\log 3 \cdot 4\log 2}{4\log 3 \cdot \log 2}
+      = 5.
+    \)
+  </p>
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <script>
 // Optional: "Expand All" / "Collapse All" helpers for convenience
