@@ -678,6 +678,17 @@ nav_order: 8
   </p>
 
 
+
+
+  <p>
+    Expand the product inside the brackets:
+  </p>
+
+  <p style="text-align:center;">
+    \( (x-2)(x+7) = x^{2} + 7x - 2x - 14 = x^{2} + 5x - 14, \)
+  </p>
+
+
 <script>
 // Optional: "Expand All" / "Collapse All" helpers for convenience
 function setAllDetails(open) {
