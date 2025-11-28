@@ -668,7 +668,9 @@ nav_order: 8
     \(\log_{3}(x-2) + \log_{3}(x+7) = 2\) and asked to solve for \(x\).
   </p>
 
-
+ <p>
+    Using the log law \( \log(x) + \log(y) = \log(xy) \), we combine the logs:
+  </p>
 
 
 <script>
