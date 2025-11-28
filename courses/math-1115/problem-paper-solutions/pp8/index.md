@@ -689,6 +689,20 @@ nav_order: 8
   </p>
 
 
+
+
+
+
+  <p style="text-align:center;">
+    so \( \log_{3}\!\bigl[x^{2} + 5x - 14\bigr] = 2. \)
+  </p>
+
+  <p>
+    Recall that if \( \log_{a}X = n \), then \( X = a^{n} \).
+    Here \(a = 3\) and \(n = 2\), so
+  </p>
+
+
 <script>
 // Optional: "Expand All" / "Collapse All" helpers for convenience
 function setAllDetails(open) {
