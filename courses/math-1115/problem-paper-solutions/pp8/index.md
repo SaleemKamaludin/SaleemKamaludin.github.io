@@ -673,6 +673,11 @@ nav_order: 8
   </p>
 
 
+   <p style="text-align:center;">
+    \( \log_{3}\!\bigl[(x-2)(x+7)\bigr] = 2. \)
+  </p>
+
+
 <script>
 // Optional: "Expand All" / "Collapse All" helpers for convenience
 function setAllDetails(open) {
