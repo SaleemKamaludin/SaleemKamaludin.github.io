@@ -703,6 +703,22 @@ nav_order: 8
   </p>
 
 
+
+
+   <p style="text-align:center;">
+    \( x^{2} + 5x - 14 = 3^{2} = 9. \)
+  </p>
+
+  <p>
+    Bring 9 to the left-hand side to form a quadratic:
+  </p>
+
+  <p style="text-align:center;">
+    \( x^{2} + 5x - 14 - 9 = 0
+       \;\Rightarrow\; x^{2} + 5x - 23 = 0. \)
+  </p>
+
+
 <script>
 // Optional: "Expand All" / "Collapse All" helpers for convenience
 function setAllDetails(open) {
