@@ -719,6 +719,32 @@ nav_order: 8
   </p>
 
 
+
+  <p>
+    Solve this quadratic using the formula
+    \( x = \dfrac{-b \pm \sqrt{b^{2} - 4ac}}{2a} \) with \(a=1\), \(b=5\), \(c=-23\):
+  </p>
+
+  <p style="text-align:center;">
+    \( \displaystyle
+      x = \frac{-5 \pm \sqrt{5^{2} - 4(1)(-23)}}{2(1)}
+      = \frac{-5 \pm \sqrt{25 + 92}}{2}
+      = \frac{-5 \pm \sqrt{117}}{2}
+      = \frac{-5 \pm \sqrt{9\cdot 13}}{2}
+      = \frac{-5 \pm 3\sqrt{13}}{2}.
+    \)
+  </p>
+
+  <p>
+    (If we also enforce the domain of the original logarithms,
+    \(x-2 &gt; 0\) and \(x+7 &gt; 0\), only
+    \( \displaystyle x = \frac{-5 + 3\sqrt{13}}{2} \approx 2.91 \)
+    is valid.)
+  </p>
+
+</details>
+
+
 <script>
 // Optional: "Expand All" / "Collapse All" helpers for convenience
 function setAllDetails(open) {
