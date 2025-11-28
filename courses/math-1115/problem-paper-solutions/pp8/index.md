@@ -646,6 +646,31 @@ nav_order: 8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<details>
+  <summary><strong>Solution (iii)</strong> (click to expand)</summary>
+
+  <p>
+    We are given an equation of the form
+    \(\log_{3}(x-2) + \log_{3}(x+7) = 2\) and asked to solve for \(x\).
+  </p>
+
+
+
+
 <script>
 // Optional: "Expand All" / "Collapse All" helpers for convenience
 function setAllDetails(open) {
