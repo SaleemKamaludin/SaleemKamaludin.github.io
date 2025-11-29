@@ -324,7 +324,29 @@ we multiply by \( \dfrac{\pi}{180} \)
 
 
 
+<h3>Solution.</h3>
 
+<!-- Part (a) -->
+<div style="border:1px solid #ddd; border-radius:10px; padding:0.75rem 1rem; margin:0.75rem 0;">
+  <p style="font-weight:600; margin:0 0 0.35rem 0;">
+    (a) Solve \( \sin\theta = \dfrac{1}{5} \) for \( 0^\circ \le \theta \le 360^\circ \).
+  </p>
+
+  <p>
+    The associated acute angle is
+    \( \alpha = \sin^{-1}\!\left(\dfrac{1}{5}\right) \approx 11.5^\circ \).
+    Since sine is positive in Quadrants I and II, the solutions are
+  </p>
+
+  <p style="text-align:center; margin:0.4rem 0;">
+    \( \theta = \alpha \quad\text{or}\quad \theta = 180^\circ - \alpha. \)
+  </p>
+
+  <p style="margin:0;">
+    Hence
+    \( \theta \approx 11.5^\circ, \; 168.5^\circ. \)
+  </p>
+</div>
 
 
 
