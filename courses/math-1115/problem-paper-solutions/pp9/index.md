@@ -24,8 +24,8 @@ permalink: /courses/math-1115/problem-paper-solutions/pp9/
   <div class="qp9-solution">
     <h3>Solution</h3>
     <p>
-      To convert from degrees to radians, multiply the angle (in degrees)
-      by <code>&pi;/180</code>.
+     Recall that to convert from degrees to radians
+we multiply by \( \dfrac{\pi}{180} \)
     </p>
 
     <ul>
@@ -47,8 +47,6 @@ permalink: /courses/math-1115/problem-paper-solutions/pp9/
 
 
 
-<p><strong>Solution.</strong> Recall that to convert from degrees to radians
-we multiply by \( \dfrac{\pi}{180} \).</p>
 
 <ol style="margin-top:0.6rem; list-style:none; padding-left:0;">
 
