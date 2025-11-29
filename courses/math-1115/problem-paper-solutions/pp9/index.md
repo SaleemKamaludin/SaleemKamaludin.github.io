@@ -28,21 +28,7 @@ permalink: /courses/math-1115/problem-paper-solutions/pp9/
 we multiply by \( \dfrac{\pi}{180} \)
     </p>
 
-    <ul>
-      <li>
-        <strong>(a)</strong> 80&deg;:
-        80 &times; (&pi;/180) = 80&pi;/180 = 4&pi;/9 &approx; 1.39 rad
-      </li>
-      <li>
-        <strong>(b)</strong> 135&deg;:
-        135 &times; (&pi;/180) = 135&pi;/180 = 3&pi;/4 &approx; 2.36 rad
-      </li>
-      <li>
-        <strong>(c)</strong> 200&deg;:
-        200 &times; (&pi;/180) = 200&pi;/180 = 10&pi;/9 &approx; 3.49 rad
-      </li>
-    </ul>
-  </div>
+ 
 
 
 
