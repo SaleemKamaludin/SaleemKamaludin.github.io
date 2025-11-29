@@ -185,9 +185,6 @@ we multiply by \( \dfrac{\pi}{180} \)
 <div class="solution" style="margin:0.75rem 0 1.5rem 0;">
   <p><strong>Solution.</strong></p>
 
-  <ol type="a" style="margin-top:0.5rem;">
-<div class="solution" style="margin:0.75rem 0 1.5rem 0;">
-  <p><strong>Solution.</strong></p>
 
   <!-- Part (a) -->
   <p style="margin-top:0.4rem;">
