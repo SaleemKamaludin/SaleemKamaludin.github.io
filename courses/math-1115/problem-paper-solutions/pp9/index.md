@@ -182,24 +182,35 @@ we multiply by \( \dfrac{\pi}{180} \)
 
 
 
-<div class="solution" style="margin:0.75rem 0 1.5rem 0;">
-  <p><strong>Solution.</strong></p>
 
 
-  <!-- Part (a) -->
-  <p style="margin-top:0.4rem;">
-    <strong>(a)</strong> We solve \( \sin\theta = \dfrac{1}{5} \) for \( 0^\circ \le \theta \le 360^\circ \).
+
+
+<h3>Solution.</h3>
+
+<!-- Part (a) -->
+<div style="border:1px solid #ddd; border-radius:10px; padding:0.75rem 1rem; margin:0.75rem 0;">
+  <p style="font-weight:600; margin:0 0 0.35rem 0;">
+    (a) Solve \( \sin\theta = \dfrac{1}{5} \) for \( 0^\circ \le \theta \le 360^\circ \).
   </p>
+
   <p>
     The associated acute angle is
     \( \alpha = \sin^{-1}\!\left(\dfrac{1}{5}\right) \approx 11.5^\circ \).
-    Since sine is positive in Quadrants&nbsp;I and II,
+    Since sine is positive in Quadrants I and II, the solutions are
   </p>
-  <p style="text-align:center; margin-top:0.2rem;">
-    \( \theta = \alpha \quad \text{or} \quad \theta = 180^\circ - \alpha \)
-    \( \;\Rightarrow\;
-       \theta \approx 11.5^\circ,\ 168.5^\circ. \)
+
+  <p style="text-align:center; margin:0.4rem 0;">
+    \( \theta = \alpha \quad\text{or}\quad \theta = 180^\circ - \alpha. \)
   </p>
+
+  <p style="margin:0;">
+    Hence
+    \( \theta \approx 11.5^\circ, \; 168.5^\circ. \)
+  </p>
+</div>
+
+
 
   <!-- Part (b) -->
   <p style="margin-top:0.9rem;">
@@ -321,32 +332,6 @@ we multiply by \( \dfrac{\pi}{180} \)
 
 
 
-
-
-
-<h3>Solution.</h3>
-
-<!-- Part (a) -->
-<div style="border:1px solid #ddd; border-radius:10px; padding:0.75rem 1rem; margin:0.75rem 0;">
-  <p style="font-weight:600; margin:0 0 0.35rem 0;">
-    (a) Solve \( \sin\theta = \dfrac{1}{5} \) for \( 0^\circ \le \theta \le 360^\circ \).
-  </p>
-
-  <p>
-    The associated acute angle is
-    \( \alpha = \sin^{-1}\!\left(\dfrac{1}{5}\right) \approx 11.5^\circ \).
-    Since sine is positive in Quadrants I and II, the solutions are
-  </p>
-
-  <p style="text-align:center; margin:0.4rem 0;">
-    \( \theta = \alpha \quad\text{or}\quad \theta = 180^\circ - \alpha. \)
-  </p>
-
-  <p style="margin:0;">
-    Hence
-    \( \theta \approx 11.5^\circ, \; 168.5^\circ. \)
-  </p>
-</div>
 
 
 
