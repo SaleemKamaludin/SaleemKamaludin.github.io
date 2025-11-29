@@ -47,6 +47,39 @@ permalink: /courses/math-1115/problem-paper-solutions/pp9/
 
 
 
+<p><strong>Solution.</strong> Recall that to convert from degrees to radians
+we multiply by \( \dfrac{\pi}{180} \).</p>
+
+<ol style="margin-top:0.6rem; list-style:none; padding-left:0;">
+
+  <li style="margin-bottom:0.4rem;">
+    <strong>(a)</strong> For \(80^\circ\):
+    <span style="display:block; text-align:center; margin-top:0.2rem;">
+      \( \left( \dfrac{\pi}{180} \times 80 \right)\,\text{rad}
+         = \dfrac{80\pi}{180}
+         = \dfrac{4\pi}{9} \approx 1.39\ \text{rad} \)
+    </span>
+  </li>
+
+  <li style="margin-bottom:0.4rem;">
+    <strong>(b)</strong> For \(135^\circ\):
+    <span style="display:block; text-align:center; margin-top:0.2rem;">
+      \( \left( \dfrac{\pi}{180} \times 135 \right)\,\text{rad}
+         = \dfrac{135\pi}{180}
+         = \dfrac{3\pi}{4} \approx 2.36\ \text{rad} \)
+    </span>
+  </li>
+
+  <li>
+    <strong>(c)</strong> For \(200^\circ\):
+    <span style="display:block; text-align:center; margin-top:0.2rem;">
+      \( \left( \dfrac{\pi}{180} \times 200 \right)\,\text{rad}
+         = \dfrac{200\pi}{180}
+         = \dfrac{10\pi}{9} \approx 3.49\ \text{rad} \)
+    </span>
+  </li>
+
+</ol>
 
 
 
