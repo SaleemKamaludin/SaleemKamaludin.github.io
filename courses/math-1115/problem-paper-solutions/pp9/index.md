@@ -282,28 +282,29 @@ we multiply by \( \dfrac{\pi}{180} \)
   
 
 
-
-
-
-<div class="solution" style="margin:0.75rem 0 1.5rem 0;">
-  <p><strong>(e).</strong> Solve \( \sin(\theta) = \dfrac{1}{2} \) for \( 0^\circ \le \theta \le 360^\circ \).</p>
-
-  <p>
-    First find the reference angle:
+<!-- Part (e) -->
+<div style="border:1px solid #ddd; border-radius:10px; padding:0.75rem 1rem; margin:0.75rem 0;">
+  <p style="font-weight:600; margin:0 0 0.35rem 0;">
+    (e) Solve \( \sin(\theta)=\dfrac{1}{2} \) for \( 0^\circ \le \theta \le 360^\circ \).
   </p>
 
-  <p style="text-align:center; margin-top:0.2rem;">
+  <p>
+    First find the reference angle:  
     \( \theta_0 = \sin^{-1}\!\left(\dfrac{1}{2}\right) = 30^\circ. \)
   </p>
 
   <p>
-    Since sine is positive in Quadrants&nbsp;I and II, the two solutions are:
+    Since sine is positive in Quadrants I and II, the two solutions are:
   </p>
 
-  <p style="text-align:center; margin-top:0.2rem;">
-    \( \theta = 30^\circ, \qquad \theta = 150^\circ. \)
+  <p style="text-align:center; margin:0.4rem 0;">
+    \( \theta = 30^\circ \)<br>
+    \( \theta = 150^\circ \)
   </p>
 </div>
+
+
+
 
 
 
