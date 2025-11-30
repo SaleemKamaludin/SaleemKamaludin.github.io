@@ -210,6 +210,23 @@ we multiply by \( \dfrac{\pi}{180} \)
   </p>
 </div>
 
+<!-- Part (b) -->
+<div style="border:1px solid #ddd; border-radius:10px; padding:0.75rem 1rem; margin:0.75rem 0;">
+  <p style="font-weight:600; margin:0 0 0.35rem 0;">
+    (b) Now solve \( \sin\theta = -0.6325 \) for \( 0^\circ \le \theta \le 360^\circ \).
+  </p>
+
+  <p>
+    First find the reference angle  
+    \( \alpha = \sin^{-1}(0.6325) \approx 39.2^\circ \).
+    Because sine is negative in Quadrants III and IV, the angles are:
+  </p>
+
+  <p style="text-align:center; margin:0.4rem 0;">
+    \( \theta =180^\circ + \alpha \approx 219.2^\circ \)<br>
+    \( \theta =360^\circ - \alpha \approx 320.8^\circ \)
+  </p>
+</div>
 
 
   <!-- Part (b) -->
