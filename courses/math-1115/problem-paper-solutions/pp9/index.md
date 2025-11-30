@@ -229,7 +229,7 @@ we multiply by \( \dfrac{\pi}{180} \)
 </div>
 
 
-  
+
 <!-- Part (c) -->
 <div style="border:1px solid #ddd; border-radius:10px; padding:0.75rem 1rem; margin:0.75rem 0;">
   <p style="font-weight:600; margin:0 0 0.35rem 0;">
@@ -252,6 +252,9 @@ we multiply by \( \dfrac{\pi}{180} \)
     \( \theta = 2\pi - \alpha \approx 4.8\text{ rad} \)
   </p>
 </div>
+
+  
+
 
 
   
