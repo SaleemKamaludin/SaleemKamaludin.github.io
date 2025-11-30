@@ -230,29 +230,31 @@ we multiply by \( \dfrac{\pi}{180} \)
 
 
   
+<!-- Part (c) -->
+<div style="border:1px solid #ddd; border-radius:10px; padding:0.75rem 1rem; margin:0.75rem 0;">
+  <p style="font-weight:600; margin:0 0 0.35rem 0;">
+    (c) Solve \( \cos\theta - \dfrac{1}{6} = 0 \) for \( 0^\circ \le \theta \le 2\pi \).
+  </p>
+
+  <p>
+    First rewrite the equation as  
+    \( \cos\theta = \dfrac{1}{6}. \)
+  </p>
+
+  <p>
+    The associated acute angle is  
+    \( \alpha = \cos^{-1}\!\left(\dfrac{1}{6}\right) \approx 1.4\text{ rad}. \)  
+    Cosine is positive in Quadrants I and IV, so:
+  </p>
+
+  <p style="text-align:center; margin:0.4rem 0;">
+    \( \theta = \alpha \approx 1.4\text{ rad} \)<br>
+    \( \theta = 2\pi - \alpha \approx 4.8\text{ rad} \)
+  </p>
+</div>
 
 
   
-  <!-- Part (c) -->
-  <p style="margin-top:0.4rem;">
-    <strong>(c)</strong> Solve \( \cos\theta - \dfrac{1}{6} = 0 \) for \( 0 \le \theta \le 2\pi \).
-  </p>
-  <p>
-    First rewrite the equation as
-  </p>
-  <p style="text-align:center; margin-top:0.2rem;">
-    \( \cos\theta = \dfrac{1}{6}. \)
-  </p>
-  <p>
-    The associated acute angle is
-    \( \alpha = \cos^{-1}\!\left(\dfrac{1}{6}\right) \approx 1.4 \text{ rad}. \)
-    Cosine is positive in Quadrants&nbsp;I and IV, so the angles are
-  </p>
-  <p style="text-align:center; margin-top:0.2rem;">
-    \( \theta = \alpha \quad \text{or} \quad \theta = 2\pi - \alpha \)
-    \( \;\Rightarrow\;
-       \theta \approx 1.4\ \text{rad},\ 4.8\ \text{rad}. \)
-  </p>
 
   <!-- Part (d) -->
   <p style="margin-top:0.9rem;">
