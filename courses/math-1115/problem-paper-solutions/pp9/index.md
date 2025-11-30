@@ -256,29 +256,32 @@ we multiply by \( \dfrac{\pi}{180} \)
   
 
 
+<!-- Part (d) -->
+<div style="border:1px solid #ddd; border-radius:10px; padding:0.75rem 1rem; margin:0.75rem 0;">
+  <p style="font-weight:600; margin:0 0 0.35rem 0;">
+    (d) Solve \( 2\sin\theta = 1 \) for \( 0 \le \theta \le 2\pi \).
+  </p>
+
+  <p>
+    Divide both sides by 2:  
+    \( \sin\theta = \dfrac{1}{2}. \)
+  </p>
+
+  <p>
+    The principal angle is  
+    \( \theta_0 = \sin^{-1}\!\left(\dfrac{1}{2}\right) = \dfrac{\pi}{6} \approx 0.524\text{ rad}. \)
+    Since sine is positive in Quadrants I and II, the two solutions are:
+  </p>
+
+  <p style="text-align:center; margin:0.4rem 0;">
+    \( \theta = \theta_0 = \dfrac{\pi}{6} \approx 0.524\text{ rad} \)<br>
+    \( \theta = \pi - \theta_0 = \dfrac{5\pi}{6} \approx 2.61\text{ rad} \)
+  </p>
+</div>
 
   
 
-  <!-- Part (d) -->
-  <p style="margin-top:0.9rem;">
-    <strong>(d)</strong> Solve \( 2\sin\theta = 1 \) for \( 0 \le \theta \le 2\pi \).
-  </p>
-  <p>
-    Divide both sides by \(2\):
-  </p>
-  <p style="text-align:center; margin-top:0.2rem;">
-    \( \sin\theta = \dfrac{1}{2}. \)
-  </p>
-  <p>
-    The principal angle is
-    \( \theta_0 = \sin^{-1}\!\left(\dfrac{1}{2}\right) = \dfrac{\pi}{6} \approx 0.524 \text{ rad}. \)
-    Since sine is positive in Quadrants&nbsp;I and II, the two solutions are
-  </p>
-  <p style="text-align:center; margin-top:0.2rem;">
-    \( \theta = \theta_0 = \dfrac{\pi}{6} \approx 0.524 \text{ rad}, \qquad
-       \theta = \pi - \theta_0 = \pi - \dfrac{\pi}{6} = \dfrac{5\pi}{6} \approx 2.61 \text{ rad}. \)
-  </p>
-</div>
+
 
 
 
