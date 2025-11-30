@@ -229,19 +229,7 @@ we multiply by \( \dfrac{\pi}{180} \)
 </div>
 
 
-  <!-- Part (b) -->
-  <p style="margin-top:0.9rem;">
-    <strong>(b)</strong> Now solve \( \sin\theta = -0.6325 \) for \( 0^\circ \le \theta \le 360^\circ \).
-  </p>
-  <p>
-    First find the reference angle
-    \( \alpha = \sin^{-1}(0.6325) \approx 39.2^\circ \).
-    Because sine is negative in Quadrants&nbsp;III and IV, the angles are
-  </p>
-  <p style="text-align:center; margin-top:0.2rem;">
-    \( \theta = 180^\circ + \alpha \approx 219.2^\circ, \qquad
-       \theta = 360^\circ - \alpha \approx 320.8^\circ. \)
-  </p>
+  
 
 
   
