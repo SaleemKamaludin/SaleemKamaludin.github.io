@@ -306,32 +306,30 @@ we multiply by \( \dfrac{\pi}{180} \)
 
 
 
-
-
-
-
-<div class="solution" style="margin:0.75rem 0 1.5rem 0;">
-  <p><strong>(f).</strong> Solve \( \tan\theta = -\dfrac{1}{9} \) for \( -180^\circ \le \theta \le 180^\circ \).</p>
-
-  <p>
-    First find the associated acute angle:
+<!-- Part (f) -->
+<div style="border:1px solid #ddd; border-radius:10px; padding:0.75rem 1rem; margin:0.75rem 0;">
+  <p style="font-weight:600; margin:0 0 0.35rem 0;">
+    (f) Solve \( \tan\theta = -\dfrac{1}{9} \) for \( -180^\circ \le \theta \le 180^\circ \).
   </p>
 
-  <p style="text-align:center; margin-top:0.2rem;">
+  <p>
+    First find the associated acute angle:  
     \( \alpha = \tan^{-1}\!\left(\dfrac{1}{9}\right) \approx 6.34^\circ. \)
   </p>
 
   <p>
-    Since the tangent is negative, \( \theta \) must lie in Quadrants&nbsp;II or IV for this range.
-    Thus the two solutions are
+    Since tangent is negative, \( \theta \) must lie in Quadrants II or IV for this range.
+    Thus the solutions are:
   </p>
 
-  <p style="text-align:center; margin-top:0.2rem;">
-    \( \theta = 180^\circ - \alpha,\quad \theta = -\alpha \)
-    \( \;\Rightarrow\;
-       \theta \approx 173.7^\circ,\ -6.34^\circ. \)
+  <p style="text-align:center; margin:0.4rem 0;">
+    \( \theta = 180^\circ - \alpha \approx 173.7^\circ \)<br>
+    \( \theta = -\alpha \approx -6.34^\circ \)
   </p>
 </div>
+
+
+
 
 
 
