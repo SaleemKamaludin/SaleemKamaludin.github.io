@@ -671,6 +671,14 @@ To ensure consistency, these operations must be performed in a **specific order*
 </p>
 
 
+<ul style="list-style-type: disc; padding-left: 1.4rem; line-height: 1.6;">
+  <li>
+    If the denominator is 
+    \( \,<span style="color:#1565c0;">a</span> + <span style="color:#c62828;">b</span>\, \)
+    we <em>flip</em> the sign in the middle and use
+    \( \,<span style="color:#1565c0;">a</span> - <span style="color:#c62828;">b</span>\, \).
+  </li>
+
 
 ---
 
