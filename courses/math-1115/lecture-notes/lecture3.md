@@ -703,6 +703,11 @@ To ensure consistency, these operations must be performed in a **specific order*
 </p>
 
 
+<p>
+  and notice the annoying cross term cancels out!
+</p>
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
