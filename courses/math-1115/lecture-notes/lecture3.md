@@ -694,6 +694,14 @@ To ensure consistency, these operations must be performed in a **specific order*
 </p>
 
 
+<p style="text-align:center; margin:0.6rem 0;">
+  \[
+    (\color{#1565c0}{a}-\color{#c62828}{b})
+    (\color{#1565c0}{a}+\color{#c62828}{b})
+    = \color{#1565c0}{a}^{2} - \color{#c62828}{b}^{2}
+  \]
+</p>
+
 
 ---
 
