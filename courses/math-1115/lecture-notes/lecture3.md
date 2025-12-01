@@ -678,7 +678,13 @@ To ensure consistency, these operations must be performed in a **specific order*
     we <em>flip</em> the sign in the middle and use
     \( \,<span style="color:#1565c0;">a</span> - <span style="color:#c62828;">b</span>\, \).
   </li>
-
+ <li>
+    If the denominator is 
+    \( \,<span style="color:#1565c0;">a</span> - <span style="color:#c62828;">b</span>\, \)
+    we use
+    \( \,<span style="color:#1565c0;">a</span> + <span style="color:#c62828;">b</span>\, \).
+  </li>
+</ul>
 
 ---
 
