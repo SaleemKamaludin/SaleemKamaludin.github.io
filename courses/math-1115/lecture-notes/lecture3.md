@@ -666,46 +666,30 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-<p style="margin-top:1rem;">
-  <strong>The conjugate idea</strong>
-</p>
-
+<h3>The conjugate idea</h3>
 
 <ul style="list-style-type: disc; padding-left: 1.4rem; line-height: 1.6;">
   <li>
-    If the denominator is 
-    \( \,<span style="color:#1565c0;">a</span> + <span style="color:#c62828;">b</span>\, \)
-    we <em>flip</em> the sign in the middle and use
-    \( \,<span style="color:#1565c0;">a</span> - <span style="color:#c62828;">b</span>\, \).
+    If the denominator is \( a + b \) we <em>flip</em> the sign in the middle and use \( a - b \).
   </li>
- <li>
-    If the denominator is 
-    \( \,<span style="color:#1565c0;">a</span> - <span style="color:#c62828;">b</span>\, \)
-    we use
-    \( \,<span style="color:#1565c0;">a</span> + <span style="color:#c62828;">b</span>\, \).
+  <li>
+    If the denominator is \( a - b \) we use \( a + b \).
   </li>
 </ul>
-
-
 
 <p style="margin-top:0.6rem;">
   This “sign–flip copy” is called the <strong>conjugate</strong>.
   When we multiply by the conjugate we get a <em>difference of two squares</em>:
 </p>
 
-
 <p style="text-align:center; margin:0.6rem 0;">
-  \[
-    (\color{#1565c0}{a}-\color{#c62828}{b})
-    (\color{#1565c0}{a}+\color{#c62828}{b})
-    = \color{#1565c0}{a}^{2} - \color{#c62828}{b}^{2}
-  \]
+  \( (a-b)(a+b) = a^{2} - b^{2} \)
 </p>
-
 
 <p>
   and notice the annoying cross term cancels out!
 </p>
+
 
 
 ---
