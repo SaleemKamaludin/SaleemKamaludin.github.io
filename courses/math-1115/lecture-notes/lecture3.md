@@ -686,6 +686,15 @@ To ensure consistency, these operations must be performed in a **specific order*
   </li>
 </ul>
 
+
+
+<p style="margin-top:0.6rem;">
+  This “sign–flip copy” is called the <strong>conjugate</strong>.
+  When we multiply by the conjugate we get a <em>difference of two squares</em>:
+</p>
+
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
