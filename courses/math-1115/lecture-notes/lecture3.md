@@ -725,7 +725,14 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+<p style="text-align:center; margin:0.6rem 0;">
+  \[
+    \frac{1}{\,\color{#1565c0}{3}+\color{#c62828}{\sqrt{2}}\,}
+    \quad\longrightarrow\quad
+    \text{Multiply top and bottom by the conjugate }
+    (\color{#1565c0}{3}-\color{#c62828}{\sqrt{2}}).
+  \]
+</p>
 
 
 
