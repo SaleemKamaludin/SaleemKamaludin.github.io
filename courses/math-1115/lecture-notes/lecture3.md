@@ -733,18 +733,14 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 <p style="text-align:center; margin:0.6rem 0;">
-  \[
-    \frac{1}{\,\color{#1565c0}{3}+\color{#c62828}{\sqrt{2}}\,}\;
-    \times\;
+  $$\frac{1}{\color{#1565c0}{3}+\color{#c62828}{\sqrt{2}}}
+    \times
     \frac{\color{#1565c0}{3}-\color{#c62828}{\sqrt{2}}}
          {\color{#1565c0}{3}-\color{#c62828}{\sqrt{2}}}
-    \quad
-    = \quad
-    \frac{\;\color{#1565c0}{3}-\color{#c62828}{\sqrt{2}}\,}
-         {(\,\color{#1565c0}{3})^{2}-(\,\color{#c62828}{\sqrt{2}})^{2}}
-    \hspace{1em}
-    \text{\small (using the difference–of–two–squares)}
-  \]
+    = 
+    \frac{\color{#1565c0}{3}-\color{#c62828}{\sqrt{2}}}
+         {(\color{#1565c0}{3})^{2}-(\color{#c62828}{\sqrt{2}})^{2}}
+    \text{\small\,(using the difference–of–two–squares)}.$$
 </p>
 
 ---
