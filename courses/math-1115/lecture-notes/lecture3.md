@@ -739,6 +739,14 @@ To ensure consistency, these operations must be performed in a **specific order*
 </p>
 
 
+
+
+<p style="text-align:center; margin:0.6rem 0;">
+  $$= \frac{\color{#1565c0}{3}-\color{#c62828}{\sqrt{2}}}{9-2}
+    = \frac{\color{#1565c0}{3}-\color{#c62828}{\sqrt{2}}}{7}.$$
+</p>
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
