@@ -747,6 +747,15 @@ To ensure consistency, these operations must be performed in a **specific order*
 </p>
 
 
+
+<p style="margin-top:0.8rem;">
+  <strong>Understanding.</strong>
+  Multiplying by the conjugate is <em>useful</em> because we are multiplying by \(1\)
+  in a clever disguise, and it <u>guarantees</u> the radical disappears
+  from the denominator.
+</p>
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
