@@ -738,9 +738,9 @@ To ensure consistency, these operations must be performed in a **specific order*
     \frac{\color{#1565c0}{3}-\color{#c62828}{\sqrt{2}}}
          {\color{#1565c0}{3}-\color{#c62828}{\sqrt{2}}}
     = 
-    \frac{\color{#1565c0}{3}-\color{#c62828}{\sqrt{2}}}
+$$\frac{\color{#1565c0}{3}-\color{#c62828}{\sqrt{2}}}
          {(\color{#1565c0}{3})^{2}-(\color{#c62828}{\sqrt{2}})^{2}}
-    \text{\small\,(using the difference–of–two–squares)}.$$
+  \quad\text{(using the difference of two squares)}$$
 </p>
 
 ---
