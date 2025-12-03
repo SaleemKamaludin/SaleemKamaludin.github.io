@@ -716,13 +716,7 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
-
-
-
-
 <p style="margin-top:1.2rem; font-weight:700;">Worked example</p>
-
 
 <p style="text-align:center; margin:0.6rem 0;">
   $$\frac{1}{\color{#1565c0}{3}+\color{#c62828}{\sqrt{2}}}
@@ -731,18 +725,16 @@ To ensure consistency, these operations must be performed in a **specific order*
     (\color{#1565c0}{3}-\color{#c62828}{\sqrt{2}}).$$
 </p>
 
-
 <p style="text-align:center; margin:0.6rem 0;">
   $$\frac{1}{\color{#1565c0}{3}+\color{#c62828}{\sqrt{2}}}
     \times
     \frac{\color{#1565c0}{3}-\color{#c62828}{\sqrt{2}}}
-         {\color{#1565c0}{3}-\color{#c62828}{\sqrt{2}}}
-    = 
+         {\color{#1565c0}{3}-\color{#c62828}{\sqrt{2}}}$$
 </p>
 
 <p style="text-align:center; margin:0.6rem 0;">
   $$\frac{\color{#1565c0}{3}-\color{#c62828}{\sqrt{2}}}
-           {(\color{#1565c0}{3})^{2}-(\color{#c62828}{\sqrt{2}})^{2}}$$
+          {(\color{#1565c0}{3})^{2}-(\color{#c62828}{\sqrt{2}})^{2}}$$
   <span style="font-size:0.9em;">(using the difference of two squares)</span>
 </p>
 
