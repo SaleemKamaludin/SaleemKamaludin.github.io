@@ -848,7 +848,9 @@ To ensure consistency, these operations must be performed in a **specific order*
 </p>
 
 
-
+<p style="text-align:center; margin:0.6rem 0;">
+  $$\text{Denominator }=25-12=13.$$
+</p>
 
 
 
