@@ -805,6 +805,14 @@ To ensure consistency, these operations must be performed in a **specific order*
 <p style="margin-top:1.2rem; font-weight:600;">Multiply by <em>one</em> in disguise.</p>
 
 
+<p style="text-align:center; margin:0.6rem 0;">
+  $$\frac{1}{\color{#1565c0}{5}+\color{#c62828}{2\sqrt{3}}}
+    \;\xrightarrow{\;\times
+      \frac{\color{#1565c0}{5}-\color{#c62828}{2\sqrt{3}}}{
+            \color{#1565c0}{5}-\color{#c62828}{2\sqrt{3}}}\;}
+    \frac{1}{1}$$
+</p>
+
 
 ---
 
