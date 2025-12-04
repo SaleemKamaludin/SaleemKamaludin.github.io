@@ -832,7 +832,10 @@ To ensure consistency, these operations must be performed in a **specific order*
     \frac{\color{#1565c0}{5}-\color{#c62828}{2\sqrt{3}}}{
           \color{#1565c0}{5}-\color{#c62828}{2\sqrt{3}}}
     =
-
+ \frac{\;\color{#1565c0}{5}-\color{#c62828}{2\sqrt{3}}\;}
+         {(\color{#1565c0}{5})^{2}-(\color{#c62828}{2\sqrt{3}})^{2}}
+    \;\color{#2e7d32}{\bigl(\text{difference of squares}\bigr)}$$
+</p>
 
 
 
