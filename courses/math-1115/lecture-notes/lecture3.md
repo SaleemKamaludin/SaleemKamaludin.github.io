@@ -857,7 +857,8 @@ To ensure consistency, these operations must be performed in a **specific order*
   $$\boxed{\displaystyle
     \frac{1}{5+2\sqrt{3}}
     =
-
+\frac{\,5-2\sqrt{3}\,}{13}}$$
+</p>
 
 
 
