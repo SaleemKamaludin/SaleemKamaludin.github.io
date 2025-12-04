@@ -819,6 +819,9 @@ To ensure consistency, these operations must be performed in a **specific order*
   (The arrow reminds us we are multiplying by \(1\), so the value is unchanged.)
 </p>
 
+<p style="margin-top:1.2rem; font-weight:600;">Perform the multiplication.</p>
+
+
 
 ---
 
