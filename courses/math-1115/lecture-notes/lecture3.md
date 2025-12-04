@@ -798,7 +798,11 @@ To ensure consistency, these operations must be performed in a **specific order*
 </p>
 
 
+<p style="text-align:center; margin:0.6rem 0;">
+  $$\color{#1565c0}{5}-\color{#c62828}{2\sqrt{3}}.$$
+</p>
 
+<p style="margin-top:1.2rem; font-weight:600;">Multiply by <em>one</em> in disguise.</p>
 
 
 
