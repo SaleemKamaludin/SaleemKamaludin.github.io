@@ -790,7 +790,12 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+<p style="margin-top:1.2rem; font-weight:600;">Identify the conjugate.</p>
+<p>
+  The denominator has two parts:
+  \(\color{#1565c0}{5}\) and \(\color{#c62828}{2\sqrt{3}}\).
+  Its conjugate is obtained by flipping the sign:
+</p>
 
 
 
