@@ -814,6 +814,12 @@ To ensure consistency, these operations must be performed in a **specific order*
 </p>
 
 
+
+<p style="text-align:center; font-size:0.9rem; margin-top:0;">
+  (The arrow reminds us we are multiplying by \(1\), so the value is unchanged.)
+</p>
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
