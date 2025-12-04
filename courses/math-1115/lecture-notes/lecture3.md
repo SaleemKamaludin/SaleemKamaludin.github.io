@@ -853,7 +853,10 @@ To ensure consistency, these operations must be performed in a **specific order*
 </p>
 
 
-
+<p style="text-align:center; margin:1.2rem 0;">
+  $$\boxed{\displaystyle
+    \frac{1}{5+2\sqrt{3}}
+    =
 
 
 
