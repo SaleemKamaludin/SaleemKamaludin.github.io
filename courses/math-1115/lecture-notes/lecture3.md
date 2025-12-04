@@ -823,6 +823,45 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
+
+
+
+<p style="text-align:center; margin:0.6rem 0;">
+  $$\frac{1}{\color{#1565c0}{5}+\color{#c62828}{2\sqrt{3}}}
+    \cdot
+    \frac{\color{#1565c0}{5}-\color{#c62828}{2\sqrt{3}}}{
+          \color{#1565c0}{5}-\color{#c62828}{2\sqrt{3}}}
+    =
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
