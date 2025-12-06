@@ -875,6 +875,43 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Optional minimal styling -->
+<style>
+  .example-card {
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    padding: 1rem 1.25rem;
+    margin: 1.2rem 0;
+    background: #fafafa;
+  }
+  .example-title {
+    font-weight: 600;
+    margin-bottom: 0.4rem;
+  }
+</style>
+
+
+
+
+
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
