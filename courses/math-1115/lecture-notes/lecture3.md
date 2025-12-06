@@ -935,7 +935,10 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+ <p>
+    and no pair of radicals shares the same index, so the expansion is complete.
+  </p>
+</div>
 
 
 
