@@ -908,7 +908,10 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+<!-- Example 1 -->
+<div class="example-card">
+  <p class="example-title">Example 1</p>
+  <p>Expand and simplify the product \((6+\sqrt{8})(4-\sqrt{6})\).</p>
 
 
 
