@@ -921,6 +921,36 @@ To ensure consistency, these operations must be performed in a **specific order*
     $$24 - 6\sqrt{6} + 4\sqrt{8} - \sqrt{8}\sqrt{6}.$$
   </p>
 
+ <p>
+    Because \(\sqrt{8} = 2\sqrt{2}\), the third term becomes \(8\sqrt{2}\).
+    The last term equals \(\sqrt{48}\), which simplifies to \(4\sqrt{3}\).
+    Substituting these reductions, the expression becomes
+  </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
