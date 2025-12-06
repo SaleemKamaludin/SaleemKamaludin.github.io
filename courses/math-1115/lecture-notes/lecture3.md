@@ -917,7 +917,9 @@ To ensure consistency, these operations must be performed in a **specific order*
 
   <p><strong>Solution.</strong></p>
   <p>Distributing each term gives</p>
-
+ <p style="text-align:center;">
+    $$24 - 6\sqrt{6} + 4\sqrt{8} - \sqrt{8}\sqrt{6}.$$
+  </p>
 
 ---
 
