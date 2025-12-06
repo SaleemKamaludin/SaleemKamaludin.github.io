@@ -929,6 +929,9 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
+<p style="text-align:center;">
+    $$24 - 6\sqrt{6} + 8\sqrt{2} - 4\sqrt{3},$$
+  </p>
 
 
 
