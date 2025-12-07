@@ -952,6 +952,8 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
+  <p><strong>Solution.</strong></p>
+  <p>Carrying out the multiplication yields</p>
 
 
 
