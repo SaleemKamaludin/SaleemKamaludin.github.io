@@ -965,7 +965,10 @@ To ensure consistency, these operations must be performed in a **specific order*
     \(\sqrt{10}\sqrt{5} = \sqrt{50} = 5\sqrt{2}\), the product simplifies to
   </p>
 
-  
+    <p style="text-align:center;">
+    $$3\sqrt{15} - 6\sqrt{5} - 5\sqrt{6} + 10\sqrt{2}.$$
+  </p>
+</div>
 
 ---
 
