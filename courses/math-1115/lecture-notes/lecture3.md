@@ -993,7 +993,9 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+ <p style="text-align:center;">
+    $$(3-\sqrt{5})(3+\sqrt{5}) = 3^{2} - (\sqrt{5})^{2} = 9 - 5 = 4,$$
+  </p>
 
 
 
