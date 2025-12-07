@@ -944,7 +944,10 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+<!-- Example 2 -->
+<div class="example-card">
+  <p class="example-title">Example 2</p>
+  <p>Expand and simplify \((3-\sqrt{10})(\sqrt{15}-2\sqrt{5})\).</p>
 
 
 
