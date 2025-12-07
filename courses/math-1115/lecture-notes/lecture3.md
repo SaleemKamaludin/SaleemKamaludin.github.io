@@ -970,6 +970,61 @@ To ensure consistency, these operations must be performed in a **specific order*
   </p>
 </div>
 
+
+
+
+
+
+
+
+
+
+<!-- Example 3 -->
+<div class="example-card">
+  <p class="example-title">Example 3</p>
+  <p>Show that \((3-\sqrt{5})(3+\sqrt{5})\) is a rational number and determine its value.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
