@@ -1008,7 +1008,18 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
+<!-- Optional minimal styling for this subsection -->
+<style>
+  .section-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    padding: 1.25rem 1.5rem;
+    margin: 1.5rem 0;
+    background: #fafafa;
+  }
+</style>
 
+<h2 id="rationalising-denominators">Rationalising Denominators</h2>
 
 
 
