@@ -986,7 +986,10 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+ <p><strong>Solution.</strong></p>
+  <p>
+    Recognising a difference of squares, we write
+  </p>
 
 
 
