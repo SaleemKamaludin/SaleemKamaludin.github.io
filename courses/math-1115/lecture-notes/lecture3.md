@@ -960,7 +960,10 @@ To ensure consistency, these operations must be performed in a **specific order*
     $$3\sqrt{15} - 6\sqrt{5} - \sqrt{10}\sqrt{15} + 2\sqrt{10}\sqrt{5}.$$
   </p>
 
-
+ <p>
+    Since \(\sqrt{10}\sqrt{15} = \sqrt{150} = 5\sqrt{6}\) and
+    \(\sqrt{10}\sqrt{5} = \sqrt{50} = 5\sqrt{2}\), the product simplifies to
+  </p>
 
   
 
