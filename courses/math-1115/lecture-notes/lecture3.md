@@ -956,7 +956,9 @@ To ensure consistency, these operations must be performed in a **specific order*
   <p>Carrying out the multiplication yields</p>
 
 
-
+  <p style="text-align:center;">
+    $$3\sqrt{15} - 6\sqrt{5} - \sqrt{10}\sqrt{15} + 2\sqrt{10}\sqrt{5}.$$
+  </p>
 
 
 
