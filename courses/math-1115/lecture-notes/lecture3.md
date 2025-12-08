@@ -1042,7 +1042,12 @@ To ensure consistency, these operations must be performed in a **specific order*
     $$\frac{c}{a+\sqrt{b}} = \frac{c(a-\sqrt{b})}{a^{2}-b},$$
   </p>
 
-
+  <p style="text-align:center;">
+    while
+    $$\frac{3-\sqrt{5}}{1-3\sqrt{5}} = \frac{2\sqrt{5}-3}{11}
+      \quad\text{after rationalisation.}$$
+  </p>
+</div>
 
 
 
