@@ -1038,7 +1038,9 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+  <p style="text-align:center;">
+    $$\frac{c}{a+\sqrt{b}} = \frac{c(a-\sqrt{b})}{a^{2}-b},$$
+  </p>
 
 
 
