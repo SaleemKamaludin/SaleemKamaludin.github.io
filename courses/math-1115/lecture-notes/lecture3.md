@@ -1028,7 +1028,11 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+<div class="section-card">
+  <p>
+    A denominator containing surds is rendered rational by multiplying by a suitable
+    conjugate. For instance,
+  </p>
 
 
 
