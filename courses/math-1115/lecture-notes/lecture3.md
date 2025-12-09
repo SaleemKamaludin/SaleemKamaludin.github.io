@@ -1091,7 +1091,8 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+<div class="section-wrapper" id="extra-examples-indices-surds">
+  <h2>Extra Examples on Indices and Surds</h2>
 
 
 
