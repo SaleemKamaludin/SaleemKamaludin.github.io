@@ -1104,7 +1104,14 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+ <div class="example-card">
+    <strong>Example.</strong>
+    <p>Simplify the expression</p>
+    <p style="text-align:center;">
+      $$\bigl(2a^{3}b^{-2}\bigr)^{-2}\,\cdot\,\frac{a^{4}b^{5}}{(ab^{-1})^{3}}.$$
+    </p>
+  </div>
+</div>
 
 
 
