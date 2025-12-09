@@ -1053,6 +1053,62 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Optional minimal styling for this section -->
+<style>
+  .section-wrapper {
+    margin: 2rem 0;
+  }
+  .example-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    padding: 1.25rem 1.5rem;
+    margin-top: 1rem;
+    background: #fafafa;
+  }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
