@@ -1097,7 +1097,10 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+ <p>
+    This section offers further exercises to reinforce manipulation of powers and surds.
+    Each problem is accompanied by a fully detailed solution.
+  </p>
 
 
 
