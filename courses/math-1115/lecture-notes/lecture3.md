@@ -1200,7 +1200,11 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+<p style="text-align:center;">
+    $$\frac{b^{4}}{4a^{6}} \times (ab^{8})
+      = \frac{b^{4+8}}{4a^{6-1}}
+      = \frac{b^{12}}{4a^{5}},$$
+  </p>
 
 
 
