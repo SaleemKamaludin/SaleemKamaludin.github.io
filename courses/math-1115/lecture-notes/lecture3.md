@@ -1222,6 +1222,11 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
+<div class="example-card">
+  <strong>Example.</strong>
+  <p>
+    Rationalise the denominator of
+  </p>
 
 
 
