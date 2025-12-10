@@ -1252,6 +1252,22 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
+
+
+
+
+
+
+
+
+
+<div class="example-card">
+  <p><strong>Solution.</strong></p>
+
+
+
+
+
   
 
 ---
