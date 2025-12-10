@@ -1285,6 +1285,10 @@ To ensure consistency, these operations must be performed in a **specific order*
       3-\sqrt{5}.$$
   </p>
 
+  <p>
+    Thus the rationalised form is \(3-\sqrt{5}\).
+  </p>
+</div>
   
 
 ---
