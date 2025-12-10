@@ -1236,6 +1236,10 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
+  <p>
+    and express the result in simplest form.
+  </p>
+</div>
 
 
 
