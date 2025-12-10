@@ -1265,7 +1265,10 @@ To ensure consistency, these operations must be performed in a **specific order*
   <p><strong>Solution.</strong></p>
 
 
-
+  <p>
+    To remove the surd from the denominator, multiply numerator and denominator
+    by the conjugate \(3-\sqrt{5}\):
+  </p>
 
 
   
