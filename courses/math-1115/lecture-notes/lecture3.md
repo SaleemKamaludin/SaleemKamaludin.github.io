@@ -1178,6 +1178,21 @@ To ensure consistency, these operations must be performed in a **specific order*
     $$(ab^{-1})^{3} = a^{3}b^{-3},$$
   </p>
 
+
+
+
+  
+  <p>
+    so that
+  </p>
+
+  <p style="text-align:center;">
+    $$\frac{a^{4}b^{5}}{(ab^{-1})^{3}}
+      = \frac{a^{4}b^{5}}{a^{3}b^{-3}}
+      = a^{4-3}b^{5-(-3)}
+      = ab^{8}.$$
+  </p>
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
