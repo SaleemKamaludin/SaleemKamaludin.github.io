@@ -1193,6 +1193,49 @@ To ensure consistency, these operations must be performed in a **specific order*
       = ab^{8}.$$
   </p>
 
+ <p>
+    Multiplying these two results yields
+  </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
