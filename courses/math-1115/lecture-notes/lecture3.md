@@ -1148,7 +1148,12 @@ To ensure consistency, these operations must be performed in a **specific order*
     Raising the quantity \(2a^{3}b^{-2}\) to the \(-2\) power inverts both coefficient and exponents. Concretely,
   </p>
 
-
+  <p style="text-align:center;">
+    $$\bigl(2a^{3}b^{-2}\bigr)^{-2}
+      = \frac{1}{2^{2}a^{3\cdot2}b^{-2\cdot2}}
+      = \frac{1}{4a^{6}b^{-4}}
+      = \frac{b^{4}}{4a^{6}}.$$
+  </p>
 
 ---
 
