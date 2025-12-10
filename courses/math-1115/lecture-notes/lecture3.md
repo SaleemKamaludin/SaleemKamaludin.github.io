@@ -1120,6 +1120,36 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="example-card">
+  <p><strong>Solution.</strong></p>
+
+  <p>
+    Raising the quantity \(2a^{3}b^{-2}\) to the \(-2\) power inverts both coefficient and exponents. Concretely,
+  </p>
+
+
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
