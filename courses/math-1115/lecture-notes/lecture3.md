@@ -1271,6 +1271,20 @@ To ensure consistency, these operations must be performed in a **specific order*
   </p>
 
 
+  <p style="text-align:center;">
+    $$\frac{4}{3+\sqrt{5}}
+      \times
+      \frac{3-\sqrt{5}}{3-\sqrt{5}}
+      =
+      \frac{4(3-\sqrt{5})}{3^{2}-(\sqrt{5})^{2}}
+      =
+      \frac{12-4\sqrt{5}}{9-5}
+      =
+      \frac{12-4\sqrt{5}}{4}
+      =
+      3-\sqrt{5}.$$
+  </p>
+
   
 
 ---
