@@ -1155,6 +1155,29 @@ To ensure consistency, these operations must be performed in a **specific order*
       = \frac{b^{4}}{4a^{6}}.$$
   </p>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <p>
+    Next, observe that
+  </p>
+
+  <p style="text-align:center;">
+    $$(ab^{-1})^{3} = a^{3}b^{-3},$$
+  </p>
+
 ---
 
 **[← Back to Lecture Index](/courses/math-1115/lecture-notes/)**
