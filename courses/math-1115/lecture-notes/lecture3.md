@@ -1309,7 +1309,10 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+ <p><strong>Solution.</strong></p>
+  <p>
+    Multiplying numerator and denominator by \(\sqrt{5}\) removes the radical below the fraction bar:
+  </p>
 
 
 
