@@ -1334,7 +1334,12 @@ To ensure consistency, these operations must be performed in a **specific order*
     Multiplying by the conjugate \(\sqrt{3}-2\) gives
   </p>
 
-
+ <p style="text-align:center;">
+    $$\frac{5}{\sqrt{3}+2}\cdot\frac{\sqrt{3}-2}{\sqrt{3}-2}
+      = \frac{5(\sqrt{3}-2)}{(\sqrt{3})^{2}-2^{2}}
+      = \frac{5\sqrt{3}-10}{3-4}
+      = -5\sqrt{3}+10.$$
+  </p>
 
 
 
