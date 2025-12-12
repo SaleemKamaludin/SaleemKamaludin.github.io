@@ -1329,7 +1329,10 @@ To ensure consistency, these operations must be performed in a **specific order*
   <p>Rationalise the denominator of \( \displaystyle \frac{5}{\sqrt{3}+2} \).</p>
 
 
-
+ <p><strong>Solution.</strong></p>
+  <p>
+    Multiplying by the conjugate \(\sqrt{3}-2\) gives
+  </p>
 
 
 
