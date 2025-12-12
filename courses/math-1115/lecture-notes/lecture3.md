@@ -1322,7 +1322,11 @@ To ensure consistency, these operations must be performed in a **specific order*
   </p>
 
 
+</div>
 
+<div class="example-card">
+  <p class="example-title">Example.</p>
+  <p>Rationalise the denominator of \( \displaystyle \frac{5}{\sqrt{3}+2} \).</p>
 
 
 
