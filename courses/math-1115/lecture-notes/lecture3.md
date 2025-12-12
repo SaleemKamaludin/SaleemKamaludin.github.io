@@ -1289,6 +1289,47 @@ To ensure consistency, these operations must be performed in a **specific order*
     Thus the rationalised form is \(3-\sqrt{5}\).
   </p>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="example-card">
+  <p class="example-title">Example.</p>
+  <p>Rationalise the denominator of \( \displaystyle \frac{7}{\sqrt{5}} \).</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 
 ---
