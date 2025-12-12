@@ -1340,6 +1340,12 @@ To ensure consistency, these operations must be performed in a **specific order*
       = \frac{5\sqrt{3}-10}{3-4}
       = -5\sqrt{3}+10.$$
   </p>
+</div>
+
+
+
+
+
 
 
 
