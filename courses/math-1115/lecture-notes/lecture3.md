@@ -1316,7 +1316,10 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+  <p style="text-align:center;">
+    $$\frac{7}{\sqrt{5}}
+      = \frac{7\sqrt{5}}{5}.$$
+  </p>
 
 
 
