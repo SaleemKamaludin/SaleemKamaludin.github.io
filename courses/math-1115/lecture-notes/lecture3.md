@@ -1354,6 +1354,44 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="example-card">
+  <p class="example-title">Example.</p>
+  <p>Rationalise the denominator of \( \displaystyle \frac{2-\sqrt{7}}{1-4\sqrt{7}} \).</p>
+
+
+
+
+
+
   
 
 ---
