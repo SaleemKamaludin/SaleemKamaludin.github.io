@@ -1414,7 +1414,10 @@ To ensure consistency, these operations must be performed in a **specific order*
   </p>
 
 
-
+  <p style="text-align:center;">
+    $$\frac{26-7\sqrt{7}}{111}.$$
+  </p>
+</div>
 
 
 
