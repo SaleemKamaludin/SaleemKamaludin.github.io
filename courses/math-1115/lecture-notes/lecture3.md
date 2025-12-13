@@ -1439,7 +1439,9 @@ To ensure consistency, these operations must be performed in a **specific order*
   </p>
 
 
-
+ <p style="text-align:center;">
+    $$5^{2x-1} = 125\cdot 5^{-x+2}.$$
+  </p>
 
 
 
