@@ -1394,7 +1394,13 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+<p style="text-align:center;">
+    $$\frac{2-\sqrt{7}}{1-4\sqrt{7}}
+      \cdot
+      \frac{1+4\sqrt{7}}{1+4\sqrt{7}}
+      =
+      \frac{(2-\sqrt{7})(1+4\sqrt{7})}{1-(4\sqrt{7})^{2}}.$$
+  </p>
   
 
 ---
