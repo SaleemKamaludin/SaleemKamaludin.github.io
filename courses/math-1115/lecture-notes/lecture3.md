@@ -1445,6 +1445,53 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
  <p><strong>Solution.</strong></p>
+ <p>
+    Since \(125 = 5^{3}\), rewrite the right-hand side as
+  </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
   
 
 ---
