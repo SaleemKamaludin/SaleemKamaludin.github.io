@@ -1475,7 +1475,14 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+<p style="text-align:center;">
+    $$2x - 1 = 5 - x
+      \quad\Longrightarrow\quad
+      3x = 6
+      \quad\Longrightarrow\quad
+      x = 2.$$
+  </p>
+</div>
 
 
 
