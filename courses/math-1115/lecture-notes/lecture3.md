@@ -1469,7 +1469,9 @@ To ensure consistency, these operations must be performed in a **specific order*
     $$5^{2x-1} = 5^{5-x},$$
   </p>
 
-
+ <p>
+    and by injectivity of \(5^{t}\) we equate exponents:
+  </p>
 
 
 
