@@ -1450,7 +1450,12 @@ To ensure consistency, these operations must be performed in a **specific order*
   </p>
 
 
-
+<p style="text-align:center;">
+    $$125\cdot 5^{-x+2}
+      = 5^{3}\cdot 5^{-x+2}
+      = 5^{3+(-x+2)}
+      = 5^{5-x}.$$
+  </p>
 
 
 
