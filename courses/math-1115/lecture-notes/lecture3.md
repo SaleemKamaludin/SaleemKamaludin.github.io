@@ -1401,6 +1401,42 @@ To ensure consistency, these operations must be performed in a **specific order*
       =
       \frac{(2-\sqrt{7})(1+4\sqrt{7})}{1-(4\sqrt{7})^{2}}.$$
   </p>
+
+
+
+
+
+  <p>
+    Expanding the numerator yields
+    \(2+8\sqrt{7}-\sqrt{7}-28 = -26+7\sqrt{7}\).
+    The denominator simplifies to
+    \(1-112 = -111\), so the rationalised form is
+  </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 
 ---
