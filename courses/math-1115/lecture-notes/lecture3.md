@@ -1460,6 +1460,9 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
+  <p>
+    The equation becomes
+  </p>
 
 
 
