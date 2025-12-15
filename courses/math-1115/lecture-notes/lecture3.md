@@ -1523,6 +1523,10 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
+  <p>Rewrite the cube root as an exponent:</p>
+  <p style="text-align:center;">
+    $$\sqrt[3]{54a^{4}b^{-2}} = \left(54a^{4}b^{-2}\right)^{\tfrac{1}{3}}.$$
+  </p>
 
 
 
