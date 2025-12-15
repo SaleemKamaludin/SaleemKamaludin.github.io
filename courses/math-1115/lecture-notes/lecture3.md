@@ -1530,7 +1530,12 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+ <p>Simplify the second term:</p>
+  <p style="text-align:center;">
+    $$\left(a^{-1}b^{5}\right)^{\tfrac{2}{3}}
+      = a^{-1 \cdot \tfrac{2}{3}} \cdot b^{5 \cdot \tfrac{2}{3}}
+      = a^{-\tfrac{2}{3}} \cdot b^{\tfrac{10}{3}}.$$
+  </p>
 
 
 
