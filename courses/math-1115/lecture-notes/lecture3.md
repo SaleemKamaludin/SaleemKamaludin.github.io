@@ -1502,7 +1502,10 @@ To ensure consistency, these operations must be performed in a **specific order*
 <div class="example-card">
   <p class="example-title">Example.</p>
   <p>Simplify the product</p>
-
+<p style="text-align:center;">
+    $$\sqrt[3]{54\,a^{4}\,b^{-2}}
+      \;\times\;
+      \bigl(a^{-1}b^{5}\bigr)^{\tfrac{2}{3}}.$$
 
 
 
