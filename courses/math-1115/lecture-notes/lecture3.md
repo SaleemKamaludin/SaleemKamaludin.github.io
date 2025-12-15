@@ -1540,7 +1540,12 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+ <p style="text-align:center; margin-top:0.2rem;">
+    so we can think of it as  
+    <span style="color:#c62828;">\( a^{-\tfrac{2}{3}} \)</span>
+    and
+    <span style="color:#2e7d32;">\( b^{\tfrac{10}{3}} \)</span>.
+  </p>
 
 
 
