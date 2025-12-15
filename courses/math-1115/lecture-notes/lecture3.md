@@ -1507,7 +1507,8 @@ To ensure consistency, these operations must be performed in a **specific order*
       \;\times\;
       \bigl(a^{-1}b^{5}\bigr)^{\tfrac{2}{3}}.$$
 
-
+  </p>
+</div>
 
 
 
