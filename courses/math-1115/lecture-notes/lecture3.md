@@ -1575,7 +1575,10 @@ To ensure consistency, these operations must be performed in a **specific order*
   <p>Simplify the first term by applying the exponent \( \tfrac{1}{3} \) to each factor:</p>
 
 
-
+<p style="text-align:center;">
+    $$\left(54a^{4}b^{-2}\right)^{\tfrac{1}{3}}
+      = 54^{\tfrac{1}{3}} \cdot a^{\tfrac{4}{3}} \cdot b^{-\tfrac{2}{3}}.$$
+  </p>
 
 
 
