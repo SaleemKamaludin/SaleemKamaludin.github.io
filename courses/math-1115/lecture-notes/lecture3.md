@@ -1568,7 +1568,8 @@ To ensure consistency, these operations must be performed in a **specific order*
       a^{-\tfrac{2}{3}}
       \cdot
 
-
+ b^{\tfrac{10}{3}}.$$
+  </p>
 
 
 
