@@ -1585,7 +1585,11 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+ <p style="text-align:center;">
+    $$54^{\tfrac{1}{3}} \cdot a^{\tfrac{4}{3}} \cdot b^{-\tfrac{2}{3}}
+      \cdot a^{-\tfrac{2}{3}} \cdot b^{\tfrac{10}{3}}.$$
+  </p>
+</div>
 
 
 
