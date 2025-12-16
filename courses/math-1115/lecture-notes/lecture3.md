@@ -1572,6 +1572,7 @@ To ensure consistency, these operations must be performed in a **specific order*
   </p>
 
 
+  <p>Simplify the first term by applying the exponent \( \tfrac{1}{3} \) to each factor:</p>
 
 
 
