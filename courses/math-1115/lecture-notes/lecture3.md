@@ -1581,6 +1581,7 @@ To ensure consistency, these operations must be performed in a **specific order*
   </p>
 
 
+  <p>So the expression becomes:</p>
 
 
 
