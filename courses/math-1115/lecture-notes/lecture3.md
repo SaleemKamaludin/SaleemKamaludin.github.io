@@ -1609,6 +1609,45 @@ To ensure consistency, these operations must be performed in a **specific order*
   </ul>
 
 
+ <p>So we have:</p>
+  <p style="text-align:center;">
+    $$54^{1/3} \cdot a^{2/3} \cdot b^{8/3}.$$
+  </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
   
