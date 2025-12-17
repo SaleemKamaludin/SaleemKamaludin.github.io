@@ -1603,7 +1603,10 @@ To ensure consistency, these operations must be performed in a **specific order*
     <li>
       For \(a\): \( a^{4/3} \cdot a^{-2/3} = a^{4/3 - 2/3} = a^{2/3} \).
     </li>
-
+ <li>
+      For \(b\): \( b^{-2/3} \cdot b^{10/3} = b^{-2/3 + 10/3} = b^{8/3} \).
+    </li>
+  </ul>
 
 
 
