@@ -1598,7 +1598,11 @@ To ensure consistency, these operations must be performed in a **specific order*
   <p><strong>Continuing the solution.</strong></p>
 
 
-
+  <p>Combine like bases:</p>
+  <ul style="list-style-type: disc; padding-left: 1.4rem; line-height: 1.6;">
+    <li>
+      For \(a\): \( a^{4/3} \cdot a^{-2/3} = a^{4/3 - 2/3} = a^{2/3} \).
+    </li>
 
 
 
