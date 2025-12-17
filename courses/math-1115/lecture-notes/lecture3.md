@@ -1637,7 +1637,12 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+  <p>Write the final expression:</p>
+  <p style="text-align:center;">
+    $$3\sqrt[3]{2} \cdot a^{2/3} \cdot b^{8/3}
+      = 3\sqrt[3]{2} \cdot \sqrt[3]{a^{2}} \cdot \sqrt[3]{b^{8}}
+      = 3\sqrt[3]{2a^{2}b^{8}}.$$
+  </p>
 
 
 
