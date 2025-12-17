@@ -1616,7 +1616,10 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+ <p>Simplify \(54^{1/3}\):</p>
+  <p>
+    Factor \(54 = 27 \times 2 = 3^{3} \times 2\), so:
+  </p>
 
 
 
