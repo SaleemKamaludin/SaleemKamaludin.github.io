@@ -1594,7 +1594,8 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+<div class="example-card">
+  <p><strong>Continuing the solution.</strong></p>
 
 
 
