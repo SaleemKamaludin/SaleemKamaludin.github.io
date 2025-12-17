@@ -1624,7 +1624,13 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-
+  <p style="text-align:center;">
+    $$54^{1/3}
+      = (3^{3} \times 2)^{1/3}
+      = 3^{3 \cdot 1/3} \cdot 2^{1/3}
+      = 3 \cdot 2^{1/3}
+      = 3\sqrt[3]{2}.$$
+  </p>
 
 
 
