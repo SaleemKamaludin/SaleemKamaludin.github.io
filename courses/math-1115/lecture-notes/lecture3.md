@@ -36,55 +36,6 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-<svg width="600" height="300" xmlns="http://www.w3.org/2000/svg" style="background-color: white; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <style>
-    .exp-text {
-      font-weight: 700;
-      font-size: 38px;
-      fill: #111;
-    }
-    .label {
-      font-weight: 600;
-      font-size: 18px;
-      fill: #6c757d;
-    }
-    .blue {
-      stroke: #0d6efd;
-      stroke-width: 2;
-    }
-    .red {
-      stroke: #dc3545;
-      stroke-width: 2;
-    }
-    .arrowhead {
-      fill: currentColor;
-    }
-  </style>
-
-  <!-- Define arrow marker -->
-  <defs>
-    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
-      <path d="M0,0 L0,6 L9,3 z" class="arrowhead"/>
-    </marker>
-  </defs>
-
-  <!-- Main Formula: a^n -->
-  <text x="300" y="120" class="exp-text" text-anchor="middle">
-    a<span style="font-size: 70%; vertical-align: super;">n</span>
-  </text>
-
-  <!-- Exponent Label -->
-  <text x="460" y="50" class="label">Exponent (n)</text>
-  <!-- Arrow to exponent -->
-  <line x1="430" y1="55" x2="320" y2="85" class="blue" marker-end="url(#arrow)" />
-
-  <!-- Base Label -->
-  <text x="90" y="200" class="label">Base (a)</text>
-  <!-- Arrow to base -->
-  <line x1="165" y1="195" x2="270" y2="135" class="red" marker-end="url(#arrow)" />
-</svg>
-
-
 
 
 
