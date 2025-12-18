@@ -56,42 +56,6 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
-<svg width="500" height="300" viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" 
-      markerWidth="6" markerHeight="6" orient="auto-start-reverse">
-      <path d="M 0 0 L 10 5 L 0 10 z" fill="#444" />
-    </marker>
-  </defs>
-
-  <style>
-    /* Professional Math Typography */
-    .math { font-family: "Times New Roman", serif; font-style: italic; font-size: 64px; fill: #1a1a1a; }
-    .exponent-small { font-size: 40px; }
-    
-    /* Clean Label Typography */
-    .label { font-family: "Inter", "Segoe UI", sans-serif; font-weight: 500; font-size: 16px; text-transform: uppercase; letter-spacing: 0.5px; }
-    
-    /* Modern Muted Palette */
-    .color-base { fill: #d93025; }     /* Modern Red/Coral */
-    .color-exponent { fill: #1a73e8; } /* Modern Blue */
-    .line-style { stroke: #888; stroke-width: 1.5; fill: none; }
-  </style>
-
-  <text x="250" y="160" text-anchor="middle" class="math">
-    a<tspan dy="-25" class="exponent-small">n</tspan>
-  </text>
-
-  <text x="360" y="80" class="label color-exponent">Exponent (n)</text>
-  <path d="M 355,85 L 295,125" class="line-style" marker-end="url(#arrow)" />
-
-  <text x="80" y="240" class="label color-base">Base (a)</text>
-  <path d="M 160,230 L 225,175" class="line-style" marker-end="url(#arrow)" />
-</svg>
-
-
-
-
 
 
 
