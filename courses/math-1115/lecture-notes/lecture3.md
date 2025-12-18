@@ -32,6 +32,124 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 
+<svg viewBox="0 0 700 260" class="exp-diagram">
+  <style>
+    .exp-diagram {
+      max-width: 100%;
+      display: block;
+      margin: 1.5rem auto;
+    }
+
+    /* Main a^n text */
+    .exp-text {
+      font: 700 52px system-ui, -apple-system, BlinkMacSystemFont,
+            "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      fill: #222;
+    }
+
+    /* Labels */
+    .label {
+      font: 500 18px system-ui, -apple-system, BlinkMacSystemFont,
+            "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      letter-spacing: 0.03em;
+    }
+    .label-blue { fill: #0b72b9; }
+    .label-red  { fill: #d64545; }
+
+    /* Arrows */
+    .arrow {
+      fill: none;
+      stroke-width: 3;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+    .arrow-blue { stroke: #0b72b9; }
+    .arrow-red  { stroke: #d64545; }
+
+    .arrow-head {
+      stroke: none;
+    }
+    .arrow-head-blue { fill: #0b72b9; }
+    .arrow-head-red  { fill: #d64545; }
+  </style>
+
+  <defs>
+    <!-- Arrowhead for blue arrow -->
+    <marker id="arrow-blue" markerWidth="12" markerHeight="12"
+            refX="9" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z"
+            class="arrow-head arrow-head-blue" />
+    </marker>
+
+    <!-- Arrowhead for red arrow -->
+    <marker id="arrow-red" markerWidth="12" markerHeight="12"
+            refX="9" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z"
+            class="arrow-head arrow-head-red" />
+    </marker>
+  </defs>
+
+  <!-- a^n -->
+  <text x="350" y="140" class="exp-text" text-anchor="middle">
+    a<tspan dy="-20" font-size="0.7em">n</tspan>
+  </text>
+
+  <!-- Exponent label + arrow -->
+  <text x="520" y="60" class="label label-blue">Exponent (n)</text>
+  <path d="M375 115 Q 445 90 500 70"
+        class="arrow arrow-blue"
+        marker-end="url(#arrow-blue)" />
+
+  <!-- Base label + arrow -->
+  <text x="120" y="220" class="label label-red">Base (a)</text>
+  <path d="M330 155 Q 240 190 150 210"
+        class="arrow arrow-red"
+        marker-end="url(#arrow-red)" />
+</svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
