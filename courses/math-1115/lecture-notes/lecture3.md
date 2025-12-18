@@ -1647,8 +1647,9 @@ To ensure consistency, these operations must be performed in a **specific order*
 
 
 <p style="text-align:center; margin-top:0.6rem;">
-    $$\boxed{3\sqrt[3]{2a^{2}b^{8}}$$}
-  </p>
+  $$\boxed{3\sqrt[3]{2a^{2}b^{8}}}$$
+</p>
+
 </div>
 
 
