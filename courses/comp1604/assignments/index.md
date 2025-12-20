@@ -6,7 +6,7 @@ permalink: /courses/comp1604/assignments/
 
 # Assignments
 
-> Submit as a single PDF (Handwritten solutions **ONLY**). Late policy and rubric are below.
+> Submit as a single PDF (Handwritten solutions **ONLY**). No late assignments are accepted.
 
 - **A1:** Logic & Truth Tables — _posted soon_  
 - **A2:** Sets, Functions & Relations — _posted soon_  
