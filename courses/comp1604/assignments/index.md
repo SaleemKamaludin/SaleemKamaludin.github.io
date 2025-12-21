@@ -11,7 +11,6 @@ permalink: /courses/comp1604/assignments/
 - **A1:** Logic & Truth Tables — 
 - **A2:** Sets, Functions & Relations — 
 - **A3:** Induction — 
-- **A4:** Counting — _posted soon_
-
+- **A4:** Counting — 
 **Office Hours:** Tuesdays 2–3 PM (Eng Bldg) and by appointment.  
-**Late Policy:** −10% per day, max 3 days; after that, no credit unless documented circumstance.
+**Late Policy:** − 0% , no credit unless documented circumstance.
