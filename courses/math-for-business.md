@@ -40,7 +40,7 @@ Topics include:
 
 ## Resources
 - 📘 Textbook reference: Haeussler, Paul, & Wood (2013).  
-- 📝 Problem sets will be posted here.  
+- 📝 Problem sets are updated regularly.   
 - 💡 Worked solutions will be added as the course progresses.
 
 ---
