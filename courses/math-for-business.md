@@ -29,7 +29,8 @@ Topics include:
 ## Lecture Notes
 - Week 1: Introduction to Functions  
 - Week 2: Linear Models in Business  
-- Week 3: Differentiation Rules and Business Applications  
+- Week 3: Differentiation Rules and Business Applications
+- Week 4: Integration
 
 ---
 ## Additional Resources
