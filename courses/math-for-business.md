@@ -30,7 +30,6 @@ Topics include:
 - Week 1: Introduction to Functions  
 - Week 2: Linear Models in Business  
 - Week 3: Differentiation Rules and Business Applications  
-*(expand with more as you go)*
 
 ---
 ## Additional Resources
