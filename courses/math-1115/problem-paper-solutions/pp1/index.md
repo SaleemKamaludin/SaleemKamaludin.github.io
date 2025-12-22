@@ -5,7 +5,7 @@ permalink: /courses/math-1115/problem-paper-solutions/pp1/
 ---
 
 [← Back to Problem Papers]({{ '/courses/math-1115/problem-paper-solutions/' | relative_url }})
-
+<!--
 ## Q1. Which of the following numbers represent an integer?
 
 <div class="problem">
@@ -222,7 +222,7 @@ x^{7}y^{8}\div\frac{3y^{4}}{x} <br>
 $$
 </details>
 
-
+-->
 
 
 
