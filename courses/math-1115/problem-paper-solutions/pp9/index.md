@@ -12,7 +12,7 @@ permalink: /courses/math-1115/problem-paper-solutions/pp9/
   </div>
 
   <p style="margin-top:0.8rem; font-size:1.1rem;">
-    Convert the following from degrees to radians:
+    Convert the following from degrees to radians: 
   </p>
 
   <p style="margin:1.2rem 0 0.4rem 0; font-size:1.05rem;">
