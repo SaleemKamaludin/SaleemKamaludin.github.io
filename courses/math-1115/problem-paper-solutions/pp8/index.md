@@ -399,7 +399,7 @@ nav_order: 8
 
   <ol style="margin:0.4rem 0 0.8rem 3rem; list-style:none; font-size:1.05rem;">
     <li style="margin-bottom:0.35rem;">
-      (i)&nbsp; Simp \( \log a^{2} + \log b^{3} + \log c^{4} \).
+      (i)&nbsp; Sim \( \log a^{2} + \log b^{3} + \log c^{4} \).
     </li>
     <li>
       (ii)&nbsp; Simplify \( -\log x + \log 10 \).
