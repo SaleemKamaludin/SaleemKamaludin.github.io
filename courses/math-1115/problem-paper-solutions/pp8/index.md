@@ -402,7 +402,7 @@ nav_order: 8
       (i)&nbsp;  \( \log a^{2} + \log b^{3} + \log c^{4} \).
     </li>
     <li>
-      (ii)&nbsp; S \( -\log x + \log 10 \).
+      (ii)&nbsp;  \( -\log x + \log 10 \).
     </li>
   </ol>
 
