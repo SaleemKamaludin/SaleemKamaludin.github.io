@@ -407,7 +407,7 @@ nav_order: 8
   </ol>
 
   <p style="margin-top:0.8rem; font-size:1.1rem;">
-    (b)&nbsp; Evaluate the following without the use using calculators:
+    (b)&nbsp; Evaluate the following without the use of using calculators:
   </p>
 
   <ol style="margin:0.4rem 0 0 3rem; list-style:none; font-size:1.05rem;">
