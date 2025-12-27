@@ -182,7 +182,7 @@ $$\boxed{\text{(c) I, II, III}}.$$
 ## Q5. Evaluate the following exactly.
 
 <div class="problem">
-  <div class="prompt">Find each value.</div>
+  <div class="prompt">Find</div>
   <ol type="a" class="options four">
     <li>\(|-4|\)</li>
     <li>\(-\,|10|\)</li>
