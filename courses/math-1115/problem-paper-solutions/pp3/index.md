@@ -127,7 +127,7 @@ $$\boxed{x=-8}$$
 ## Q4. Express each in simplified surd form (if possible), where $$r,s,q\in \mathbb{R}^{+}$$.
 
 <div class="problem">
-  <div class="prompt">xpression.</div>
+  <div class="prompt">pression.</div>
   <ol type="a" class="options">
     <li>\(5\sqrt{32}-2\sqrt{18}\)</li>
     <br>
