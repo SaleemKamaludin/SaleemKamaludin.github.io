@@ -4,7 +4,6 @@ title: Problem Paper 6 — Solutions
 permalink: /courses/math-1115/problem-paper-solutions/pp6/
 ---
 
-# MATH 1115 — Problem Paper 6: Solutions
 <!-- KaTeX: load once per page/layout -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" integrity="sha384-3UiQGuEI4TTMaFmGIZumfRPtfKQ3trwQE2JgosJxCnGmQpL/lJdjpcHkua0MUl+0" crossorigin="anonymous">
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js" integrity="sha384-3zX+qC0xOeQ0l8q0kAO2J3oBv7z1o2w4v7YH7pH6xCwG8g7k3+7O9v/0ZqU3H2wM" crossorigin="anonymous"></script>
