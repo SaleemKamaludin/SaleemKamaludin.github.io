@@ -39,6 +39,9 @@ $$\boxed{x=-\dfrac{4}{7}}.$$
 </details>
 
 
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #dbeafe, #60a5fa, #dbeafe); margin: 2rem 0;">
+
+
 
 
 
