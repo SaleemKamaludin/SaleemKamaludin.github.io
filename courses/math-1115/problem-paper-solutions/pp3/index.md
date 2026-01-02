@@ -83,7 +83,7 @@ $$\boxed{x=-6}$$
 ## Q3. Solve for  $$x $$ in  $$4^{\,2x+1}=8^{\,x-2} $$.
 
 <div class="problem">
-  <div class="prompt">Solve the exponential equation.</div>
+  <div class="prompt">olve the exponential equation.</div>
 </div>
 
 <details class="solution">
