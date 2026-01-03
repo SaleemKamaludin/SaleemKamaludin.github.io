@@ -78,6 +78,7 @@ $$
 $$\boxed{x=-6}$$
 </details>
 
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #dbeafe, #93C572, #dbeafe); margin: 2rem 0;">
 
 
 ## Q3. Solve for  $$x $$ in  $$4^{\,2x+1}=8^{\,x-2} $$.
