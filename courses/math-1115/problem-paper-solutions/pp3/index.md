@@ -84,7 +84,7 @@ $$\boxed{x=-6}$$
 ## Q3. Solve for  $$x $$ in  $$4^{\,2x+1}=8^{\,x-2} $$.
 
 <div class="problem">
-  <div class="prompt">onential equation.</div>
+  <div class="prompt">nential equation.</div>
 </div>
 
 <details class="solution">
