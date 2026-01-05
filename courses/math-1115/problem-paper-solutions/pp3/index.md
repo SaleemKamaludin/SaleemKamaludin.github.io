@@ -84,7 +84,7 @@ $$\boxed{x=-6}$$
 ## Q3. Solve for  $$x $$ in  $$4^{\,2x+1}=8^{\,x-2} $$.
 
 <div class="problem">
-  <div class="prompt">ntial equation.</div>
+  <div class="prompt">tial equation.</div>
 </div>
 
 <details class="solution">
