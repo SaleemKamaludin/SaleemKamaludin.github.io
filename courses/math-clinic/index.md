@@ -125,6 +125,7 @@ A short refresher/bridging clinic for incoming students.
 
 This section contains the materials for the **January 2026** clinic.
 
+- [January 2026 Math Clinic]({{ '/courses/math-clinic-2026/' | relative_url }})
 
 
 
