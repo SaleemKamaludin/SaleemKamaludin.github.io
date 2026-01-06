@@ -41,7 +41,7 @@ A short refresher/bridging clinic for incoming students.
 
 
 ---
- "Math Clinic"
+ 
 ---
 
 <!-- Lightweight page-level styles for buttons -->
