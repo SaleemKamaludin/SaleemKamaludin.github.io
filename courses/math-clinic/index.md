@@ -84,4 +84,52 @@ A short refresher/bridging clinic for incoming students.
 </div>
 
 ---
----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<hr class="section-divider" />
+
+## Math Clinic 2026 January
+
+This section contains the materials for the **January 2026** clinic.
+
+
+
+
+
+
+
+
+
