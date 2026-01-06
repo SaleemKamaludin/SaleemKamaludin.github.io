@@ -30,7 +30,7 @@ title: "Math Clinic"
 
 A short refresher/bridging clinic for incoming students.
 
-## What you'll find (Updated regularly) 
+## What you'll find 
 - **Sessions** — slide decks and notes  
 - **Worksheets** — practice sets with solutions  
 
