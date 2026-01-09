@@ -50,7 +50,7 @@ permalink: /courses/math-clinic-2026/
 ---
 
 <div class="session-buttons">
-  <a class="btn" href="{{ '/courses/math-clinic-2026/handouts/conversion-targets.pdf' | relative_url }}">
+  <a class="btn" href="{{ '/courses/math-clinic-2026/handouts/Math Clinic January 2026_V_1.pdf' | relative_url }}">
     Conversion Targets — Handout (PDF)
   </a>
 </div>
