@@ -76,5 +76,19 @@ permalink: /courses/math-clinic-2026/
   </a>
 </div>
 
+---
+
+<hr class="soft" />
+
+<h2>Live Session</h2>
+<p><b>Zoom link for 9th January 2026</b></p>
+
+<div class="session-buttons">
+  <a class="btn btn-primary"
+     href="PASTE_YOUR_ZOOM_LINK_HERE"
+     target="_blank" rel="noopener noreferrer">
+    Join Zoom (9 Jan 2026)
+  </a>
+</div>
 
 
