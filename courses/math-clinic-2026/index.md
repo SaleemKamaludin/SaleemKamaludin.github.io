@@ -84,10 +84,11 @@ permalink: /courses/math-clinic-2026/
 
 <div class="session-buttons">
   <a class="btn btn-primary"
-     href="PASTE_YOUR_ZOOM_LINK_HERE"
+     href="[PASTE_YOUR_ZOOM_LINK_HERE](https://sta-uwi-edu.zoom.us/j/96192514419?pwd=xyYI7hWHf9ltesoEwMyJzxKczAa065.1)"
      target="_blank" rel="noopener noreferrer">
     Join Zoom (9 Jan 2026)
   </a>
 </div>
+<p><b>Zoom link for 9th January 2026</b><br><span style="color:#555;">Time: 6:00–8:00 PM</span></p>
 
 
