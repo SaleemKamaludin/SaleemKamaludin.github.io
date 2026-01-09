@@ -68,7 +68,7 @@ permalink: /courses/math-clinic-2026/
 - Structured practice with full solutions  
 
 ---
-#Notes 
+## Notes 
 <div class="session-buttons">
   <a class="btn" href="{{ '/courses/math-clinic-2026/handouts/Math Clinic January 2026_V_1.pdf' | relative_url }}">
     Math Clinic January 2026 (PDF)
