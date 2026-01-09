@@ -45,7 +45,6 @@ permalink: /courses/math-clinic-2026/
 ## What this clinic covers
 - Core arithmetic and algebra refreshers  
 - Structured practice with full solutions  
-- Materials aligned to incoming programme needs  
 
 ---
 
