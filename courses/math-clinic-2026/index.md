@@ -89,6 +89,6 @@ permalink: /courses/math-clinic-2026/
     Join Zoom (9 Jan 2026)
   </a>
 </div>
-<p><b>Zoom link for 9th January 2026</b><br><span style="color:#555;">Time: 6:00–8:00 PM</span></p>
+<p><b>Zoom link for 9th January 2026</b><br><span style="color:#555;">Time: 5:30–7:30 PM</span></p>
 
 
