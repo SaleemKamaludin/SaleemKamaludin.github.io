@@ -58,11 +58,6 @@ permalink: /courses/math-clinic-2026/
 
 
 
-<div class="notice">
-  <b>Math Clinic 2026.</b>  
-  A short refresher for incoming students.
-</div>
-
 ## What this clinic covers
 - Core arithmetic and algebra refreshers  
 - Structured practice with full solutions  
