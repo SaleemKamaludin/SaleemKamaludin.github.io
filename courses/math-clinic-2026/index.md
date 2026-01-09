@@ -37,7 +37,6 @@ permalink: /courses/math-clinic-2026/
 
 
 
-# Math Clinic — January 2026
 
 
 <div class="hero">
