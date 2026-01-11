@@ -87,3 +87,26 @@ permalink: /courses/math-clinic-2026/
 <p><br><span style="color:#555;">Time: 5:30–7:30 PM (GMT-4)</span></p>
 
 
+
+---
+
+
+<div class="session-buttons">
+  <a class="btn btn-primary"
+     href="PASTE_LIVE_ZOOM_LINK_HERE"
+     target="_blank" rel="noopener noreferrer">
+    Join Zoom (9 Jan 2026)
+  </a>
+
+  <a class="btn"
+     href="PASTE_ZOOM_RECORDING_LINK_HERE"
+     target="_blank" rel="noopener noreferrer">
+    Watch Recording (9 Jan 2026)
+  </a>
+</div>
+
+
+
+
+
+
