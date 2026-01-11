@@ -127,7 +127,8 @@ permalink: /courses/math-clinic-2026/
 
 <p style="color:#555;font-size:.9rem;">
   Passcode:
-  <code class="passcode is-hidden" onclick="this.classList.remove('is-hidden')">XXXXXX</code>
+  <code class="passcode is-hidden" onclick="this.classList.remove('is-hidden')">&1e&ex*9
+</code>
 </p>
 
 
