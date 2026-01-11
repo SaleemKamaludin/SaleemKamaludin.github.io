@@ -70,7 +70,7 @@ permalink: /courses/math-clinic-2026/
   </a>
 </div>
 
----
+<!-- ---
 
 <hr class="soft" />
 
@@ -84,7 +84,7 @@ permalink: /courses/math-clinic-2026/
     Click here to join (9th Jan 2026)
   </a>
 </div>
-<p><br><span style="color:#555;">Time: 5:30–7:30 PM (GMT-4)</span></p>
+<p><br><span style="color:#555;">Time: 5:30–7:30 PM (GMT-4)</span></p>    -->
 
 
 
