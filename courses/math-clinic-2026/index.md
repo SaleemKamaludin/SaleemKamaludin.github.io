@@ -103,9 +103,33 @@ permalink: /courses/math-clinic-2026/
 </div>
 
 
+<style>
+.passcode{
+  cursor:pointer;
+  user-select:none;
+  padding:.1rem .4rem;
+  border-radius:.4rem;
+  border:1px solid #e6e8eb;
+  background:#f6f8fa;
+  display:inline-block;
+}
+.passcode.is-hidden{
+  filter: blur(6px);
+}
+.passcode.is-hidden::after{
+  content:" (click to reveal)";
+  color:#555;
+  font-size:.9em;
+  margin-left:.25rem;
+  filter:none;
+}
+</style>
+
 <p style="color:#555;font-size:.9rem;">
-  Passcode: <code>XXXXXX</code>
+  Passcode:
+  <code class="passcode is-hidden" onclick="this.classList.remove('is-hidden')">XXXXXX</code>
 </p>
+
 
 
 
