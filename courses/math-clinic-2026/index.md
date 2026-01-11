@@ -103,6 +103,11 @@ permalink: /courses/math-clinic-2026/
 </div>
 
 
+<p style="color:#555;font-size:.9rem;">
+  Passcode: <code>XXXXXX</code>
+</p>
+
+
 
 
 
