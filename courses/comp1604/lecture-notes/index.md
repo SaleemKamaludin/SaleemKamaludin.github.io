@@ -20,7 +20,3 @@ This page contains the lecture notes for **COMP 1604 (Discrete Mathematics / Mat
 - [Week 6: Graph Basics](#)
 
 ---
-
-## Downloads
-
-- *(PDF links will be added as notes are uploaded.)*
