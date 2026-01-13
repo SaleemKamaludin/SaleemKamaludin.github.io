@@ -70,7 +70,3 @@ Construct a truth table for \( \lnot p \lor q \).
 ### Practice 2
 Determine whether the statement \( (p \to q) \leftrightarrow (\lnot p \lor q) \) is always true.
 
----
-
-## Downloads (optional)
-- If you have a PDF, place it in `courses/comp1604/lectu
