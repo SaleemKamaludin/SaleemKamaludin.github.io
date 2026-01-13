@@ -5,68 +5,80 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
 ---
 
 # COMP 1604 — Lecture 1: Logic (Statements & Truth Tables)
+<section class="notes-block" id="valid-invalid-arguments">
+  <style>
+    /* Minimal, drop-in styling scoped to this section */
+    #valid-invalid-arguments{
+      margin: 1.25rem 0;
+      padding: 0;
+    }
+    #valid-invalid-arguments .subhead{
+      font-size: 1.25rem;
+      font-weight: 650;
+      margin: 0 0 .5rem;
+      color:#111;
+    }
+    #valid-invalid-arguments p{
+      margin: .65rem 0;
+      color:#222;
+    }
+    #valid-invalid-arguments em{ font-style: italic; }
+    #valid-invalid-arguments .example{
+      border: 1px solid #e6e8eb;
+      border-radius: .75rem;
+      padding: 1rem 1.1rem;
+      background: #fff;
+      margin: 1rem 0;
+    }
+    #valid-invalid-arguments .example-header{
+      display:flex;
+      align-items: baseline;
+      gap:.5rem;
+      margin-bottom:.6rem;
+    }
+    #valid-invalid-arguments .example-tag{
+      display:inline-block;
+      font-size:.78rem;
+      padding:.15rem .5rem;
+      border-radius:999px;
+      border:1px solid #d0d7de;
+      background:#f6f8fa;
+      color:#57606a;
+      white-space: nowrap;
+    }
+    #valid-invalid-arguments .example-title{
+      margin:0;
+      font-weight:650;
+      color:#111;
+      font-size:1rem;
+    }
+    #valid-invalid-arguments .argument{
+      border-left: 3px solid #4c8bf5;
+      padding: .75rem 1rem;
+      margin: .75rem 0;
+      background: rgba(76,139,245,.08);
+      border-radius: .5rem;
+    }
+    #valid-invalid-arguments .argument .line{
+      margin: .25rem 0;
+    }
+    #valid-invalid-arguments .therefore{
+      font-weight: 650;
+      letter-spacing: .02em;
+    }
+    #valid-invalid-arguments .form{
+      margin-top:.75rem;
+      padding:.75rem 1rem;
+      border:1px dashed #d0d7de;
+      border-radius:.6rem;
+      background:#fafafa;
+    }
+    #valid-invalid-arguments .form .line{
+      margin:.25rem 0;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: .95rem;
+    }
+  </style>
 
-**Quick navigation:**  
-- [1. Statements and propositions](#1-statements-and-propositions)  
-- [2. Logical connectives](#2-logical-connectives)  
-- [3. Truth tables](#3-truth-tables)  
-- [4. Practice](#4-practice)
-
----
-
-## 1. Statements and propositions
-
-A **statement** (or **proposition**) is a sentence that is either **true** or **false**, but not both.
-
-**Examples**
-- “\(2+3=5\)” is a statement (true).
-- “\(7\) is even” is a statement (false).
-- “Close the door.” is **not** a statement (it is a command).
-- “\(x>2\)” is **not** a statement (truth depends on \(x\)).
-
----
-
-## 2. Logical connectives
-
-Let \(p\) and \(q\) be statements.
-
-- **Negation**: “not \(p\)” is written \( \lnot p \)
-- **Conjunction**: “\(p\) and \(q\)” is written \( p \land q \)
-- **Disjunction**: “\(p\) or \(q\)” is written \( p \lor q \)
-- **Implication**: “if \(p\) then \(q\)” is written \( p \to q \)
-- **Biconditional**: “\(p\) iff \(q\)” is written \( p \leftrightarrow q \)
-
----
-
-## 3. Truth tables
-
-Truth tables show the truth value of a compound statement for all possible truth values of its components.
-
-### Example: \(p \land q\)
-
-| \(p\) | \(q\) | \(p \land q\) |
-|---|---|---|
-| T | T | T |
-| T | F | F |
-| F | T | F |
-| F | F | F |
-
-### Example: \(p \to q\)
-
-| \(p\) | \(q\) | \(p \to q\) |
-|---|---|---|
-| T | T | T |
-| T | F | F |
-| F | T | T |
-| F | F | T |
-
----
-
-## 4. Practice
-
-### Practice 1
-Construct a truth table for \( \lnot p \lor q \).
-
-### Practice 2
-Determine whether the statement \( (p \to q) \leftrightarrow (\lnot p \lor q) \) is always true.
+  <h3 class="subhead">Valid and Invalid Arguments</h3>
 
