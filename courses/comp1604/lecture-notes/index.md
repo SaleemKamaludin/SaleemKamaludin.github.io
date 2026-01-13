@@ -20,3 +20,4 @@ This page contains the lecture notes for **COMP 1604 (Discrete Mathematics / Mat
 - [Week 6: Graph Basics](#)
 
 ---
+- [Lecture 1: Logic (Statements & Truth Tables)]({{ '/courses/comp1604/lecture-notes/lecture-01/' | relative_url }})
