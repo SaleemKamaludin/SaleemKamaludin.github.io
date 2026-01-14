@@ -124,6 +124,13 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
 
 
 
+    <div class="form" aria-label="Abstract form">
+      <div class="line">\(p \to q\)</div>
+      <div class="line">\(p\)</div>
+      <div class="line">∴ \(q\)</div>
+    </div>
+  </div>
+</section>
 
 
 
