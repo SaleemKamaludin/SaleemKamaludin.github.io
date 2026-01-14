@@ -88,6 +88,29 @@ permalink: /courses/math-clinic-2026/
 
 
 
+
+
+
+
+ ---
+
+<hr class="soft" />
+
+<h2>Live Session</h2>
+<p><b>Zoom link for 14th January 2026</b></p>
+
+<div class="session-buttons">
+  <a class="btn btn-primary"
+     href="https://sta-uwi-edu.zoom.us/j/99746862646?pwd=iYoz3tWLkJgFSYtO1FWkpAmDGbRF5C.1"
+     target="_blank" rel="noopener noreferrer">
+    Click here to join (9th Jan 2026)
+  </a>
+</div>
+<p><br><span style="color:#555;">Time: 5:30–7:30 PM (GMT-4)</span></p>    
+
+
+
+
 ---
 <hr class="soft" />
 
