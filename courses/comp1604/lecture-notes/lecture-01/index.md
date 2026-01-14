@@ -144,7 +144,10 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
 
 
 
-
+ <div class="callout">
+    When considering the abstract form of an argument, think of \(p\) and \(q\) as variables for which
+    statements may be substituted.
+  </div>
 
 
 
