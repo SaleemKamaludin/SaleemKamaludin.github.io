@@ -118,7 +118,7 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
 
 
 
-
+ <p style="margin:.75rem 0 .5rem;">This argument has the abstract form</p>
 
 
 
