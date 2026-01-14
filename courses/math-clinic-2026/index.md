@@ -99,6 +99,20 @@ permalink: /courses/math-clinic-2026/
 <h2>Live Session</h2>
 <p><b>Zoom link for 14th January 2026</b></p>
 
+<div style="
+  margin:1rem 0 1.25rem;
+  padding:.9rem 1rem;
+  border:1px solid #4c8bf5;
+  border-radius:.6rem;
+  background:rgba(76,139,245,.12);
+  color:#222;
+">
+  <b>Notice:</b>  
+  Today’s session will be held <b>entirely online</b> to ensure ease of access for all participants.
+</div>
+
+
+
 <div class="session-buttons">
   <a class="btn btn-primary"
      href="https://sta-uwi-edu.zoom.us/j/99746862646?pwd=iYoz3tWLkJgFSYtO1FWkpAmDGbRF5C.1"
