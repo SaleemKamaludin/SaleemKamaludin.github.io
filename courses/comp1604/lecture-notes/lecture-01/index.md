@@ -103,3 +103,71 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
       <h4 class="example-title">A simple argument and its form</h4>
     </div>
 
+
+
+
+
+ <p style="margin:.25rem 0 .5rem;">Consider the argument:</p>
+
+    <div class="argument" aria-label="Argument">
+      <div class="line">If Socrates is a man, then Socrates is mortal.</div>
+      <div class="line">Socrates is a man.</div>
+      <div class="line therefore">∴ Socrates is mortal.</div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
