@@ -151,7 +151,11 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
 
 
 
-
+<div class="definition" id="def-valid-argument-form">
+    <div class="definition-header">
+      <span class="definition-tag">Definition</span>
+      <h4 class="definition-title">Valid argument form</h4>
+    </div>
 
 
 
