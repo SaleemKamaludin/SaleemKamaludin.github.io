@@ -70,6 +70,15 @@ permalink: /courses/math-clinic-2026/
   </a>
 </div>
 
+
+<div class="session-buttons">
+  <a class="btn" href="{{ '/courses/math-clinic-2026/handouts/CVP_1.pdf' | relative_url }}">
+    CVP 2026 
+  </a>
+</div>
+
+
+
 <!-- ---
 
 <hr class="soft" />
