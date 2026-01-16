@@ -119,7 +119,7 @@ permalink: /courses/math-clinic-2026/
 ">
   <b>Notice:</b>  
   Today’s session will be held <b>entirely online</b> to ensure ease of access for all participants.
-</div>  -->
+</div>  
 
 
 
@@ -130,7 +130,7 @@ permalink: /courses/math-clinic-2026/
     Click here to join (9th Jan 2026)
   </a>
 </div>
-<p><br><span style="color:#555;">Time: 5:30–7:30 PM (GMT-4)</span></p>    
+<p><br><span style="color:#555;">Time: 5:30–7:30 PM (GMT-4)</span></p>    -->
 
 
 
