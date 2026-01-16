@@ -102,11 +102,11 @@ permalink: /courses/math-clinic-2026/
 
 
 
- ---
+<!--
 
 <hr class="soft" />
 
-<!-- <h2>Live Session</h2>
+ <h2>Live Session</h2>
 <p><b>Zoom link for 14th January 2026</b></p>
 
 <div style="
