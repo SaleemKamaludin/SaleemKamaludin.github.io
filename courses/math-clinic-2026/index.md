@@ -189,4 +189,13 @@ permalink: /courses/math-clinic-2026/
 
 
 
+<div class="session-buttons">
+  <a class="btn"
+     href=""
+     target="_blank" rel="noopener noreferrer">
+    Watch Recording
+  </a>
+</div>
+
+
 
