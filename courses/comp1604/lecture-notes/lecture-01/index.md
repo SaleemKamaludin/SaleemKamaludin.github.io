@@ -150,12 +150,18 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
   </div>
 
 
-
-<div class="definition" id="def-valid-argument-form">
-    <div class="definition-header">
-      <span class="definition-tag">Definition</span>
-      <h4 class="definition-title">Valid argument form</h4>
+  <div class="box">
+    <div class="box-header">
+      <span class="tag">Definition</span>
+      <h5 class="title">Valid argument form</h5>
     </div>
+
+    <p>
+      An argument form is called <em>valid</em> if, and only if, whenever statements are substituted in such a way that
+      all the premises are true, the conclusion is also true.
+    </p>
+  </div>
+</section>
 
 
 
