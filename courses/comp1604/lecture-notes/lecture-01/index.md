@@ -223,7 +223,12 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
 
 
 
-
+ <p class="lead">
+      An <em>argument</em> is a sequence of statements, and an <em>argument form</em> is a sequence of statement forms.
+      All statements in an argument (and all statement forms in an argument form), except for the final one, are called
+      the <em>premises</em> (also called <em>assumptions</em> or <em>hypotheses</em>).
+      The final statement (or statement form) is called the <em>conclusion</em>.
+    </p>
 
 
 
