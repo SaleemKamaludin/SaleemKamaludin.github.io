@@ -216,7 +216,6 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
 
   <div class="box" id="def-argument-premise-conclusion">
     <div class="box-header">
-      <span class="tag">Definition</span>
       <h5 class="box-title">Arguments, premises, and conclusions</h5>
     </div>
 
