@@ -241,3 +241,40 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
       To say that an <em>argument</em> is <em>valid</em> means that its form is valid.
     </p>
   </div>
+
+
+
+
+
+
+
+
+
+  <p>
+    When an argument is valid and its premises are true, the truth of the conclusion is said to be
+    <em>inferred</em> or <em>deduced</em> from the truth of the premises.
+    If a conclusion “ain’t necessarily so,” then it isn’t a valid deduction.
+  </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
