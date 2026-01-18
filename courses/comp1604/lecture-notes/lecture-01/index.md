@@ -235,4 +235,9 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
  <p>      The symbol \( \therefore \), read “therefore,” is normally placed just before the conclusion.    </p>
 
     
-
+ <p>
+      To say that an <em>argument form</em> is <em>valid</em> means that no matter what particular statements are substituted
+      for the statement variables in its premises, if the resulting premises are all true, then the conclusion is also true.
+      To say that an <em>argument</em> is <em>valid</em> means that its form is valid.
+    </p>
+  </div>
