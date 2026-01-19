@@ -381,3 +381,9 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
       <h5 class="title">Valid argument form</h5>
     </div>
 
+  <p>
+      An argument form is called <em>valid</em> if, and only if, whenever statements are substituted in such a way that
+      all the premises are true, the conclusion is also true.
+    </p>
+  </div>
+</section>
