@@ -281,4 +281,8 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
       <h5 class="box-title">Truth-table test for validity</h5>
     </div>
 
+
+
+    <p class="lead">To test whether an argument form is valid, proceed as follows.</p>
+
   
