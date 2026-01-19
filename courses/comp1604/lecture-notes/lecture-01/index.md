@@ -495,7 +495,9 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
 
 
 
-
+ <p>
+      The symbol \( \therefore \), read “therefore,” is normally placed just before the conclusion.
+    </p>
 
 
 
