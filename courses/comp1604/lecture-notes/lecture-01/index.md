@@ -387,3 +387,110 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
     </p>
   </div>
 </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="notes-block" id="key-terminology">
+  <style>
+    /* Minimal, drop-in styling scoped to this section */
+    #key-terminology{ margin:1.25rem 0; }
+    #key-terminology .subsubhead{
+      font-size:1.05rem;
+      font-weight:650;
+      margin:0 0 .5rem;
+      color:#111;
+    }
+    #key-terminology p{ margin:.65rem 0; color:#222; }
+    #key-terminology em{ font-style:italic; }
+
+    #key-terminology .box{
+      border:1px solid #e6e8eb;
+      border-radius:.75rem;
+      padding:1rem 1.1rem;
+      background:#fff;
+      margin:.9rem 0 1.1rem;
+    }
+    #key-terminology .box-header{
+      display:flex;
+      align-items:baseline;
+      gap:.5rem;
+      margin-bottom:.6rem;
+    }
+    #key-terminology .tag{
+      display:inline-block;
+      font-size:.78rem;
+      padding:.15rem .5rem;
+      border-radius:999px;
+      border:1px solid #d0d7de;
+      background:#f6f8fa;
+      color:#57606a;
+      white-space:nowrap;
+    }
+    #key-terminology .box-title{
+      margin:0;
+      font-weight:650;
+      font-size:1rem;
+      color:#111;
+    }
+    #key-terminology .box p{ margin:.55rem 0; }
+    #key-terminology .box p:first-of-type{ margin-top:0; }
+  </style>
+
+  <h4 class="subsubhead">Key terminology</h4>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
