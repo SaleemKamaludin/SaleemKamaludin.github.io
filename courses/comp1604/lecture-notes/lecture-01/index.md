@@ -285,4 +285,18 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
 
     <p class="lead">To test whether an argument form is valid, proceed as follows.</p>
 
+
+
+
+      <ol>
+      <li>Identify the premises and the conclusion of the argument form.</li>
+      <li>Construct a truth table showing the truth values of all the premises and the conclusion.</li>
+      <li>
+        A row of the truth table in which all the premises are true is called a <em>critical row</em>.
+        If there is a critical row in which the conclusion is false, then it is possible for an argument of the given form
+        to have true premises and a false conclusion, and so the argument form is <em>invalid</em>.
+        If the conclusion in <em>every</em> critical row is true, then the argument form is <em>valid</em>.
+      </li>
+    </ol>
+
   
