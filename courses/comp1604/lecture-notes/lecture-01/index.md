@@ -299,4 +299,85 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
       </li>
     </ol>
 
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <section class="notes-block" id="def-valid-argument-form">
+  <style>
+    /* Minimal, drop-in styling scoped to this definition */
+    #def-valid-argument-form{ margin:1rem 0 1.1rem; }
+    #def-valid-argument-form .box{
+      border:1px solid #e6e8eb;
+      border-radius:.75rem;
+      padding:1rem 1.1rem;
+      background:#fff;
+    }
+    #def-valid-argument-form .box-header{
+      display:flex;
+      align-items:baseline;
+      gap:.5rem;
+      margin-bottom:.6rem;
+    }
+    #def-valid-argument-form .tag{
+      display:inline-block;
+      font-size:.78rem;
+      padding:.15rem .5rem;
+      border-radius:999px;
+      border:1px solid #d0d7de;
+      background:#f6f8fa;
+      color:#57606a;
+      white-space:nowrap;
+    }
+    #def-valid-argument-form .title{
+      margin:0;
+      font-weight:650;
+      font-size:1rem;
+      color:#111;
+    }
+    #def-valid-argument-form p{ margin:.55rem 0 0; color:#222; }
+    #def-valid-argument-form em{ font-style:italic; }
+  </style>
+
+  <div class="box">
+    <div class="box-header">
+      <span class="tag">Definition</span>
+      <h5 class="title">Valid argument form</h5>
+    </div>
+
