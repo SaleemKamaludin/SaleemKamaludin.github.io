@@ -525,3 +525,58 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
 
 
 
+<section class="notes-block" id="validity-test">
+  <style>
+    /* Minimal, drop-in styling scoped to this section */
+    #validity-test{ margin:1.25rem 0; }
+    #validity-test .subsubhead{
+      font-size:1.05rem;
+      font-weight:650;
+      margin:0 0 .5rem;
+      color:#111;
+    }
+    #validity-test p{ margin:.65rem 0; color:#222; }
+    #validity-test em{ font-style:italic; }
+
+    #validity-test .box{
+      border:1px solid #e6e8eb;
+      border-radius:.75rem;
+      padding:1rem 1.1rem;
+      background:#fff;
+      margin:.9rem 0 1.1rem;
+    }
+    #validity-test .box-header{
+      display:flex;
+      align-items:baseline;
+      gap:.5rem;
+      margin-bottom:.6rem;
+    }
+    #validity-test .tag{
+      display:inline-block;
+      font-size:.78rem;
+      padding:.15rem .5rem;
+      border-radius:999px;
+      border:1px solid #d0d7de;
+      background:#f6f8fa;
+      color:#57606a;
+      white-space:nowrap;
+    }
+    #validity-test .box-title{
+      margin:0;
+      font-weight:650;
+      font-size:1rem;
+      color:#111;
+    }
+    #validity-test ol{
+      margin:.5rem 0 0;
+      padding-left:1.25rem;
+    }
+    #validity-test li{ margin:.45rem 0; }
+    #validity-test .divider{
+      border:0;
+      border-top:1px solid #e6e8eb;
+      margin:1.25rem 0;
+    }
+  </style>
+
+  <hr class="divider" />
