@@ -519,3 +519,9 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
     <em>inferred</em> or <em>deduced</em> from the truth of the premises.
     If a conclusion “ain’t necessarily so,” then it isn’t a valid deduction.
   </p>
+</section>
+
+
+
+
+
