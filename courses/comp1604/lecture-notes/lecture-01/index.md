@@ -690,7 +690,12 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
 
 
 
-
+ <!-- Example -->
+  <div class="box">
+    <div class="box-header">
+      <span class="tag">Example</span>
+      <h5 class="title">Determining validity or invalidity</h5>
+    </div>
 
 
 
