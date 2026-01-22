@@ -714,7 +714,12 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
 
 
 
-
+<!-- Solution -->
+  <div class="box">
+    <div class="box-header">
+      <span class="tag">Solution</span>
+      <h5 class="title">Truth-table check</h5>
+    </div>
 
 
 
