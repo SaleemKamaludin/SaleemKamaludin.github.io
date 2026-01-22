@@ -699,7 +699,10 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
 
 
 
-
+   <p>
+      Determine whether the following argument form is <b>valid</b> or <b>invalid</b> by drawing a truth table.
+      Clearly indicate which columns represent the premises and which represent the conclusion, and justify your answer.
+    </p>
 
 
 
