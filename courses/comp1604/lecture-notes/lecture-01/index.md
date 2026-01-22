@@ -582,3 +582,131 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
   <hr class="divider" />
   
   <h4 class="subsubhead">Testing an argument form for validity</h4>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="notes-block" id="ex-validity-truthtable">
+  <style>
+    /* Minimal, drop-in styling scoped to this example+solution */
+    #ex-validity-truthtable{ margin:1.25rem 0; }
+    #ex-validity-truthtable p{ margin:.65rem 0; color:#222; }
+    #ex-validity-truthtable em{ font-style:italic; }
+
+    #ex-validity-truthtable .box{
+      border:1px solid #e6e8eb;
+      border-radius:.75rem;
+      padding:1rem 1.1rem;
+      background:#fff;
+      margin:.9rem 0 1.1rem;
+    }
+    #ex-validity-truthtable .box-header{
+      display:flex;
+      align-items:baseline;
+      gap:.5rem;
+      margin-bottom:.6rem;
+    }
+    #ex-validity-truthtable .tag{
+      display:inline-block;
+      font-size:.78rem;
+      padding:.15rem .5rem;
+      border-radius:999px;
+      border:1px solid #d0d7de;
+      background:#f6f8fa;
+      color:#57606a;
+      white-space:nowrap;
+    }
+    #ex-validity-truthtable .title{
+      margin:0;
+      font-weight:650;
+      font-size:1rem;
+      color:#111;
+    }
+
+    #ex-validity-truthtable .arg{
+      border-left: 3px solid #4c8bf5;
+      padding: .75rem 1rem;
+      margin: .75rem 0;
+      background: rgba(76,139,245,.08);
+      border-radius: .5rem;
+    }
+    #ex-validity-truthtable .arg .line{
+      margin:.25rem 0;
+    }
+    #ex-validity-truthtable .therefore{
+      font-weight:650;
+      letter-spacing:.02em;
+    }
+
+    #ex-validity-truthtable .math-block{
+      margin:.75rem 0;
+      padding:.75rem 1rem;
+      border:1px dashed #d0d7de;
+      border-radius:.6rem;
+      background:#fafafa;
+    }
+
+    #ex-validity-truthtable .muted{
+      color:#555;
+      font-size:.95rem;
+    }
+  </style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
