@@ -706,7 +706,11 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
 
 
 
-
+  <p class="muted">
+      When constructing the truth table, it is sufficient to record the truth value of the conclusion only in those rows
+      where all the premises are true (the <em>critical rows</em>), since the remaining rows are irrelevant to validity.
+    </p>
+  </div>
 
 
 
