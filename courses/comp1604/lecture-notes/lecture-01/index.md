@@ -768,7 +768,13 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
 
 
 
-
+    <p>
+      Although there are several rows in which both premises and the conclusion are true, there exists at least one
+      <em>critical row</em> in which the premises are true and the conclusion is false. Hence, it is possible for an argument
+      of this form to have true premises and a false conclusion.
+    </p>
+  </div>
+</section>
 
 
 
