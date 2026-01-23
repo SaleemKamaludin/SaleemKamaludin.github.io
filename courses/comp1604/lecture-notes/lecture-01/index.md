@@ -760,7 +760,8 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
       We construct a truth table for the premises
       <span class="math-block">\(p \to (q \lor \lnot r)\quad \text{and} \quad q \to (p \land r),\)</span>
       and for the conclusion
-
+   <span class="math-block">\(p \to r.\)</span>
+    </p>
 
 
 
