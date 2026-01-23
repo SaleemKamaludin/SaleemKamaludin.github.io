@@ -750,7 +750,9 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
 
  <div class="arg" aria-label="Argument form">
       <div class="line">\(p \to (q \lor \lnot r)\)</div>
-
+  <div class="line">\(q \to (p \land r)\)</div>
+      <div class="line therefore">∴ \(p \to r\)</div>
+    </div>
 
 
 
