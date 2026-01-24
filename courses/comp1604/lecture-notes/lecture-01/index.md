@@ -923,7 +923,11 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
       <span class="tag">Remark</span>
       <h5 class="title">Conclusion</h5>
     </div>
-
+ <p>
+      There exists a critical row in which both premises are true while the conclusion is false.
+      Therefore, this argument form is <em>invalid</em>.
+    </p>
+  </div>
 
 
 
