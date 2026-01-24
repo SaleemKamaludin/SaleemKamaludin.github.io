@@ -783,3 +783,88 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
 
 
   
+<section class="notes-block" id="truth-table-and-modus">
+  <style>
+    /* Minimal, drop-in styling scoped to this whole block */
+    #truth-table-and-modus{ margin:1.25rem 0; }
+    #truth-table-and-modus p{ margin:.65rem 0; color:#222; }
+    #truth-table-and-modus em{ font-style:italic; }
+
+    #truth-table-and-modus .box{
+      border:1px solid #e6e8eb;
+      border-radius:.75rem;
+      padding:1rem 1.1rem;
+      background:#fff;
+      margin:.9rem 0 1.1rem;
+    }
+    #truth-table-and-modus .box-header{
+      display:flex;
+      align-items:baseline;
+      gap:.5rem;
+      margin-bottom:.6rem;
+    }
+    #truth-table-and-modus .tag{
+      display:inline-block;
+      font-size:.78rem;
+      padding:.15rem .5rem;
+      border-radius:999px;
+      border:1px solid #d0d7de;
+      background:#f6f8fa;
+      color:#57606a;
+      white-space:nowrap;
+    }
+    #truth-table-and-modus .title{
+      margin:0;
+      font-weight:650;
+      font-size:1rem;
+      color:#111;
+    }
+
+    /* Table styling */
+    #truth-table-and-modus .table-wrap{
+      overflow-x:auto;
+      -webkit-overflow-scrolling:touch;
+      margin:.5rem 0 0;
+      border:1px solid #e6e8eb;
+      border-radius:.65rem;
+    }
+    #truth-table-and-modus table{
+      width:100%;
+      border-collapse:collapse;
+      min-width: 860px; /* helps prevent cramped columns */
+      font-size:.95rem;
+    }
+    #truth-table-and-modus th, #truth-table-and-modus td{
+      padding:.55rem .6rem;
+      border-bottom:1px solid #e6e8eb;
+      text-align:center;
+      vertical-align:middle;
+      white-space:nowrap;
+    }
+    #truth-table-and-modus thead th{
+      background:#f6f8fa;
+      font-weight:650;
+      color:#111;
+    }
+    #truth-table-and-modus tbody tr:last-child td{ border-bottom:0; }
+    #truth-table-and-modus .bad{
+      font-weight:750;
+      color:#b42318;
+    }
+
+    /* Small math block box */
+    #truth-table-and-modus .math-block{
+      margin:.75rem 0 0;
+      padding:.75rem 1rem;
+      border:1px dashed #d0d7de;
+      border-radius:.6rem;
+      background:#fafafa;
+    }
+
+    #truth-table-and-modus h3{
+      font-size:1.25rem;
+      font-weight:650;
+      margin:1.5rem 0 .5rem;
+      color:#111;
+    }
+  </style>
