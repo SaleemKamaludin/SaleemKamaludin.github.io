@@ -917,7 +917,12 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
 
 
 
-
+  <!-- Remark -->
+  <div class="box" id="rem-invalid-example">
+    <div class="box-header">
+      <span class="tag">Remark</span>
+      <h5 class="title">Conclusion</h5>
+    </div>
 
 
 
