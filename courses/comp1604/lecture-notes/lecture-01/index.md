@@ -885,7 +885,34 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
 
 
 
-
+ <div class="table-wrap" aria-label="Truth table for validity test">
+      <table>
+        <thead>
+          <tr>
+            <th>\(p\)</th>
+            <th>\(q\)</th>
+            <th>\(r\)</th>
+            <th>\(\lnot r\)</th>
+            <th>\(q \lor \lnot r\)</th>
+            <th>\(p \land r\)</th>
+            <th>\(p \to (q \lor \lnot r)\)</th>
+            <th>\(q \to (p \land r)\)</th>
+            <th>\(p \to r\)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>T</td><td>T</td><td>T</td><td>F</td><td>T</td><td>T</td><td>T</td><td>T</td><td>T</td></tr>
+          <tr><td>T</td><td>T</td><td>F</td><td>T</td><td>T</td><td>F</td><td>T</td><td>F</td><td>F</td></tr>
+          <tr><td>T</td><td>F</td><td>T</td><td>F</td><td>F</td><td>T</td><td>F</td><td>T</td><td>T</td></tr>
+          <tr><td>T</td><td>F</td><td>F</td><td>T</td><td>T</td><td>F</td><td>T</td><td>T</td><td class="bad">F</td></tr>
+          <tr><td>F</td><td>T</td><td>T</td><td>F</td><td>T</td><td>F</td><td>T</td><td>F</td><td>T</td></tr>
+          <tr><td>F</td><td>T</td><td>F</td><td>T</td><td>T</td><td>F</td><td>T</td><td>F</td><td>T</td></tr>
+          <tr><td>F</td><td>F</td><td>T</td><td>F</td><td>F</td><td>F</td><td>T</td><td>T</td><td>T</td></tr>
+          <tr><td>F</td><td>F</td><td>F</td><td>T</td><td>T</td><td>F</td><td>T</td><td>T</td><td>T</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
 
 
 
