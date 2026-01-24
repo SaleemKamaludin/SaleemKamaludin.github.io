@@ -868,3 +868,40 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
       color:#111;
     }
   </style>
+
+
+
+
+
+
+<!-- Truth table (from the solution) -->
+  <div class="box" id="tt-invalid-arg">
+    <div class="box-header">
+      <span class="tag">Truth table</span>
+      <h5 class="title">Critical row shows invalidity</h5>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
