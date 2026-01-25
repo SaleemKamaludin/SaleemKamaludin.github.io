@@ -937,7 +937,9 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
   <!-- Definition: Syllogism -->
   <div class="box" id="def-syllogism">
     <div class="box-header">
-
+<span class="tag">Definition</span>
+      <h5 class="title">Syllogism</h5>
+    </div>
 
 
 
