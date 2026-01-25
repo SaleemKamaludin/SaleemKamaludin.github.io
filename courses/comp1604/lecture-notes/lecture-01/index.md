@@ -941,7 +941,11 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
       <h5 class="title">Syllogism</h5>
     </div>
 
-
+<p>
+      An argument form consisting of two premises and a conclusion is called a <em>syllogism</em>.
+      The first premise is called the <em>major premise</em>, and the second premise is called the <em>minor premise</em>.
+    </p>
+  </div>
 
 
 
