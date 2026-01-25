@@ -961,3 +961,22 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
     <p>
       The most famous form of syllogism in logic is called <em>modus ponens</em>. It has the form
     </p>
+
+
+
+
+   <div class="math-block" aria-label="Modus ponens form">
+      <p style="margin:0;">\(p \to q,\)</p>
+      <p style="margin:0;">\(p,\)</p>
+      <p style="margin:0; font-weight:650;">∴ \(q.\)</p>
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
