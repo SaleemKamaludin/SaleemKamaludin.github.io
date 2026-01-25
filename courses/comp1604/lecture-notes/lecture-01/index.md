@@ -949,6 +949,11 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
 
 
 
-
+ <!-- Definition: Modus Ponens -->
+  <div class="box" id="def-modus-ponens">
+    <div class="box-header">
+      <span class="tag">Definition</span>
+      <h5 class="title">Modus Ponens</h5>
+    </div>
 
 
