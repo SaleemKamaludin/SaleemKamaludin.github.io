@@ -934,7 +934,9 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
 <!-- New subsection -->
   <h3>Modus Ponens and Modus Tollens</h3>
 
-
+  <!-- Definition: Syllogism -->
+  <div class="box" id="def-syllogism">
+    <div class="box-header">
 
 
 
