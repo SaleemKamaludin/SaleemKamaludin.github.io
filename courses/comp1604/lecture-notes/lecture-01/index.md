@@ -974,7 +974,8 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
 
 
 <p>
-
+It is instructive to verify that modus ponens is a valid argument form. Doing so helps confirm the agreement between
+    the formal definition of validity and our intuitive understanding of logical reasoning.
 
 
 
