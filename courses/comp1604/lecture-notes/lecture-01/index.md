@@ -957,3 +957,7 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
     </div>
 
 
+
+    <p>
+      The most famous form of syllogism in logic is called <em>modus ponens</em>. It has the form
+    </p>
