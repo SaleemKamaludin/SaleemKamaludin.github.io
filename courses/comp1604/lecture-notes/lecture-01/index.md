@@ -1101,7 +1101,12 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
 
 
 
-
+  <!-- Truth table for modus ponens -->
+  <div class="box" id="tt-modus-ponens">
+    <div class="box-header">
+      <span class="tag">Truth table</span>
+      <h5 class="title">Modus ponens</h5>
+    </div>
 
 
 
