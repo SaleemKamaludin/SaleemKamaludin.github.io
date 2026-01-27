@@ -985,3 +985,133 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
  To verify its validity, we construct a truth table for the premises and the conclusion.
   </p>
 </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="notes-block" id="modus-ponens-table-and-mt">
+  <style>
+    /* Minimal, drop-in styling scoped to this block */
+    #modus-ponens-table-and-mt{ margin:1.25rem 0; }
+    #modus-ponens-table-and-mt p{ margin:.65rem 0; color:#222; }
+    #modus-ponens-table-and-mt em{ font-style:italic; }
+
+    #modus-ponens-table-and-mt .box{
+      border:1px solid #e6e8eb;
+      border-radius:.75rem;
+      padding:1rem 1.1rem;
+      background:#fff;
+      margin:.9rem 0 1.1rem;
+    }
+    #modus-ponens-table-and-mt .box-header{
+      display:flex;
+      align-items:baseline;
+      gap:.5rem;
+      margin-bottom:.6rem;
+    }
+    #modus-ponens-table-and-mt .tag{
+      display:inline-block;
+      font-size:.78rem;
+      padding:.15rem .5rem;
+      border-radius:999px;
+      border:1px solid #d0d7de;
+      background:#f6f8fa;
+      color:#57606a;
+      white-space:nowrap;
+    }
+    #modus-ponens-table-and-mt .title{
+      margin:0;
+      font-weight:650;
+      font-size:1rem;
+      color:#111;
+    }
+
+    /* Table styling */
+    #modus-ponens-table-and-mt .table-wrap{
+      overflow-x:auto;
+      -webkit-overflow-scrolling:touch;
+      margin:.5rem 0 0;
+      border:1px solid #e6e8eb;
+      border-radius:.65rem;
+    }
+    #modus-ponens-table-and-mt table{
+      width:100%;
+      border-collapse:collapse;
+      min-width: 520px;
+      font-size:.95rem;
+    }
+    #modus-ponens-table-and-mt th,
+    #modus-ponens-table-and-mt td{
+      padding:.55rem .6rem;
+      border-bottom:1px solid #e6e8eb;
+      text-align:center;
+      vertical-align:middle;
+      white-space:nowrap;
+    }
+    #modus-ponens-table-and-mt thead th{
+      background:#f6f8fa;
+      font-weight:650;
+      color:#111;
+    }
+    #modus-ponens-table-and-mt tbody tr:last-child td{ border-bottom:0; }
+
+    /* Simple math block */
+    #modus-ponens-table-and-mt .math-block{
+      margin:.75rem 0 0;
+      padding:.75rem 1rem;
+      border:1px dashed #d0d7de;
+      border-radius:.6rem;
+      background:#fafafa;
+    }
+
+    #modus-ponens-table-and-mt .divider{
+      border:0;
+      border-top:1px solid #e6e8eb;
+      margin:1.25rem 0;
+    }
+  </style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
