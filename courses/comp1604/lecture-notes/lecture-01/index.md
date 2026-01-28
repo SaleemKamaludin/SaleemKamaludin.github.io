@@ -1137,3 +1137,23 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
 
 
  <hr class="divider" />
+
+
+
+
+<!-- Remark: validity of modus ponens -->
+  <div class="box" id="rem-mp-valid">
+    <div class="box-header">
+
+
+
+
+
+
+
+
+
+
+
+
+
