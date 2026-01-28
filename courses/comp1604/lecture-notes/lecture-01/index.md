@@ -1144,7 +1144,9 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
 <!-- Remark: validity of modus ponens -->
   <div class="box" id="rem-mp-valid">
     <div class="box-header">
-
+ <span class="tag">Remark</span>
+      <h5 class="title">Validity of modus ponens</h5>
+    </div>
 
 
 
