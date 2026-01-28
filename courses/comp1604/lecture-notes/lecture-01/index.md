@@ -1147,7 +1147,9 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
  <span class="tag">Remark</span>
       <h5 class="title">Validity of modus ponens</h5>
     </div>
-
+<p>
+      The first row is the only one in which both premises are true, and in that row the conclusion is also true.
+      Hence, the argument form <em>modus ponens</em> is valid.
 
 
 
