@@ -1150,7 +1150,8 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
 <p>
       The first row is the only one in which both premises are true, and in that row the conclusion is also true.
       Hence, the argument form <em>modus ponens</em> is valid.
-
+</p>
+  </div>
 
 
 
