@@ -1161,5 +1161,6 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
 
  <!-- Definition: Modus Tollens -->
   <div class="box" id="def-modus-tollens">
-
+ <div class="box-header">
+      <span class="tag">Definition</span>
 
