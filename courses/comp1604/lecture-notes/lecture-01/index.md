@@ -1164,3 +1164,5 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
  <div class="box-header">
       <span class="tag">Definition</span>
 
+ <h5 class="title">Modus Tollens</h5>
+    </div>
