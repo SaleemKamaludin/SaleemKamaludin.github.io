@@ -1166,3 +1166,6 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
 
  <h5 class="title">Modus Tollens</h5>
     </div>
+<p>
+      Another important valid argument form is called <em>modus tollens</em>. It has the form
+    </p>
