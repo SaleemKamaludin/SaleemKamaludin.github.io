@@ -1169,3 +1169,12 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
 <p>
       Another important valid argument form is called <em>modus tollens</em>. It has the form
     </p>
+
+
+ <div class="math-block" aria-label="Modus tollens form">
+      <p style="margin:0;">\(p \to q,\)</p>
+      <p style="margin:0;">\(\lnot q,\)</p>
+      <p style="margin:0; font-weight:650;">∴ \(\lnot p.\)</p>
+    </div>
+  </div>
+</section>
