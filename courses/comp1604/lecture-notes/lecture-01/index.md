@@ -1332,3 +1332,9 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
 
 
 
+  <p>
+      The fourth row is the only <em>critical row</em>, since both premises are true in that row. In this case,
+      the conclusion \(\lnot p\) is also true. Hence, the argument form is valid.
+    </p>
+  </div>
+</section>
