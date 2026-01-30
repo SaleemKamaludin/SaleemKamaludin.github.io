@@ -1287,6 +1287,7 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
 
 
 
+    <p>We verify the validity of <em>modus tollens</em> using a truth table.</p>
 
 
 
