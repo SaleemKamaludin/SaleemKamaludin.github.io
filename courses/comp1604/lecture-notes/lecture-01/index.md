@@ -1278,7 +1278,11 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
 
 
 
-
+<div class="box">
+    <div class="box-header">
+      <span class="tag">Remark</span>
+      <h5 class="title">Validity of modus tollens</h5>
+    </div>
 
 
 
