@@ -1178,3 +1178,133 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
     </div>
   </div>
 </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="notes-block" id="rem-mt-valid">
+  <style>
+    /* Minimal, drop-in styling scoped to this remark */
+    #rem-mt-valid{ margin:1.25rem 0; }
+    #rem-mt-valid p{ margin:.65rem 0; color:#222; }
+    #rem-mt-valid em{ font-style:italic; }
+
+    #rem-mt-valid .box{
+      border:1px solid #e6e8eb;
+      border-radius:.75rem;
+      padding:1rem 1.1rem;
+      background:#fff;
+      margin:.9rem 0 1.1rem;
+    }
+    #rem-mt-valid .box-header{
+      display:flex;
+      align-items:baseline;
+      gap:.5rem;
+      margin-bottom:.6rem;
+    }
+    #rem-mt-valid .tag{
+      display:inline-block;
+      font-size:.78rem;
+      padding:.15rem .5rem;
+      border-radius:999px;
+      border:1px solid #d0d7de;
+      background:#f6f8fa;
+      color:#57606a;
+      white-space:nowrap;
+    }
+    #rem-mt-valid .title{
+      margin:0;
+      font-weight:650;
+      font-size:1rem;
+      color:#111;
+    }
+
+    #rem-mt-valid .math-block{
+      margin:.75rem 0;
+      padding:.75rem 1rem;
+      border:1px dashed #d0d7de;
+      border-radius:.6rem;
+      background:#fafafa;
+    }
+
+    /* Table styling */
+    #rem-mt-valid .table-wrap{
+      overflow-x:auto;
+      -webkit-overflow-scrolling:touch;
+      margin:.5rem 0 .25rem;
+      border:1px solid #e6e8eb;
+      border-radius:.65rem;
+    }
+    #rem-mt-valid table{
+      width:100%;
+      border-collapse:collapse;
+      min-width: 520px;
+      font-size:.95rem;
+    }
+    #rem-mt-valid th,
+    #rem-mt-valid td{
+      padding:.55rem .6rem;
+      border-bottom:1px solid #e6e8eb;
+      text-align:center;
+      vertical-align:middle;
+      white-space:nowrap;
+    }
+    #rem-mt-valid thead th{
+      background:#f6f8fa;
+      font-weight:650;
+      color:#111;
+    }
+    #rem-mt-valid tbody tr:last-child td{ border-bottom:0; }
+  </style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
