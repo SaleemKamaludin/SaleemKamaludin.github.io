@@ -1318,7 +1318,14 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
             <th>\(\lnot p\)</th>
           </tr>
         </thead>
-
+<tbody>
+          <tr><td>T</td><td>T</td><td>T</td><td>F</td><td>F</td></tr>
+          <tr><td>T</td><td>F</td><td>F</td><td>T</td><td>F</td></tr>
+          <tr><td>F</td><td>T</td><td>T</td><td>F</td><td>T</td></tr>
+          <tr><td>F</td><td>F</td><td>T</td><td>T</td><td>T</td></tr>
+        </tbody>
+      </table>
+    </div>
 
 
 
