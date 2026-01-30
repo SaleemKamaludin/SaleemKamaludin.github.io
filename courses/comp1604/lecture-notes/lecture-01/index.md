@@ -1308,7 +1308,9 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
 
 
     <div class="table-wrap" aria-label="Truth table for modus tollens">
-
+<table>
+        <thead>
+          <tr>
 
 
 
