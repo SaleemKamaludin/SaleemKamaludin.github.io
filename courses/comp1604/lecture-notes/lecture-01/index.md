@@ -1311,7 +1311,13 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
 <table>
         <thead>
           <tr>
-
+             <th>\(p\)</th>
+            <th>\(q\)</th>
+            <th>\(p \to q\)</th>
+            <th>\(\lnot q\)</th>
+            <th>\(\lnot p\)</th>
+          </tr>
+        </thead>
 
 
 
