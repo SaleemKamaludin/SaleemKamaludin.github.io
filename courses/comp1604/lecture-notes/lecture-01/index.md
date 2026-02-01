@@ -1500,3 +1500,5 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
 
 
  <p>
+    Use <em>modus ponens</em> or <em>modus tollens</em> to fill in the blanks so that each argument becomes a valid inference.
+    </p>
