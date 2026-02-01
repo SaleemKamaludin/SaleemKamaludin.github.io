@@ -1338,3 +1338,151 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
     </p>
   </div>
 </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="notes-block" id="ex-recognizing-mp-mt">
+  <style>
+    /* Minimal, drop-in styling scoped to this example+solution */
+    #ex-recognizing-mp-mt{ margin:1.25rem 0; }
+    #ex-recognizing-mp-mt p{ margin:.65rem 0; color:#222; }
+    #ex-recognizing-mp-mt em{ font-style:italic; }
+
+    #ex-recognizing-mp-mt .box{
+      border:1px solid #e6e8eb;
+      border-radius:.75rem;
+      padding:1rem 1.1rem;
+      background:#fff;
+      margin:.9rem 0 1.1rem;
+    }
+    #ex-recognizing-mp-mt .box-header{
+      display:flex;
+      align-items:baseline;
+      gap:.5rem;
+      margin-bottom:.6rem;
+    }
+    #ex-recognizing-mp-mt .tag{
+      display:inline-block;
+      font-size:.78rem;
+      padding:.15rem .5rem;
+      border-radius:999px;
+      border:1px solid #d0d7de;
+      background:#f6f8fa;
+      color:#57606a;
+      white-space:nowrap;
+    }
+    #ex-recognizing-mp-mt .title{
+      margin:0;
+      font-weight:650;
+      font-size:1rem;
+      color:#111;
+    }
+
+    #ex-recognizing-mp-mt ol{
+      margin:.5rem 0 0;
+      padding-left:1.25rem;
+    }
+    #ex-recognizing-mp-mt li{ margin:.85rem 0; }
+
+    #ex-recognizing-mp-mt .blank{
+      display:inline-block;
+      width:min(100%, 520px);
+      border-bottom:2px solid #cfd6dd;
+      height:1.2em;
+      vertical-align:baseline;
+      margin-left:.25rem;
+    }
+
+    #ex-recognizing-mp-mt .therefore{
+      font-weight:650;
+      letter-spacing:.02em;
+    }
+
+    #ex-recognizing-mp-mt .answer{
+      display:flex;
+      justify-content:space-between;
+      gap:1rem;
+      flex-wrap:wrap;
+      align-items:baseline;
+      margin:.25rem 0 0;
+      padding:.6rem .75rem;
+      border:1px dashed #d0d7de;
+      border-radius:.6rem;
+      background:#fafafa;
+    }
+    #ex-recognizing-mp-mt .answer .method{
+      color:#555;
+      font-size:.92rem;
+      white-space:nowrap;
+    }
+
+    #ex-recognizing-mp-mt .divider{
+      border:0;
+      border-top:1px solid #e6e8eb;
+      margin:1.25rem 0;
+    }
+  </style>
