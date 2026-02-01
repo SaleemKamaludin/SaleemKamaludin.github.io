@@ -1486,3 +1486,11 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
       margin:1.25rem 0;
     }
   </style>
+
+
+
+
+
+<!-- Example -->
+  <div class="box">
+    <div class="box-header">
