@@ -1497,3 +1497,6 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
  <span class="tag">Example</span>
       <h5 class="title">Recognizing modus ponens and modus tollens</h5>
   </div>
+
+
+ <p>
