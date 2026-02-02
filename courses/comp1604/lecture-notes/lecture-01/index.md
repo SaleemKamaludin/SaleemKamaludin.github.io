@@ -1513,7 +1513,8 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
  <ol type="a">
 <li>
   <p style="margin:.35rem 0;">
-
+ If there are more pigeons than there are pigeonholes, then at least two pigeons roost in the same hole.<br>
+          There are more pigeons than there are pigeonholes.
 
 
 
