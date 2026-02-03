@@ -1547,3 +1547,5 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
 
   <li>
   <p style="margin:.35rem 0;">
+ If \(870{,}232\) is divisible by \(6\), then it is divisible by \(3\).<br>
+          \(870{,}232\) is not divisible by \(3\).
