@@ -1551,3 +1551,8 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
           \(870{,}232\) is not divisible by \(3\).
  </p>
         <p class="therefore" style="margin:.35rem 0;">
+   ∴ <span class="blank" aria-label="blank for conclusion"></span>
+        </p>
+      </li>
+    </ol>
+  </div>
