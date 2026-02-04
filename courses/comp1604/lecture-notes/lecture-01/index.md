@@ -1577,3 +1577,5 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
   <!-- Solution -->
   <div class="box">
    <div class="box-header">
+ <span class="tag">Solution</span>
+      <h5 class="title">Completed conclusions</h5>
