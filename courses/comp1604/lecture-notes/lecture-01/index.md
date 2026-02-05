@@ -1580,3 +1580,19 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
  <span class="tag">Solution</span>
       <h5 class="title">Completed conclusions</h5>
   </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <ol type="a">
