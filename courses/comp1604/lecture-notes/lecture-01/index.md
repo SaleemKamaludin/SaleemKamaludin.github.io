@@ -1596,3 +1596,5 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
 
 
  <ol type="a">
+<li>
+        <div class="answer">
