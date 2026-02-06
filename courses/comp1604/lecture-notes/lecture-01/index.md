@@ -1614,3 +1614,5 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
  <li>
  <div class="answer">
           <span>\(870{,}232\) is not divisible by \(6\).</span>
+ <span class="method">(by modus tollens)</span>
+        </div>
