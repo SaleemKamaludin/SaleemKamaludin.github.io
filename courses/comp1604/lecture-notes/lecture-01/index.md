@@ -1617,3 +1617,130 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
  </li>
     </ol>
   </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="notes-block" id="rules-of-inference">
+  <style>
+    /* Minimal, drop-in styling scoped to this section */
+    #rules-of-inference{ margin:1.25rem 0; }
+    #rules-of-inference h3{
+      font-size:1.25rem;
+      font-weight:650;
+      margin:0 0 .5rem;
+      color:#111;
+    }
+    #rules-of-inference p{ margin:.65rem 0; color:#222; }
+    #rules-of-inference em{ font-style:italic; }
+
+    #rules-of-inference .box{
+      border:1px solid #e6e8eb;
+      border-radius:.75rem;
+      padding:1rem 1.1rem;
+      background:#fff;
+      margin:.9rem 0 1.1rem;
+    }
+    #rules-of-inference .box-header{
+      display:flex;
+      align-items:baseline;
+      gap:.5rem;
+      margin-bottom:.6rem;
+    }
+    #rules-of-inference .tag{
+      display:inline-block;
+      font-size:.78rem;
+      padding:.15rem .5rem;
+      border-radius:999px;
+      border:1px solid #d0d7de;
+      background:#f6f8fa;
+      color:#57606a;
+      white-space:nowrap;
+    }
+    #rules-of-inference .title{
+      margin:0;
+      font-weight:650;
+      font-size:1rem;
+      color:#111;
+    }
+
+    #rules-of-inference .math-block{
+      display:flex;
+      gap:2rem;
+      flex-wrap:wrap;
+      margin:.75rem 0;
+      padding:.75rem 1rem;
+      border:1px dashed #d0d7de;
+      border-radius:.6rem;
+      background:#fafafa;
+    }
+    #rules-of-inference .math-col{
+      min-width:180px;
+    }
+    #rules-of-inference .math-col p{
+      margin:.2rem 0;
+    }
+  </style>
