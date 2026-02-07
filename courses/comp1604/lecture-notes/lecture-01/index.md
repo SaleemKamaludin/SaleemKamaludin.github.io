@@ -1744,3 +1744,15 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
       margin:.2rem 0;
     }
   </style>
+
+
+
+
+
+
+
+
+
+
+
+ <h3>Additional Valid Argument Forms: Rules of Inference</h3>
