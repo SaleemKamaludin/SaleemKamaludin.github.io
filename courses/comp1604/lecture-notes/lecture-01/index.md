@@ -1757,3 +1757,4 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
 
  <h3>Additional Valid Argument Forms: Rules of Inference</h3>
   <!-- Definition -->
+<div class="box" id="def-rule-of-inference">
