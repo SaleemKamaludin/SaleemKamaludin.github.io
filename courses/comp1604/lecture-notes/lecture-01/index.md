@@ -1762,3 +1762,19 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
   <span class="tag">Definition</span>
   <h5 class="title">Rule of inference</h5>
    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <p>
