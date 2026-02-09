@@ -1778,3 +1778,4 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
 
 
   <p>
+ A <em>rule of inference</em> is a form of argument that is valid.
