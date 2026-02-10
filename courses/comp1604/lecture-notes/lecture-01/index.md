@@ -1815,3 +1815,4 @@ used in deductive reasoning.
 
 
   <!-- Example: Generalization -->
+  <div class="box" id="ex-generalization">
