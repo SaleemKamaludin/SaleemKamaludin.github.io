@@ -1797,3 +1797,21 @@ are additional examples
 of rules of inference that are frequently
 used in deductive reasoning.
   </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- Example: Generalization -->
