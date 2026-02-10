@@ -1795,3 +1795,5 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
    The following
 are additional examples
 of rules of inference that are frequently
+used in deductive reasoning.
+  </p>
