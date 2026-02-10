@@ -1819,3 +1819,4 @@ used in deductive reasoning.
  <div class="box-header">
 <span class="tag">Example</span>
 <h5 class="title">Generalization</h5>
+  </div>
