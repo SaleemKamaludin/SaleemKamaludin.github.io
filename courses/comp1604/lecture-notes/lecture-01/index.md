@@ -1817,3 +1817,4 @@ used in deductive reasoning.
   <!-- Example: Generalization -->
   <div class="box" id="ex-generalization">
  <div class="box-header">
+<span class="tag">Example</span>
