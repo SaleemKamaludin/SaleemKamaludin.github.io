@@ -1793,3 +1793,4 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
 
 <p>
    The following
+are additional examples
