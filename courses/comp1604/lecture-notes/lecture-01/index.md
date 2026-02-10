@@ -1782,3 +1782,13 @@ It is instructive to verify that modus ponens is a valid argument form. Doing so
       In particular, both <em>modus ponens</em> and <em>modus tollens</em> are rules of inference.
     </p>
   </div>
+
+
+
+
+
+
+
+
+
+<p>
