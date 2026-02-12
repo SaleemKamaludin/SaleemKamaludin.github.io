@@ -1820,3 +1820,13 @@ used in deductive reasoning.
 <span class="tag">Example</span>
 <h5 class="title">Generalization</h5>
   </div>
+
+
+
+
+
+
+
+
+
+    <p>The following argument forms are valid:</p>
