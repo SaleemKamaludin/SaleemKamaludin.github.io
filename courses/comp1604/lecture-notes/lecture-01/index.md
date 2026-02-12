@@ -1832,3 +1832,4 @@ used in deductive reasoning.
     <p>The following argument forms are valid:</p>
 <div class="math-block" aria-label="Generalization forms">
 <div class="math-col">
+ <p><b>(a)</b></p>
