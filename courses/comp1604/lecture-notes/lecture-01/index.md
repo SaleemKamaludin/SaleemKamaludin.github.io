@@ -1833,3 +1833,4 @@ used in deductive reasoning.
 <div class="math-block" aria-label="Generalization forms">
 <div class="math-col">
  <p><b>(a)</b></p>
+  <p>\(p\)</p>
