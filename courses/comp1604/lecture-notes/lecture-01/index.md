@@ -1834,3 +1834,4 @@ used in deductive reasoning.
 <div class="math-col">
  <p><b>(a)</b></p>
   <p>\(p\)</p>
+  <p style="font-weight:650;">∴ \(p \lor q\)</p>
