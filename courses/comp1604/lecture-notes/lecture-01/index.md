@@ -1847,3 +1847,4 @@ used in deductive reasoning.
 
 
 <div class="math-col">
+ <p><b>(b)</b></p>
