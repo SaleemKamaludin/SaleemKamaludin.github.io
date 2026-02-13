@@ -1850,3 +1850,4 @@ used in deductive reasoning.
  <p><b>(b)</b></p>
    <p>\(q\)</p>
      <p style="font-weight:650;">∴ \(p \lor q\)</p>
+  </div>
