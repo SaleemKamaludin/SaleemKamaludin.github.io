@@ -1852,3 +1852,15 @@ used in deductive reasoning.
      <p style="font-weight:650;">∴ \(p \lor q\)</p>
   </div>
    </div>
+
+
+
+
+
+
+
+
+
+
+
+   <p>
