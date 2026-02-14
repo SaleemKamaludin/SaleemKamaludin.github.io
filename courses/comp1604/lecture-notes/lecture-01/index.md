@@ -1868,3 +1868,5 @@ used in deductive reasoning.
     According to the first form, if \(p\) is true, then more generally the statement
       “\(p\) or \(q\)” is true for any statement \(q\).
   </p>
+ </div>
+</section>
