@@ -1866,3 +1866,4 @@ used in deductive reasoning.
    <p>
  These argument forms are used for making <em>generalizations</em>.
     According to the first form, if \(p\) is true, then more generally the statement
+      “\(p\) or \(q\)” is true for any statement \(q\).
