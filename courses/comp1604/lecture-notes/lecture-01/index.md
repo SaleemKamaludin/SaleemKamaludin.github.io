@@ -1864,3 +1864,4 @@ used in deductive reasoning.
 
 
    <p>
+ These argument forms are used for making <em>generalizations</em>.
