@@ -1903,3 +1903,5 @@ used in deductive reasoning.
     <span class="remark__label">Remark</span>
     <span class="remark__title" id="rem-title-generalization-illustration">Illustration of generalization</span>
   </div>
+
+  <div class="remark__body">
