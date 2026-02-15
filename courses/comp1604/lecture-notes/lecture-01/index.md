@@ -1906,3 +1906,4 @@ used in deductive reasoning.
 
   <div class="remark__body">
   <p>
+  Suppose you are given the job of counting the upperclassmen at your school.
