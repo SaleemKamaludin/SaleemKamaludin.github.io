@@ -1908,3 +1908,4 @@ used in deductive reasoning.
   <p>
   Suppose you are given the job of counting the upperclassmen at your school.
 You ask what class Anton is in and are told that he is a junior.
+</p>
