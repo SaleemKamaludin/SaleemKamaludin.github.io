@@ -1870,3 +1870,36 @@ used in deductive reasoning.
   </p>
  </div>
 </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="remark" id="rem-generalization-illustration" aria-labelledby="rem-title-generalization-illustration">
+  <div class="remark__header">
+    <span class="remark__label">Remark</span>
+    <span class="remark__title" id="rem-title-generalization-illustration">Illustration of generalization</span>
+  </div>
