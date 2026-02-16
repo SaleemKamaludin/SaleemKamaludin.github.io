@@ -1925,3 +1925,4 @@ You ask what class Anton is in and are told that he is a junior.
     <p>You reason as follows:</p>
  <div class="math-block">
  \[
+ \begin{array}{l}
