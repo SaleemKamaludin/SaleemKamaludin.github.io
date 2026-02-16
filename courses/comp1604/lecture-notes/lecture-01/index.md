@@ -1926,3 +1926,4 @@ You ask what class Anton is in and are told that he is a junior.
  <div class="math-block">
  \[
  \begin{array}{l}
+    \text{Anton is a junior.}\\
