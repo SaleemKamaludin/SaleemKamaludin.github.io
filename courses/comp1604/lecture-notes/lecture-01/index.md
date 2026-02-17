@@ -1927,4 +1927,4 @@ You ask what class Anton is in and are told that he is a junior.
  \[
  \begin{array}{l}
     \text{Anton is a junior.}\\
- \therefore\
+ \therefore\ \text{(more generally)
