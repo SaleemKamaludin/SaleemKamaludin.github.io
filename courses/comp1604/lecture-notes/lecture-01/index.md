@@ -1941,4 +1941,4 @@ You ask what class Anton is in and are told that he is a junior.
 
 
 <p>
-Knowing that an upperclassman is either a junior or a senior,
+Knowing that an upperclassman is either a junior or a senior, you add Anton to your list.
