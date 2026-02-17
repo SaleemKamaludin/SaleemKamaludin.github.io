@@ -1929,3 +1929,5 @@ You ask what class Anton is in and are told that he is a junior.
     \text{Anton is a junior.}\\
  \therefore\ \text{(more generally) Anton is a junior or Anton is a senior.}
  \end{array}
+  \]
+    </div>
