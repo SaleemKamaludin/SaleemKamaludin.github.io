@@ -93,7 +93,7 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
    <p>
     In mathematics and logic, an <em>argument</em> is not a dispute. It is a sequence of statements
     (the <em>premises</em>) ending in a <em>conclusion</em>. In this section we study how to decide whether
-    an argument is <em>valid</em>—that is, whether the conclusion follows <em>necessarily</em> from the premises.
+    an argument is <em>valid</em>, that is, whether the conclusion follows <em>necessarily</em> from the premises.
     Importantly, validity depends only on the <em>form</em> of an argument, not on its content.
   </p>
 
