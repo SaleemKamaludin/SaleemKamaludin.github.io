@@ -277,7 +277,6 @@ permalink: /courses/comp1604/lecture-notes/lecture-01/
 
  <div class="box" id="rem-truth-table-validity-test">
     <div class="box-header">
-      <span class="tag">Remark</span>
       <h5 class="box-title">Truth-table test for validity</h5>
     </div>
 
