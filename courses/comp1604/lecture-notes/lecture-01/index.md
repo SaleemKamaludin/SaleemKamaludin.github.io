@@ -1944,3 +1944,66 @@ Knowing that an upperclassman is either a junior or a senior, you add Anton to y
 </p>
  </div>
 </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="example" id="ex-specialization" aria-labelledby="ex-title-specialization">
+  <div class="example__header">
+    <span class="example__label">Example</span>
+    <span class="example__title" id="ex-title-specialization">Specialization</span>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
