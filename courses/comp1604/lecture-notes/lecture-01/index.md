@@ -1998,4 +1998,4 @@ Knowing that an upperclassman is either a junior or a senior, you add Anton to y
 
  <div class="math-block">
 \[
- \begin{array}{ll}  \text{(a)} & p
+ \begin{array}{ll}  \text{(a)} & p \wedge
