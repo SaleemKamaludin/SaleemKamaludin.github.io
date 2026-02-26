@@ -2006,3 +2006,4 @@ Knowing that an upperclassman is either a junior or a senior, you add Anton to y
 \text{(b)} & p \wedge q \\[4pt]
  & \therefore\ q
  \end{array}
+\]
