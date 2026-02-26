@@ -2004,4 +2004,4 @@ Knowing that an upperclassman is either a junior or a senior, you add Anton to y
 \qquad
  \begin{array}{ll}
 \text{(b)} & p \wedge q \\[4pt]
- & \therefore\
+ & \therefore\ q
