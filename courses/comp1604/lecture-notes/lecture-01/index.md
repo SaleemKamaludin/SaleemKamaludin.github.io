@@ -2007,3 +2007,4 @@ Knowing that an upperclassman is either a junior or a senior, you add Anton to y
  & \therefore\ q
  \end{array}
 \]
+</div>
