@@ -2013,4 +2013,4 @@ Knowing that an upperclassman is either a junior or a senior, you add Anton to y
 
 
  <p>
-These argument forms are used for <em>specializing</em>. When classifying objects according to some
+These argument forms are used for <em>specializing</em>. When classifying objects according to some property,
