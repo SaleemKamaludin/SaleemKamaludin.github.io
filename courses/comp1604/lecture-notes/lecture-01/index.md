@@ -2014,4 +2014,4 @@ Knowing that an upperclassman is either a junior or a senior, you add Anton to y
 
  <p>
 These argument forms are used for <em>specializing</em>. When classifying objects according to some property, you often know much more about them than whether they do or do not have that property.
-In such situations, extraneous information is discarded as attention is focused on the particular property o
+In such situations, extraneous information is discarded as attention is focused on the particular property of
