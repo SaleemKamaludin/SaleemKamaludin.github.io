@@ -2079,3 +2079,4 @@ In such situations, extraneous information is discarded as attention is focused 
   <div class="remark__header">
     <span class="remark__label">Remark</span>
     <span class="remark__title" id="rem-title-specialization-illustration">Illustration of specialization</span>
+ </div>
