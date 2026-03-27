@@ -15,4 +15,3 @@ This page contains guidance, reminders, and practice questions for the upcoming 
 - Careful algebraic manipulation
 
 ## Practice questions
-1. Practice question one goes here.
