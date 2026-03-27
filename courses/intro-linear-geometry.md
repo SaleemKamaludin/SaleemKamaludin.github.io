@@ -14,5 +14,4 @@ Introduces vectors, lines, planes, matrices, and the analytic geometry of 2D and
 
 ## Coursework Exam Support
 
-- [MATH 1141 Coursework Exam 2 Hints](/courses/math-1141-coursework-exam-2-hints/)
 - [MATH 1141 Coursework Exam 2 Practice Questions](/courses/math-1141-coursework-exam-2-hints/)
