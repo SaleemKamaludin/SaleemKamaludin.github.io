@@ -16,4 +16,3 @@ This page contains guidance, reminders, and practice questions for the upcoming 
 
 ## Practice questions
 1. Practice question one goes here.
-2. Practice question two goes here.
