@@ -16,4 +16,6 @@ This page contains guidance, reminders, and practice questions for the upcoming 
 
 ## Practice questions
 
-<h2>Coursework Exam 2 Practice Question</h2>
+<p>
+  <strong>1. (a) (5 marks)</strong>
+ </p>
