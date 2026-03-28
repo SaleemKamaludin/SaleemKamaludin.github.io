@@ -15,3 +15,5 @@ This page contains guidance, reminders, and practice questions for the upcoming 
 - Careful algebraic manipulation
 
 ## Practice questions
+
+<h2>Coursework Exam 2 Practice Question</h2>
