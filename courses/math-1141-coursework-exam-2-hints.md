@@ -18,4 +18,5 @@ This page contains guidance, reminders, and practice questions for the upcoming 
 
 <p>
   <strong>1. (a) (5 marks)</strong>
+   Solve the following system of linear equations using Gaussian elimination only,
  </p>
