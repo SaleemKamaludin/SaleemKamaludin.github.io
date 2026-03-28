@@ -20,3 +20,7 @@ This page contains guidance, reminders, and practice questions for the upcoming 
   <strong>1. (a) (5 marks)</strong>
    Solve the following system of linear equations using Gaussian elimination only,   and comment on the type of solution that exists.
  </p>
+
+<p style="margin-left: 2em; font-style: italic;">
+  Clearly show all steps of your Gaussian elimination, indicating each elementary row operation used.
+</p>
