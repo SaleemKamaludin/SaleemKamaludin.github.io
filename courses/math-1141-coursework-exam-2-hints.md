@@ -24,3 +24,6 @@ This page contains guidance, reminders, and practice questions for the upcoming 
 <p style="margin-left: 2em; font-style: italic;">
   Clearly show all steps of your Gaussian elimination, indicating each elementary row operation used.
 </p>
+
+
+<div style="text-align: center; margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2;">
