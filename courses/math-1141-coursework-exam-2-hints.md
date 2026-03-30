@@ -54,5 +54,5 @@ This page contains guidance, reminders, and practice questions for the upcoming 
     </p>
 
     <div style="text-align: center; font-size: 1.7rem; line-height: 2.1; margin: 1.5rem 0 2rem 0;">
-
+      <div>x + 2y - z = 1</div>
 
