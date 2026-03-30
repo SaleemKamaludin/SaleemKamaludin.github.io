@@ -28,6 +28,6 @@ This page contains guidance, reminders, and practice questions for the upcoming 
 
 <div style="text-align: center; margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2;">
   <div>2x + y - z = 6 </div>
-  <div>4x - y + 3z = 15,</div>
-  <div>-2x + 5y + z = 1.</div>
+  <div>4x - y + 3z = 15 </div>
+  <div>-2x + 5y + z = 1 </div>
 </div>
