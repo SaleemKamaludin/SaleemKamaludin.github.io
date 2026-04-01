@@ -74,8 +74,7 @@ This page contains guidance, reminders, and practice questions for the upcoming 
 
 
 <p>
-  <strong>1. (a) (5 marks)</strong>
-   Solve the following system of linear equations using Gaussian elimination only,   and comment on the type of solution that exists.
+   2. (a)</strong> Find condition(s), if they exist, on <em>a</em> and <em>b</em> under which the system has
  </p>
 
 
