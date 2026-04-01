@@ -72,13 +72,6 @@ This page contains guidance, reminders, and practice questions for the upcoming 
 
 
 
-
-
- <div style="padding: 1.6rem;">
-    <p style="font-size: 1.65rem; line-height: 1.75; margin-bottom: 1.2rem;">
-      <strong>2. (a)</strong> Find condition(s), if they exist, on <em>a</em> and <em>b</em> under which the system has
-    </p>
-
   <div style="text-align: center; margin: 1.5rem 0;">
   \[
   x + 2y - z = 1
@@ -105,4 +98,3 @@ This page contains guidance, reminders, and practice questions for the upcoming 
             <div>(iii) &nbsp; A unique solution <span style="float: right;">[5 marks]</span></div>    
       <div style="clear: both;"></div>
  </div>
-  </div>
