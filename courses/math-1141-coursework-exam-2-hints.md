@@ -66,4 +66,6 @@ This page contains guidance, reminders, and practice questions for the upcoming 
       <div>(i) &nbsp; No solution <span style="float: right;">[5 marks]</span></div>
       <div style="clear: both;"></div>
 
+
+      <div>(ii) &nbsp; Infinitely many solutions <span style="float: right;">[5 marks]</span></div>
     
