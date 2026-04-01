@@ -73,6 +73,10 @@ This page contains guidance, reminders, and practice questions for the upcoming 
 
 
 
+<p>
+  <strong>1. (a) (5 marks)</strong>
+   Solve the following system of linear equations using Gaussian elimination only,   and comment on the type of solution that exists.
+ </p>
 
 
   <div style="text-align: center; margin: 1.5rem 0;">
