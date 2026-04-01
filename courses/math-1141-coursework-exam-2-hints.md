@@ -79,12 +79,17 @@ This page contains guidance, reminders, and practice questions for the upcoming 
       <strong>2. (a)</strong> Find condition(s), if they exist, on <em>a</em> and <em>b</em> under which the system has
     </p>
 
-    <div style="text-align: center; font-size: 1.7rem; line-height: 2.1; margin: 1.5rem 0 2rem 0;">
-      <div>x + 2y - z = 1</div>
-      <div>2x - y + 3z = 7</div>
-      <div>3x + ay + bz = 4</div>
-    </div>
-
+  <div style="text-align: center; margin: 1.5rem 0;">
+  \[
+  x + 2y - z = 1
+  \]
+  \[
+  2x - y + 3z = 7
+  \]
+  \[
+  3x + ay + bz = 4
+  \]
+</div>
 
 
 
