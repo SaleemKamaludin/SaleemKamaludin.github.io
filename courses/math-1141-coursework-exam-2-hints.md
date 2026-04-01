@@ -91,16 +91,15 @@ This page contains guidance, reminders, and practice questions for the upcoming 
 </div>
 
 
+  <div style="font-size: 1.2rem; line-height: 2; margin-left: 2rem; margin-top: 1.5rem;">
+    <div>(i) No solution <span style="float: right;">[5 marks]</span></div>
+    <div style="clear: both;"></div>
 
-    <div style="font-size: 1.55rem; line-height: 1.9; margin-left: 2rem;">
-      <div>(i) &nbsp; No solution <span style="float: right;">[5 marks]</span></div>
-      <div style="clear: both;"></div>
+    <div>(ii) Infinitely many solutions <span style="float: right;">[5 marks]</span></div>
+    <div style="clear: both;"></div>
 
-
-      <div>(ii) &nbsp; Infinitely many solutions <span style="float: right;">[5 marks]</span></div>
-          <div style="clear: both;"></div>
-
-
-            <div>(iii) &nbsp; A unique solution <span style="float: right;">[5 marks]</span></div>    
-      <div style="clear: both;"></div>
+    <div>(iii) A unique solution <span style="float: right;">[5 marks]</span></div>
+    <div style="clear: both;"></div>
+  </div>
+</div>
 
