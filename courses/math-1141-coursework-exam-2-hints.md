@@ -64,6 +64,6 @@ This page contains guidance, reminders, and practice questions for the upcoming 
 
     <div style="font-size: 1.55rem; line-height: 1.9; margin-left: 2rem;">
       <div>(i) &nbsp; No solution <span style="float: right;">[5 marks]</span></div>
-
+      <div style="clear: both;"></div>
 
     
