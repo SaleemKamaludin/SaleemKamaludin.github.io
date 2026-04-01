@@ -58,3 +58,12 @@ This page contains guidance, reminders, and practice questions for the upcoming 
       <div>2x - y + 3z = 7</div>
       <div>3x + ay + bz = 4</div>
     </div>
+
+
+
+
+    <div style="font-size: 1.55rem; line-height: 1.9; margin-left: 2rem;">
+
+
+
+    
