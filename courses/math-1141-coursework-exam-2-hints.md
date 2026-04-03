@@ -51,16 +51,17 @@ This page contains guidance, reminders, and practice questions for the upcoming 
   Clearly show all steps of your Gaussian elimination, indicating each elementary row operation used.
 </p>
 
-<div style="text-align: center; margin: 1.8rem 0;">
+ <div style="text-align: center; margin: 1.5rem 0;">
   \[
-  \begin{aligned}
-  2x + y - z &= 6 \\
-  4x - y + 3z &= 15 \\
-  -2x + 5y + z &= 1
-  \end{aligned}
+  2x + y - z = 6
+  \]
+  \[
+  4x - y + 3z = 15
+  \]
+  \[
+  -2x + 5y + z = 1
   \]
 </div>
-
 
 
 
