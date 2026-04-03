@@ -75,7 +75,7 @@ This page contains guidance, reminders, and practice questions for the upcoming 
 
 
 <p>
-   2. (a)</strong> Find condition(s), if they exist, on <em>a</em> and <em>b</em> under which the system has
+   2. (a) Find condition(s), if they exist, on <em>a</em> and <em>b</em> under which the system has
  </p>
 
 
