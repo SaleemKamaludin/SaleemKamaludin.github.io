@@ -115,7 +115,7 @@ This page contains guidance, reminders, and practice questions for the upcoming 
 
 
 
- <strong>3. (a)</strong>
+ <strong>3</strong>
     Determine the values of <em>&theta;</em>, if any, for which the matrix
   </p>
 
