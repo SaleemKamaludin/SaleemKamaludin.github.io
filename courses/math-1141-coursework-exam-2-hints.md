@@ -120,7 +120,15 @@ This page contains guidance, reminders, and practice questions for the upcoming 
   </p>
 
 
-
+<div style="text-align: center; margin: 1.5rem 0;">
+    \[
+    A=
+    \begin{bmatrix}
+    \cos\theta & 0\\
+    0 & 1
+    \end{bmatrix}
+    \]
+  </div>
 
 
 
