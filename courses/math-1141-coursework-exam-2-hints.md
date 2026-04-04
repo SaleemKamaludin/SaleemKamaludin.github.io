@@ -104,3 +104,32 @@ This page contains guidance, reminders, and practice questions for the upcoming 
   </div>
 
 
+
+
+
+
+
+
+
+
+
+
+
+ <strong>3. (a)</strong>
+    Determine the values of <em>&theta;</em>, if any, for which the matrix
+  </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
