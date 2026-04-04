@@ -118,9 +118,9 @@ This page contains guidance, reminders, and practice questions for the upcoming 
 
 
 
- <strong>3</strong>
+ <strong>3.</strong>
     Determine the values of <em>&theta;</em>, if any, for which the matrix
-  </p>
+ 
 
 
 <div style="text-align: center; margin: 1.5rem 0;">
@@ -133,7 +133,7 @@ This page contains guidance, reminders, and practice questions for the upcoming 
     \]
   </div>
 
-<p style="font-size: 1.35rem; line-height: 1.75; margin-top: 1rem;">
+<p style="font-size: 1.0rem; line-height: 1.75; margin-top: 1rem;">
     is orthogonal.
 
 
