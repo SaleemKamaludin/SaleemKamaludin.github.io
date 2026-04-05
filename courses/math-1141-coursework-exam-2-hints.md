@@ -139,9 +139,14 @@ This page contains guidance, reminders, and practice questions for the upcoming 
 
 
 
+<br>
+<hr style="border: none; border-top: 1px solid #e5e7eb; margin: 2rem 0;">
+<br>
+
+
 
 <div style="margin: 2rem 0;">
-  <p style="font-size: 1.35rem; line-height: 1.75; margin-bottom: 1rem;">
+  <p style="font-size: 1.rem; line-height: 1.75; margin-bottom: 1rem;">
 
 <strong>4.</strong>
   </p>
