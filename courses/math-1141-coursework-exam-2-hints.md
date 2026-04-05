@@ -147,5 +147,6 @@ This page contains guidance, reminders, and practice questions for the upcoming 
   </p>
 <p style="font-size: 1.35rem; line-height: 1.75; margin-left: 2rem;">
     i. <span style="margin-left: 0.5rem;">(4 marks)</span>
-
+ Use De Moivre’s theorem to solve the equation
+  </p>
 
