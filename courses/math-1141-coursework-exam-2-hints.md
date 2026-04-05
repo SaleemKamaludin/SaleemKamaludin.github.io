@@ -149,4 +149,8 @@ This page contains guidance, reminders, and practice questions for the upcoming 
     i. <span style="margin-left: 0.5rem;">(4 marks)</span>
  Use De Moivre’s theorem to solve the equation
   </p>
-
+<div style="text-align: center; margin: 1.5rem 0;">
+    \[
+    z^3 = -8
+    \]
+  </div>
