@@ -154,3 +154,7 @@ This page contains guidance, reminders, and practice questions for the upcoming 
     z^3 = -8
     \]
   </div>
+
+
+
+   <p style="font-size: 1.35rem; line-height: 1.75; margin-left: 2rem;">
