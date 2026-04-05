@@ -150,7 +150,7 @@ This page contains guidance, reminders, and practice questions for the upcoming 
 
 <strong>4.</strong>
   </p>
-<p style="font-size: 1.35rem; line-height: 1.75; margin-left: 2rem;">
+<p style="font-size: 1rem; line-height: 1.75; margin-left: 2rem;">
     i. <span style="margin-left: 0.5rem;">(4 marks)</span>
  Use De Moivre’s theorem to solve the equation
   </p>
@@ -162,7 +162,7 @@ This page contains guidance, reminders, and practice questions for the upcoming 
 
 
 
-   <p style="font-size: 1.35rem; line-height: 1.75; margin-left: 2rem;">
+   <p style="font-size: 1rem; line-height: 1.75; margin-left: 2rem;">
  ii. <span style="margin-left: 0.5rem;">(2 marks)</span>
     Represent the roots on an Argand diagram.
   </p>
