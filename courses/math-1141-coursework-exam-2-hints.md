@@ -148,10 +148,10 @@ This page contains guidance, reminders, and practice questions for the upcoming 
 <div style="margin: 2rem 0;">
   <p style="font-size: 1.rem; line-height: 1.75; margin-bottom: 1rem;">
 
-<strong>4.</strong>
+
   </p>
 <p style="font-size: 1rem; line-height: 1.75; margin-left: 2rem;">
-    i. <span style="margin-left: 0.5rem;">(4 marks)</span>
+ <strong>4.</strong>   i. <span style="margin-left: 0.5rem;">(4 marks)</span>
  Use De Moivre’s theorem to solve the equation
   </p>
 <div style="text-align: center; margin: 1.5rem 0;">
