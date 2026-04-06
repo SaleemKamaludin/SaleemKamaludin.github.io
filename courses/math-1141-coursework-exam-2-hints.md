@@ -27,7 +27,9 @@ permalink: /courses/math-1141-coursework-exam-2-hints/
 
 # MATH 1141 Coursework Exam 2 Hints
 
-This page contains some practice questions for the upcoming Coursework Exam 2.
+This page contains some practice questions for the upcoming Coursework Exam 2. <p style="color: red;">
+  These questions are provided solely for practice purposes and are not intended to suggest that the examination questions will follow the same format or style.
+</p>
 
 ## What to focus on
 - Row reduction and consistency of systems
