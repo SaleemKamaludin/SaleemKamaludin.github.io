@@ -143,11 +143,11 @@ This page contains some practice questions for the upcoming Coursework Exam 2.
 <hr style="border: none; border-top: 1px solid #e5e7eb; margin: 2rem 0;">
 <br>
 
-<div style="margin: 2rem 0; font-size: 1rem; line-height: 1.75;">
-  <p style="margin-left: 2rem; margin-bottom: 1rem;">
+
+
     <strong>4.</strong> i. <span style="margin-left: 0.5rem;">(4 marks)</span>
     Use De Moivre’s theorem to solve the equation
-  </p>
+  
 
   <div style="text-align: center; margin: 1.5rem 0;">
     \[
@@ -169,4 +169,4 @@ This page contains some practice questions for the upcoming Coursework Exam 2.
     iv. <span style="margin-left: 0.5rem;">(2 marks)</span>
     Find the product of the roots.
   </p>
-</div>
+
