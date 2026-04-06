@@ -173,3 +173,6 @@ This page contains guidance, reminders, and practice questions for the upcoming 
   </p>
   <p style="font-size: 1.35rem; line-height: 1.75; margin-left: 2rem;">
     iv. <span style="margin-left: 0.5rem;">(2 marks)</span>
+ Find the product of the roots.
+  </p>
+</div>
