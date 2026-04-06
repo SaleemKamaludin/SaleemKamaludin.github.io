@@ -1,3 +1,21 @@
+
+
+
+
+
+
+
+
+
+
+
+---
+layout: default
+title: MATH 1141 Coursework Exam 2 Hints
+permalink: /courses/math-1141-coursework-exam-2-hints/
+---
+
+
 <script>
   window.MathJax = {
     tex: {
@@ -17,18 +35,6 @@
 
 
 
-
-
-
-
-
-
-
----
-layout: default
-title: MATH 1141 Coursework Exam 2 Hints
-permalink: /courses/math-1141-coursework-exam-2-hints/
----
 
 # MATH 1141 Coursework Exam 2 Hints
 
