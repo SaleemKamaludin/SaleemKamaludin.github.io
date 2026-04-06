@@ -143,9 +143,8 @@ This page contains guidance, reminders, and practice questions for the upcoming 
 <hr style="border: none; border-top: 1px solid #e5e7eb; margin: 2rem 0;">
 <br>
 
-
-<div style="margin: 2rem 0; font-size: 1.35rem; line-height: 1.75;">
-  <p style="margin-left: 2rem;">
+<div style="margin: 2rem 0; font-size: 1rem; line-height: 1.75;">
+  <p style="margin-left: 2rem; margin-bottom: 1rem;">
     <strong>4.</strong> i. <span style="margin-left: 0.5rem;">(4 marks)</span>
     Use De Moivre’s theorem to solve the equation
   </p>
@@ -156,17 +155,17 @@ This page contains guidance, reminders, and practice questions for the upcoming 
     \]
   </div>
 
-  <p style="margin-left: 2rem;">
+  <p style="margin-left: 2rem; margin-bottom: 1rem;">
     ii. <span style="margin-left: 0.5rem;">(2 marks)</span>
     Represent the roots on an Argand diagram.
   </p>
 
-  <p style="margin-left: 2rem;">
+  <p style="margin-left: 2rem; margin-bottom: 1rem;">
     iii. <span style="margin-left: 0.5rem;">(2 marks)</span>
     Find by direct calculation the sum of the roots.
   </p>
 
-  <p style="margin-left: 2rem;">
+  <p style="margin-left: 2rem; margin-bottom: 0;">
     iv. <span style="margin-left: 0.5rem;">(2 marks)</span>
     Find the product of the roots.
   </p>
