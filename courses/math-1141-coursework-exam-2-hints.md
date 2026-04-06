@@ -172,3 +172,4 @@ This page contains guidance, reminders, and practice questions for the upcoming 
  Find by direct calculation the sum of the roots.
   </p>
   <p style="font-size: 1.35rem; line-height: 1.75; margin-left: 2rem;">
+    iv. <span style="margin-left: 0.5rem;">(2 marks)</span>
