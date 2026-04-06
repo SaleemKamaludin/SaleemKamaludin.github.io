@@ -39,7 +39,8 @@ This page contains some practice questions for the upcoming Coursework Exam 2.
 - Careful algebraic manipulation
 - Locus will not be tested
 - De Moivre's theorem, finding the sum and products of roots.
-- Expressing <span>sin&nbsp;θ</span>,  and <span>cos&nbsp;θ</span> in terms of mutiple angles. 
+- Expressing <span>sin&nbsp;θ</span>,  and <span>cos&nbsp;θ</span> in terms of mutiple angles.
+- In addition, questions may draw upon any other pertinent theories or concepts addressed within the course notes and assignments etc
 
 <br>
 <hr style="border: none; border-top: 1px solid #e5e7eb; margin: 2rem 0;">
