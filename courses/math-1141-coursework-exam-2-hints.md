@@ -36,7 +36,9 @@ This page contains some practice questions for the upcoming Coursework Exam 2. <
 - Interpreting pivots and free variables
 - Matrix equations and solution structure
 - Careful algebraic manipulation
-
+- Locus will not be tested
+- De Moivre's theorem, finding the sum and products of roots.
+- Expressing sin and cos in terms of mutiple angles. 
 
 <br>
 <hr style="border: none; border-top: 1px solid #e5e7eb; margin: 2rem 0;">
