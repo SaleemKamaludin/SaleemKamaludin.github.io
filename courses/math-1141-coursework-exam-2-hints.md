@@ -144,35 +144,30 @@ This page contains guidance, reminders, and practice questions for the upcoming 
 <br>
 
 
-
-<div style="margin: 2rem 0;">
-  <p style="font-size: 1.rem; line-height: 1.75; margin-bottom: 1rem;">
-
-
+<div style="margin: 2rem 0; font-size: 1.35rem; line-height: 1.75;">
+  <p style="margin-left: 2rem;">
+    <strong>4.</strong> i. <span style="margin-left: 0.5rem;">(4 marks)</span>
+    Use De Moivre’s theorem to solve the equation
   </p>
-<p style="font-size: 1rem; line-height: 1.75; margin-left: 2rem;">
- <strong>4.</strong>   i. <span style="margin-left: 0.5rem;">(4 marks)</span>
- Use De Moivre’s theorem to solve the equation
-  </p>
-<div style="text-align: center; margin: 1.5rem 0;">
+
+  <div style="text-align: center; margin: 1.5rem 0;">
     \[
     z^3 = -8
     \]
   </div>
 
-
-
-   <p style="font-size: 1rem; line-height: 1.75; margin-left: 2rem;">
- ii. <span style="margin-left: 0.5rem;">(2 marks)</span>
+  <p style="margin-left: 2rem;">
+    ii. <span style="margin-left: 0.5rem;">(2 marks)</span>
     Represent the roots on an Argand diagram.
   </p>
 
-    <p style="font-size: 1.35rem; line-height: 1.75; margin-left: 2rem;">
+  <p style="margin-left: 2rem;">
     iii. <span style="margin-left: 0.5rem;">(2 marks)</span>
- Find by direct calculation the sum of the roots.
+    Find by direct calculation the sum of the roots.
   </p>
-  <p style="font-size: 1.35rem; line-height: 1.75; margin-left: 2rem;">
+
+  <p style="margin-left: 2rem;">
     iv. <span style="margin-left: 0.5rem;">(2 marks)</span>
- Find the product of the roots.
+    Find the product of the roots.
   </p>
 </div>
