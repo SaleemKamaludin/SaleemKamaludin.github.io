@@ -166,3 +166,6 @@ This page contains guidance, reminders, and practice questions for the upcoming 
  ii. <span style="margin-left: 0.5rem;">(2 marks)</span>
     Represent the roots on an Argand diagram.
   </p>
+
+    <p style="font-size: 1.35rem; line-height: 1.75; margin-left: 2rem;">
+    iii. <span style="margin-left: 0.5rem;">(2 marks)</span>
