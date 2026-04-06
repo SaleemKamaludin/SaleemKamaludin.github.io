@@ -8,7 +8,13 @@ title: Home
      alt="Saleem Kamaludin"
      style="float:right; margin:0 0 1rem 1rem; max-width:200px; border:1px solid #ccc; padding:3px; border-radius:4px;">
 
-I am **Saleem Kamaludin**, a mathematician and lecturer with interests in **algebraic topology**,  **discrete mathematics**, **graph theory**, and **combinatorial analysis**.
+
+<p>
+  I am <strong>Saleem Kamaludin</strong>, a mathematician and lecturer whose work lies at the intersection of 
+  <strong>algebraic topology</strong> and <strong>discrete mathematics</strong>. My research interests encompass 
+  cohomology, homotopy theory, and homological methods, alongside <strong>graph theory</strong> and 
+  <strong>combinatorial analysis</strong>.
+</p>
 
 This site serves as a hub for:
 - **[About]({{ '/about/' | relative_url }})** — background and research interests  
