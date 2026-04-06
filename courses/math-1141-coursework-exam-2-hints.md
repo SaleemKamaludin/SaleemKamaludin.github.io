@@ -28,8 +28,8 @@ permalink: /courses/math-1141-coursework-exam-2-hints/
 # MATH 1141 Coursework Exam 2 Hints
 
 This page contains some practice questions for the upcoming Coursework Exam 2. 
-<p style="color: red;">
-  These questions are provided solely for practice purposes and are not intended to suggest that the examination questions will follow the same format or style.
+<p style="color: #b91c1c; font-weight: 600; margin: 1rem 0 1.5rem 0;">
+  These questions are provided solely for practice and guidance. They are intended to illustrate the style of reasoning and preparation expected, but they should not be taken as an indication that the questions on the examination will follow the same form or appearance.
 </p>
 
 ## What to focus on
