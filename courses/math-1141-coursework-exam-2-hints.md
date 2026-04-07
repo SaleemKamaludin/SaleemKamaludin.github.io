@@ -188,3 +188,4 @@ This page contains some practice questions for the upcoming Coursework Exam 2.
 <div style="margin: 2rem 0; font-size: 1.05rem; line-height: 1.75;">
   <p style="margin-bottom: 1rem;">
     <strong>5.(5 marks)</strong>
+    Express \(2^{3}\cos^{2}\theta\sin^{3}\theta\) as a formula in terms of sines or cosines of multiples of the angle \(\theta\).
