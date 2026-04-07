@@ -176,3 +176,9 @@ This page contains some practice questions for the upcoming Coursework Exam 2.
     Find the product of the roots.
   </p>
 
+
+
+
+<div style="margin: 2rem 0; font-size: 1.05rem; line-height: 1.75;">
+
+
