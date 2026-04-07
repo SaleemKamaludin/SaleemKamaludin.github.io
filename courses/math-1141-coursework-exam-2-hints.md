@@ -187,4 +187,4 @@ This page contains some practice questions for the upcoming Coursework Exam 2.
 
 <div style="margin: 2rem 0; font-size: 1.05rem; line-height: 1.75;">
   <p style="margin-bottom: 1rem;">
-
+    <strong>5.(5 marks)</strong>
