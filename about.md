@@ -27,7 +27,7 @@ My goal is to create learning environments where students not only master techni
 ---
 
 ## Beyond Academia
-Outside of formal teaching and research, I design **educational materials, worked solutions, and guided notes** to help students bridge the gap between classroom theory and practical applications.  
+Outside of formal teaching and research, I design educational materials, worked solutions, and guided notes** to help students bridge the gap between classroom theory and practical applications.  
 
 ---
 
