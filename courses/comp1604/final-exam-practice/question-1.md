@@ -12,10 +12,11 @@ title: Final Exam Practice Question 1
 <h2>Question</h2>
 
 
-<!--
+
 <p>
 Let <strong>p</strong>: “The system is updated”, &nbsp;
 <strong>q</strong>: “The software runs smoothly”, &nbsp;
 <strong>r</strong>: “Errors occur”.
 </p>
--->
+
+<p>Express each of the following statements symbolically.</p>
