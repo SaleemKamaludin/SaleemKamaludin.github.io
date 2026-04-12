@@ -12,4 +12,4 @@ title: Final Exam Practice Question 1
 <h2>Question</h2>
 
 <p>
-
+Let <strong>p</strong>: “The system is updated”, &nbsp;
