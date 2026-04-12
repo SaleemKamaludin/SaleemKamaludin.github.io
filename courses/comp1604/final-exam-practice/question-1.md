@@ -20,3 +20,5 @@ Let <strong>p</strong>: “The system is updated”, &nbsp;
 </p>
 
 <p>Express each of the following statements symbolically.</p>
+
+<ol type="i">
