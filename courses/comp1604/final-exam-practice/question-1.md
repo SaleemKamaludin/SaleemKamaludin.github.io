@@ -12,7 +12,7 @@ title: Final Exam Practice Question 1
 <h2>Question</h2>
 
 
-<!--
+<!-- -->
 <p>
 Let <strong>p</strong>: “The system is updated”, &nbsp;
 <strong>q</strong>: “The software runs smoothly”, &nbsp;
@@ -26,4 +26,5 @@ Let <strong>p</strong>: “The system is updated”, &nbsp;
     If the system is updated, then the software runs smoothly.
     <span style="float: right;">[1]</span>
   </li>
--->
+
+ <li>
