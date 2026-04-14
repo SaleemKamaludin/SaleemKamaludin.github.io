@@ -28,4 +28,5 @@ Let <strong>p</strong>: “The system is updated”, &nbsp;
   </li>
 
  <li>
+       The system is updated and the software does not run smoothly.
     <span style="float: right;">[1]</span>
