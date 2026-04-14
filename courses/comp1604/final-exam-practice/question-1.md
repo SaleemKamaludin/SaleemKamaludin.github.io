@@ -28,3 +28,4 @@ Let <strong>p</strong>: “The system is updated”, &nbsp;
   </li>
 
  <li>
+    <span style="float: right;">[1]</span>
