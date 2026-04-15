@@ -42,6 +42,7 @@ Let <strong>p</strong>: “The system is updated”, &nbsp;
   </li>
 
 <li>
+    If the system is not updated, then errors occur.
 
   
 
