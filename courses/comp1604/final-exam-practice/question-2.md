@@ -12,4 +12,5 @@ title: Final Exam Practice Question 2
 <div class="question-block">
   <p>For each of the following arguments:</p>
   <ol type="i">
+    <li>Write the argument in symbolic form.</li>
 
