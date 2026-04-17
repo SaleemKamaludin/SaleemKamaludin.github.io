@@ -10,4 +10,5 @@ title: Final Exam Practice Question 2
 ## Question 2
 
 <div class="question-block">
+  <p>For each of the following arguments:</p>
 
