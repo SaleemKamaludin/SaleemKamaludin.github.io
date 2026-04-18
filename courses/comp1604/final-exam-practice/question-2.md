@@ -15,5 +15,6 @@ title: Final Exam Practice Question 2
   <p>For each of the following arguments:</p>
   <ol type="i">
     <li>Write the argument in symbolic form.</li>
+    <li>Determine whether each argument form is valid or invalid.</li>
 
 -->
