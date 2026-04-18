@@ -19,4 +19,7 @@ title: Final Exam Practice Question 2
  <li>If valid, name the rule of inference used.If invalid, state the type of error.</li>
   </ol>
 
+    <ol type="a">
+
+
 -->
