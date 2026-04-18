@@ -16,5 +16,7 @@ title: Final Exam Practice Question 2
   <ol type="i">
     <li>Write the argument in symbolic form.</li>
     <li>Determine whether each argument form is valid or invalid.</li>
- <li>If valid, name the rule of inference used.
+ <li>If valid, name the rule of inference used.If invalid, state the type of error.</li>
+  </ol>
+
 -->
