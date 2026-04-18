@@ -10,7 +10,7 @@ title: Final Exam Practice Question 2
 ## Question 2
 
 
-<!--
+<!-- -->
 <div class="question-block">
   <p>For each of the following arguments:</p>
   <ol type="i">
@@ -23,4 +23,4 @@ title: Final Exam Practice Question 2
  <li>
       <p>If a number is a multiple of 4, then it is even.<br>
 
--->
+
