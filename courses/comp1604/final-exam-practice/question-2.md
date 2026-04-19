@@ -22,5 +22,7 @@ title: Final Exam Practice Question 2
     <ol type="a">
  <li>
       <p>If a number is a multiple of 4, then it is even.<br>
+            20 is a multiple of 4.<br>
+
 
 -->
