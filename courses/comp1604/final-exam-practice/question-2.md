@@ -26,6 +26,7 @@ title: Final Exam Practice Question 2
       Therefore, 20 is even.</p>
     </li>
     <li>
+      <p>If a person studies regularly, then they perform well on exams.<br>
 
 
 -->
