@@ -10,7 +10,7 @@ title: Final Exam Practice Question 2
 ## Question 2
 
 
-<!-- 
+<!--  -->
 <div class="question-block">
   <p>For each of the following arguments:</p>
   <ol type="i">
@@ -31,6 +31,8 @@ title: Final Exam Practice Question 2
       Therefore, Jordan does not perform well on exams.</p>
   </li>
     <li>
- -->
+          <p>If a number is divisible by 10, then it is divisible by 5.<br>
+
+
 
 
