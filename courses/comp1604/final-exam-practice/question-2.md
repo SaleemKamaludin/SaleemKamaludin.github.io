@@ -35,6 +35,7 @@ title: Final Exam Practice Question 2
       If a number is divisible by 5, then it is divisible by 1.<br>
       Therefore, if a number is divisible by 10, then it is divisible by 1.</p>
     </li>
+  </ol>
 
 
 
