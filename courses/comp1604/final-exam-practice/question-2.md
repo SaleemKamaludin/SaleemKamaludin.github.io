@@ -28,6 +28,7 @@ title: Final Exam Practice Question 2
     <li>
       <p>If a person studies regularly, then they perform well on exams.<br>
             Jordan does not study regularly.<br>
+      Therefore, Jordan does not perform well on exams.</p>
 
 
 
