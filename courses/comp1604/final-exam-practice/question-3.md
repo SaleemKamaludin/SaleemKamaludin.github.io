@@ -9,7 +9,6 @@ title: Final Exam Practice Question 3
 
 ## Question 3
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
