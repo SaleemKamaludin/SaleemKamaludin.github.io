@@ -10,7 +10,7 @@ title: Final Exam Practice Question 3
 ## Question 3
 
 
-<!--
+<!-- -->
 
 <html lang="en">
 <head>
@@ -71,4 +71,4 @@ title: Final Exam Practice Question 3
 </html>
 
 
--->
+
