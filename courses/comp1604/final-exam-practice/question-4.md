@@ -11,7 +11,7 @@ title: Final Exam Practice Question 4
 
 
 <section style="margin: 2rem 0; font-family: Arial, Helvetica, sans-serif; line-height: 1.6; color: #222;">
-  <div style="font-weight: 700; font-size: 1.1rem; margin-bottom: 1rem;">Question</div>
+<!--  <div style="font-weight: 700; font-size: 1.1rem; margin-bottom: 1rem;">Question</div> -->
 
   <ol style="margin: 0; padding-left: 0; list-style: none; counter-reset: part;">
     <li style="margin-bottom: 1rem;">
