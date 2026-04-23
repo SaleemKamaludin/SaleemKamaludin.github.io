@@ -31,6 +31,7 @@ title: Final Exam Practice Question 5
       <span style="font-weight: 600;">(b)</span>
       <span style="margin-left: 0.4rem;">
         Determine the number of integers from <em>10</em> to <em>99</em> that must be picked to ensure that at least one of them is divisible by <em>6</em>. Justify your answer.
+                <span style="float: right; margin-left: 1rem;">[5]</span>
       </span>
     </li>
 
