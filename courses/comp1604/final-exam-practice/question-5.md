@@ -47,6 +47,7 @@ title: Final Exam Practice Question 5
 
   <div style="margin-top: 0.6rem;">
     Determine the number of such identifiers.
+                    <span style="float: right; margin-left: 1rem;">[5]</span>
   </div>
 </li>
 
