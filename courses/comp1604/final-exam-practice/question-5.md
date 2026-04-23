@@ -35,6 +35,21 @@ title: Final Exam Practice Question 5
       </span>
     </li>
 
+<li style="margin-bottom: 1rem; clear: both;">
+  <span style="font-weight: 600;">(c)</span>
+  <span style="margin-left: 0.4rem;">
+    UWI Computer Science students are generating six-character identifiers using the letters of the word <strong>JUJUTSU</strong>. Each identifier is formed by selecting six of the letters and arranging them in a row, with no letter used more times than it appears in the word.
+  </span>
+
+  <div style="margin-top: 0.6rem;">
+    For a Jujutsu Kaisen themed event, the first two characters of the identifier must be <strong>JU</strong>.
+  </div>
+
+  <div style="margin-top: 0.6rem;">
+    Determine the number of such identifiers.
+  </div>
+</li>
+
   </ol>
 
 </section>
