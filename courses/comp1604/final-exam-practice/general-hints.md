@@ -5,6 +5,10 @@ permalink: /courses/comp1604/final-exam-practice/general-hints/
 ---
 
 
+<div style="margin: 1rem 0;">
+  <a class="btn" href="{{ '/courses/comp1604/final-exam-practice/' | relative_url }}">← Back to Practice Questions</a>
+</div>
+
 <h1>General Exam Hints</h1>
 
 
