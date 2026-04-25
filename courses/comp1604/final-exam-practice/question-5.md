@@ -5,10 +5,10 @@ title: Final Exam Practice Question 5
 
 # Final Exam Practice Question 5
 
-  <!--
 
 [← Back to Practice Questions](/courses/comp1604/final-exam-practice/)
 
+  <!--
 ## Question 5
 
 <section style="margin: 2rem 0; font-family: Arial, Helvetica, sans-serif; line-height: 1.6; color: #222;">
@@ -37,6 +37,12 @@ title: Final Exam Practice Question 5
       </span>
     </li>
 
+
+-->
+
+
+<!--
+
 <li style="margin-bottom: 1rem; clear: both;">
   <span style="font-weight: 600;">(c)</span>
   <span style="margin-left: 0.4rem;">
@@ -56,4 +62,5 @@ title: Final Exam Practice Question 5
   </ol>
 
 </section>
+
 -->
