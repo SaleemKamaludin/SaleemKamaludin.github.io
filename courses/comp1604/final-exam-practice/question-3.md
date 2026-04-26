@@ -7,7 +7,7 @@ title: Final Exam Practice Question 3
 
 [← Back to Practice Questions](/courses/comp1604/final-exam-practice/)
 
-<!-- ## Question 3
+<!-- ## Question 3 -->
 
 
 <!--
