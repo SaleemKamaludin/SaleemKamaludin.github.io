@@ -21,7 +21,7 @@ Here you'll find organized links to course notes and resources. This hub will ex
     
 ---
 
-## 🔷 Pure Mathematics
+## 🔷 Mathematics Courses
 
 - [Calculus I]({% link courses/calculus1.md %}) — Limits, derivatives, integrals, and applications  
 - [Calculus II]({% link courses/calculus2.md %}) — Integration techniques, series, polar coordinates, parametric curves  
