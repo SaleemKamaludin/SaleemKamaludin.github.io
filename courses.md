@@ -9,10 +9,6 @@ permalink: /courses/
 Welcome to the **Courses Hub**.  
 Here you'll find organized links to course notes and resources. This hub will expand as new materials are added.
 
----
-## Elementary Mathematics 
-
----
 
 ## 🔷 Mathematics Courses
 
