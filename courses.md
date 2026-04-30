@@ -18,6 +18,10 @@ Here you'll find organized links to course notes and resources. This hub will ex
 - [Linear Algebra]({% link courses/linear-algebra.md %}) — Systems, determinants, eigenvalues, transformations.  
 - [Advanced Topics in Linear Algebra]({% link courses/advanced-linear-algebra.md %}) — Canonical forms, Jordan decomposition, applications. 
 - [Number Theory]({% link courses/number-theory.md %}) — Divisibility, congruences, Diophantine equations, arithmetic functions.
+- [Sets and Number Systems]({% link courses/sets-number-systems.md %}) — Logic, sets, binary operations and induction.
+- [Abstract Algebra I]({% link courses/abstract-algebra-1.md %}) — Groups, subgroups, cosets, Lagrange’s theorem. A basic intoruduction to rings.
+- [Abstract Algebra II]({% link courses/abstract-algebra-2.md %}) — Rings, fields, ideals, polynomial factorization, Galois Theory and Sylow Theorems.
+- [Combinatorics]({% link courses/combinatorics.md %}) — Counting principles, permutations, combinations, graph‑based methods
 
 ---
 
@@ -37,10 +41,6 @@ Here you'll find organized links to course notes and resources. This hub will ex
   - [Coursework & Exam Solutions]({{ '/courses/math-1115/coursework-exam-solutions/' | relative_url }})
   - [Video Lectures (YouTube)]({{ '/courses/math-1115/videos/' | relative_url }})
     
-- [Sets and Number Systems]({% link courses/sets-number-systems.md %}) — Logic, sets, binary operations and induction.
-- [Abstract Algebra I]({% link courses/abstract-algebra-1.md %}) — Groups, subgroups, cosets, Lagrange’s theorem. A basic intoruduction to rings.
-- [Abstract Algebra II]({% link courses/abstract-algebra-2.md %}) — Rings, fields, ideals, polynomial factorization, Galois Theory and Sylow Theorems.
-- [Combinatorics]({% link courses/combinatorics.md %}) — Counting principles, permutations, combinations, graph‑based methods
 
 ---
 
