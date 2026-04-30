@@ -23,8 +23,6 @@ Here you'll find organized links to course notes and resources. This hub will ex
 
 ## 🔷 Pure Mathematics
 
-- [CAPE Pure Mathematics Unit 1](/courses/)  
-- [CAPE Pure Mathematics Unit 2](/courses/)  
 - [Calculus I]({% link courses/calculus1.md %}) — Limits, derivatives, integrals, and applications  
 - [Calculus II]({% link courses/calculus2.md %}) — Integration techniques, series, polar coordinates, parametric curves  
 - [Introduction to Linear Algebra and Analytical Geometry]({% link courses/intro-linear-geometry.md %}) — Vectors,(points line and planes),  matrix methods, and complex numbers. 
