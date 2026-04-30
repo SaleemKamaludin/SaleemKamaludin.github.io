@@ -12,13 +12,6 @@ Here you'll find organized links to course notes and resources. This hub will ex
 ---
 ## Elementary Mathematics 
 
-- **MATH 1115 — Foundations of Mathematics**
-  - [Course hub]({{ '/courses/math-1115/' | relative_url }})
-  - [Lecture Notes]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
-  - [Problem Paper Solutions]({{ '/courses/math-1115/problem-paper-solutions/' | relative_url }})
-  - [Coursework & Exam Solutions]({{ '/courses/math-1115/coursework-exam-solutions/' | relative_url }})
-  - [Video Lectures (YouTube)]({{ '/courses/math-1115/videos/' | relative_url }})
-    
 ---
 
 ## 🔷 Mathematics Courses
@@ -41,6 +34,13 @@ Here you'll find organized links to course notes and resources. This hub will ex
 
 ## 📚 Foundations of Mathematics
 
+- **MATH 1115 — Foundations of Mathematics**
+  - [Course hub]({{ '/courses/math-1115/' | relative_url }})
+  - [Lecture Notes]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
+  - [Problem Paper Solutions]({{ '/courses/math-1115/problem-paper-solutions/' | relative_url }})
+  - [Coursework & Exam Solutions]({{ '/courses/math-1115/coursework-exam-solutions/' | relative_url }})
+  - [Video Lectures (YouTube)]({{ '/courses/math-1115/videos/' | relative_url }})
+    
 - [Sets and Number Systems]({% link courses/sets-number-systems.md %}) — Logic, sets, binary operations and induction.
 - [Abstract Algebra I]({% link courses/abstract-algebra-1.md %}) — Groups, subgroups, cosets, Lagrange’s theorem. A basic intoruduction to rings.
 - [Abstract Algebra II]({% link courses/abstract-algebra-2.md %}) — Rings, fields, ideals, polynomial factorization, Galois Theory and Sylow Theorems.
