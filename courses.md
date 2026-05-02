@@ -28,7 +28,6 @@ Here you'll find organized links to course notes and resources. This hub will ex
 ## 💻 Computer Science
 
 - [COMP 1604]({{ '/courses/comp1604/' | relative_url }}) — Logic, sets, induction (weak & strong), equivalence classes, pigeonhole principle, elementary combinatorics.
-- [COMP 1604- Lecture notes]({{ '/courses/comp1604/lecture-notes/' | relative_url }})
 
 ---
 
