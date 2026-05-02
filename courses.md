@@ -47,8 +47,7 @@ Here you'll find organized links to course notes and resources. This hub will ex
 
 - <a href="{{ '/courses/graduate/functional-analysis/' | relative_url }}">Functional Analysis</a> — Normed/Hilbert spaces, bounded operators, spectral basics.
 - <a href="{{ '/courses/graduate/measure-theory/' | relative_url }}">Measure Theory</a> — σ-algebras, measures, Lebesgue integration, convergence theorems.
-- <a href="{{ '/courses/graduate/mathematical-modelling/' | relative_url }}">Mathematical Modelling</a> — Deterministic & stochastic models, optimization, simulation.
-
+- <a href="{{ '/courses/graduate/abstract-algebra/' | relative_url }}">Graduate Algebra</a> — Nilpotent and solvable groups, field extensions, algebraic closures, and Galois theory.
 
 
 ---
