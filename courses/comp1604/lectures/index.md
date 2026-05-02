@@ -8,7 +8,7 @@ permalink: /courses/comp1604/lectures/
 
 Use these links as we progress. PDFs render in-browser; downloads are allowed from the viewer.
 
-- **Topic 1:** Propositional Logic (PDF s
+- **Topic 1:** Propositional Logic (PDF 
 - **Topic 2:** Set Theory
 - **Topic 3:** Functions & Relations
 - **Topic 4:** Mathematical Induction
