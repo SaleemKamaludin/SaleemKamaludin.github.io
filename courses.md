@@ -15,7 +15,7 @@ Here you'll find organized links to course notes and resources. This hub will ex
 - [Calculus I]({% link courses/calculus1.md %}) — Limits, derivatives, integrals, and applications  
 - [Calculus II]({% link courses/calculus2.md %}) — Integration techniques, series, polar coordinates, parametric curves  
 - [Introduction to Linear Algebra and Analytical Geometry]({% link courses/intro-linear-geometry.md %}) — Vectors,(points line and planes),  matrix methods, and complex numbers. 
-- [Linear Algebra]({% link courses/linear-algebra.md %}) — Systems, determinants, eigenvalues, transformations.  
+- [Linear Algebra I]({% link courses/linear-algebra.md %}) — Systems, determinants, eigenvalues, transformations.  
 - [Advanced Topics in Linear Algebra]({% link courses/advanced-linear-algebra.md %}) — Canonical forms, Jordan decomposition, applications. 
 - [Number Theory]({% link courses/number-theory.md %}) — Divisibility, congruences, Diophantine equations, arithmetic functions.
 - [Sets and Number Systems]({% link courses/sets-number-systems.md %}) — Logic, sets, binary operations and induction.
