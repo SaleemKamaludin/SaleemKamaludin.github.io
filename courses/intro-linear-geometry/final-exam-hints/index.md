@@ -15,3 +15,4 @@ This page contains hints and guidance for the final examination.
 
 - [Assignment 0]({{ '/courses/intro-linear-geometry/final-exam-hints/assignment-0/' | relative_url }})
 - [Assignment 1]({{ '/courses/intro-linear-geometry/final-exam-hints/assignment-1/' | relative_url }})
+- [Assignment 2]({{ '/courses/intro-linear-geometry/final-exam-hints/assignment-2/' | relative_url }})
