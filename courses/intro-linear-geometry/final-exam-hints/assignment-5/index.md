@@ -28,7 +28,7 @@ A^T = A.
 $$
 
   - You should also be able to **find unknown values** in matrices using these properties.
-  - See **Coursework Exam 2 (G1)** and the **practice questions for G1**.
+  - See **Coursework Exam 2 (G1)** and the **practice questions for G1 (CW 2)**.
 
 ---
 
@@ -42,7 +42,7 @@ $$
 $$
 [I \mid A^{-1}].
 $$
-  - This is central to **Question 2**.
+  - See **Question 2**.
 
 - **Theory involving inverses**
   - Be comfortable with theoretical results involving inverses.
@@ -72,6 +72,4 @@ $$
 
 ---
 
-## Final Reminder
 
-Assignment 5 focuses heavily on both computation and theory. Make sure you understand the definitions of special matrices and can apply row reduction confidently to find inverses.
