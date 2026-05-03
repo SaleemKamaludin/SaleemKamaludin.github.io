@@ -85,6 +85,4 @@ $$
 
 ---
 
-## Final Reminder
 
-Assignment 3 brings together geometry and algebra. Focus on understanding how equations of lines and planes relate to vectors, and practise interpreting results geometrically.
