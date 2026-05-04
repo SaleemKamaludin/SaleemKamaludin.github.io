@@ -52,7 +52,7 @@ $$
     - Label the real and imaginary axes
     - Plot **all roots correctly**
     - Label each root explicitly (in exact form, e.g., surd or trigonometric form)
-  - Writing labels such as \(z_1, z_2, \dots\) alone is **not sufficient** and no marks will be given.
+  - Writing labels such as $z_1, z_2, \dots$ alone is **not sufficient** and no marks will be given.
 
 ---
 
