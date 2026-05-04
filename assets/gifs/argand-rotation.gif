@@ -1,0 +1,5 @@
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="{{ '/assets/gifs/argand-rotation.gif' | relative_url }}" 
+       alt="Argand Diagram Rotation" 
+       style="max-width: 500px; width: 100%;">
+</div>
