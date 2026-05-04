@@ -50,8 +50,8 @@ $$
 
 - **Separating real and imaginary parts**
   - After expanding using the binomial theorem:
-    - The **real part** corresponds to \(\cos(n\theta)\)
-    - The **imaginary part** corresponds to \(\sin(n\theta)\)
+    - The **real part** corresponds to $\cos(n\theta)$
+    - The **imaginary part** corresponds to $\sin(n\theta)$
 
   - You must clearly state:
     - Which terms are real
