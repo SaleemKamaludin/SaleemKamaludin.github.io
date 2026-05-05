@@ -28,7 +28,7 @@ Here you'll find organized links to course notes and resources. This hub will ex
 ## 💻 Computer Science
 
 - [COMP 1604]({{ '/courses/comp1604/' | relative_url }}) — Logic, sets, induction (weak & strong), equivalence classes, pigeonhole principle, elementary combinatorics.
-
+- [COMP 3602 — Theory of Computing](./theory-of-computing/) — Automata, formal languages, Turing machines, decidability, and complexity.
 ---
 
 ## 📚 Foundations of Mathematics
