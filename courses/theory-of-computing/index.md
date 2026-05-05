@@ -28,3 +28,17 @@ Topics include:
 - Complexity classes and computational limits  
 
 Students will develop an understanding of both the power and the limitations of computational systems, along with the theoretical tools needed to analyze complex problems.
+
+---
+
+## Topics Overview
+
+- Finite Automata  
+- Regular Expressions  
+- Context-Free Grammars  
+- Pushdown Automata  
+- Turing Machines  
+- Decidability  
+- Complexity Theory  
+
+---
