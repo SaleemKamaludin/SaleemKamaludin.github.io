@@ -29,7 +29,7 @@ Here you'll find organized links to course notes and resources. This hub will ex
 
 - [COMP 1604]({{ '/courses/comp1604/' | relative_url }}) — Logic, sets, induction (weak & strong), equivalence classes, pigeonhole principle, elementary combinatorics.
 - [COMP 3602](./theory-of-computing/) — Theory of Computing — Automata, formal languages, Turing machines, decidability, and complexity.
-  
+- [COMP 2601](./computer-architecture/) — Computer Architecture: digital logic, assembly, memory systems, and performance.
 ---
 
 ## 📚 Foundations of Mathematics
