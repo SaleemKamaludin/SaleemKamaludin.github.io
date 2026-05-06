@@ -25,3 +25,20 @@ Topics include:
 - Interfacing and communication  
 - Multiprocessing and alternative architectures  
 - Performance enhancements  
+
+The course emphasizes the hardware–software interface, with particular focus on how programmers can leverage system architecture to achieve efficient and high-performance code.
+
+---
+
+## Topics Overview
+
+- Digital Logic Fundamentals  
+- Data Representation  
+- Assembly Language Programming  
+- CPU Organization  
+- Memory Hierarchy  
+- Input/Output Systems  
+- Parallel and Multiprocessor Systems  
+- Performance Optimization  
+
+---
