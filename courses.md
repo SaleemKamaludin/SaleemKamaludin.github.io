@@ -7,7 +7,7 @@ permalink: /courses/
 # Courses
 
 Welcome to the **Courses Hub**.  
-Here you'll find organized links to course notes and resources. This hub will expand as new materials are added.
+Here you'll find organized links to course notes and resources. This will expand and change as the semester changes.
 
 
 ## 🔷 Mathematics Courses
