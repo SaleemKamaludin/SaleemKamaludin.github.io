@@ -4,7 +4,7 @@ title: Assignment 1 — Final Exam Hints
 permalink: /courses/intro-linear-geometry/final-exam-hints/assignment-1/
 ---
 
-# Assignment 1 — Final Exam Hints
+<!-- # Assignment 1 — Final Exam Hints
 
 ---
 
@@ -47,4 +47,4 @@ $$
 
 ## Final Reminder
 
-For Assignment 1, focus especially on vector projection and how dot products are used to describe geometric relationships between vectors.
+For Assignment 1, focus especially on vector projection and how dot products are used to describe geometric relationships between vectors. -->
