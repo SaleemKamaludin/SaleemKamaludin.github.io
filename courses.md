@@ -18,8 +18,8 @@ Here you'll find organized links to course notes and resources. This hub will ex
 - [Sets and Number Systems]({% link courses/sets-number-systems.md %}) — Logic, sets, binary operations and induction.
 - [Linear Algebra I]({% link courses/linear-algebra.md %}) — Systems, determinants, eigenvalues, transformations.
 - [Abstract Algebra I]({% link courses/abstract-algebra-1.md %}) — Groups, subgroups, cosets, Lagrange’s theorem. A basic intoruduction to rings.
-- [Number Theory]({% link courses/number-theory.md %}) — Divisibility, congruences, Diophantine equations, arithmetic functions.
 - [Abstract Algebra II]({% link courses/abstract-algebra-2.md %}) — Rings, fields, ideals, polynomial factorization, Galois Theory and Sylow Theorems.
+- [Number Theory]({% link courses/number-theory.md %}) — Divisibility, congruences, Diophantine equations, arithmetic functions.- 
 - [Combinatorics I]({% link courses/combinatorics.md %}) — Counting principles, permutations, combinations, graph‑based methods
 - [Advanced Topics in Linear Algebra]({% link courses/advanced-linear-algebra.md %}) — Canonical forms, Jordan decomposition, applications. 
 ---
