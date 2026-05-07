@@ -4,7 +4,7 @@ title: MATH 1141 — Final Exam Hints
 permalink: /courses/intro-linear-geometry/final-exam-hints/
 ---
 
-# MATH 1141 — Final Exam Hints
+<!-- # MATH 1141 — Final Exam Hints
 
 This page contains hints and guidance for the final examination.
 
@@ -23,3 +23,6 @@ This page contains hints and guidance for the final examination.
 - [Assignment 7]({{ '/courses/intro-linear-geometry/final-exam-hints/assignment-7/' | relative_url }})
 - [Assignment 8]({{ '/courses/intro-linear-geometry/final-exam-hints/assignment-8/' | relative_url }})
 - [Assignment 9]({{ '/courses/intro-linear-geometry/final-exam-hints/assignment-9/' | relative_url }})
+
+
+-->
