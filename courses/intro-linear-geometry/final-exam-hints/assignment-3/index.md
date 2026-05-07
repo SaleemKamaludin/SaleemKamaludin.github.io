@@ -4,7 +4,7 @@ title: Assignment 3 — Final Exam Hints
 permalink: /courses/intro-linear-geometry/final-exam-hints/assignment-3/
 ---
 
-# Assignment 3 — Final Exam Hints
+<!-- # Assignment 3 — Final Exam Hints
 
 ---
 
@@ -83,6 +83,6 @@ $$
 - Confusing which vectors to use when finding angles.
 - Mixing up formulas for line–line, plane–plane, and line–plane angles.
 
----
+--- -->
 
 
