@@ -4,7 +4,7 @@ title: Assignment 2 — Final Exam Hints
 permalink: /courses/intro-linear-geometry/final-exam-hints/assignment-2/
 ---
 
-# Assignment 2 — Final Exam Hints
+<!-- # Assignment 2 — Final Exam Hints
 
 ---
 
@@ -77,4 +77,4 @@ $$
 
 ## Final Reminder
 
-Assignment 2 is heavily tested. Focus on understanding how lines behave in 3D, how to classify them, and how to compute both distances and angles accurately.
+Assignment 2 is heavily tested. Focus on understanding how lines behave in 3D, how to classify them, and how to compute both distances and angles accurately. -->
