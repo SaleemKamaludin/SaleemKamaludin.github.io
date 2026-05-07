@@ -4,7 +4,7 @@ title: Assignment 0 — Final Exam Hints
 permalink: /courses/intro-linear-geometry/final-exam-hints/assignment-0/
 ---
 
-# Assignment 0 — Final Exam Hints
+<!-- # Assignment 0 — Final Exam Hints
 
 ---
 
@@ -70,4 +70,4 @@ $$
 
 ## Final Reminder
 
-For Assignment 0, focus especially on understanding how vectors are written, how the dot product is used, and how orthogonality and angles are connected.
+For Assignment 0, focus especially on understanding how vectors are written, how the dot product is used, and how orthogonality and angles are connected. -->
