@@ -4,7 +4,7 @@ title: Assignment 5 — Final Exam Hints
 permalink: /courses/intro-linear-geometry/final-exam-hints/assignment-5/
 ---
 
-# Assignment 5 — Final Exam Hints
+<!-- # Assignment 5 — Final Exam Hints
 
 ---
 
@@ -70,6 +70,8 @@ $$
 - Assuming a matrix has an inverse without checking conditions.
 - Misinterpreting theoretical questions about inverses.
 
----
+--- 
+
+-->
 
 
