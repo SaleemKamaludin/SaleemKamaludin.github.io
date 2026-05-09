@@ -4,7 +4,7 @@ title: Assignment 4 — Final Exam Hints
 permalink: /courses/intro-linear-geometry/final-exam-hints/assignment-4/
 ---
 
-# Assignment 4 — Final Exam Hints
+<!-- # Assignment 4 — Final Exam Hints
 
 ---
 
@@ -61,4 +61,4 @@ permalink: /courses/intro-linear-geometry/final-exam-hints/assignment-4/
 
 ## Final Reminder
 
-Assignment 4 is one of the most important for the exam. Focus on speed and accuracy in row reduction, and make sure you fully understand how to classify and solve systems of equations.
+Assignment 4 is one of the most important for the exam. Focus on speed and accuracy in row reduction, and make sure you fully understand how to classify and solve systems of equations. -->
