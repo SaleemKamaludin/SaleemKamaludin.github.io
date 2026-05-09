@@ -21,7 +21,7 @@ Here you'll find organized links to course notes and resources. This will expand
 - [Abstract Algebra II]({% link courses/abstract-algebra-2.md %}) — Rings, fields, ideals, polynomial factorization, Galois Theory and Sylow Theorems.
 - [Number Theory]({% link courses/number-theory.md %}) — Divisibility, congruences, Diophantine equations, arithmetic functions.- 
 - [Combinatorics I]({% link courses/combinatorics.md %}) — Counting principles, permutations, combinations, graph‑based methods
-- [Advanced Topics in Linear Algebra]({% link courses/advanced-linear-algebra.md %}) — Canonical forms, Jordan decomposition, applications. 
+- [Advanced Topics in Linear Algebra]({{ link courses/advanced-linear-algebra.md }}) — Canonical forms, Jordan decomposition, applications.
 ---
 
 ## 💻 Computer Science
