@@ -4,7 +4,7 @@ title: Assignment 6 — Final Exam Hints
 permalink: /courses/intro-linear-geometry/final-exam-hints/assignment-6/
 ---
 
-# Assignment 6 — Final Exam Hints
+<!-- # Assignment 6 — Final Exam Hints
 
 ---
 
@@ -65,3 +65,5 @@ $$
 - Forgetting that for orthogonal matrices, $A^{-1} = A^T$.
 
 ---
+
+-->
