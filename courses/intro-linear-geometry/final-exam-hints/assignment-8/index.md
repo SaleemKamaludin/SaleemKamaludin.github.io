@@ -4,6 +4,7 @@ title: Assignment 8 — Final Exam Hints
 permalink: /courses/intro-linear-geometry/final-exam-hints/assignment-8/
 ---
 <!--
+
 # Assignment 8 — Final Exam Hints
 
 ---
@@ -73,5 +74,4 @@ $$
 - Poor or incomplete Argand diagrams (missing labels or roots).
 
 ---
-
 -->
