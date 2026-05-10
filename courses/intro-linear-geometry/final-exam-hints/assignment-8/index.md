@@ -3,7 +3,7 @@ layout: default
 title: Assignment 8 — Final Exam Hints
 permalink: /courses/intro-linear-geometry/final-exam-hints/assignment-8/
 ---
-
+<!--
 # Assignment 8 — Final Exam Hints
 
 ---
@@ -74,3 +74,4 @@ $$
 
 ---
 
+-->
