@@ -3,7 +3,7 @@ layout: default
 title: Assignment 9 — Final Exam Hints
 permalink: /courses/intro-linear-geometry/final-exam-hints/assignment-9/
 ---
-
+<!--
 # Assignment 9 — Final Exam Hints
 
 ---
@@ -76,4 +76,4 @@ $$
 - Skipping steps in the expansion.
 
 ---
-
+-->
