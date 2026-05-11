@@ -6,3 +6,5 @@ title: MATH 3610 — Combinatorics II
 # MATH 3610 — Combinatorics II
 
 ---
+
+## Course Information
