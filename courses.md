@@ -22,8 +22,7 @@ Here you'll find organized links to course notes and resources. This will expand
 - [Number Theory]({% link courses/number-theory.md %}) — Divisibility, congruences, Diophantine equations, arithmetic functions.- 
 - [Combinatorics I]({% link courses/combinatorics.md %}) — Counting principles, permutations, combinations, graph‑based methods
 - [Advanced Topics in Linear Algebra]({{ link courses/advanced-linear-algebra.md }}) — Canonical forms, Jordan decomposition, applications.
-- <a href="{{ '/courses/combinatorics-ii/' | relative_url }}">MATH 3610 – Combinatorics II</a> — Advanced counting methods, generating functions, recurrence relations, partitions, inclusion–exclusion, and rook polynomials.
----
+- [MATH 3610 – Combinatorics II]({% link courses/combinatorics-ii/index.md %}) — Advanced counting methods, generating functions, recurrence relations, partitions, inclusion–exclusion, and rook polynomials.---
 
 ## 💻 Computer Science
 
