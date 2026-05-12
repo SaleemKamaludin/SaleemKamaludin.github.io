@@ -14,3 +14,4 @@ title: MATH 3610 — Combinatorics II
 **Level:** III  
 **Semester:** 2  
 **Credits:** 3  
+**Prerequisites:** MATH 2272 or MATH 2273  
