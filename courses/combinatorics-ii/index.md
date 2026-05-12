@@ -12,3 +12,4 @@ title: MATH 3610 — Combinatorics II
 **Course Code:** MATH 3610  
 **Course Title:** Combinatorics II  
 **Level:** III  
+**Semester:** 2  
