@@ -25,3 +25,5 @@ Topics include combinations and permutations of objects, the multinomial theorem
 The course also emphasizes how algebraic and analytic tools can be used to solve combinatorial problems, especially those involving restricted arrangements and recurrence-based counting.
 
 ---
+
+## Topics Overview
