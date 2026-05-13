@@ -23,3 +23,5 @@ title: MATH 3610 — Combinatorics II
 This course studies concrete problems involving finite collections of discrete objects. It builds on algebraic ideas and develops advanced techniques for counting, arranging, and analyzing discrete structures.
 Topics include combinations and permutations of objects, the multinomial theorem, redundant permutations and combinations, Bell numbers, Catalan numbers, recurrence relations, generating functions, integer partitions, Ferrers graphs, inclusion–exclusion, and rook polynomials.
 The course also emphasizes how algebraic and analytic tools can be used to solve combinatorial problems, especially those involving restricted arrangements and recurrence-based counting.
+
+---
