@@ -19,3 +19,5 @@ title: MATH 3610 — Combinatorics II
 ---
 
 ## Course Description
+
+This course studies concrete problems involving finite collections of discrete objects. It builds on algebraic ideas and develops advanced techniques for counting, arranging, and analyzing discrete structures.
