@@ -32,3 +32,4 @@ The course also emphasizes how algebraic and analytic tools can be used to solve
 - Multinomial theorem  
 - Redundant permutations and combinations  
 - Bell numbers and Catalan numbers  
+- Recurrence relations  
