@@ -27,3 +27,5 @@ The course also emphasizes how algebraic and analytic tools can be used to solve
 ---
 
 ## Topics Overview
+
+- Permutations and combinations  
