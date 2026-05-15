@@ -30,3 +30,4 @@ The course also emphasizes how algebraic and analytic tools can be used to solve
 
 - Permutations and combinations  
 - Multinomial theorem  
+- Redundant permutations and combinations  
