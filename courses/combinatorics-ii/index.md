@@ -36,4 +36,4 @@ The course also emphasizes how algebraic and analytic tools can be used to solve
 - Ordinary generating functions  
 - Integer partitions and Ferrers graphs  
 - Inclusion–exclusion principle  
-- Rook
+- Rook polynomials  
