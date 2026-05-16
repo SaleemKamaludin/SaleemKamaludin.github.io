@@ -34,4 +34,4 @@ The course also emphasizes how algebraic and analytic tools can be used to solve
 - Bell numbers and Catalan numbers  
 - Recurrence relations  
 - Ordinary generating functions  
-- Integer partitions
+- Integer partitions and Ferrers graphs  
