@@ -13,3 +13,5 @@ title: MATH 6170 — Advanced Discrete Mathematics (F-Polynomials of Graphs)
 **Course Title:** Advanced Discrete Mathematics (F-Polynomials of Graphs)  
 **Level:** Graduate / PhD
 **Credits:** 3
+
+---
