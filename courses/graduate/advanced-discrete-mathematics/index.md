@@ -19,3 +19,4 @@ title: MATH 6170 — Advanced Discrete Mathematics (F-Polynomials of Graphs)
 ## Course Description
 
 This graduate-level course explores advanced topics in discrete mathematics with particular emphasis on graph polynomials, enumerative combinatorics, recurrence relations, and generating functions.
+The course develops sophisticated counting techniques arising from algebraic and graph-theoretic structures and studies how polynomial invariants encode structural information about graphs. 
