@@ -53,7 +53,9 @@ Here you'll find organized links to course notes and resources. This will expand
 - <a href="{{ '/courses/graduate/measure-theory/' | relative_url }}">Measure Theory</a> — σ-algebras, measures, Lebesgue integration, convergence theorems.
 - <a href="{{ '/courses/graduate/abstract-algebra/' | relative_url }}">Graduate Algebra</a> — Nilpotent and solvable groups, field extensions, algebraic closures, and Galois theory.
 - <a href="{{ '/courses/graduate/topology/' | relative_url }}">Math 6620 – Topology</a> — Introduction to topology for graduate students: open and closed sets, continuity, compactness, connectedness, and metric spaces.
-- <a href 
+- <a href="{{ '/courses/graduate/advanced-discrete-mathematics/' | relative_url }}">MATH 6170 – Advanced Discrete Mathematics (F-Polynomials of Graphs)</a> — Generating functions, recurrence relations, graph polynomials, matching polynomials, circuit polynomials, and advanced enumerative combinatorics.
+
+  
 ---
 
 
