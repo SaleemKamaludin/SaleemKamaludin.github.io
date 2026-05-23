@@ -19,7 +19,7 @@ My goal is to create learning environments where students not only master techni
 ---
 
 ## Research Interests
-- <a href="{{ '/notes/graph-theory/' | relative_url }}"><strong>Graph Theory & Invariants</strong></a> — Comprehensive notes on the Szeged, edge-Szeged, and Wiener indices; orbit partitions and cut-based computations; unicyclic, star-like, complete bipartite, and hypercube families; extremal/bounds results; chemical graph applications (alkanes),(Gutman, Polansky, Chang).
+- <a href="{{ '/notes/graph-theory/' | relative_url }}"><strong>Graph Theory & Invariants</strong></a> — My research 
 - Computational & Applied Discrete Mathematics
 
 
