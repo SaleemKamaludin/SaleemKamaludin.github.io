@@ -19,7 +19,7 @@ My goal is to create learning environments where students not only master techni
 ---
 
 ## Research Interests
-- <a href="{{ '/notes/graph-theory/' | relative_url }}"><strong>Graph Theory & Invariants</strong></a> — My research focuses on graph-based indices 
+- <a href="{{ '/notes/graph-theory/' | relative_url }}"><strong>Graph Theory & Invariants</strong></a> — My research focuses on graph-based indices such as the Szeged,
 - Computational & Applied Discrete Mathematics
 
 
