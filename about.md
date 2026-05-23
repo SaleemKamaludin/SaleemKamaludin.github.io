@@ -20,7 +20,7 @@ My goal is to create learning environments where students not only master techni
 
 ## Research Interests
 - <a href="{{ '/notes/graph-theory/' | relative_url }}"><strong>Graph Theory & Invariants</strong></a> — Comprehensive notes on the Szeged, edge-Szeged, and Wiener indices; orbit partitions and cut-based computations; unicyclic, star-like, complete bipartite, and hypercube families; extremal/bounds results; chemical graph applications (alkanes),(Gutman, Polansky, Chang).
-- <a href="{{ '/courses/graduate/mathematical-modelling/' | relative_url }}"><strong>Mathematical Modelling</strong></a> — Practice-driven models across natural & applied sciences: ODE/PDE and discrete-time systems, nondimensionalisation, optimisation (LP/network flows), stochastic/Monte-Carlo simulation, and data-driven calibration/validation. Case studies reflect my work in business operations and pricing (break-even, elasticity), queueing & inventory, epidemic SIR/SEIR dynamics, and pharmaceutical surveillance using the counterfeit-drug dataset. 
+- Computational & Applied Discrete Mathematics
 
 
 
