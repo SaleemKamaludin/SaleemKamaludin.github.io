@@ -20,7 +20,7 @@ My goal is to create learning environments where students not only master techni
 
 ## Research Interests
 - <a href="{{ '/notes/graph-theory/' | relative_url }}"><strong>Graph Theory & Invariants</strong></a> — My research focuses on graph-based indices such as the Szeged, edge-Szeged, and Wiener indices, with particular interest in symmetry, orbit partitions, cut-based methods, and extremal behaviour.
-- Computational & Applied Discrete Mathematics - I
+- Computational & Applied Discrete Mathematics - I am
 
 
 
