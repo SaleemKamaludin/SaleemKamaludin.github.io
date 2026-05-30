@@ -24,3 +24,5 @@ Particular attention is given to matching polynomials, circuit polynomials, char
 Students are expected to engage with rigorous proofs, advanced combinatorial arguments, and abstract graph-theoretic methods suitable for research-level mathematics.
 
 ---
+
+## Topics Overview
