@@ -22,3 +22,5 @@ This graduate-level course explores advanced topics in discrete mathematics with
 The course develops sophisticated counting techniques arising from algebraic and graph-theoretic structures and studies how polynomial invariants encode structural information about graphs. 
 Particular attention is given to matching polynomials, circuit polynomials, characteristic polynomials, and tree polynomials, together with their combinatorial and algebraic interpretations.
 Students are expected to engage with rigorous proofs, advanced combinatorial arguments, and abstract graph-theoretic methods suitable for research-level mathematics.
+
+---
