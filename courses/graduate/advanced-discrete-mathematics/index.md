@@ -30,4 +30,4 @@ Students are expected to engage with rigorous proofs, advanced combinatorial arg
 - Advanced permutations and combinations 
 - Binomial and multinomial theorems  
 - Ordinary generating functions  
-- Adv
+- Adva
