@@ -31,4 +31,4 @@ Students are expected to engage with rigorous proofs, advanced combinatorial arg
 - Binomial and multinomial theorems  
 - Ordinary generating functions  
 - Advanced generating functions  
-- One-
+- One-index and two-index recurrence relations  
