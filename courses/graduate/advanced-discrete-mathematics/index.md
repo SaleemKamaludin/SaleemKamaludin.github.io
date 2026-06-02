@@ -32,4 +32,4 @@ Students are expected to engage with rigorous proofs, advanced combinatorial arg
 - Ordinary generating functions  
 - Advanced generating functions  
 - One-index and two-index recurrence relations
-- P
+- Pa
