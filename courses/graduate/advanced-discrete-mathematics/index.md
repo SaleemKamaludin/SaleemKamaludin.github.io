@@ -34,4 +34,4 @@ Students are expected to engage with rigorous proofs, advanced combinatorial arg
 - One-index and two-index recurrence relations
 - Partitions and compositions
 - Inclusion–exclusion principle
-- G
+- Ge
