@@ -33,4 +33,5 @@ Students are expected to engage with rigorous proofs, advanced combinatorial arg
 - Advanced generating functions  
 - One-index and two-index recurrence relations
 - Partitions and compositions
-- Inclusion–exclusion principle  
+- Inclusion–exclusion principle
+- 
