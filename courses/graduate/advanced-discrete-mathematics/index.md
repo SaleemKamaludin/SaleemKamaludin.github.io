@@ -35,4 +35,4 @@ Students are expected to engage with rigorous proofs, advanced combinatorial arg
 - Partitions and compositions
 - Inclusion–exclusion principle
 - General \(F\)-polynomials of graphs
-- Matc
+- Match
