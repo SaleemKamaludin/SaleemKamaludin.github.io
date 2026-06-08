@@ -37,5 +37,5 @@ Students are expected to engage with rigorous proofs, advanced combinatorial arg
 - General \(F\)-polynomials of graphs
 - Matching polynomials
 - Circuit polynomials
-- Characteristic polynomials
+- Characteristic polynomials o
 
