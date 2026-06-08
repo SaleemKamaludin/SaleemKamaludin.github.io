@@ -36,4 +36,5 @@ Students are expected to engage with rigorous proofs, advanced combinatorial arg
 - Inclusion–exclusion principle
 - General \(F\)-polynomials of graphs
 - Matching polynomials
-- Circuit polynomials  
+- Circuit polynomials
+- 
