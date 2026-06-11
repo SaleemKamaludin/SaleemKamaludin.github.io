@@ -39,4 +39,4 @@ Students are expected to engage with rigorous proofs, advanced combinatorial arg
 - Circuit polynomials
 - Characteristic polynomials of graphs
 - Tree polynomials
-- 
+- A
