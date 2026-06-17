@@ -48,4 +48,4 @@ Students are expected to engage with rigorous proofs, advanced combinatorial arg
 
 ## Recommended Background
 
-Students are expected to have pri
+Students are expected to have prio
