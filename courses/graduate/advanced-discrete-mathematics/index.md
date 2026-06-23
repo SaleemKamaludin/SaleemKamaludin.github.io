@@ -51,4 +51,4 @@ Students are expected to engage with rigorous proofs, advanced combinatorial arg
 Students are expected to have prior exposure to:
 
 - Abstract Algebra
-- 
+- L
