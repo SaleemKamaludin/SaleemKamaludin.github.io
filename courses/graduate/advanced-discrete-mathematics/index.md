@@ -53,4 +53,4 @@ Students are expected to have prior exposure to:
 - Abstract Algebra
 - Linear algebra
 - Introductory graph theory
-- Elementary com
+- Elementary comb
