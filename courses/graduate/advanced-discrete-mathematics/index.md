@@ -57,4 +57,4 @@ Students are expected to have prior exposure to:
 
 ---
 
-[← Back to
+[← Back to C
