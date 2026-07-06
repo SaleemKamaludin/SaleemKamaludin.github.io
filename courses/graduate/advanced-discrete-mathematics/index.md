@@ -57,4 +57,4 @@ Students are expected to have prior exposure to:
 
 ---
 
-[← Back to Courses]({{ '/courses/' | r
+[← Back to Courses]({{ '/courses/' | re
