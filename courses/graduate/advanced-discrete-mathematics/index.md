@@ -25,7 +25,7 @@ Students are expected to engage with rigorous proofs, advanced combinatorial arg
 
 ---
 
-## Topics Overview
+## Topics Overview 
 
 - Advanced permutations and combinations 
 - Binomial and multinomial theorems  
