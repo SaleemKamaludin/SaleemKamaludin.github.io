@@ -17,4 +17,4 @@ This course provides an overview of the central ideas of General Topology and il
 
 ## Topics Overview
 
-- Topological, metric, and normed s
+- Topological, metric, and normed sp
