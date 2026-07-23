@@ -18,5 +18,5 @@ This course provides an overview of the central ideas of General Topology and il
 ## Topics Overview
 
 - Topological, metric, and normed spaces
-- Continuity and connectdn
+- Continuity and connectd
 - 
