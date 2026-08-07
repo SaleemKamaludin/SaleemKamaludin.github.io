@@ -22,4 +22,4 @@ This course provides an overview of the central ideas of General Topology and il
 - Hausdorff spaces
 - Compactness and completeness
 - Quotient spaces
-- Topological vector spa
+- Topological vector spac
