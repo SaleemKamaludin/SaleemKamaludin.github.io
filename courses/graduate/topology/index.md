@@ -25,4 +25,4 @@ This course provides an overview of the central ideas of General Topology and il
 - Topological vector spaces
 - Homotopy
 - Urysohn's lemma
-- Tychono
+- Tychonof
