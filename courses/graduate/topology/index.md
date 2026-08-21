@@ -26,4 +26,4 @@ This course provides an overview of the central ideas of General Topology and il
 - Homotopy
 - Urysohn's lemma 
 - Tychonoff's theorem and applications to Functional Analysis
-- Paraco
+- Paracom
