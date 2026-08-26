@@ -27,3 +27,6 @@ This course provides an overview of the central ideas of General Topology and il
 - Urysohn's lemma 
 - Tychonoff's theorem and applications to Functional Analysis
 - Paracompact spaces and Stones theorm
+
+
+-
