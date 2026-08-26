@@ -221,9 +221,4 @@ permalink: /courses/math-clinic-2026/
 }
 </style>
 
-<p style="color:#555;font-size:.9rem;">
-  Passcode:
-  <code class="passcode is-hidden" onclick="this.classList.remove('is-hidden')"> %Jz0+fP6
-</code>
-</p>
 
