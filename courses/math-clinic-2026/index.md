@@ -189,8 +189,6 @@ permalink: /courses/math-clinic-2026/
 
 
 
-<div class="session-buttons">
- 
 
 
 
