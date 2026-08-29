@@ -173,7 +173,6 @@ permalink: /courses/math-clinic-2026/
 </style>
 
 <p style="color:#555;font-size:.9rem;">
-  Passcode:
 
 
 
