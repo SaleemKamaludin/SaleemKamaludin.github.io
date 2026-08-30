@@ -168,8 +168,6 @@ permalink: /courses/math-clinic-2026/
   color:#555;
   font-size:.9em;
   margin-left:.25rem;
-  filter:none;
-}
 
 
 
