@@ -170,7 +170,7 @@ permalink: /courses/math-clinic-2026/
   margin-left:.25rem;
   filter:none;
 }
-</style>
+
 
 
 
