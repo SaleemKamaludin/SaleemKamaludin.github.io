@@ -158,8 +158,6 @@ permalink: /courses/math-clinic-2026/
   border-radius:.4rem;
   border:1px solid #e6e8eb;
   background:#f6f8fa;
-  display:inline-block;
-}
 
 
 
