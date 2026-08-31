@@ -163,7 +163,7 @@ permalink: /courses/math-clinic-2026/
 .passcode.is-hidden{
   filter: blur(6px);
 }
-.passcode.is-hidden::after{
+
 
   
 
