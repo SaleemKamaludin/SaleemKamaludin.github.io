@@ -166,7 +166,7 @@ permalink: /courses/math-clinic-2026/
 .passcode.is-hidden::after{
   content:" (click to reveal)";
   color:#555;
-  font-size:.9em;
+
 
 
 
