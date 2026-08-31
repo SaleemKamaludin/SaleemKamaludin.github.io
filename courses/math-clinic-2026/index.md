@@ -164,7 +164,7 @@ permalink: /courses/math-clinic-2026/
   filter: blur(6px);
 }
 .passcode.is-hidden::after{
-  content:" (click to reveal)";
+
   
 
 
