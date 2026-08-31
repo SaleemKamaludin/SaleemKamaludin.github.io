@@ -160,7 +160,7 @@ permalink: /courses/math-clinic-2026/
   background:#f6f8fa;
   display:inline-block;
 }
-.passcode.is-hidden{
+
 
 
 
