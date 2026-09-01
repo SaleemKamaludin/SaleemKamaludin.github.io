@@ -146,4 +146,3 @@ permalink: /courses/math-clinic-2026/
      href="https://sta-uwi-edu.zoom.us/rec/share/vUYItTKnP9E4W-J1NGAM1OhJa0YvqqI20rQl0WM_CY0idy4MTDhsAVBhwH1LV-tb.B_UnuD3-bR4LAsLZ"
      target="_blank" rel="noopener noreferrer">
     Watch Recording
-  </a>
