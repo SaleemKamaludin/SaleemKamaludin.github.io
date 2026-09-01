@@ -151,31 +151,3 @@ permalink: /courses/math-clinic-2026/
 
 
 <style>
-.passcode{
- 
-
- 
- 
- 
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
