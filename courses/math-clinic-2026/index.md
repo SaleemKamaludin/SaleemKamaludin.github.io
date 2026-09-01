@@ -155,7 +155,7 @@ permalink: /courses/math-clinic-2026/
   cursor:pointer;
   user-select:none;
   padding:.1rem .4rem;
-  border-radius:.4rem;
+ 
  
 
 
