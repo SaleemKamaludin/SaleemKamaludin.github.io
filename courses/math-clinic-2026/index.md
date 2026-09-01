@@ -148,6 +148,3 @@ permalink: /courses/math-clinic-2026/
     Watch Recording
   </a>
 </div>
-
-
-<style>
