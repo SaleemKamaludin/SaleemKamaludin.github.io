@@ -153,7 +153,7 @@ permalink: /courses/math-clinic-2026/
 <style>
 .passcode{
   cursor:pointer;
-  user-select:none;
+
  
  
  
