@@ -143,5 +143,4 @@ permalink: /courses/math-clinic-2026/
 
 <div class="session-buttons">
   <a class="btn"
-     href="https://sta-uwi-edu.zoom.us/rec/share/vUYItTKnP9E4W-J1NGAM1OhJa0YvqqI20rQl0WM_CY0idy4MTDhsAVBhwH1LV-
 
