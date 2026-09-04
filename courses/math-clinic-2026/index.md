@@ -142,5 +142,4 @@ permalink: /courses/math-clinic-2026/
 <p>Zoom recording for <b>9th January 2026</b></p>
 
 <div class="session-buttons
-  <a 
 
