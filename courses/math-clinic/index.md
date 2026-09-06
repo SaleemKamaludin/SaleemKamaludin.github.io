@@ -134,3 +134,11 @@ This section contains the materials for the **January 2026** clinic.
 
 
 
+
+---
+
+## Math Clinic September 2026
+
+This section contains the materials for the **September 2026** clinic.
+
+- [September 2026 Math Clinic]({{ '/courses/math-clinic-september-2026/' | relative_url }})
