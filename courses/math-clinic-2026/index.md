@@ -138,6 +138,5 @@ permalink: /courses/math-clinic-2026/
 ---
 <hr class="soft" />
 
-<h3>Recording</h3>
-<p>Zoom recording for <b>9
+
 
