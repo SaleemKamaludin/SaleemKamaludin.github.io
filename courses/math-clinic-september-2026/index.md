@@ -16,4 +16,4 @@ This page contains the materials for the **September 2026 Math Clinic**.
 
 ---
 
-We will cover CVP in our second session using the notes from the January 2026.
+We will cover CVP in our second session using the notes from the January 2026
