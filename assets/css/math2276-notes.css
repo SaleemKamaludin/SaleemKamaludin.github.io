@@ -1,0 +1,324 @@
+/* ==========================================================
+   MATH 2276 — Notes from Class
+   Web equivalents of the LaTeX theorem environments
+   ========================================================== */
+
+.math2276-notes {
+    --definition: #4B4B4B;
+    --notation: #1BA6B2;
+    --theorem: #5B3C88;
+    --lemma: #FF7F50;
+    --proposition: #0B4B4B;
+    --corollary: #6A5ACD;
+    --principle: #0F766E;
+    --remark: #6B5A3C;
+    --example: #1F5AA6;
+    --explanation: #2E8B57;
+    --exercise: #E34234;
+
+    --solution-bg: #F5F5F5;
+    --solution-line: #444444;
+
+    --warning: #B00020;
+    --warning-bg: #FDE7EA;
+
+    max-width: 900px;
+    margin: 0 auto;
+    line-height: 1.6;
+}
+
+.math2276-notes p {
+    margin-top: 0;
+    margin-bottom: 0.65em;
+}
+
+
+/* ==========================================================
+   General theorem-like environment
+   ========================================================== */
+
+.math-env {
+    margin: 1.4rem 0 1.6rem 0;
+}
+
+.math-env-heading {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1em;
+    margin-bottom: 0.45rem;
+}
+
+.math-env-tag {
+    display: inline-block;
+    color: #ffffff;
+    font-weight: 700;
+    padding: 0.28rem 0.65rem;
+    border-radius: 0;
+    line-height: 1.25;
+}
+
+.math-env-title {
+    font-weight: 700;
+}
+
+.math-env-body {
+    padding-left: 1.4rem;
+    padding-right: 0;
+    border-left: 2px solid;
+    background: #ffffff;
+}
+
+
+/* ==========================================================
+   Definition
+   ========================================================== */
+
+.definition .math-env-tag {
+    background: var(--definition);
+}
+
+.definition .math-env-body {
+    border-color: var(--definition);
+}
+
+
+/* ==========================================================
+   Notation
+   ========================================================== */
+
+.notation .math-env-tag {
+    background: var(--notation);
+}
+
+.notation .math-env-body {
+    border-color: var(--notation);
+}
+
+
+/* ==========================================================
+   Theorem
+   ========================================================== */
+
+.theorem .math-env-tag {
+    background: var(--theorem);
+}
+
+.theorem .math-env-body {
+    border-color: var(--theorem);
+}
+
+
+/* ==========================================================
+   Lemma
+   ========================================================== */
+
+.lemma .math-env-tag {
+    background: var(--lemma);
+}
+
+.lemma .math-env-body {
+    border-color: var(--lemma);
+}
+
+
+/* ==========================================================
+   Proposition
+   ========================================================== */
+
+.proposition .math-env-tag {
+    background: var(--proposition);
+}
+
+.proposition .math-env-body {
+    border-color: var(--proposition);
+}
+
+
+/* ==========================================================
+   Corollary
+   ========================================================== */
+
+.corollary .math-env-tag {
+    background: var(--corollary);
+}
+
+.corollary .math-env-body {
+    border-color: var(--corollary);
+}
+
+
+/* ==========================================================
+   Principle
+   ========================================================== */
+
+.principle .math-env-tag {
+    background: var(--principle);
+}
+
+.principle .math-env-body {
+    border-color: var(--principle);
+}
+
+
+/* ==========================================================
+   Remark
+   ========================================================== */
+
+.remark .math-env-tag {
+    background: var(--remark);
+}
+
+.remark .math-env-body {
+    border-color: var(--remark);
+}
+
+
+/* ==========================================================
+   Example
+   ========================================================== */
+
+.example .math-env-tag {
+    background: var(--example);
+}
+
+.example .math-env-body {
+    border-color: var(--example);
+}
+
+
+/* ==========================================================
+   Explanation
+   ========================================================== */
+
+.explanation .math-env-tag {
+    background: var(--explanation);
+}
+
+.explanation .math-env-body {
+    border-color: var(--explanation);
+}
+
+
+/* ==========================================================
+   Exercise
+   ========================================================== */
+
+.exercise .math-env-tag {
+    background: var(--exercise);
+}
+
+.exercise .math-env-body {
+    border-color: var(--exercise);
+}
+
+
+/* ==========================================================
+   Solution
+   ========================================================== */
+
+.solution {
+    margin: 1.5rem 0;
+    background: var(--solution-bg);
+    border-left: 2px solid var(--solution-line);
+    padding: 0.7rem 1.4rem;
+}
+
+.solution-title {
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+
+/* ==========================================================
+   Warning
+   ========================================================== */
+
+.warning {
+    margin: 1.5rem 0;
+}
+
+.warning-tag {
+    display: inline-block;
+    background: var(--warning);
+    color: #ffffff;
+    font-weight: 700;
+    padding: 0.28rem 0.65rem;
+}
+
+.warning-body {
+    background: var(--warning-bg);
+    padding: 0.8rem 1.4rem;
+}
+
+
+/* ==========================================================
+   Proof
+   ========================================================== */
+
+.proof {
+    margin: 1.5rem 0;
+}
+
+.proof-title {
+    font-style: italic;
+    margin-bottom: 0.7rem;
+}
+
+.proof-qed {
+    float: right;
+    font-size: 1.1em;
+}
+
+
+/* ==========================================================
+   Display mathematics
+   ========================================================== */
+
+.math2276-notes mjx-container[display="true"] {
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+
+
+/* ==========================================================
+   Lists inside environments
+   ========================================================== */
+
+.math-env-body ol,
+.math-env-body ul {
+    margin-top: 0.6rem;
+    margin-bottom: 0.8rem;
+}
+
+.math-env-body li {
+    margin-bottom: 0.45rem;
+}
+
+
+/* ==========================================================
+   Mobile adjustments
+   ========================================================== */
+
+@media (max-width: 650px) {
+
+    .math2276-notes {
+        max-width: 100%;
+    }
+
+    .math-env-heading {
+        gap: 0.5rem;
+    }
+
+    .math-env-body {
+        padding-left: 1rem;
+    }
+
+    .math-env-tag {
+        font-size: 0.95rem;
+    }
+
+    .math-env-title {
+        width: 100%;
+    }
+}
