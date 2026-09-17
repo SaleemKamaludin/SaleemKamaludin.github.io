@@ -308,6 +308,58 @@ permalink: /courses/math-2276/notes-from-class/lecture-2/
 
 </div>
 
+<div class="proof">
+
+  <div class="proof-title">
+    Proof.
+  </div>
+
+  <p>
+    Expanding \(\det(A)\) along row \(i\), we have
+  </p>
+
+  \[
+  \det(A)
+  =
+  \sum_{j=1}^{n}
+  a_{ij}(-1)^{i+j}\det(A_{ij}).
+  \]
+
+  <p>
+    By hypothesis, \(a_{ij}=0\) whenever \(j\neq i\). Therefore,
+  </p>
+
+  \[
+  \det(A)
+  =
+  a_{ii}(-1)^{i+i}\det(A_{ii}).
+  \]
+
+  <p>
+    Since
+  </p>
+
+  \[
+  (-1)^{2i}=1,
+  \]
+
+  <p>
+    it follows that
+  </p>
+
+  \[
+  \boxed{\det(A)=a_{ii}\det(A_{ii})}.
+  \]
+
+  <p>
+    The proof for a column is identical, using cofactor expansion along
+    that column.
+  </p>
+
+  <div style="text-align: right;">&#9633;</div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
