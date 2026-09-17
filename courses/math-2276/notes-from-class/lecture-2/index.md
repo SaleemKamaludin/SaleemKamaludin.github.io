@@ -190,6 +190,88 @@ permalink: /courses/math-2276/notes-from-class/lecture-2/
 
 </div>
 
+<div class="proof">
+
+  <div class="proof-title">
+    Proof.
+  </div>
+
+  <p>
+    We prove the result by strong induction on \(n\).
+  </p>
+
+  <p>
+    For \(n=1\),
+  </p>
+
+  \[
+  D_1=a=a^1,
+  \]
+
+  <p>
+    and for \(n=2\),
+  </p>
+
+  \[
+  D_2=a^2.
+  \]
+
+  <p>
+    Now let \(n\geq 3\), and assume that
+  </p>
+
+  \[
+  D_k=a^k
+  \]
+
+  <p>
+    for all positive integers \(k<n\).
+  </p>
+
+  <p>
+    Using the recurrence,
+  </p>
+
+  \[
+  D_n=a^2D_{n-2}.
+  \]
+
+  <p>
+    Since \(n-2<n\), the induction hypothesis gives
+  </p>
+
+  \[
+  D_{n-2}=a^{n-2}.
+  \]
+
+  <p>
+    Therefore,
+  </p>
+
+  \[
+  D_n
+  =
+  a^2a^{n-2}
+  =
+  a^n.
+  \]
+
+  <p>
+    Hence, by strong induction,
+  </p>
+
+  \[
+  \boxed{D_n=a^n}
+  \]
+
+  <p>
+    for every positive integer \(n\).
+  </p>
+
+  <div style="text-align: right;">&#9633;</div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
