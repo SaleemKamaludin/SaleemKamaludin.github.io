@@ -272,6 +272,42 @@ permalink: /courses/math-2276/notes-from-class/lecture-2/
 
 </div>
 
+<div class="math-env lemma">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Lemma 1.1</span>
+
+    <span class="math-env-title">
+      Sparse Diagonal Row or Column
+    </span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Let \(A=(a_{ij})\) be an \(n\times n\) matrix. Suppose that row \(i\)
+      contains exactly one nonzero entry, namely the diagonal entry
+      \(a_{ii}\). Then
+    </p>
+
+    \[
+    \det(A)=a_{ii}\det(A_{ii}),
+    \]
+
+    <p>
+      where \(A_{ii}\) denotes the matrix obtained from \(A\) by deleting
+      row \(i\) and column \(i\).
+    </p>
+
+    <p>
+      The analogous result holds if column \(i\) contains exactly one
+      nonzero entry \(a_{ii}\).
+    </p>
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
