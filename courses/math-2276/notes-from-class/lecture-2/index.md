@@ -364,6 +364,8 @@ permalink: /courses/math-2276/notes-from-class/lecture-2/
   Consider the determinant
 </p>
 
+<div class="display-math">
+
 \[
 E_n=
 \begin{vmatrix}
@@ -375,6 +377,8 @@ b & 1 & 0 & 0 & \cdots & 0\\
 0 & 0 & 0 & 0 & \cdots & b
 \end{vmatrix}.
 \]
+
+</div>
 
 <p>
   We shall determine a recurrence relation satisfied by \(E_n\).
