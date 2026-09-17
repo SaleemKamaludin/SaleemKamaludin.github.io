@@ -60,6 +60,92 @@ permalink: /courses/math-2276/notes-from-class/lecture-2/
 
 </div>
 
+<div class="proof">
+
+  <div class="proof-title">
+    Proof.
+  </div>
+
+  <p>
+    Let \(D_n=\det(A_n)\).
+  </p>
+
+  <p>
+    By hypothesis, there is a row of \(A_n\) containing exactly one
+    nonzero entry, namely \(a\). Suppose this entry occurs in position
+    \((i,j)\). Expanding the determinant along row \(i\), Laplace
+    expansion gives
+  </p>
+
+  \[
+  D_n
+  =
+  a(-1)^{i+j}\det(M_{ij}),
+  \]
+
+  <p>
+    where \(M_{ij}\) is the matrix obtained from \(A_n\) by deleting
+    row \(i\) and column \(j\).
+  </p>
+
+  <p>
+    Since the corresponding cofactor sign is assumed to be positive,
+  </p>
+
+  \[
+  D_n=a\det(M_{ij}).
+  \]
+
+  <p>
+    By hypothesis, the determinant \(\det(M_{ij})\) again contains a
+    row having exactly one nonzero entry, also equal to \(a\).
+    Expanding along this row gives
+  </p>
+
+  \[
+  \det(M_{ij})
+  =
+  a\det(B),
+  \]
+
+  <p>
+    where \(B\) is the matrix remaining after the appropriate row and
+    column have been deleted.
+  </p>
+
+  <p>
+    The second cofactor sign is also positive, and by assumption the
+    matrix \(B\) has precisely the same form as \(A_{n-2}\). Hence
+  </p>
+
+  \[
+  \det(B)=D_{n-2}.
+  \]
+
+  <p>
+    Therefore,
+  </p>
+
+  \[
+  D_n
+  =
+  a\left(aD_{n-2}\right)
+  =
+  a^2D_{n-2}.
+  \]
+
+  <p>
+    Thus
+  </p>
+
+  \[
+  \boxed{D_n=a^2D_{n-2}}.
+  \]
+
+  <div style="text-align: right;">&#9633;</div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
