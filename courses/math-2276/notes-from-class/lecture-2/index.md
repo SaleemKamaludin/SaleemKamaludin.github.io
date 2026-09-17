@@ -146,6 +146,50 @@ permalink: /courses/math-2276/notes-from-class/lecture-2/
 
 </div>
 
+<div class="math-env corollary">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Corollary 1.1</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Suppose that a sequence of determinants \(\{D_n\}_{n\geq 1}\)
+      satisfies
+    </p>
+
+    \[
+    D_n=a^2D_{n-2},
+    \qquad n\geq 3,
+    \]
+
+    <p>
+      with initial values
+    </p>
+
+    \[
+    D_1=a
+    \qquad\text{and}\qquad
+    D_2=a^2.
+    \]
+
+    <p>
+      Then
+    </p>
+
+    \[
+    D_n=a^n
+    \]
+
+    <p>
+      for every positive integer \(n\).
+    </p>
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
