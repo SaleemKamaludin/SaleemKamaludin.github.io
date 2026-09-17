@@ -360,6 +360,26 @@ permalink: /courses/math-2276/notes-from-class/lecture-2/
 
 </div>
 
+<p>
+  Consider the determinant
+</p>
+
+\[
+E_n=
+\begin{vmatrix}
+b & 1 & 0 & 0 & \cdots & 0\\
+0 & b & 0 & 0 & \cdots & 0\\
+0 & 1 & b & 1 & \cdots & 0\\
+0 & 0 & 0 & b & \cdots & 0\\
+\vdots & \vdots & \vdots & \vdots & \ddots & \vdots\\
+0 & 0 & 0 & 0 & \cdots & b
+\end{vmatrix}.
+\]
+
+<p>
+  We shall determine a recurrence relation satisfied by \(E_n\).
+</p>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
