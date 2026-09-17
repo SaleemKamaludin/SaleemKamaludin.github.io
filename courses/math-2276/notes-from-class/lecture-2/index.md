@@ -384,6 +384,26 @@ b & 1 & 0 & 0 & \cdots & 0\\
   We shall determine a recurrence relation satisfied by \(E_n\).
 </p>
 
+<div class="math-env example">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Example 1.1</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      For the determinant \(E_n\) above, show that
+    </p>
+
+    \[
+    E_n=b^2E_{n-2}.
+    \]
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
