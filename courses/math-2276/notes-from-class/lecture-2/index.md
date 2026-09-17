@@ -404,6 +404,48 @@ b & 1 & 0 & 0 & \cdots & 0\\
 
 </div>
 
+<div class="solution">
+
+  <div class="solution-title">
+    Solution.
+  </div>
+
+  <p>
+    The second row contains exactly one nonzero entry, namely the
+    diagonal entry \(b\). Expanding along the second row gives
+  </p>
+
+  \[
+  E_n=bE_{n-1}^{*},
+  \]
+
+  <p>
+    where \(E_{n-1}^{*}\) denotes the resulting minor.
+  </p>
+
+  <p>
+    In this minor, the first row again contains exactly one nonzero
+    entry, namely \(b\). Expanding along this row gives
+  </p>
+
+  \[
+  E_{n-1}^{*}=bE_{n-2}.
+  \]
+
+  <p>
+    Hence
+  </p>
+
+  \[
+  E_n
+  =
+  b\left(bE_{n-2}\right)
+  =
+  \boxed{b^2E_{n-2}}.
+  \]
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
