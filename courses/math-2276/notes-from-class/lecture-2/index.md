@@ -4,7 +4,7 @@ title: MATH 2276 — Lecture 2 Notes
 permalink: /courses/math-2276/notes-from-class/lecture-2/
 ---
 
-<div class="math2276-notes">
+<div class="math2276-notes" markdown="1">
 
 # Lecture 2 Notes
 
