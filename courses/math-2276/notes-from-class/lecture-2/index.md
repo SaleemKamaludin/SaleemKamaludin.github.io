@@ -446,6 +446,34 @@ b & 1 & 0 & 0 & \cdots & 0\\
 
 </div>
 
+<div class="math-env example">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Example 1.2</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Let
+    </p>
+
+    \[
+    D_n=
+    \begin{vmatrix}
+    a & 1 & 0 & 0 & \cdots & 0\\
+    0 & a & 1 & 0 & \cdots & 0\\
+    0 & 0 & a & 1 & \ddots & \vdots\\
+    \vdots & \vdots & \ddots & \ddots & \ddots & 0\\
+    0 & 0 & \cdots & 0 & a & 1\\
+    0 & 0 & \cdots & 0 & 0 & a
+    \end{vmatrix}.
+    \]
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
