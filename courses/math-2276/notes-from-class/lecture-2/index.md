@@ -622,6 +622,24 @@ b & 1 & 0 & 0 & \cdots & 0\\
   0 & 0 & \cdots & 0 & 0 & a
   \end{vmatrix}.
   \]
+  <p>
+    Expanding along the first column, all entries except the first
+    are zero. Therefore,
+  </p>
+
+  \[
+  D_{k+1}
+  =
+  a
+  \begin{vmatrix}
+  a & 1 & 0 & \cdots & 0\\
+  0 & a & 1 & \ddots & \vdots\\
+  \vdots & \ddots & \ddots & \ddots & 0\\
+  0 & \cdots & 0 & a & 1\\
+  0 & \cdots & \cdots & 0 & a
+  \end{vmatrix}.
+  \]
+
 </div>
 
 ---
