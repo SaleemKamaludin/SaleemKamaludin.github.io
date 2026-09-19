@@ -507,6 +507,79 @@ b & 1 & 0 & 0 & \cdots & 0\\
   \end{cases}
   \]
 
+  <p>
+    We prove by mathematical induction on \(n\) that
+  </p>
+
+  \[
+  D_n=a^n.
+  \]
+
+  <p>
+    <strong>Base case.</strong>
+  </p>
+
+  <p>
+    When \(n=1\), we have
+  </p>
+
+  \[
+  D_1
+  =
+  \begin{vmatrix}
+  a
+  \end{vmatrix}
+  =a
+  =a^1.
+  \]
+
+  <p>
+    Hence the result is true for \(n=1\).
+  </p>
+
+  <p>
+    For illustration, when \(n=2\),
+  </p>
+
+  \[
+  D_2
+  =
+  \begin{vmatrix}
+  a & 1\\
+  0 & a
+  \end{vmatrix}
+  =a^2,
+  \]
+
+  <p>
+    and when \(n=3\),
+  </p>
+
+  \[
+  D_3
+  =
+  \begin{vmatrix}
+  a & 1 & 0\\
+  0 & a & 1\\
+  0 & 0 & a
+  \end{vmatrix}.
+  \]
+
+  <p>
+    Expanding along the first column gives
+  </p>
+
+  \[
+  D_3
+  =
+  a
+  \begin{vmatrix}
+  a & 1\\
+  0 & a
+  \end{vmatrix}
+  =a(a^2)
+  =a^3.
+  \]
 </div>
 
 ---
