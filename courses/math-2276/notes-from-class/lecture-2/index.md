@@ -639,6 +639,15 @@ b & 1 & 0 & 0 & \cdots & 0\\
   0 & \cdots & \cdots & 0 & a
   \end{vmatrix}.
   \]
+  <p>
+    The \(k\times k\) determinant appearing on the right-hand side
+    is precisely \(D_k\). Hence
+  </p>
+
+  \[
+  D_{k+1}=aD_k.
+  \]
+
 
 </div>
 
