@@ -486,6 +486,29 @@ b & 1 & 0 & 0 & \cdots & 0\\
 
 </div>
 
+<div class="proof">
+
+  <div class="proof-title">
+    Proof.
+  </div>
+
+  <p>
+    Let \(M_n=(m_{ij})\) be the \(n\times n\) upper bidiagonal matrix
+    whose determinant is \(D_n\). Its entries are defined by
+  </p>
+
+  \[
+  m_{ij}
+  =
+  \begin{cases}
+  a, & i=j,\\[2mm]
+  1, & j=i+1,\\[2mm]
+  0, & \text{otherwise}.
+  \end{cases}
+  \]
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
