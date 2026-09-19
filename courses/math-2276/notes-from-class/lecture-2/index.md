@@ -669,6 +669,20 @@ b & 1 & 0 & 0 & \cdots & 0\\
   <p>
     Therefore, the result holds for \(n=k+1\).
   </p>
+  <p>
+    Hence, by the Principle of Mathematical Induction,
+  </p>
+
+  \[
+  \boxed{D_n=a^n}
+  \]
+
+  <p>
+    for every \(n\geq 1\).
+  </p>
+
+  <div style="text-align: right;">&#9633;</div>
+
 
 
 
