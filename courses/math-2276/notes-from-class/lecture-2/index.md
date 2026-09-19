@@ -580,6 +580,48 @@ b & 1 & 0 & 0 & \cdots & 0\\
   =a(a^2)
   =a^3.
   \]
+
+  <p>
+    <strong>Induction hypothesis.</strong>
+  </p>
+
+  <p>
+    Assume that the result holds for some arbitrary
+    \(k\in\mathbb{Z}^{+}\). That is, assume
+  </p>
+
+  \[
+  D_k=a^k.
+  \]
+
+  <p>
+    <strong>Induction step.</strong>
+  </p>
+
+  <p>
+    We must show that
+  </p>
+
+  \[
+  D_{k+1}=a^{k+1}.
+  \]
+
+  <p>
+    Consider the determinant of the \((k+1)\times(k+1)\) matrix
+  </p>
+
+  \[
+  D_{k+1}
+  =
+  \begin{vmatrix}
+  a & 1 & 0 & 0 & \cdots & 0\\
+  0 & a & 1 & 0 & \cdots & 0\\
+  0 & 0 & a & 1 & \ddots & \vdots\\
+  \vdots & \vdots & \ddots & \ddots & \ddots & 0\\
+  0 & 0 & \cdots & 0 & a & 1\\
+  0 & 0 & \cdots & 0 & 0 & a
+  \end{vmatrix}.
+  \]
 </div>
 
 ---
