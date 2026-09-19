@@ -470,6 +470,18 @@ b & 1 & 0 & 0 & \cdots & 0\\
     \end{vmatrix}.
     \]
 
+    <p>
+      Prove by mathematical induction that
+    </p>
+
+    \[
+    D_n=a^n
+    \]
+
+    <p>
+      for every \(n\geq 1\).
+    </p>
+
   </div>
 
 </div>
