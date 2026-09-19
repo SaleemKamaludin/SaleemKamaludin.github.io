@@ -647,6 +647,29 @@ b & 1 & 0 & 0 & \cdots & 0\\
   \[
   D_{k+1}=aD_k.
   \]
+  <p>
+    By the induction hypothesis,
+  </p>
+
+  \[
+  D_k=a^k.
+  \]
+
+  <p>
+    Thus
+  </p>
+
+  \[
+  D_{k+1}
+  =aD_k
+  =a(a^k)
+  =a^{k+1}.
+  \]
+
+  <p>
+    Therefore, the result holds for \(n=k+1\).
+  </p>
+
 
 
 </div>
