@@ -710,7 +710,13 @@ b & 1 & 0 & 0 & \cdots & 0\\
     =
     a^n.
     \]
-  </div>
+  
+    <p>
+      The induction proof above is useful, however, because it illustrates
+      how a determinant of order \(n+1\) can be reduced to a determinant of
+      order \(n\) by Laplace expansion.
+    </p>
+</div>
 
 </div>
 
