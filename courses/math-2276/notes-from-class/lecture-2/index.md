@@ -720,6 +720,35 @@ b & 1 & 0 & 0 & \cdots & 0\\
 
 </div>
 
+<div class="math-env example">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Example 1.3</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Let \(D_n\) denote the determinant
+    </p>
+
+    \[
+    D_n=
+    \begin{vmatrix}
+    0 & f & f & f & \cdots & f & f\\
+    b & 1 & 0 & 0 & \cdots & 0 & 0\\
+    0 & b & 1 & 0 & \cdots & 0 & 0\\
+    0 & 0 & b & 1 & \ddots & 0 & 0\\
+    \vdots & \vdots & \ddots & \ddots & \ddots & \vdots & \vdots\\
+    0 & 0 & \cdots & 0 & b & 1 & 0\\
+    0 & 0 & \cdots & 0 & 0 & b & 1
+    \end{vmatrix}.
+    \]
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
