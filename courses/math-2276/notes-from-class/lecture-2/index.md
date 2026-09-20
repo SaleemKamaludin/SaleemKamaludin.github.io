@@ -701,6 +701,15 @@ b & 1 & 0 & 0 & \cdots & 0\\
       is an upper triangular matrix,
     </p>
 
+    \[
+    \det(M_n)
+    =
+    \prod_{i=1}^{n} m_{ii}
+    =
+    \underbrace{a\cdot a\cdots a}_{n\text{ factors}}
+    =
+    a^n.
+    \]
   </div>
 
 </div>
