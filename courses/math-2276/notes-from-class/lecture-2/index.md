@@ -688,6 +688,23 @@ b & 1 & 0 & 0 & \cdots & 0\\
 
 </div>
 
+<div class="math-env remark">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Remark 1.1</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      There is also a much shorter way to obtain the result. Since \(M_n\)
+      is an upper triangular matrix,
+    </p>
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
