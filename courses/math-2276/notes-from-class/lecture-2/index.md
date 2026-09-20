@@ -745,7 +745,21 @@ b & 1 & 0 & 0 & \cdots & 0\\
     \end{vmatrix}.
     \]
 
-  </div>
+  
+    <p>
+      Show by mathematical induction that, for \(n\geq 1\) and \(b\neq -1\),
+    </p>
+
+    \[
+    \boxed{
+    D_n
+    =
+    -fb\left(
+    \frac{1+(-1)^n b^{\,n-1}}{1+b}
+    \right).
+    }
+    \]
+</div>
 
 </div>
 
