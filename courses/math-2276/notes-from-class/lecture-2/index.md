@@ -809,6 +809,21 @@ b & 1 & 0 & 0 & \cdots & 0\\
   \[
   (-1)^{1+n}.
   \]
+
+  <p>
+    After deleting row \(1\) and column \(n\), the resulting
+    \((n-1)\times(n-1)\) matrix is
+  </p>
+
+  \[
+  \begin{pmatrix}
+  b & 1 & 0 & \cdots & 0\\
+  0 & b & 1 & \ddots & \vdots\\
+  0 & 0 & b & \ddots & 0\\
+  \vdots & \ddots & \ddots & \ddots & 1\\
+  0 & \cdots & 0 & 0 & b
+  \end{pmatrix}.
+  \]
 </div>
 
 ---
