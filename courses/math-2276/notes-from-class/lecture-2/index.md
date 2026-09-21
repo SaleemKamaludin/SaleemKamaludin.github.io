@@ -789,6 +789,17 @@ b & 1 & 0 & 0 & \cdots & 0\\
   \[
   1 \quad \text{in position } (n,n).
   \]
+
+  <p>
+    Expanding \(D_n\) along the last column, the contribution from the
+    entry \(1\) in position \((n,n)\) is
+  </p>
+
+  \[
+  1\cdot (-1)^{n+n}D_{n-1}
+  =
+  D_{n-1}.
+  \]
 </div>
 
 ---
