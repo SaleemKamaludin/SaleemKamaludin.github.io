@@ -800,6 +800,15 @@ b & 1 & 0 & 0 & \cdots & 0\\
   =
   D_{n-1}.
   \]
+
+  <p>
+    Now consider the entry \(f\) in position \((1,n)\).
+    Its cofactor sign is
+  </p>
+
+  \[
+  (-1)^{1+n}.
+  \]
 </div>
 
 ---
