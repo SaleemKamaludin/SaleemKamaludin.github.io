@@ -763,6 +763,23 @@ b & 1 & 0 & 0 & \cdots & 0\\
 
 </div>
 
+<div class="proof">
+
+  <div class="proof-title">
+    Proof.
+  </div>
+
+  <p>
+    We first derive a recurrence relation for \(D_n\).
+  </p>
+
+  <p>
+    Consider the last column of the determinant. There are only two
+    nonzero entries in this column:
+  </p>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
