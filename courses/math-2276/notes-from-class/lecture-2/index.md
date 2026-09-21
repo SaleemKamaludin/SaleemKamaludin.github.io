@@ -778,6 +778,17 @@ b & 1 & 0 & 0 & \cdots & 0\\
     nonzero entries in this column:
   </p>
 
+  \[
+  f \quad \text{in position } (1,n),
+  \]
+
+  <p>
+    and
+  </p>
+
+  \[
+  1 \quad \text{in position } (n,n).
+  \]
 </div>
 
 ---
