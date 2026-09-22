@@ -824,6 +824,15 @@ b & 1 & 0 & 0 & \cdots & 0\\
   0 & \cdots & 0 & 0 & b
   \end{pmatrix}.
   \]
+
+  <p>
+    This matrix is upper triangular, and hence its determinant is the
+    product of its diagonal entries:
+  </p>
+
+  \[
+  b^{\,n-1}.
+  \]
 </div>
 
 ---
