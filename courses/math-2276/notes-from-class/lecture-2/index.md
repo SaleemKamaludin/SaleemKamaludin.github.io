@@ -875,6 +875,23 @@ b & 1 & 0 & 0 & \cdots & 0\\
   \end{vmatrix}
   =0.
   \]
+
+  <p>
+    The proposed formula gives
+  </p>
+
+  \[
+  -fb
+  \left(
+  \frac{1+(-1)^1b^0}{1+b}
+  \right)
+  =
+  -fb
+  \left(
+  \frac{1-1}{1+b}
+  \right)
+  =0.
+  \]
 </div>
 
 ---
