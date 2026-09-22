@@ -855,6 +855,26 @@ b & 1 & 0 & 0 & \cdots & 0\\
   (-1)^{n+1}fb^{\,n-1}.
   }
   \]
+
+  <p>
+    We now prove the required formula by mathematical induction.
+  </p>
+
+  <p>
+    <strong>Base case.</strong>
+  </p>
+
+  <p>
+    When \(n=1\),
+  </p>
+
+  \[
+  D_1=
+  \begin{vmatrix}
+  0
+  \end{vmatrix}
+  =0.
+  \]
 </div>
 
 ---
