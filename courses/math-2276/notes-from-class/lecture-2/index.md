@@ -841,6 +841,20 @@ b & 1 & 0 & 0 & \cdots & 0\\
   \[
   f(-1)^{n+1}b^{\,n-1}.
   \]
+
+  <p>
+    Hence we obtain the recurrence
+  </p>
+
+  \[
+  \boxed{
+  D_n
+  =
+  D_{n-1}
+  +
+  (-1)^{n+1}fb^{\,n-1}.
+  }
+  \]
 </div>
 
 ---
