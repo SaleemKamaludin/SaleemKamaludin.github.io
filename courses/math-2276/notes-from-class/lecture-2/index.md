@@ -967,6 +967,31 @@ D_k
 
 </div>
 
+<div id="induction-step-start">
+
+<p style="margin-top: 1.2rem;">
+  <strong>Induction step.</strong>
+</p>
+
+<p>
+  We must show that
+</p>
+
+<div class="display-math">
+
+\[
+D_{k+1}
+=
+-fb
+\left(
+\frac{1+(-1)^{k+1}b^k}{1+b}
+\right).
+\]
+
+</div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
