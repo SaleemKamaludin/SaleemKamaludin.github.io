@@ -916,6 +916,27 @@ b & 1
 
 </div>
 
+<p>
+  The formula gives
+</p>
+
+<div class="display-math">
+
+\[
+-fb
+\left(
+\frac{1+(-1)^2b}{1+b}
+\right)
+=
+-fb
+\left(
+\frac{1+b}{1+b}
+\right)
+=-fb.
+\]
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
