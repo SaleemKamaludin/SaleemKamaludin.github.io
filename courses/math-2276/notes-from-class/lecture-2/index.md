@@ -945,6 +945,28 @@ b & 1
   <strong>Induction hypothesis.</strong>
 </p>
 
+<div id="induction-hypothesis-statement">
+
+<p>
+  Assume that the formula holds for some arbitrary
+  \(k\geq 1\). That is, suppose
+</p>
+
+<div class="display-math">
+
+\[
+D_k
+=
+-fb
+\left(
+\frac{1+(-1)^k b^{\,k-1}}{1+b}
+\right).
+\]
+
+</div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
