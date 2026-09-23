@@ -937,6 +937,14 @@ b & 1
 
 </div>
 
+<p>
+  Thus the formula also agrees for \(n=2\).
+</p>
+
+<p id="induction-hypothesis-heading" style="margin-top: 1.2rem;">
+  <strong>Induction hypothesis.</strong>
+</p>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
