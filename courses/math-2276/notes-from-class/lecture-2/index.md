@@ -894,6 +894,28 @@ b & 1 & 0 & 0 & \cdots & 0\\
   \]
 </div>
 
+<p>
+  Thus the result holds for \(n=1\).
+</p>
+
+<p>
+  For additional verification, when \(n=2\),
+</p>
+
+<div class="display-math">
+
+\[
+D_2
+=
+\begin{vmatrix}
+0 & f\\
+b & 1
+\end{vmatrix}
+=-fb.
+\]
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
