@@ -992,6 +992,26 @@ D_{k+1}
 
 </div>
 
+<div id="induction-step-recurrence">
+
+<p>
+  Using the recurrence relation with \(n=k+1\), we have
+</p>
+
+<div class="display-math">
+
+\[
+D_{k+1}
+=
+D_k
++
+(-1)^{k+2}fb^k.
+\]
+
+</div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
