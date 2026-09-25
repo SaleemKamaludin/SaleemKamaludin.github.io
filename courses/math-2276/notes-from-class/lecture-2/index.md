@@ -1088,6 +1088,31 @@ D_{k+1}
 
 </div>
 
+<div id="induction-step-common-denominator">
+
+<p>
+  Putting the terms over the common denominator \(1+b\), we obtain
+</p>
+
+<div class="display-math">
+
+\[
+D_{k+1}
+=
+-fb
+\left[
+\frac{
+1+(-1)^k b^{\,k-1}
+-
+(-1)^k b^{\,k-1}(1+b)
+}{1+b}
+\right].
+\]
+
+</div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
