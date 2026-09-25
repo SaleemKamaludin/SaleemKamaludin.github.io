@@ -1194,6 +1194,39 @@ D_{k+1}
 
 </div>
 
+<div id="induction-proof-conclusion">
+
+<p>
+  This is precisely the required formula for \(n=k+1\).
+</p>
+
+<p>
+  Therefore, by the Principle of Mathematical Induction,
+</p>
+
+<div class="display-math">
+
+\[
+\boxed{
+D_n
+=
+-fb
+\left(
+\frac{1+(-1)^n b^{\,n-1}}{1+b}
+\right)
+}
+\]
+
+</div>
+
+<p>
+  for every \(n\geq 1\), provided \(b\neq -1\).
+</p>
+
+<div style="text-align: right;">&#9633;</div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
