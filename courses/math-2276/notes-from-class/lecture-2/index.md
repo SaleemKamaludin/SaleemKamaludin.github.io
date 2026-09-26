@@ -1349,6 +1349,44 @@ D_n
     </div>
 
     </div>
+
+    <div id="remark-alternative-form-conclusion">
+
+    <p>
+      we obtain
+    </p>
+
+    <div class="display-math">
+
+    \[
+    \boxed{
+    \frac{1+(-1)^n b^{\,n-1}}{1+b}
+    =
+    1-b+b^2-b^3+\cdots+(-b)^{n-2}.
+    }
+    \]
+
+    </div>
+
+    <p>
+      Hence, for \(n\geq 2\),
+    </p>
+
+    <div class="display-math">
+
+    \[
+    \boxed{
+    D_n
+    =
+    -fb\left(
+    1-b+b^2-b^3+\cdots+(-b)^{n-2}
+    \right).
+    }
+    \]
+
+    </div>
+
+    </div>
   </div>
 
 </div>
