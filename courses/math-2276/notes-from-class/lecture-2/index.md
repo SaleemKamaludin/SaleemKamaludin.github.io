@@ -1240,6 +1240,36 @@ D_n
       form contains the denominator \(1+b\).
     </p>
 
+    <p>
+      If \(b=-1\), then the recurrence becomes
+    </p>
+
+    <div class="display-math">
+
+    \[
+    D_n
+    =
+    D_{n-1}
+    +
+    (-1)^{n+1}f(-1)^{n-1}
+    =
+    D_{n-1}+f.
+    \]
+
+    </div>
+
+    <p>
+      Since \(D_1=0\), it follows that
+    </p>
+
+    <div class="display-math">
+
+    \[
+    \boxed{D_n=(n-1)f.}
+    \]
+
+    </div>
+
   </div>
 
 </div>
