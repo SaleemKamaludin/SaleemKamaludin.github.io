@@ -1387,6 +1387,26 @@ D_n
     </div>
 
     </div>
+
+    <div id="remark-alternative-form-summation">
+
+    <p>
+      Equivalently,
+    </p>
+
+    <div class="display-math">
+
+    \[
+    \boxed{
+    D_n
+    =
+    -fb\sum_{j=0}^{n-2}(-b)^j.
+    }
+    \]
+
+    </div>
+
+    </div>
   </div>
 
 </div>
