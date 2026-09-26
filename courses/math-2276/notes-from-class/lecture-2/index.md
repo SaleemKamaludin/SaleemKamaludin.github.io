@@ -1303,6 +1303,52 @@ D_n
 
     </div>
 
+
+    <div id="remark-alternative-form-geometric-sum">
+
+    <p>
+      Notice that the fraction is a finite geometric sum. Indeed,
+    </p>
+
+    <div class="display-math">
+
+    \[
+    1-b+b^2-b^3+\cdots+(-b)^{n-2}
+    =
+    \sum_{j=0}^{n-2}(-b)^j.
+    \]
+
+    </div>
+
+    <p>
+      Using the finite geometric series formula,
+    </p>
+
+    <div class="display-math">
+
+    \[
+    \sum_{j=0}^{n-2}(-b)^j
+    =
+    \frac{1-(-b)^{\,n-1}}{1-(-b)}
+    =
+    \frac{1-(-1)^{n-1}b^{\,n-1}}{1+b}.
+    \]
+
+    </div>
+
+    <p>
+      Since
+    </p>
+
+    <div class="display-math">
+
+    \[
+    -(-1)^{n-1}=(-1)^n,
+    \]
+
+    </div>
+
+    </div>
   </div>
 
 </div>
