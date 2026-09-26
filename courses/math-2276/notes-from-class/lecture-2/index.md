@@ -1274,6 +1274,39 @@ D_n
 
 </div>
 
+<div id="remark-alternative-form" class="math-env remark">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Remark 1.2</span>
+
+    <span class="math-env-title">
+      A useful alternative form
+    </span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Recall that
+    </p>
+
+    <div class="display-math">
+
+    \[
+    D_n
+    =
+    -fb\left(
+    \frac{1+(-1)^n b^{\,n-1}}{1+b}
+    \right),
+    \qquad b\neq -1.
+    \]
+
+    </div>
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
