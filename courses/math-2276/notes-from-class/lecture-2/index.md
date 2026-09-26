@@ -1227,6 +1227,23 @@ D_n
 
 </div>
 
+<div id="remark-closed-form-restriction" class="math-env remark">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Remark 1.1</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      The restriction \(b\neq -1\) is required only because the closed
+      form contains the denominator \(1+b\).
+    </p>
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
