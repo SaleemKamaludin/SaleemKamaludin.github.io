@@ -1442,6 +1442,48 @@ D_n
       cannot be used directly because its denominator becomes zero.
     </p>
 
+
+    <div id="remark-special-case-finite-sum">
+
+    <p>
+      Instead, use the equivalent finite-sum expression
+    </p>
+
+    <div class="display-math">
+
+    \[
+    D_n
+    =
+    -fb\sum_{j=0}^{n-2}(-b)^j.
+    \]
+
+    </div>
+
+    <p>
+      If \(b=-1\), then
+    </p>
+
+    <div class="display-math">
+
+    \[
+    -b=1
+    \]
+
+    </div>
+
+    <p>
+      and
+    </p>
+
+    <div class="display-math">
+
+    \[
+    -fb=-f(-1)=f.
+    \]
+
+    </div>
+
+    </div>
   </div>
 
 </div>
