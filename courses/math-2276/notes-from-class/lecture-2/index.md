@@ -1536,6 +1536,33 @@ D_n
 
 </div>
 
+<div id="final-closed-form-summary">
+
+<p>
+  Thus, for \(n\geq 1\),
+</p>
+
+<div class="display-math">
+
+\[
+\boxed{
+D_n=
+\begin{cases}
+\displaystyle
+-fb\left(
+\frac{1+(-1)^n b^{\,n-1}}{1+b}
+\right),
+& b\neq -1,\\[4mm]
+(n-1)f,
+& b=-1.
+\end{cases}
+}
+\]
+
+</div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
