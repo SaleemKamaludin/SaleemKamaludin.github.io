@@ -1502,6 +1502,36 @@ D_n
     </div>
 
     </div>
+
+    <div id="remark-special-case-conclusion">
+
+    <p>
+      Since there are \(n-1\) terms in the sum,
+    </p>
+
+    <div class="display-math">
+
+    \[
+    \sum_{j=0}^{n-2}1=n-1.
+    \]
+
+    </div>
+
+    <p>
+      Hence
+    </p>
+
+    <div class="display-math">
+
+    \[
+    \boxed{
+    D_n=(n-1)f.
+    }
+    \]
+
+    </div>
+
+    </div>
   </div>
 
 </div>
