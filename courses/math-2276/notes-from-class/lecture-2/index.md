@@ -1484,6 +1484,24 @@ D_n
     </div>
 
     </div>
+
+    <div id="remark-special-case-sum-of-ones">
+
+    <p>
+      Therefore,
+    </p>
+
+    <div class="display-math">
+
+    \[
+    D_n
+    =
+    f\sum_{j=0}^{n-2}1.
+    \]
+
+    </div>
+
+    </div>
   </div>
 
 </div>
