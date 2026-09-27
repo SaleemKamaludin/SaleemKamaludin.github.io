@@ -1411,6 +1411,41 @@ D_n
 
 </div>
 
+<div id="remark-special-case-b-minus-one" class="math-env remark">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Remark 1.3</span>
+
+    <span class="math-env-title">
+      The special case \(b=-1\)
+    </span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      The determinant \(D_n\) is still perfectly well defined when
+      \(b=-1\). The only problem is that the rational form
+    </p>
+
+    <div class="display-math">
+
+    \[
+    -fb\left(
+    \frac{1+(-1)^n b^{\,n-1}}{1+b}
+    \right)
+    \]
+
+    </div>
+
+    <p>
+      cannot be used directly because its denominator becomes zero.
+    </p>
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
