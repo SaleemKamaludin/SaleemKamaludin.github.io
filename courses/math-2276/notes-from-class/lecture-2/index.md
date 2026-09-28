@@ -1603,6 +1603,16 @@ D_n=
     </div>
 
     </div>
+
+    <div id="remark-choice-cofactor-expansion-recurrence-intro">
+
+    <p>
+      Moreover, the contribution from the entry \(1\) immediately produces
+      the smaller determinant \(D_{n-1}\). This leads naturally to the
+      recurrence
+    </p>
+
+    </div>
   </div>
 
 </div>
