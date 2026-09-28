@@ -1613,6 +1613,22 @@ D_n=
     </p>
 
     </div>
+
+    <div id="remark-choice-cofactor-expansion-recurrence">
+
+    <div class="display-math">
+
+    \[
+    D_n
+    =
+    D_{n-1}
+    +
+    (-1)^{n+1}fb^{\,n-1},
+    \]
+
+    </div>
+
+    </div>
   </div>
 
 </div>
