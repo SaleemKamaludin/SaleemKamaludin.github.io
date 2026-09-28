@@ -1563,6 +1563,27 @@ D_n=
 
 </div>
 
+<div id="remark-choice-cofactor-expansion" class="math-env remark">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Remark 1.4</span>
+
+    <span class="math-env-title">
+      Choice of cofactor expansion
+    </span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      When evaluating \(D_n\), it is inefficient to expand along the first
+      row, since that row contains \(n-1\) nonzero entries equal to \(f\).
+    </p>
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
