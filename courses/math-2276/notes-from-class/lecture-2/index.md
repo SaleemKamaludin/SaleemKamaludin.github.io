@@ -1629,6 +1629,14 @@ D_n=
     </div>
 
     </div>
+
+    <div id="remark-choice-cofactor-expansion-conclusion">
+
+    <p>
+      which is much easier to work with.
+    </p>
+
+    </div>
   </div>
 
 </div>
