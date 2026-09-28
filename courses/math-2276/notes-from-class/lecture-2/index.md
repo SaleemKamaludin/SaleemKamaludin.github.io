@@ -1589,6 +1589,20 @@ D_n=
     </p>
 
     </div>
+
+    <div id="remark-choice-cofactor-expansion-entries">
+
+    <div class="display-math">
+
+    \[
+    f \quad \text{in position }(1,n),
+    \qquad
+    1 \quad \text{in position }(n,n).
+    \]
+
+    </div>
+
+    </div>
   </div>
 
 </div>
