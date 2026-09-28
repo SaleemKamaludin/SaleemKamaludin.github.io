@@ -1580,6 +1580,15 @@ D_n=
       row, since that row contains \(n-1\) nonzero entries equal to \(f\).
     </p>
 
+
+    <div id="remark-choice-cofactor-expansion-last-column">
+
+    <p>
+      Instead, expand along the last column. The last column contains only
+      two nonzero entries:
+    </p>
+
+    </div>
   </div>
 
 </div>
