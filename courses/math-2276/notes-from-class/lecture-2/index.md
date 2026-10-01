@@ -1737,6 +1737,25 @@ D_n=
 
   </div>
 
+
+  <div id="example-1-2-proof-a-contribution">
+
+  <p>
+    Expanding \(D_n\) along the last column, the contribution from the
+    entry \(a\) is
+  </p>
+
+  <div class="display-math">
+
+  \[
+  a(-1)^{n+n}D_{n-1}
+  =
+  aD_{n-1}.
+  \]
+
+  </div>
+
+  </div>
 </div>
 
 ---
