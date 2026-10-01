@@ -1670,6 +1670,34 @@ D_n=
     \]
 
     </div>
+
+    <div id="example-determinant-new-induction-statement">
+
+    <p>
+      Show by mathematical induction that, for \(n\geq 1\) and
+      \(a+b\neq 0\),
+    </p>
+
+    <div class="display-math">
+
+    \[
+    \boxed{
+    D_n
+    =
+    -fb
+    \left(
+    \frac{
+    a^{\,n-1}+(-1)^n b^{\,n-1}
+    }{
+    a+b
+    }
+    \right).
+    }
+    \]
+
+    </div>
+
+    </div>
   </div>
 
 </div>
