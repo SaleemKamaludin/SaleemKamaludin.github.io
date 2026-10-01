@@ -1810,6 +1810,28 @@ D_n=
   </div>
 
   </div>
+
+  <div id="example-1-2-proof-recurrence">
+
+  <p>
+    Hence
+  </p>
+
+  <div class="display-math">
+
+  \[
+  \boxed{
+  D_n
+  =
+  aD_{n-1}
+  +
+  (-1)^{n+1}fb^{\,n-1}.
+  }
+  \]
+
+  </div>
+
+  </div>
 </div>
 
 ---
