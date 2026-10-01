@@ -1641,6 +1641,22 @@ D_n=
 
 </div>
 
+<div id="example-determinant-new" class="math-env example">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Example 1.2</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Let \(D_n\) denote the determinant
+    </p>
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
