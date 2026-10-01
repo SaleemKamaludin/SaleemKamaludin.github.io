@@ -1794,6 +1794,22 @@ D_n=
   </div>
 
   </div>
+
+  <div id="example-1-2-proof-upper-triangular">
+
+  <p>
+    This matrix is upper triangular, so its determinant is
+  </p>
+
+  <div class="display-math">
+
+  \[
+  b^{\,n-1}.
+  \]
+
+  </div>
+
+  </div>
 </div>
 
 ---
