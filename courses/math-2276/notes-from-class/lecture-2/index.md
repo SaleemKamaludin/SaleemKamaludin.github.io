@@ -1832,6 +1832,14 @@ D_n=
   </div>
 
   </div>
+
+  <div id="example-1-2-proof-induction-intro">
+
+  <p>
+    We now prove the required closed form by mathematical induction.
+  </p>
+
+  </div>
 </div>
 
 ---
