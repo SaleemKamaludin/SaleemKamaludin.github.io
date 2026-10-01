@@ -1772,6 +1772,28 @@ D_n=
   </div>
 
   </div>
+
+  <div id="example-1-2-proof-remaining-matrix">
+
+  <p>
+    After deleting row \(1\) and column \(n\), the remaining matrix is
+  </p>
+
+  <div class="display-math">
+
+  \[
+  \begin{pmatrix}
+  b & a & 0 & \cdots & 0\\
+  0 & b & a & \ddots & \vdots\\
+  0 & 0 & b & \ddots & 0\\
+  \vdots & \ddots & \ddots & \ddots & a\\
+  0 & \cdots & 0 & 0 & b
+  \end{pmatrix}.
+  \]
+
+  </div>
+
+  </div>
 </div>
 
 ---
