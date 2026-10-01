@@ -1756,6 +1756,22 @@ D_n=
   </div>
 
   </div>
+
+  <div id="example-1-2-proof-f-cofactor-sign">
+
+  <p>
+    For the entry \(f\) in position \((1,n)\), the cofactor sign is
+  </p>
+
+  <div class="display-math">
+
+  \[
+  (-1)^{1+n}.
+  \]
+
+  </div>
+
+  </div>
 </div>
 
 ---
