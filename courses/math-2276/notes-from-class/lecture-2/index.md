@@ -1653,6 +1653,23 @@ D_n=
       Let \(D_n\) denote the determinant
     </p>
 
+
+    <div id="example-determinant-new-matrix" class="display-math">
+
+    \[
+    D_n=
+    \begin{vmatrix}
+    0 & f & f & f & \cdots & f & f\\
+    b & a & 0 & 0 & \cdots & 0 & 0\\
+    0 & b & a & 0 & \cdots & 0 & 0\\
+    0 & 0 & b & a & \ddots & 0 & 0\\
+    \vdots & \vdots & \ddots & \ddots & \ddots & \vdots & \vdots\\
+    0 & 0 & \cdots & 0 & b & a & 0\\
+    0 & 0 & \cdots & 0 & 0 & b & a
+    \end{vmatrix}.
+    \]
+
+    </div>
   </div>
 
 </div>
