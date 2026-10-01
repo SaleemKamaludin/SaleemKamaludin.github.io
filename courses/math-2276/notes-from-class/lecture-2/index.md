@@ -1702,6 +1702,43 @@ D_n=
 
 </div>
 
+<div id="example-1-2-proof" class="proof">
+
+  <div class="proof-title">
+    Proof.
+  </div>
+
+  <p>
+    We first derive a recurrence relation for \(D_n\).
+  </p>
+
+  <p>
+    Consider the last column of the determinant. It contains only two
+    nonzero entries:
+  </p>
+
+  <div class="display-math">
+
+  \[
+  f \quad \text{in position }(1,n),
+  \]
+
+  </div>
+
+  <p>
+    and
+  </p>
+
+  <div class="display-math">
+
+  \[
+  a \quad \text{in position }(n,n).
+  \]
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
