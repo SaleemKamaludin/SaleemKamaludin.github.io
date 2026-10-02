@@ -1894,6 +1894,40 @@ D_n=
   </div>
 
   </div>
+
+  <div id="example-1-2-proof-induction-hypothesis">
+
+  <p>
+    Thus the formula is correct for \(n=1\).
+  </p>
+
+  <p style="margin-top: 1.2rem;">
+    <strong>Induction hypothesis.</strong>
+  </p>
+
+  <p>
+    Assume that the result holds for some arbitrary integer \(k\geq 1\).
+    That is, assume
+  </p>
+
+  <div class="display-math">
+
+  \[
+  D_k
+  =
+  -fb
+  \left(
+  \frac{
+  a^{\,k-1}+(-1)^k b^{\,k-1}
+  }{
+  a+b
+  }
+  \right).
+  \]
+
+  </div>
+
+  </div>
 </div>
 
 ---
