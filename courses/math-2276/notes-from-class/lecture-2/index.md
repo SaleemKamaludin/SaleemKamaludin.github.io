@@ -1928,6 +1928,35 @@ D_n=
   </div>
 
   </div>
+
+  <div id="example-1-2-proof-induction-step">
+
+  <p style="margin-top: 1.2rem;">
+    <strong>Induction step.</strong>
+  </p>
+
+  <p>
+    We must show that
+  </p>
+
+  <div class="display-math">
+
+  \[
+  D_{k+1}
+  =
+  -fb
+  \left(
+  \frac{
+  a^k+(-1)^{k+1}b^k
+  }{
+  a+b
+  }
+  \right).
+  \]
+
+  </div>
+
+  </div>
 </div>
 
 ---
