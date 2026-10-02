@@ -1865,6 +1865,35 @@ D_n=
   </div>
 
   </div>
+
+  <div id="example-1-2-proof-base-case-formula-check">
+
+  <p>
+    The proposed formula gives
+  </p>
+
+  <div class="display-math">
+
+  \[
+  -fb
+  \left(
+  \frac{
+  a^{\,1-1}+(-1)^1b^{\,1-1}
+  }{
+  a+b
+  }
+  \right)
+  =
+  -fb
+  \left(
+  \frac{1-1}{a+b}
+  \right)
+  =0.
+  \]
+
+  </div>
+
+  </div>
 </div>
 
 ---
