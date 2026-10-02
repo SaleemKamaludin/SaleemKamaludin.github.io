@@ -1840,6 +1840,31 @@ D_n=
   </p>
 
   </div>
+
+  <div id="example-1-2-proof-base-case">
+
+  <p style="margin-top: 1.2rem;">
+    <strong>Base case.</strong>
+  </p>
+
+  <p>
+    When \(n=1\),
+  </p>
+
+  <div class="display-math">
+
+  \[
+  D_1
+  =
+  \begin{vmatrix}
+  0
+  \end{vmatrix}
+  =0.
+  \]
+
+  </div>
+
+  </div>
 </div>
 
 ---
