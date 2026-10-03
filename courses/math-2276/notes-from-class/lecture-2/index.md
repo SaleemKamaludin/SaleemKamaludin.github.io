@@ -2166,6 +2166,39 @@ D_n=
   </p>
 
   </div>
+
+  <div id="example-1-2-proof-conclusion">
+
+  <p>
+    Hence, by the Principle of Mathematical Induction,
+  </p>
+
+  <div class="display-math">
+
+  \[
+  \boxed{
+  D_n
+  =
+  -fb
+  \left(
+  \frac{
+  a^{\,n-1}+(-1)^n b^{\,n-1}
+  }{
+  a+b
+  }
+  \right)
+  }
+  \]
+
+  </div>
+
+  <p>
+    for every \(n\geq 1\), provided \(a+b\neq 0\).
+  </p>
+
+  <div style="text-align: right;">&#9633;</div>
+
+  </div>
 </div>
 
 ---
