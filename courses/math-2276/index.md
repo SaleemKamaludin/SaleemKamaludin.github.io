@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: MATH 2276 — Discrete Mathematics
 permalink: /courses/math-2276/
@@ -16,6 +16,9 @@ This page contains course material and supplementary resources for the course.
 
 - **[Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})**  
   Typed and expanded versions of material developed during lectures.
+
+- **[Coursework and Final Exam Practice Questions]({{ '/courses/math-2276/practice-questions/' | relative_url }})**  
+  Practice questions for coursework examinations and final examination revision.
 
 ---
 
