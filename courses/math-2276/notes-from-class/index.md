@@ -16,7 +16,7 @@ They are intended to supplement the material presented in class.
 
 Lecture material will be organized here by topic.
 
-- **[Lecture 2 Notes]({{ '/courses/math-2276/notes-from-class/lecture-2/' | relative_url }})**
+- **[Lecture 2 & 3 Notes]({{ '/courses/math-2276/notes-from-class/lecture-2/' | relative_url }})**
 
 
 ---
