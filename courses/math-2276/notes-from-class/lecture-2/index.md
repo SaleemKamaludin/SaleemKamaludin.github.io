@@ -1957,6 +1957,26 @@ D_n=
   </div>
 
   </div>
+
+  <div id="example-1-2-proof-recurrence-k-plus-one">
+
+  <p>
+    Using the recurrence relation,
+  </p>
+
+  <div class="display-math">
+
+  \[
+  D_{k+1}
+  =
+  aD_k
+  +
+  (-1)^{k+2}fb^k.
+  \]
+
+  </div>
+
+  </div>
 </div>
 
 ---
