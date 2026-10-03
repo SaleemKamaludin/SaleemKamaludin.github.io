@@ -1977,6 +1977,130 @@ D_n=
   </div>
 
   </div>
+
+  <div id="example-1-2-proof-induction-algebra">
+
+  <p>
+    Since
+  </p>
+
+  <div class="display-math">
+
+  \[
+  (-1)^{k+2}=(-1)^k,
+  \]
+
+  </div>
+
+  <p>
+    we obtain
+  </p>
+
+  <div class="display-math">
+
+  \[
+  D_{k+1}
+  =
+  aD_k+(-1)^kfb^k.
+  \]
+
+  </div>
+
+  <p>
+    Substituting the induction hypothesis gives
+  </p>
+
+  <div class="display-math">
+
+  \[
+  D_{k+1}
+  =
+  a\left[
+  -fb
+  \left(
+  \frac{
+  a^{\,k-1}+(-1)^k b^{\,k-1}
+  }{
+  a+b
+  }
+  \right)
+  \right]
+  +
+  (-1)^kfb^k.
+  \]
+
+  </div>
+
+  <p>
+    Thus
+  </p>
+
+  <div class="display-math">
+
+  \[
+  D_{k+1}
+  =
+  -fb
+  \left(
+  \frac{
+  a^k+(-1)^k ab^{\,k-1}
+  }{
+  a+b
+  }
+  \right)
+  +
+  (-1)^kfb^k.
+  \]
+
+  </div>
+
+  <p>
+    Factor \(-fb\) from both terms:
+  </p>
+
+  <div class="display-math">
+
+  \[
+  D_{k+1}
+  =
+  -fb
+  \left[
+  \frac{
+  a^k+(-1)^k ab^{\,k-1}
+  }{
+  a+b
+  }
+  +
+  (-1)^{k+1}b^{\,k-1}
+  \right].
+  \]
+
+  </div>
+
+  <p>
+    Putting the terms over the common denominator \(a+b\),
+  </p>
+
+  <div class="display-math">
+
+  \[
+  D_{k+1}
+  =
+  -fb
+  \left[
+  \frac{
+  a^k
+  +(-1)^kab^{\,k-1}
+  +(-1)^{k+1}b^{\,k-1}(a+b)
+  }{
+  a+b
+  }
+  \right].
+  \]
+
+  </div>
+
+  </div>
 </div>
 
 ---
