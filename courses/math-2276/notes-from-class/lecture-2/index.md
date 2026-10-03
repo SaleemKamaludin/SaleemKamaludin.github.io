@@ -2101,6 +2101,71 @@ D_n=
   </div>
 
   </div>
+
+  <div id="example-1-2-proof-cancellation">
+
+  <p>
+    Expanding the numerator gives
+  </p>
+
+  <div class="display-math">
+
+  \[
+  D_{k+1}
+  =
+  -fb
+  \left[
+  \frac{
+  a^k
+  +(-1)^kab^{\,k-1}
+  +(-1)^{k+1}ab^{\,k-1}
+  +(-1)^{k+1}b^k
+  }{
+  a+b
+  }
+  \right].
+  \]
+
+  </div>
+
+  <p>
+    Since
+  </p>
+
+  <div class="display-math">
+
+  \[
+  (-1)^k+(-1)^{k+1}=0,
+  \]
+
+  </div>
+
+  <p>
+    the middle two terms cancel. Therefore,
+  </p>
+
+  <div class="display-math">
+
+  \[
+  D_{k+1}
+  =
+  -fb
+  \left(
+  \frac{
+  a^k+(-1)^{k+1}b^k
+  }{
+  a+b
+  }
+  \right).
+  \]
+
+  </div>
+
+  <p>
+    This is precisely the required formula for \(n=k+1\).
+  </p>
+
+  </div>
 </div>
 
 ---
