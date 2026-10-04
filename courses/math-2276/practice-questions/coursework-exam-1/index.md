@@ -312,6 +312,30 @@ These questions are provided for additional practice for **Coursework Exam 1** a
 
 </div>
 
+<div id="cw1-question-6" class="math-env exercise">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Question 6</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Let \(G\) be a connected graph, and let \(C\) be any circuit in \(G\)
+      that does not contain every vertex of \(G\). Let \(G'\) be the subgraph
+      obtained by removing all the edges of \(C\) from \(G\) and also any
+      vertices that become isolated when the edges of \(C\) are removed.
+    </p>
+
+    <p>
+      Prove that there exists a vertex \(v\) such that \(v\) is in both
+      \(C\) and \(G'\).
+    </p>
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Practice Questions]({{ '/courses/math-2276/practice-questions/' | relative_url }})
