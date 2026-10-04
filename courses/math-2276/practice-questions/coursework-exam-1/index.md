@@ -222,6 +222,144 @@ These questions are provided for additional practice for **Coursework Exam 1** a
 
 </div>
 
+<div id="cw1-question-5" class="math-env exercise">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Question 5</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      For parts (i)&ndash;(x) below, either draw a graph with the specified
+      properties or justify why no such graph exists.
+    </p>
+
+    <ol type="i">
+
+      <li>
+        <p>
+          A simple graph with six vertices of degrees
+        </p>
+
+        <div class="display-math">
+
+        \[
+        1,\,1,\,2,\,2,\,3,\,3.
+        \]
+
+        </div>
+
+        <p style="text-align: right;">[3]</p>
+      </li>
+
+      <li>
+        <p>
+          A simple graph with six vertices of degrees
+        </p>
+
+        <div class="display-math">
+
+        \[
+        1,\,1,\,2,\,2,\,2,\,3.
+        \]
+
+        </div>
+
+        <p style="text-align: right;">[3]</p>
+      </li>
+
+      <li>
+        <p>
+          A simple graph with seven vertices, each of degree \(2\).
+        </p>
+
+        <p style="text-align: right;">[3]</p>
+      </li>
+
+      <li>
+        <p>
+          A simple graph with five vertices of degrees
+        </p>
+
+        <div class="display-math">
+
+        \[
+        0,\,1,\,1,\,4,\,4.
+        \]
+
+        </div>
+
+        <p style="text-align: right;">[3]</p>
+      </li>
+
+      <li>
+        <p>
+          A simple graph with eight vertices of degrees
+        </p>
+
+        <div class="display-math">
+
+        \[
+        1,\,1,\,2,\,2,\,3,\,3,\,4,\,4.
+        \]
+
+        </div>
+
+        <p style="text-align: right;">[3]</p>
+      </li>
+
+      <li>
+        <p>
+          A simple graph with fifteen edges in which every vertex has
+          degree \(3\).
+        </p>
+
+        <p style="text-align: right;">[3]</p>
+      </li>
+
+      <li>
+        <p>
+          A simple graph with fourteen edges in which every vertex has
+          degree \(4\).
+        </p>
+
+        <p style="text-align: right;">[3]</p>
+      </li>
+
+      <li>
+        <p>
+          A simple graph with ten edges in which every vertex has
+          degree \(3\).
+        </p>
+
+        <p style="text-align: right;">[3]</p>
+      </li>
+
+      <li>
+        <p>
+          A simple graph with six edges in which every vertex has
+          degree \(4\).
+        </p>
+
+        <p style="text-align: right;">[3]</p>
+      </li>
+
+      <li>
+        <p>
+          A simple graph with twenty-one edges in which every vertex has
+          degree \(6\).
+        </p>
+
+        <p style="text-align: right;">[3]</p>
+      </li>
+
+    </ol>
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Practice Questions]({{ '/courses/math-2276/practice-questions/' | relative_url }})
