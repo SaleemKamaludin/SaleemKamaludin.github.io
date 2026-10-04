@@ -126,6 +126,51 @@ These questions are provided for additional practice for **Coursework Exam 1** a
 
 </div>
 
+<div id="cw1-question-3" class="math-env exercise">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Question 3</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Let \(T_n\) be the determinant of the \(n\times n\) matrix
+    </p>
+
+    <div class="display-math">
+
+    \[
+    T_n=
+    \begin{vmatrix}
+    2 & -1 & 0 & 0 & \cdots & 0\\
+    -1 & 2 & -1 & 0 & \cdots & 0\\
+    0 & -1 & 2 & -1 & \cdots & 0\\
+    0 & 0 & -1 & 2 & \ddots & \vdots\\
+    \vdots & \vdots & \vdots & \ddots & \ddots & -1\\
+    0 & 0 & 0 & \cdots & -1 & 2
+    \end{vmatrix}.
+    \]
+
+    </div>
+
+    <p>
+      Prove, by mathematical induction, that for every integer
+      \(n\geq 1\),
+    </p>
+
+    <div class="display-math">
+
+    \[
+    T_n=n+1.
+    \]
+
+    </div>
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Practice Questions]({{ '/courses/math-2276/practice-questions/' | relative_url }})
