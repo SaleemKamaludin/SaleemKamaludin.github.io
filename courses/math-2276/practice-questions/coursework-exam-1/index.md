@@ -249,8 +249,6 @@ These questions are provided for additional practice for **Coursework Exam 1** a
         \]
 
         </div>
-
-        <p style="text-align: right;">[3]</p>
       </li>
 
       <li>
@@ -265,16 +263,12 @@ These questions are provided for additional practice for **Coursework Exam 1** a
         \]
 
         </div>
-
-        <p style="text-align: right;">[3]</p>
       </li>
 
       <li>
         <p>
           A simple graph with seven vertices, each of degree \(2\).
         </p>
-
-        <p style="text-align: right;">[3]</p>
       </li>
 
       <li>
@@ -289,8 +283,6 @@ These questions are provided for additional practice for **Coursework Exam 1** a
         \]
 
         </div>
-
-        <p style="text-align: right;">[3]</p>
       </li>
 
       <li>
@@ -305,8 +297,6 @@ These questions are provided for additional practice for **Coursework Exam 1** a
         \]
 
         </div>
-
-        <p style="text-align: right;">[3]</p>
       </li>
 
       <li>
@@ -314,8 +304,6 @@ These questions are provided for additional practice for **Coursework Exam 1** a
           A simple graph with fifteen edges in which every vertex has
           degree \(3\).
         </p>
-
-        <p style="text-align: right;">[3]</p>
       </li>
 
       <li>
@@ -323,8 +311,6 @@ These questions are provided for additional practice for **Coursework Exam 1** a
           A simple graph with fourteen edges in which every vertex has
           degree \(4\).
         </p>
-
-        <p style="text-align: right;">[3]</p>
       </li>
 
       <li>
@@ -332,8 +318,6 @@ These questions are provided for additional practice for **Coursework Exam 1** a
           A simple graph with ten edges in which every vertex has
           degree \(3\).
         </p>
-
-        <p style="text-align: right;">[3]</p>
       </li>
 
       <li>
@@ -341,8 +325,6 @@ These questions are provided for additional practice for **Coursework Exam 1** a
           A simple graph with six edges in which every vertex has
           degree \(4\).
         </p>
-
-        <p style="text-align: right;">[3]</p>
       </li>
 
       <li>
@@ -350,8 +332,6 @@ These questions are provided for additional practice for **Coursework Exam 1** a
           A simple graph with twenty-one edges in which every vertex has
           degree \(6\).
         </p>
-
-        <p style="text-align: right;">[3]</p>
       </li>
 
     </ol>
