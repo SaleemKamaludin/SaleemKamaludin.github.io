@@ -240,29 +240,15 @@ These questions are provided for additional practice for **Coursework Exam 1** a
       <li>
         <p>
           A simple graph with six vertices of degrees
+          \(1,\,1,\,2,\,2,\,3,\,3\).
         </p>
-
-        <div class="display-math">
-
-        \[
-        1,\,1,\,2,\,2,\,3,\,3.
-        \]
-
-        </div>
       </li>
 
       <li>
         <p>
           A simple graph with six vertices of degrees
+          \(1,\,1,\,2,\,2,\,2,\,3\).
         </p>
-
-        <div class="display-math">
-
-        \[
-        1,\,1,\,2,\,2,\,2,\,3.
-        \]
-
-        </div>
       </li>
 
       <li>
@@ -274,29 +260,15 @@ These questions are provided for additional practice for **Coursework Exam 1** a
       <li>
         <p>
           A simple graph with five vertices of degrees
+          \(0,\,1,\,1,\,4,\,4\).
         </p>
-
-        <div class="display-math">
-
-        \[
-        0,\,1,\,1,\,4,\,4.
-        \]
-
-        </div>
       </li>
 
       <li>
         <p>
           A simple graph with eight vertices of degrees
+          \(1,\,1,\,2,\,2,\,3,\,3,\,4,\,4\).
         </p>
-
-        <div class="display-math">
-
-        \[
-        1,\,1,\,2,\,2,\,3,\,3,\,4,\,4.
-        \]
-
-        </div>
       </li>
 
       <li>
