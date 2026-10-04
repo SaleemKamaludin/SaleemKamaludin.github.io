@@ -171,6 +171,57 @@ These questions are provided for additional practice for **Coursework Exam 1** a
 
 </div>
 
+<div id="cw1-question-4" class="math-env exercise">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Question 4</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Let \(H_n\) be the determinant of the \(n\times n\) matrix
+    </p>
+
+    <div class="display-math">
+
+    \[
+    H_n=
+    \begin{vmatrix}
+    7 & 3 & 3 & 3 & \cdots & 3 & 3\\
+    2 & 5 & 0 & 0 & \cdots & 0 & 0\\
+    0 & 2 & 5 & 0 & \cdots & 0 & 0\\
+    0 & 0 & 2 & 5 & \cdots & 0 & 0\\
+    \vdots & \vdots & \vdots & \ddots & \ddots & \vdots & \vdots\\
+    0 & 0 & 0 & 0 & \cdots & 2 & 5
+    \end{vmatrix}.
+    \]
+
+    </div>
+
+    <p>
+      Prove, by mathematical induction, that for every integer
+      \(n\geq 2\),
+    </p>
+
+    <div class="display-math">
+
+    \[
+    H_n
+    =
+    7(5^{\,n-1})
+    -
+    6\left(
+    \frac{5^{\,n-1}+(-1)^n2^{\,n-1}}{7}
+    \right).
+    \]
+
+    </div>
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Practice Questions]({{ '/courses/math-2276/practice-questions/' | relative_url }})
