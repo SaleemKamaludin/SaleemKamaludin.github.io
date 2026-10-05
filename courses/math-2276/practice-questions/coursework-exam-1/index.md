@@ -372,6 +372,28 @@ These questions are provided for additional practice for **Coursework Exam 1** a
 
 </div>
 
+<div id="cw1-question-8" class="math-env exercise">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Question 8</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Suppose that a circuit \(C\) in a graph \(G\) contains the vertices
+      \(u\) and \(v\).
+    </p>
+
+    <p>
+      Prove that there are two \(u\)-\(v\) paths contained in \(C\) that
+      have no edges in common.
+    </p>
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Practice Questions]({{ '/courses/math-2276/practice-questions/' | relative_url }})
