@@ -441,6 +441,82 @@ These questions are provided for additional practice for **Coursework Exam 1** a
 
 </div>
 
+<div id="cw1-question-11" class="math-env exercise">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Question 11</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <ol type="a">
+
+      <li>
+        <p>
+          Five engineers \(A,B,C,D,E\) are to be assigned to five inspection
+          sites \(P_1,P_2,P_3,P_4,P_5\), with exactly one engineer assigned
+          to each site. The estimated travel times, in minutes, are given in
+          the table below:
+        </p>
+
+        <div class="display-math">
+
+        \[
+        \begin{array}{c|ccccc}
+         & A & B & C & D & E \\ \hline
+        P_1 & 57 & 62 & 61 & 52 & 83 \\
+        P_2 & 53 & 68 & 54 & 57 & 85 \\
+        P_3 & 44 & 67 & 56 & 69 & 73 \\
+        P_4 & 51 & 69 & 69 & 58 & 41 \\
+        P_5 & 66 & 37 & 80 & 78 & 78
+        \end{array}
+        \]
+
+        </div>
+
+        <p>
+          Using the Hungarian algorithm, determine the assignment of engineers
+          to inspection sites that minimizes the total travel time. Hence, find
+          the minimum total travel time.
+        </p>
+      </li>
+
+      <li>
+        <p>
+          Five consultants \(A,B,C,D,E\) are to be assigned to five client
+          offices \(Q_1,Q_2,Q_3,Q_4,Q_5\), with exactly one consultant assigned
+          to each office. The estimated travelling costs, in dollars, are shown
+          below:
+        </p>
+
+        <div class="display-math">
+
+        \[
+        \begin{array}{c|ccccc}
+         & A & B & C & D & E \\ \hline
+        Q_1 & 41 & 41 & 75 & 60 & 65 \\
+        Q_2 & 65 & 71 & 36 & 59 & 42 \\
+        Q_3 & 55 & 82 & 62 & 38 & 62 \\
+        Q_4 & 41 & 73 & 83 & 84 & 66 \\
+        Q_5 & 79 & 53 & 42 & 61 & 57
+        \end{array}
+        \]
+
+        </div>
+
+        <p>
+          Using the Hungarian algorithm, determine the assignment of consultants
+          to client offices that minimizes the total travelling cost. Hence,
+          find the minimum total travelling cost.
+        </p>
+      </li>
+
+    </ol>
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Practice Questions]({{ '/courses/math-2276/practice-questions/' | relative_url }})
