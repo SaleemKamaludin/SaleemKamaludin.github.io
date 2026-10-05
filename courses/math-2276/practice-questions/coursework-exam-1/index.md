@@ -517,6 +517,43 @@ These questions are provided for additional practice for **Coursework Exam 1** a
 
 </div>
 
+<div id="cw1-question-12" class="math-env exercise">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Question 12</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <ol type="a">
+
+      <li>
+        <p>
+          Prove that subtracting the same constant from every entry of a row
+          of a cost matrix does not change which assignment minimizes the
+          total cost.
+        </p>
+      </li>
+
+      <li>
+        <p>
+          Suppose that, after performing the row and column reductions in the
+          Hungarian algorithm, an \(n\times n\) reduced cost matrix contains
+          \(n\) independent zeros.
+        </p>
+
+        <p>
+          Prove that selecting these \(n\) independent zeros gives an optimal
+          assignment.
+        </p>
+      </li>
+
+    </ol>
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Practice Questions]({{ '/courses/math-2276/practice-questions/' | relative_url }})
