@@ -336,6 +336,7 @@ These questions are provided for additional practice for **Coursework Exam 1** a
 
 </div>
 
+
 <div id="cw1-question-7" class="math-env exercise">
 
   <div class="math-env-heading">
@@ -344,38 +345,44 @@ These questions are provided for additional practice for **Coursework Exam 1** a
 
   <div class="math-env-body">
 
-    <ol type="i">
+    <p>
+      <strong>Prove or disprove the following.</strong>
+    </p>
 
-      <li>
-        <p>
-          <strong>Prove or disprove the following.</strong>
-        </p>
-
-        <p>
-          Let \(G\) be a connected graph, and let \(C\) be a circuit in \(G\)
-          that does not contain every vertex of \(G\). Then there exists an edge
-          \(uv\in E(G)\) such that \(u\in V(C)\) and \(v\notin V(C)\).
-        </p>
-      </li>
-
-      <li>
-        <p>
-          Prove that if there is a circuit in a graph that starts and ends at
-          a vertex \(v\), and if \(w\) is another vertex in the circuit, then
-          there is a circuit in the graph that starts and ends at \(w\).
-        </p>
-      </li>
-
-    </ol>
+    <p>
+      Let \(G\) be a connected graph, and let \(C\) be a circuit in \(G\)
+      that does not contain every vertex of \(G\). Then there exists an edge
+      \(uv\in E(G)\) such that \(u\in V(C)\) and \(v\notin V(C)\).
+    </p>
 
   </div>
 
 </div>
 
+
 <div id="cw1-question-8" class="math-env exercise">
 
   <div class="math-env-heading">
     <span class="math-env-tag">Question 8</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Prove that if there is a circuit in a graph that starts and ends at
+      a vertex \(v\), and if \(w\) is another vertex in the circuit, then
+      there is a circuit in the graph that starts and ends at \(w\).
+    </p>
+
+  </div>
+
+</div>
+
+
+<div id="cw1-question-9" class="math-env exercise">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Question 9</span>
   </div>
 
   <div class="math-env-body">
@@ -393,6 +400,7 @@ These questions are provided for additional practice for **Coursework Exam 1** a
   </div>
 
 </div>
+
 
 ---
 
