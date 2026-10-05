@@ -916,6 +916,131 @@ These supplementary notes contain typed and expanded material developed during L
 
 </div>
 
+<div id="supp-lecture-4-leaf-deletion-lemma" class="math-env lemma">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Lemma 1.1</span>
+    <span class="math-env-title">Leaf Deletion Lemma</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Let \(T\) be a tree and let \(v\) be a leaf of \(T\). If \(T'\) is
+      obtained from \(T\) by deleting \(v\) together with the unique edge
+      incident with \(v\), then \(T'\) is also a tree.
+    </p>
+
+  </div>
+
+</div>
+
+
+<div id="supp-lecture-4-leaf-deletion-proof" class="proof">
+
+  <div class="proof-title">Proof.</div>
+
+  <p>
+    Since \(T\) is a tree, it is connected and contains no cycles.
+  </p>
+
+  <p>
+    Let \(v\) be a leaf of \(T\), so
+  </p>
+
+  <div class="display-math">
+
+  \[
+  \deg(v)=1.
+  \]
+
+  </div>
+
+  <p>
+    Let \(T'\) be the graph obtained by deleting \(v\) and its unique
+    incident edge.
+  </p>
+
+  <p>
+    First, \(T'\) contains no cycles. Indeed, \(T'\) is a subgraph of \(T\),
+    and deleting a vertex and an edge cannot create a cycle. Since \(T\) is
+    acyclic, \(T'\) must also be acyclic.
+  </p>
+
+  <p>
+    It remains to show that \(T'\) is connected.
+  </p>
+
+  <p>
+    Let \(x,y\in V(T')\). Since \(T\) is connected, there exists an
+    \(x\)-\(y\) path \(P\) in \(T\).
+  </p>
+
+  <p>
+    We claim that \(P\) cannot contain \(v\).
+  </p>
+
+  <p>
+    Since \(x,y\in V(T')\), neither endpoint of \(P\) is \(v\). Thus, if
+    \(v\) were contained in \(P\), it would have to occur as an internal
+    vertex of the path.
+  </p>
+
+  <p>
+    However, every internal vertex of a path is incident with two distinct
+    edges of that path. This would imply
+  </p>
+
+  <div class="display-math">
+
+  \[
+  \deg(v)\geq 2,
+  \]
+
+  </div>
+
+  <p>
+    contradicting the fact that \(v\) is a leaf and hence
+    \(\deg(v)=1\).
+  </p>
+
+  <p>
+    Therefore, \(P\) does not contain \(v\), so the entire \(x\)-\(y\) path
+    lies in \(T'\).
+  </p>
+
+  <p>
+    Hence there is a path in \(T'\) between every pair of vertices
+    \(x,y\in V(T')\). Therefore, \(T'\) is connected.
+  </p>
+
+  <p>
+    Thus \(T'\) is both connected and acyclic. Hence \(T'\) is a tree.
+  </p>
+
+  <div style="text-align: right;">&#9633;</div>
+
+</div>
+
+
+<div id="supp-lecture-4-leaf-deletion-remark" class="math-env remark">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Remark 1.3</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Removing a leaf from a tree does not disconnect the remaining vertices
+      and cannot create a cycle; therefore, the remaining graph is still a
+      tree.
+    </p>
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
