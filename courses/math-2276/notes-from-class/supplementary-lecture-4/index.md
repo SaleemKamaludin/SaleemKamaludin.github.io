@@ -760,6 +760,162 @@ These supplementary notes contain typed and expanded material developed during L
 
 </div>
 
+<div id="supp-lecture-4-leaf-theorem" class="math-env theorem">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Theorem 1.3</span>
+    <span class="math-env-title">Leaf Theorem</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Every non-trivial finite tree has at least two leaves.
+    </p>
+
+  </div>
+
+</div>
+
+
+<div id="supp-lecture-4-leaf-theorem-proof" class="proof">
+
+  <div class="proof-title">Proof.</div>
+
+  <p>
+    Let \(T\) be a non-trivial finite tree. Since \(T\) is finite, there are
+    only finitely many paths in \(T\). Therefore, there exists a path of
+    maximum length.
+  </p>
+
+  <p>
+    Let
+  </p>
+
+  <div class="display-math">
+
+  \[
+  P=v_0v_1v_2\cdots v_k
+  \]
+
+  </div>
+
+  <p>
+    be such a longest path.
+  </p>
+
+  <p>
+    We show that both endpoints \(v_0\) and \(v_k\) have degree \(1\).
+  </p>
+
+  <p>
+    Suppose, for contradiction, that
+  </p>
+
+  <div class="display-math">
+
+  \[
+  \deg(v_0)\geq 2.
+  \]
+
+  </div>
+
+  <p>
+    Since \(v_0\) is adjacent to \(v_1\), there must be another vertex
+    \(w\neq v_1\) adjacent to \(v_0\).
+  </p>
+
+  <p>
+    There are two possibilities.
+  </p>
+
+  <p style="margin-top: 1.2rem;">
+    <strong>Case 1: \(w\) does not lie on \(P\).</strong>
+  </p>
+
+  <p>
+    Then
+  </p>
+
+  <div class="display-math">
+
+  \[
+  wv_0v_1v_2\cdots v_k
+  \]
+
+  </div>
+
+  <p>
+    is a path in \(T\) that is longer than \(P\). This contradicts the choice
+    of \(P\) as a path of maximum length.
+  </p>
+
+  <p style="margin-top: 1.2rem;">
+    <strong>Case 2: \(w\) lies on \(P\).</strong>
+  </p>
+
+  <p>
+    Since \(w\neq v_1\), we have \(w=v_i\) for some \(i\geq 2\). Then the edge
+    \(v_0w\), together with the portion
+  </p>
+
+  <div class="display-math">
+
+  \[
+  v_0v_1v_2\cdots v_i
+  \]
+
+  </div>
+
+  <p>
+    of \(P\), forms a cycle.
+  </p>
+
+  <p>
+    This contradicts the fact that \(T\) is a tree, since a tree contains no
+    cycles.
+  </p>
+
+  <p style="margin-top: 1.2rem;">
+    Both possibilities lead to a contradiction. Therefore,
+  </p>
+
+  <div class="display-math">
+
+  \[
+  \deg(v_0)=1.
+  \]
+
+  </div>
+
+  <p>
+    Hence \(v_0\) is a leaf.
+  </p>
+
+  <p>
+    By applying the same argument to the other endpoint \(v_k\), we obtain
+  </p>
+
+  <div class="display-math">
+
+  \[
+  \deg(v_k)=1.
+  \]
+
+  </div>
+
+  <p>
+    Thus \(v_k\) is also a leaf.
+  </p>
+
+  <p>
+    Since \(v_0\neq v_k\), the tree \(T\) has at least two distinct leaves.
+  </p>
+
+  <div style="text-align: right;">&#9633;</div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
