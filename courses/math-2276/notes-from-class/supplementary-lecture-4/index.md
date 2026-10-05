@@ -603,6 +603,163 @@ These supplementary notes contain typed and expanded material developed during L
 
 </div>
 
+<div id="supp-lecture-4-odd-degree-theorem" class="math-env theorem">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Theorem 1.2</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Let \(G\) be a finite undirected graph. Then the number of vertices of
+      odd degree in \(G\) is even.
+    </p>
+
+  </div>
+
+</div>
+
+
+<div id="supp-lecture-4-odd-degree-proof" class="proof">
+
+  <div class="proof-title">Proof.</div>
+
+  <p>
+    Partition the vertex set \(V(G)\) according to the parity of the vertex
+    degrees. Define
+  </p>
+
+  <div class="display-math">
+
+  \[
+  V_{\mathrm{even}}
+  =
+  \{v\in V(G):\deg(v)\text{ is even}\}
+  \]
+
+  </div>
+
+  <p>
+    and
+  </p>
+
+  <div class="display-math">
+
+  \[
+  V_{\mathrm{odd}}
+  =
+  \{v\in V(G):\deg(v)\text{ is odd}\}.
+  \]
+
+  </div>
+
+  <p>
+    Then
+  </p>
+
+  <div class="display-math">
+
+  \[
+  V(G)=V_{\mathrm{even}}\cup V_{\mathrm{odd}},
+  \]
+
+  </div>
+
+  <p>
+    where the two sets are disjoint. Hence,
+  </p>
+
+  <div class="display-math">
+
+  \[
+  \sum_{v\in V(G)}\deg(v)
+  =
+  \sum_{v\in V_{\mathrm{even}}}\deg(v)
+  +
+  \sum_{v\in V_{\mathrm{odd}}}\deg(v).
+  \]
+
+  </div>
+
+  <p>
+    By the Handshaking Lemma,
+  </p>
+
+  <div class="display-math">
+
+  \[
+  \sum_{v\in V(G)}\deg(v)=2|E(G)|,
+  \]
+
+  </div>
+
+  <p>
+    so the total degree sum is even.
+  </p>
+
+  <p>
+    Also,
+  </p>
+
+  <div class="display-math">
+
+  \[
+  \sum_{v\in V_{\mathrm{even}}}\deg(v)
+  \]
+
+  </div>
+
+  <p>
+    is even, since it is a sum of even integers. Therefore,
+  </p>
+
+  <div class="display-math">
+
+  \[
+  \sum_{v\in V_{\mathrm{odd}}}\deg(v)
+  =
+  2|E(G)|
+  -
+  \sum_{v\in V_{\mathrm{even}}}\deg(v)
+  \]
+
+  </div>
+
+  <p>
+    is also even.
+  </p>
+
+  <p>
+    However, every term in
+  </p>
+
+  <div class="display-math">
+
+  \[
+  \sum_{v\in V_{\mathrm{odd}}}\deg(v)
+  \]
+
+  </div>
+
+  <p>
+    is odd. A sum of odd integers is even if and only if there is an even
+    number of terms.
+  </p>
+
+  <p>
+    Therefore, \(V_{\mathrm{odd}}\) contains an even number of vertices.
+  </p>
+
+  <p>
+    Hence, every finite undirected graph has an even number of vertices of
+    odd degree.
+  </p>
+
+  <div style="text-align: right;">&#9633;</div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
