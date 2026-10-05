@@ -319,6 +319,144 @@ These supplementary notes contain typed and expanded material developed during L
 
 </div>
 
+<div id="supp-lecture-4-handshaking-theorem" class="math-env theorem">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Theorem 1.1</span>
+    <span class="math-env-title">Handshaking Lemma</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Let \(G=(V,E)\) be a finite simple graph. Then
+    </p>
+
+    <div class="display-math">
+
+    \[
+    \boxed{
+    \sum_{v\in V(G)} \deg(v)=2|E(G)|
+    }.
+    \]
+
+    </div>
+
+    <p>
+      That is, the sum of the degrees of all vertices of \(G\) is twice the
+      number of edges of \(G\).
+    </p>
+
+  </div>
+
+</div>
+
+
+<div id="supp-lecture-4-handshaking-proof" class="proof">
+
+  <div class="proof-title">Proof.</div>
+
+  <p>
+    We count the incidences between vertices and edges of \(G\) in two
+    different ways.
+  </p>
+
+  <p>
+    An <em>incidence</em> occurs whenever a vertex is an endpoint of an edge.
+  </p>
+
+  <p>
+    First, count the incidences edge by edge. Since \(G\) is a simple
+    undirected graph, every edge has exactly two distinct endpoints.
+    Therefore, every edge contributes exactly \(2\) incidences.
+  </p>
+
+  <p>
+    Since \(G\) has \(|E(G)|\) edges, the total number of incidences is
+  </p>
+
+  <div class="display-math">
+
+  \[
+  2|E(G)|.
+  \]
+
+  </div>
+
+  <p>
+    Now count the same incidences vertex by vertex. A vertex \(v\) is incident
+    with exactly \(\deg(v)\) edges, so \(v\) contributes exactly
+    \(\deg(v)\) incidences.
+  </p>
+
+  <p>
+    Hence, summing over all vertices, the total number of incidences is
+  </p>
+
+  <div class="display-math">
+
+  \[
+  \sum_{v\in V(G)} \deg(v).
+  \]
+
+  </div>
+
+  <p>
+    Both expressions count exactly the same set of vertex-edge incidences.
+    Therefore,
+  </p>
+
+  <div class="display-math">
+
+  \[
+  \boxed{
+  \sum_{v\in V(G)} \deg(v)=2|E(G)|
+  }.
+  \]
+
+  </div>
+
+  <p>
+    This proves the result.
+  </p>
+
+  <div style="text-align: right;">&#9633;</div>
+
+</div>
+
+
+<div id="supp-lecture-4-handshaking-remark" class="math-env remark">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Remark 1.1</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      The Handshaking Lemma does <em>not</em> say that the degree of each
+      vertex is twice the number of edges. Rather, it says that the
+      <em>sum</em> of all vertex degrees is twice the total number of edges:
+    </p>
+
+    <div class="display-math">
+
+    \[
+    \sum_{v\in V(G)}\deg(v)=2|E(G)|.
+    \]
+
+    </div>
+
+    <p>
+      The reason is simple: every edge contributes \(1\) to the degree of
+      each of its two endpoints, and hence contributes \(2\) to the total
+      degree sum.
+    </p>
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
