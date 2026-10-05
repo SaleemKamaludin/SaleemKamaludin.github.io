@@ -402,6 +402,45 @@ These questions are provided for additional practice for **Coursework Exam 1** a
 </div>
 
 
+<div id="cw1-question-10" class="math-env exercise">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Question 10</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <ol type="a">
+
+      <li>
+        <p>
+          At a social gathering of \(19\) people, could every person have
+          shaken hands with exactly \(9\) other people? Justify your answer.
+        </p>
+      </li>
+
+      <li>
+        <p>
+          A club has \(15\) members. Is it possible for each member to know
+          exactly \(5\) of the other members, assuming that knowing someone
+          is a mutual relationship? Give a reason for your answer.
+        </p>
+      </li>
+
+      <li>
+        <p>
+          At a conference there are \(22\) delegates. Is it possible for
+          every delegate to have met exactly \(9\) of the other delegates,
+          where each meeting is counted for both delegates? Justify your answer.
+        </p>
+      </li>
+
+    </ol>
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Practice Questions]({{ '/courses/math-2276/practice-questions/' | relative_url }})
