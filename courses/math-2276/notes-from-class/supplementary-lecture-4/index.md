@@ -165,6 +165,160 @@ These supplementary notes contain typed and expanded material developed during L
 
 </div>
 
+<h2 id="isolated-vertices-and-leaves">Isolated Vertices and Leaves</h2>
+
+<p>
+  Recall that the degree of a vertex \(v\), denoted by \(\deg(v)\), is the
+  number of edges incident with \(v\).
+</p>
+
+
+<div id="supp-lecture-4-definition-1" class="math-env definition">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Definition 1.1</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Let \(G\) be a graph.
+    </p>
+
+    <ul>
+      <li>
+        A vertex \(v\) is called an <strong>isolated vertex</strong> if
+        \(\deg(v)=0\).
+      </li>
+
+      <li>
+        A vertex \(v\) is called a <strong>leaf</strong> (or
+        <strong>pendant vertex</strong>) if \(\deg(v)=1\).
+      </li>
+    </ul>
+
+  </div>
+
+</div>
+
+
+<div id="supp-lecture-4-example-2" class="math-env example">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Example 1.2</span>
+    <span class="math-env-title">Isolated Vertex and Leaves</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Consider the graph \(G\) shown below.
+    </p>
+
+    <div style="text-align:center; margin: 1rem 0 1.2rem 0;">
+      <svg width="560" height="90" viewBox="0 0 560 90"
+           xmlns="http://www.w3.org/2000/svg"
+           role="img"
+           aria-label="Graph with path a b c d and isolated vertex e">
+
+        <line x1="70" y1="35" x2="170" y2="35"
+              stroke="currentColor" stroke-width="2"/>
+
+        <line x1="170" y1="35" x2="270" y2="35"
+              stroke="currentColor" stroke-width="2"/>
+
+        <line x1="270" y1="35" x2="370" y2="35"
+              stroke="currentColor" stroke-width="2"/>
+
+        <circle cx="70" cy="35" r="5" fill="currentColor"/>
+        <circle cx="170" cy="35" r="5" fill="currentColor"/>
+        <circle cx="270" cy="35" r="5" fill="currentColor"/>
+        <circle cx="370" cy="35" r="5" fill="currentColor"/>
+        <circle cx="470" cy="35" r="5" fill="currentColor"/>
+
+        <text x="70" y="68" text-anchor="middle"
+              font-size="18" fill="currentColor">a</text>
+
+        <text x="170" y="68" text-anchor="middle"
+              font-size="18" fill="currentColor">b</text>
+
+        <text x="270" y="68" text-anchor="middle"
+              font-size="18" fill="currentColor">c</text>
+
+        <text x="370" y="68" text-anchor="middle"
+              font-size="18" fill="currentColor">d</text>
+
+        <text x="470" y="68" text-anchor="middle"
+              font-size="18" fill="currentColor">e</text>
+
+      </svg>
+    </div>
+
+    <p>
+      Here,
+    </p>
+
+    <div class="display-math">
+
+    \[
+    V(G)=\{a,b,c,d,e\}
+    \]
+
+    </div>
+
+    <p>
+      and
+    </p>
+
+    <div class="display-math">
+
+    \[
+    E(G)=\{ab,bc,cd\}.
+    \]
+
+    </div>
+
+    <p>
+      The degrees of the vertices are
+    </p>
+
+    <div class="display-math">
+
+    \[
+    \deg(a)=1,\qquad
+    \deg(b)=2,\qquad
+    \deg(c)=2,\qquad
+    \deg(d)=1,\qquad
+    \deg(e)=0.
+    \]
+
+    </div>
+
+    <p>
+      Therefore:
+    </p>
+
+    <ul>
+      <li>
+        \(e\) is an <strong>isolated vertex</strong>, since
+        \(\deg(e)=0\);
+      </li>
+
+      <li>
+        \(a\) and \(d\) are <strong>leaves</strong>, since
+        \(\deg(a)=\deg(d)=1\);
+      </li>
+
+      <li>
+        \(b\) and \(c\) are neither isolated vertices nor leaves,
+        since each has degree \(2\).
+      </li>
+    </ul>
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
