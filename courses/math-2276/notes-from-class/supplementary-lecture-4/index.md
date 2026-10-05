@@ -457,6 +457,152 @@ These supplementary notes contain typed and expanded material developed during L
 
 </div>
 
+<div id="supp-lecture-4-corollary-1" class="math-env corollary">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Corollary 1.1</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      For every finite simple graph \(G\), the sum of the degrees of all
+      vertices is even.
+    </p>
+
+  </div>
+
+</div>
+
+
+<div id="supp-lecture-4-corollary-1-proof" class="proof">
+
+  <div class="proof-title">Proof.</div>
+
+  <p>
+    By the Handshaking Lemma,
+  </p>
+
+  <div class="display-math">
+
+  \[
+  \sum_{v\in V(G)} \deg(v)=2|E(G)|.
+  \]
+
+  </div>
+
+  <p>
+    Since \(2|E(G)|\) is divisible by \(2\), it is even. Therefore,
+  </p>
+
+  <div class="display-math">
+
+  \[
+  \boxed{
+  \sum_{v\in V(G)} \deg(v)\text{ is even}
+  }.
+  \]
+
+  </div>
+
+  <p>
+    Hence, the sum of the degrees of the vertices of any finite simple graph
+    is always even.
+  </p>
+
+  <div style="text-align: right;">&#9633;</div>
+
+</div>
+
+
+<div id="supp-lecture-4-corollary-2" class="math-env corollary">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Corollary 1.2</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Let \(G\) be a finite simple graph. Then the number of edges of \(G\) is
+    </p>
+
+    <div class="display-math">
+
+    \[
+    \boxed{
+    |E(G)|
+    =
+    \frac{1}{2}
+    \sum_{v\in V(G)}\deg(v)
+    }.
+    \]
+
+    </div>
+
+  </div>
+
+</div>
+
+
+<div id="supp-lecture-4-corollary-2-proof" class="proof">
+
+  <div class="proof-title">Proof.</div>
+
+  <p>
+    By the Handshaking Lemma,
+  </p>
+
+  <div class="display-math">
+
+  \[
+  \sum_{v\in V(G)}\deg(v)=2|E(G)|.
+  \]
+
+  </div>
+
+  <p>
+    Dividing both sides by \(2\) gives
+  </p>
+
+  <div class="display-math">
+
+  \[
+  |E(G)|
+  =
+  \frac{1}{2}
+  \sum_{v\in V(G)}\deg(v).
+  \]
+
+  </div>
+
+  <p>
+    Thus, the number of edges in \(G\) is one-half of the sum of all vertex
+    degrees.
+  </p>
+
+  <div style="text-align: right;">&#9633;</div>
+
+</div>
+
+
+<div id="supp-lecture-4-handshaking-remark-2" class="math-env remark">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Remark 1.2</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      If the degrees of all vertices are known, then the number of edges can
+      be found simply by adding the degrees and dividing the result by \(2\).
+    </p>
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
