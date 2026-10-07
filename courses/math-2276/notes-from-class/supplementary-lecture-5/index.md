@@ -20,6 +20,31 @@ These supplementary notes contain typed and expanded material developed during L
 
 <!-- Lecture 5 supplementary material will be added here. -->
 
+<div id="thm-edge-count-trees" class="math-env theorem">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Theorem 1.1</span>
+    <span class="math-env-title">Edge count for trees</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Let \(T\) be a tree with \(n\) vertices. Then
+    </p>
+
+    <div class="display-math">
+
+    \[
+    |E(T)|=n-1.
+    \]
+
+    </div>
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
