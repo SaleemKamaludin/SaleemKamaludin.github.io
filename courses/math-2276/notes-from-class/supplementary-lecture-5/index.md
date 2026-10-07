@@ -344,6 +344,118 @@ These supplementary notes contain typed and expanded material developed during L
 
 </div>
 
+<div id="thm-edge-count-forests" class="math-env theorem">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Theorem 1.2</span>
+    <span class="math-env-title">Edge count for forests</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Let \(F\) be a forest with \(n\) vertices and \(c\) connected
+      components. Then
+    </p>
+
+    <div class="display-math">
+
+    \[
+    |E(F)|=n-c.
+    \]
+
+    </div>
+
+  </div>
+
+</div>
+
+
+<div id="thm-edge-count-forests-proof" class="proof">
+
+  <div class="proof-title">Proof.</div>
+
+  <p>
+    Let the connected components of \(F\) be
+  </p>
+
+  <div class="display-math">
+
+  \[
+  T_1,T_2,\ldots,T_c.
+  \]
+
+  </div>
+
+  <p>
+    Since \(F\) is a forest, it is acyclic. Hence each connected component
+    \(T_i\) is connected and acyclic, and is therefore a tree.
+  </p>
+
+  <p>
+    For each \(i=1,2,\ldots,c\), let
+  </p>
+
+  <div class="display-math">
+
+  \[
+  n_i=|V(T_i)|.
+  \]
+
+  </div>
+
+  <p>
+    Since the connected components partition the vertex set of \(F\),
+  </p>
+
+  <div class="display-math">
+
+  \[
+  n_1+n_2+\cdots+n_c=n.
+  \]
+
+  </div>
+
+  <p>
+    Each \(T_i\) is a tree with \(n_i\) vertices, so
+  </p>
+
+  <div class="display-math">
+
+  \[
+  |E(T_i)|=n_i-1.
+  \]
+
+  </div>
+
+  <p>
+    Furthermore, the edge sets of the connected components are pairwise
+    disjoint and together form \(E(F)\). Therefore,
+  </p>
+
+  <div class="display-math">
+
+  \[
+  \begin{aligned}
+  |E(F)|
+  &=\sum_{i=1}^{c}|E(T_i)| \\
+  &=\sum_{i=1}^{c}(n_i-1) \\
+  &=\sum_{i=1}^{c}n_i-c \\
+  &=n-c.
+  \end{aligned}
+  \]
+
+  </div>
+
+  <p>
+    Hence a forest with \(n\) vertices and \(c\) connected components has
+    exactly \(n-c\) edges.
+  </p>
+
+  <div style="text-align: right;">&#9633;</div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
