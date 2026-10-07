@@ -159,6 +159,31 @@ These supplementary notes contain typed and expanded material developed during L
 
 </div>
 
+<div id="cor-total-degree-tree" class="math-env corollary">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Corollary 1.1</span>
+    <span class="math-env-title">Total degree of a tree</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Let \(T\) be a tree with \(n\) vertices. Then
+    </p>
+
+    <div class="display-math">
+
+    \[
+    \sum_{v\in V(T)} \deg(v)=2(n-1).
+    \]
+
+    </div>
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
