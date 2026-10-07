@@ -20,6 +20,8 @@ Lecture material will be organized here by topic.
 
 - **[Supplementary Notes from Lecture 4]({{ '/courses/math-2276/notes-from-class/supplementary-lecture-4/' | relative_url }})**
 
+- **[Supplementary Notes from Lecture 5]({{ '/courses/math-2276/notes-from-class/supplementary-lecture-5/' | relative_url }})**
+
 
 ---
 
