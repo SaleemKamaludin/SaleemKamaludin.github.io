@@ -184,6 +184,52 @@ These supplementary notes contain typed and expanded material developed during L
 
 </div>
 
+<div id="cor-total-degree-tree-proof" class="proof">
+
+  <div class="proof-title">Proof.</div>
+
+  <p>
+    By the Handshaking Lemma,
+  </p>
+
+  <div class="display-math">
+
+  \[
+  \sum_{v\in V(T)} \deg(v)=2|E(T)|.
+  \]
+
+  </div>
+
+  <p>
+    Since \(T\) is a tree with \(n\) vertices, we have
+  </p>
+
+  <div class="display-math">
+
+  \[
+  |E(T)|=n-1.
+  \]
+
+  </div>
+
+  <p>
+    Therefore,
+  </p>
+
+  <div class="display-math">
+
+  \[
+  \sum_{v\in V(T)} \deg(v)
+  =2|E(T)|
+  =2(n-1).
+  \]
+
+  </div>
+
+  <div style="text-align: right;">&#9633;</div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
