@@ -456,6 +456,155 @@ These supplementary notes contain typed and expanded material developed during L
 
 </div>
 
+<div id="cor-max-edges-forest" class="math-env corollary">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Corollary 1.2</span>
+    <span class="math-env-title">Maximum number of edges in a forest</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Let \(F\) be a nonempty forest with \(n\) vertices. Then
+    </p>
+
+    <div class="display-math">
+
+    \[
+    |E(F)|\leq n-1.
+    \]
+
+    </div>
+
+    <p>
+      Moreover,
+    </p>
+
+    <div class="display-math">
+
+    \[
+    |E(F)|=n-1
+    \quad\Longleftrightarrow\quad
+    F\text{ is connected}.
+    \]
+
+    </div>
+
+    <p>
+      Equivalently, equality holds if and only if \(F\) is a tree.
+    </p>
+
+  </div>
+
+</div>
+
+
+<div id="cor-max-edges-forest-proof" class="proof">
+
+  <div class="proof-title">Proof.</div>
+
+  <p>
+    Suppose that \(F\) has \(c\) connected components.
+  </p>
+
+  <p>
+    By the edge-count formula for forests,
+  </p>
+
+  <div class="display-math">
+
+  \[
+  |E(F)|=n-c.
+  \]
+
+  </div>
+
+  <p>
+    Since \(F\) is nonempty, it has at least one connected component. Thus
+  </p>
+
+  <div class="display-math">
+
+  \[
+  c\geq 1.
+  \]
+
+  </div>
+
+  <p>
+    Therefore,
+  </p>
+
+  <div class="display-math">
+
+  \[
+  |E(F)|
+  =n-c
+  \leq n-1.
+  \]
+
+  </div>
+
+  <p>
+    It remains to determine when equality holds. We have
+  </p>
+
+  <div class="display-math">
+
+  \[
+  |E(F)|=n-1
+  \]
+
+  </div>
+
+  <p>
+    if and only if
+  </p>
+
+  <div class="display-math">
+
+  \[
+  n-c=n-1,
+  \]
+
+  </div>
+
+  <p>
+    which is equivalent to
+  </p>
+
+  <div class="display-math">
+
+  \[
+  c=1.
+  \]
+
+  </div>
+
+  <p>
+    But \(c=1\) precisely when \(F\) is connected. Since \(F\) is already
+    acyclic, this is equivalent to saying that \(F\) is a tree.
+  </p>
+
+  <p>
+    Hence,
+  </p>
+
+  <div class="display-math">
+
+  \[
+  |E(F)|=n-1
+  \quad\Longleftrightarrow\quad
+  F\text{ is connected}.
+  \]
+
+  </div>
+
+  <div style="text-align: right;">&#9633;</div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
