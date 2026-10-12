@@ -2268,6 +2268,28 @@ D_n=
 
     </div>
 
+    <div id="remark-alternative-form-a-b-conclusion">
+
+    <p>
+      Hence, for \(n\geq 2\),
+    </p>
+
+    <div class="display-math">
+
+    \[
+    \boxed{
+    D_n
+    =
+    -fb
+    \sum_{j=0}^{n-2}
+    a^{\,n-2-j}(-b)^j
+    }.
+    \]
+
+    </div>
+
+    </div>
+
   </div>
 
 </div>
