@@ -36,6 +36,20 @@ They are intended to supplement the material presented in class.
     \(|V(G)|=n\) and \(|E(G)|=n-1\).
   </p>
 
+
+  <div id="cor-circuit-free-n-minus-1-tree-proof-components">
+
+    <p>
+      Since \(G\) is circuit-free, it is a forest.
+    </p>
+
+    <p>
+      Suppose that \(G\) has \(c\) connected components,
+      say \(G_1,G_2,\ldots,G_c\), where each component
+      \(G_i\) has \(n_i\) vertices.
+    </p>
+
+  </div>
 </div>
 
 ---
