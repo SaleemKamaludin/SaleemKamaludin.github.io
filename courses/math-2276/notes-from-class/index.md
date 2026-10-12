@@ -16,12 +16,12 @@ They are intended to supplement the material presented in class.
 
 Lecture material will be organized here by topic.
 
-- **[Lecture 2 & 3 Notes]({{ '/courses/math-2276/notes-from-class/lecture-2/' | relative_url }})**
+- **[Lecture 2 & 3 Notes](./lecture-2/)**
 
-- **[Supplementary Notes from Lecture 4]({{ '/courses/math-2276/notes-from-class/supplementary-lecture-4/' | relative_url }})**
+- **[Supplementary Notes from Lecture 4](./supplementary-lecture-4/)**
 
-- **[Supplementary Notes from Lecture 5]({{ '/courses/math-2276/notes-from-class/supplementary-lecture-5/' | relative_url }})**
-- [Supplementary Notes from Lecture 6](./supplementary-lecture-6/)
+- **[Supplementary Notes from Lecture 5](./supplementary-lecture-5/)**
+- **[Supplementary Notes from Lecture 6](./supplementary-lecture-6/)**
 
 
 ---
