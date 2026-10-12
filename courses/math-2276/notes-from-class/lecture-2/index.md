@@ -2201,6 +2201,32 @@ D_n=
   </div>
 </div>
 
+<div id="remark-alternative-form-a-b" class="math-env remark">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Remark 1.5</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Since
+    </p>
+
+    <div class="display-math">
+
+    \[
+    a^{\,n-1}+(-1)^n b^{\,n-1}
+    =
+    a^{\,n-1}-(-b)^{\,n-1},
+    \]
+
+    </div>
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class]({{ '/courses/math-2276/notes-from-class/' | relative_url }})
