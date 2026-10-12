@@ -2245,6 +2245,29 @@ D_n=
 
     </div>
 
+    <div id="remark-alternative-form-a-b-sum">
+
+    <p>
+      Thus
+    </p>
+
+    <div class="display-math">
+
+    \[
+    \frac{
+    a^{\,n-1}+(-1)^n b^{\,n-1}
+    }{
+    a+b
+    }
+    =
+    \sum_{j=0}^{n-2}
+    a^{\,n-2-j}(-b)^j.
+    \]
+
+    </div>
+
+    </div>
+
   </div>
 
 </div>
