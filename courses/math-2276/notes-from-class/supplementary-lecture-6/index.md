@@ -27,6 +27,17 @@ They are intended to supplement the material presented in class.
 
 </div>
 
+<div id="cor-circuit-free-n-minus-1-tree-proof" class="proof">
+
+  <div class="proof-title">Proof.</div>
+
+  <p>
+    Let \(G\) be a circuit-free graph such that
+    \(|V(G)|=n\) and \(|E(G)|=n-1\).
+  </p>
+
+</div>
+
 ---
 
 [← Back to Notes from Class](../)
