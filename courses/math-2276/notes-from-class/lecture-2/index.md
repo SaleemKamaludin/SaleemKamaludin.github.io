@@ -2223,6 +2223,28 @@ D_n=
 
     </div>
 
+    <div id="remark-alternative-form-a-b-quotient">
+
+    <p>
+      we may use
+    </p>
+
+    <div class="display-math">
+
+    \[
+    \frac{x^m-y^m}{x-y}
+    =
+    x^{m-1}+x^{m-2}y+\cdots+y^{m-1}
+    \]
+
+    </div>
+
+    <p>
+      with \(x=a\), \(y=-b\), and \(m=n-1\).
+    </p>
+
+    </div>
+
   </div>
 
 </div>
