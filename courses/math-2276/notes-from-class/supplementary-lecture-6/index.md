@@ -50,6 +50,15 @@ They are intended to supplement the material presented in class.
     </p>
 
   </div>
+
+  <div id="cor-circuit-free-n-minus-1-tree-proof-component-edges">
+
+    <p>
+      Since each connected component of a forest is a tree,
+      it follows that \(G_i\) has \(n_i-1\) edges.
+    </p>
+
+  </div>
 </div>
 
 ---
