@@ -59,6 +59,27 @@ They are intended to supplement the material presented in class.
     </p>
 
   </div>
+
+  <div id="cor-circuit-free-n-minus-1-tree-proof-edge-sum">
+
+    <p>
+      Therefore,
+    </p>
+
+    <div class="display-math">
+
+\[
+\begin{aligned}
+|E(G)|
+&=\sum_{i=1}^{c}(n_i-1)\\
+&=\sum_{i=1}^{c}n_i-c\\
+&=n-c.
+\end{aligned}
+\]
+
+    </div>
+
+  </div>
 </div>
 
 ---
