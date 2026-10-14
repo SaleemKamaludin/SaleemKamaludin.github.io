@@ -140,6 +140,25 @@ n-1=n-c.
       represent workers \(w_1,w_2,w_3,w_4\) and the columns
       represent jobs \(J_1,J_2,J_3,J_4\):
     </p>
+    <div id="example-hungarian-row-reduction-cost-matrix">
+
+      <div class="display-math">
+
+\[
+C=
+\begin{array}{c|cccc}
+      & J_1 & J_2 & J_3 & J_4 \\ \hline
+w_1 & 9 & 2 & 7 & 8 \\
+w_2 & 6 & 4 & 3 & 7 \\
+w_3 & 5 & 8 & 1 & 8 \\
+w_4 & 7 & 6 & 9 & 4
+\end{array}
+\]
+
+      </div>
+
+    </div>
+
 
   </div>
 
