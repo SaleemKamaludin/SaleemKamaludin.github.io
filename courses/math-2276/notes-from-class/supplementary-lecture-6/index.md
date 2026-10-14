@@ -126,6 +126,25 @@ n-1=n-c.
   </div>
 </div>
 
+<div id="example-hungarian-row-reduction" class="math-env example">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Example 1.1</span>
+    <span class="math-env-title">Hungarian Algorithm: Row Reduction</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Consider the following cost matrix, where the rows
+      represent workers \(w_1,w_2,w_3,w_4\) and the columns
+      represent jobs \(J_1,J_2,J_3,J_4\):
+    </p>
+
+  </div>
+
+</div>
+
 ---
 
 [← Back to Notes from Class](../)
