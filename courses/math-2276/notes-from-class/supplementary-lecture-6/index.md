@@ -196,6 +196,27 @@ w_4 & 7 & 6 & 9 & 4 & 4
       </p>
 
     </div>
+    <div id="example-hungarian-row-reduction-row-operations">
+
+      <div class="display-math">
+
+\[
+\begin{aligned}
+R_1 &\longrightarrow R_1-2,\\
+R_2 &\longrightarrow R_2-3,\\
+R_3 &\longrightarrow R_3-1,\\
+R_4 &\longrightarrow R_4-4.
+\end{aligned}
+\]
+
+      </div>
+
+      <p>
+        Hence, the row-reduced cost matrix is
+      </p>
+
+    </div>
+
 
 
 
