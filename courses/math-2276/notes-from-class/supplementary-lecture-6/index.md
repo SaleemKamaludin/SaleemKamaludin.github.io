@@ -104,6 +104,26 @@ n-1=n-c.
     </div>
 
   </div>
+
+  <div id="cor-circuit-free-n-minus-1-tree-proof-conclusion">
+
+    <p>
+      Simplifying, we obtain \(c=1\).
+    </p>
+
+    <p>
+      Thus, \(G\) has exactly one connected component,
+      which means that \(G\) is connected.
+    </p>
+
+    <p>
+      Since \(G\) is both connected and circuit-free,
+      \(G\) is a tree.
+    </p>
+
+    <div style="text-align: right;">&#9633;</div>
+
+  </div>
 </div>
 
 ---
