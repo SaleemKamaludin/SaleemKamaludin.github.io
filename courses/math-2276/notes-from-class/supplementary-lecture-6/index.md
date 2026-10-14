@@ -88,6 +88,22 @@ They are intended to supplement the material presented in class.
     </p>
 
   </div>
+
+  <div id="cor-circuit-free-n-minus-1-tree-proof-equate-edge-counts">
+
+    <p>
+      Hence,
+    </p>
+
+    <div class="display-math">
+
+\[
+n-1=n-c.
+\]
+
+    </div>
+
+  </div>
 </div>
 
 ---
