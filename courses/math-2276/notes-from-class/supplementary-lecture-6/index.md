@@ -216,6 +216,38 @@ R_4 &\longrightarrow R_4-4.
       </p>
 
     </div>
+    <div id="example-hungarian-row-reduction-column-step">
+
+      <div class="display-math">
+
+\[
+C_1=
+\begin{pmatrix}
+7 & 0 & 5 & 6\\
+3 & 1 & 0 & 4\\
+4 & 7 & 0 & 7\\
+3 & 2 & 5 & 0
+\end{pmatrix}.
+\]
+
+      </div>
+
+      <p>
+        Notice that every row now contains at least one zero.
+      </p>
+
+      <p>
+        <strong>Step 2: Column Reduction</strong>
+      </p>
+
+      <p>
+        The next step is to identify the minimum entry
+        in each column of \(C_1\) and subtract it from
+        every entry in that column.
+      </p>
+
+    </div>
+
 
 
 
