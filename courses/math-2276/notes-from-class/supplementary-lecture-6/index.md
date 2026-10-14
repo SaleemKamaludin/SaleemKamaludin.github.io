@@ -158,6 +158,23 @@ w_4 & 7 & 6 & 9 & 4
       </div>
 
     </div>
+    <div id="example-hungarian-row-reduction-step-1">
+
+      <p>
+        <strong>Step 1: Row Reduction</strong>
+      </p>
+
+      <p>
+        Identify the minimum entry in each row and subtract
+        it from every entry in that row.
+      </p>
+
+      <p>
+        The row minima are shown below:
+      </p>
+
+    </div>
+
 
 
   </div>
