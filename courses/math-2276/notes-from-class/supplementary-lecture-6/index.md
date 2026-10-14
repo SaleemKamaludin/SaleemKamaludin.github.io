@@ -174,6 +174,29 @@ w_4 & 7 & 6 & 9 & 4
       </p>
 
     </div>
+    <div id="example-hungarian-row-reduction-row-minima">
+
+      <div class="display-math">
+
+\[
+\begin{array}{c|cccc|c}
+      & J_1 & J_2 & J_3 & J_4
+      & \text{Row Minimum} \\ \hline
+w_1 & 9 & 2 & 7 & 8 & 2 \\
+w_2 & 6 & 4 & 3 & 7 & 3 \\
+w_3 & 5 & 8 & 1 & 8 & 1 \\
+w_4 & 7 & 6 & 9 & 4 & 4
+\end{array}
+\]
+
+      </div>
+
+      <p>
+        We perform the following row operations:
+      </p>
+
+    </div>
+
 
 
 
