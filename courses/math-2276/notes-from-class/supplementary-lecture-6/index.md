@@ -80,6 +80,14 @@ They are intended to supplement the material presented in class.
     </div>
 
   </div>
+
+  <div id="cor-circuit-free-n-minus-1-tree-proof-given-edge-count">
+
+    <p>
+      However, we are given that \(|E(G)|=n-1\).
+    </p>
+
+  </div>
 </div>
 
 ---
