@@ -259,6 +259,24 @@ C_1=
     </div>
 
   </div>
+
+  <div id="example-hungarian-column-reduction-adjustment">
+
+    <p>
+      Subtract the minimum entry from every entry in
+      its corresponding column.
+    </p>
+
+    <p>
+      Only the first column requires adjustment, since
+      the remaining columns already contain zeros.
+    </p>
+
+    <p>
+      Thus,
+    </p>
+
+  </div>
 </div>
 
       <p>
