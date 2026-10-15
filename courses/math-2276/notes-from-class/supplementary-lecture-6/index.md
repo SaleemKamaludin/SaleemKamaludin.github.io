@@ -240,6 +240,25 @@ C_1=
 
   </div>
 
+
+  <div id="example-hungarian-column-reduction-minima">
+
+    <p>
+      We now identify the minimum entry in each column:
+    </p>
+
+    <div class="display-math">
+
+\[
+\begin{array}{c|cccc}
+& J_1 & J_2 & J_3 & J_4 \\ \hline
+\text{Column minimum} & 3 & 0 & 0 & 0
+\end{array}
+\]
+
+    </div>
+
+  </div>
 </div>
 
       <p>
