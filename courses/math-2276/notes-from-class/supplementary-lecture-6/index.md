@@ -218,7 +218,15 @@ R_4 &\longrightarrow R_4-4.
     </div>
     <div id="example-hungarian-row-reduction-column-step">
 
-      <div class="display-math">
+  <p>
+    <strong>Step 2: Column Reduction</strong>
+  </p>
+
+  <p>
+    After performing row reduction, we obtained
+  </p>
+
+  <div class="display-math">
 
 \[
 C_1=
@@ -230,7 +238,9 @@ C_1=
 \end{pmatrix}.
 \]
 
-      </div>
+  </div>
+
+</div>
 
       <p>
         Notice that every row now contains at least one zero.
