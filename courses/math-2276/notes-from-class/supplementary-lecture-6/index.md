@@ -277,6 +277,24 @@ C_1=
     </p>
 
   </div>
+
+  <div id="example-hungarian-column-reduction-matrix-c2">
+
+    <div class="display-math">
+
+\[
+C_2=
+\begin{pmatrix}
+4 & 0 & 5 & 6\\
+0 & 1 & 0 & 4\\
+1 & 7 & 0 & 7\\
+0 & 2 & 5 & 0
+\end{pmatrix}.
+\]
+
+    </div>
+
+  </div>
 </div>
 
       <p>
