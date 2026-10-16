@@ -277,6 +277,20 @@ C_2=
 
     </div>
 
+    <div id="example-hungarian-select-independent-zeros-step-3">
+
+      <p>
+        <strong>Step 3: Select Independent Zeros</strong>
+      </p>
+
+      <p>
+        We now attempt to select \(4\) independent zeros,
+        that is, exactly one zero from each row and each
+        column.
+      </p>
+
+    </div>
+
   </div>
 
 </div>
