@@ -360,7 +360,30 @@ w_4 &\longrightarrow J_4.
 
       </div>
 
-    </div>
+    
+      <div id="example-hungarian-original-costs-table">
+
+        <p>
+          Using the entries from the <em>original cost matrix</em>,
+          the corresponding costs are
+        </p>
+
+        <div class="display-math">
+
+\[
+\begin{array}{c|c|c}
+\text{Worker} & \text{Job} & \text{Cost} \\ \hline
+w_1 & J_2 & 2\\
+w_2 & J_1 & 6\\
+w_3 & J_3 & 1\\
+w_4 & J_4 & 4
+\end{array}
+\]
+
+        </div>
+
+      </div>
+</div>
 
   </div>
 
