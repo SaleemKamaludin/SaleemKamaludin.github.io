@@ -11,6 +11,7 @@ These notes are typed and expanded versions of material developed during Lecture
 
 They are intended to supplement the material presented in class.
 
+
 <div id="cor-circuit-free-n-minus-1-tree" class="math-env corollary">
 
   <div class="math-env-heading">
@@ -27,6 +28,7 @@ They are intended to supplement the material presented in class.
 
 </div>
 
+
 <div id="cor-circuit-free-n-minus-1-tree-proof" class="proof">
 
   <div class="proof-title">Proof.</div>
@@ -36,37 +38,26 @@ They are intended to supplement the material presented in class.
     \(|V(G)|=n\) and \(|E(G)|=n-1\).
   </p>
 
+  <p>
+    Since \(G\) is circuit-free, it is a forest.
+  </p>
 
-  <div id="cor-circuit-free-n-minus-1-tree-proof-components">
+  <p>
+    Suppose that \(G\) has \(c\) connected components,
+    say \(G_1,G_2,\ldots,G_c\), where each component
+    \(G_i\) has \(n_i\) vertices.
+  </p>
 
-    <p>
-      Since \(G\) is circuit-free, it is a forest.
-    </p>
+  <p>
+    Since each connected component of a forest is a tree,
+    it follows that \(G_i\) has \(n_i-1\) edges.
+  </p>
 
-    <p>
-      Suppose that \(G\) has \(c\) connected components,
-      say \(G_1,G_2,\ldots,G_c\), where each component
-      \(G_i\) has \(n_i\) vertices.
-    </p>
+  <p>
+    Therefore,
+  </p>
 
-  </div>
-
-  <div id="cor-circuit-free-n-minus-1-tree-proof-component-edges">
-
-    <p>
-      Since each connected component of a forest is a tree,
-      it follows that \(G_i\) has \(n_i-1\) edges.
-    </p>
-
-  </div>
-
-  <div id="cor-circuit-free-n-minus-1-tree-proof-edge-sum">
-
-    <p>
-      Therefore,
-    </p>
-
-    <div class="display-math">
+  <div class="display-math">
 
 \[
 \begin{aligned}
@@ -77,54 +68,42 @@ They are intended to supplement the material presented in class.
 \end{aligned}
 \]
 
-    </div>
-
   </div>
 
-  <div id="cor-circuit-free-n-minus-1-tree-proof-given-edge-count">
+  <p>
+    However, we are given that \(|E(G)|=n-1\).
+  </p>
 
-    <p>
-      However, we are given that \(|E(G)|=n-1\).
-    </p>
+  <p>
+    Hence,
+  </p>
 
-  </div>
-
-  <div id="cor-circuit-free-n-minus-1-tree-proof-equate-edge-counts">
-
-    <p>
-      Hence,
-    </p>
-
-    <div class="display-math">
+  <div class="display-math">
 
 \[
 n-1=n-c.
 \]
 
-    </div>
-
   </div>
 
-  <div id="cor-circuit-free-n-minus-1-tree-proof-conclusion">
+  <p>
+    Simplifying, we obtain \(c=1\).
+  </p>
 
-    <p>
-      Simplifying, we obtain \(c=1\).
-    </p>
+  <p>
+    Thus, \(G\) has exactly one connected component,
+    which means that \(G\) is connected.
+  </p>
 
-    <p>
-      Thus, \(G\) has exactly one connected component,
-      which means that \(G\) is connected.
-    </p>
+  <p>
+    Since \(G\) is both connected and circuit-free,
+    \(G\) is a tree.
+  </p>
 
-    <p>
-      Since \(G\) is both connected and circuit-free,
-      \(G\) is a tree.
-    </p>
+  <div style="text-align: right;">&#9633;</div>
 
-    <div style="text-align: right;">&#9633;</div>
-
-  </div>
 </div>
+
 
 <div id="example-hungarian-row-reduction" class="math-env example">
 
@@ -140,9 +119,8 @@ n-1=n-c.
       represent workers \(w_1,w_2,w_3,w_4\) and the columns
       represent jobs \(J_1,J_2,J_3,J_4\):
     </p>
-    <div id="example-hungarian-row-reduction-cost-matrix">
 
-      <div class="display-math">
+    <div class="display-math">
 
 \[
 C=
@@ -155,9 +133,9 @@ w_4 & 7 & 6 & 9 & 4
 \end{array}
 \]
 
-      </div>
-
     </div>
+
+
     <div id="example-hungarian-row-reduction-step-1">
 
       <p>
@@ -172,9 +150,6 @@ w_4 & 7 & 6 & 9 & 4
       <p>
         The row minima are shown below:
       </p>
-
-    </div>
-    <div id="example-hungarian-row-reduction-row-minima">
 
       <div class="display-math">
 
@@ -195,9 +170,6 @@ w_4 & 7 & 6 & 9 & 4 & 4
         We perform the following row operations:
       </p>
 
-    </div>
-    <div id="example-hungarian-row-reduction-row-operations">
-
       <div class="display-math">
 
 \[
@@ -215,18 +187,7 @@ R_4 &\longrightarrow R_4-4.
         Hence, the row-reduced cost matrix is
       </p>
 
-    </div>
-    <div id="example-hungarian-row-reduction-column-step">
-
-  <p>
-    <strong>Step 2: Column Reduction</strong>
-  </p>
-
-  <p>
-    After performing row reduction, we obtained
-  </p>
-
-  <div class="display-math">
+      <div class="display-math">
 
 \[
 C_1=
@@ -238,16 +199,44 @@ C_1=
 \end{pmatrix}.
 \]
 
-  </div>
+      </div>
+
+      <p>
+        Notice that every row now contains at least one zero.
+      </p>
+
+    </div>
 
 
-  <div id="example-hungarian-column-reduction-minima">
+    <div id="example-hungarian-row-reduction-column-step">
 
-    <p>
-      We now identify the minimum entry in each column:
-    </p>
+      <p>
+        <strong>Step 2: Column Reduction</strong>
+      </p>
 
-    <div class="display-math">
+      <p>
+        After performing row reduction, we obtained
+      </p>
+
+      <div class="display-math">
+
+\[
+C_1=
+\begin{pmatrix}
+7 & 0 & 5 & 6\\
+3 & 1 & 0 & 4\\
+4 & 7 & 0 & 7\\
+3 & 2 & 5 & 0
+\end{pmatrix}.
+\]
+
+      </div>
+
+      <p>
+        We now identify the minimum entry in each column:
+      </p>
+
+      <div class="display-math">
 
 \[
 \begin{array}{c|cccc}
@@ -256,31 +245,23 @@ C_1=
 \end{array}
 \]
 
-    </div>
+      </div>
 
-  </div>
+      <p>
+        Subtract the minimum entry from every entry in
+        its corresponding column.
+      </p>
 
-  <div id="example-hungarian-column-reduction-adjustment">
+      <p>
+        Only the first column requires adjustment, since
+        the remaining columns already contain zeros.
+      </p>
 
-    <p>
-      Subtract the minimum entry from every entry in
-      its corresponding column.
-    </p>
+      <p>
+        Thus,
+      </p>
 
-    <p>
-      Only the first column requires adjustment, since
-      the remaining columns already contain zeros.
-    </p>
-
-    <p>
-      Thus,
-    </p>
-
-  </div>
-
-  <div id="example-hungarian-column-reduction-matrix-c2">
-
-    <div class="display-math">
+      <div class="display-math">
 
 \[
 C_2=
@@ -292,60 +273,19 @@ C_2=
 \end{pmatrix}.
 \]
 
-    </div>
-
-  </div>
-
-  <div id="example-hungarian-column-reduction-c1">
-
-    <p>
-      After performing row reduction, we obtained
-    </p>
-
-    <div class="display-math">
-
-\[
-C_1=
-\begin{pmatrix}
-7 & 0 & 5 & 6\\
-3 & 1 & 0 & 4\\
-4 & 7 & 0 & 7\\
-3 & 2 & 5 & 0
-\end{pmatrix}.
-\]
+      </div>
 
     </div>
-
-  </div>
-</div>
-
-      <p>
-        Notice that every row now contains at least one zero.
-      </p>
-
-      <p>
-        <strong>Step 2: Column Reduction</strong>
-      </p>
-
-      <p>
-        The next step is to identify the minimum entry
-        in each column of \(C_1\) and subtract it from
-        every entry in that column.
-      </p>
-
-    </div>
-
-
-
-
-
 
   </div>
 
 </div>
 
----
 
-[← Back to Notes from Class](../)
+<hr>
+
+<p>
+  <a href="../">← Back to Notes from Class</a>
+</p>
 
 </div>
