@@ -337,6 +337,31 @@ w_4 & 0 & 2 & 5 & \boxed{0}
       </div>
 </div>
 
+    <div id="example-hungarian-minimum-total-cost-step-4">
+
+      <p>
+        <strong>Step 4: Determine the Minimum Total Cost</strong>
+      </p>
+
+      <p>
+        The optimal assignment is
+      </p>
+
+      <div class="display-math">
+
+\[
+\begin{aligned}
+w_1 &\longrightarrow J_2,\\
+w_2 &\longrightarrow J_1,\\
+w_3 &\longrightarrow J_3,\\
+w_4 &\longrightarrow J_4.
+\end{aligned}
+\]
+
+      </div>
+
+    </div>
+
   </div>
 
 </div>
