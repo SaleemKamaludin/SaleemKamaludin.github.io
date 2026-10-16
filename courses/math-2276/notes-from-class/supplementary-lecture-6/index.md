@@ -307,6 +307,24 @@ C_2=
         </p>
 
       </div>
+
+      <div id="example-hungarian-independent-zeros-selection-matrix">
+
+        <div class="display-math">
+
+\[
+\begin{array}{c|cccc}
+& J_1 & J_2 & J_3 & J_4 \\ \hline
+w_1 & 4 & \boxed{0} & 5 & 6\\
+w_2 & \boxed{0} & 1 & 0 & 4\\
+w_3 & 1 & 7 & \boxed{0} & 7\\
+w_4 & 0 & 2 & 5 & \boxed{0}
+\end{array}
+\]
+
+        </div>
+
+      </div>
 </div>
 
   </div>
