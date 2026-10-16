@@ -289,7 +289,25 @@ C_2=
         column.
       </p>
 
-    </div>
+    
+      <div id="example-hungarian-independent-zeros-method">
+
+        <p>
+          A convenient method is to begin with a row or
+          column containing the fewest available zeros.
+        </p>
+
+        <p>
+          Once a zero is selected, all other zeros in its
+          row and column are excluded from consideration.
+        </p>
+
+        <p>
+          For the reduced matrix \(C_2\), we select:
+        </p>
+
+      </div>
+</div>
 
   </div>
 
