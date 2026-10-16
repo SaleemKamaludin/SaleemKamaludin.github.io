@@ -325,6 +325,16 @@ w_4 & 0 & 2 & 5 & \boxed{0}
         </div>
 
       </div>
+
+      <div id="example-hungarian-independent-zeros-optimal-conclusion">
+
+        <p>
+          Since we have selected \(4\) independent zeros,
+          one from each row and column, an optimal
+          assignment has been obtained.
+        </p>
+
+      </div>
 </div>
 
   </div>
