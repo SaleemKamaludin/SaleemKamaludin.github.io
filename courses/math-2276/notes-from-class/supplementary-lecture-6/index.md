@@ -466,6 +466,39 @@ w_4 & 8 & 9 & 98 & 23
       </div>
 
     </div>
+
+    <div id="example-hungarian-additional-step-1-row-reduction">
+
+      <p>
+        We wish to determine an assignment that minimizes
+        the total cost.
+      </p>
+
+      <p>
+        <strong>Step 1: Row Reduction</strong>
+      </p>
+
+      <p>
+        First, identify the minimum entry in each row.
+      </p>
+
+      <div class="display-math">
+
+\[
+\begin{array}{c|cccc|c}
+& J_1 & J_2 & J_3 & J_4
+& \text{Minimum}\\ \hline
+w_1 & 82 & 83 & 69 & 92 & 69\\
+w_2 & 77 & 37 & 49 & 92 & 37\\
+w_3 & 11 & 69 & 5 & 86 & 5\\
+w_4 & 8 & 9 & 98 & 23 & 8
+\end{array}
+\]
+
+      </div>
+
+    </div>
+
 </div>
 
 </div>
