@@ -432,6 +432,25 @@ C_{\min}
 
 </div>
 
+<div id="example-hungarian-additional-matrix-reduction" class="math-env example">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Example 1.2</span>
+    <span class="math-env-title">Hungarian Algorithm: Additional Matrix Reduction</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Consider the following cost matrix for assigning
+      four workers \(w_1,w_2,w_3,w_4\) to four jobs
+      \(J_1,J_2,J_3,J_4\):
+    </p>
+
+  </div>
+
+</div>
+
 
 <hr>
 
