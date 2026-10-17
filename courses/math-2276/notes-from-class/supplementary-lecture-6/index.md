@@ -409,6 +409,29 @@ C_{\min}
 
 </div>
 
+<div id="remark-hungarian-original-cost-matrix" class="math-env remark">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Remark 1.1</span>
+  </div>
+
+  <div class="math-env-body">
+
+    <p>
+      Always calculate the final assignment cost using
+      the original cost matrix, not the reduced matrix.
+    </p>
+
+    <p>
+      Subtracting row and column minima preserves the
+      optimal assignment, but changes the numerical
+      values of the costs.
+    </p>
+
+  </div>
+
+</div>
+
 
 <hr>
 
