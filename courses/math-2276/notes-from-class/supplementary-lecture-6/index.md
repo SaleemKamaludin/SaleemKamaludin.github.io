@@ -383,6 +383,26 @@ w_4 & J_4 & 4
         </div>
 
       </div>
+
+      <div id="example-hungarian-minimum-total-cost-calculation">
+
+        <p>
+          Hence, the minimum total cost is
+        </p>
+
+        <div class="display-math">
+
+\[
+\begin{aligned}
+C_{\min}
+&=2+6+1+4\\
+&=\boxed{13}.
+\end{aligned}
+\]
+
+        </div>
+
+      </div>
 </div>
 
   </div>
