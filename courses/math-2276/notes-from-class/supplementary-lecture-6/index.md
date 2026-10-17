@@ -447,7 +447,26 @@ C_{\min}
       \(J_1,J_2,J_3,J_4\):
     </p>
 
-  </div>
+  
+    <div id="example-hungarian-additional-original-cost-matrix">
+
+      <div class="display-math">
+
+\[
+C=
+\begin{array}{c|cccc}
+& J_1 & J_2 & J_3 & J_4\\ \hline
+w_1 & 82 & 83 & 69 & 92\\
+w_2 & 77 & 37 & 49 & 92\\
+w_3 & 11 & 69 & 5 & 86\\
+w_4 & 8 & 9 & 98 & 23
+\end{array}
+\]
+
+      </div>
+
+    </div>
+</div>
 
 </div>
 
