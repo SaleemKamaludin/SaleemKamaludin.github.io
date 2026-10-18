@@ -510,6 +510,24 @@ w_4 & 8 & 9 & 98 & 23 & 8
         </p>
 
       </div>
+
+      <div id="example-hungarian-additional-row-reduced-matrix-c1">
+
+        <div class="display-math">
+
+\[
+C_1=
+\begin{pmatrix}
+13 & 14 & 0 & 23\\
+40 & 0 & 12 & 55\\
+6 & 64 & 0 & 81\\
+0 & 1 & 90 & 15
+\end{pmatrix}.
+\]
+
+        </div>
+
+      </div>
 </div>
 
 </div>
