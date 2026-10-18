@@ -553,7 +553,25 @@ C_1=
 
       </div>
 
-    </div>
+    
+      <div id="example-hungarian-additional-column-adjustment">
+
+        <p>
+          Notice that the first three columns already
+          contain zeros.
+        </p>
+
+        <p>
+          Thus, only the fourth column requires adjustment.
+        </p>
+
+        <p>
+          Subtracting \(15\) from every entry in the fourth
+          column gives
+        </p>
+
+      </div>
+</div>
 
 </div>
 
