@@ -530,6 +530,31 @@ C_1=
       </div>
 </div>
 
+    <div id="example-hungarian-additional-step-2-column-reduction">
+
+      <p>
+        <strong>Step 2: Column Reduction</strong>
+      </p>
+
+      <p>
+        We now identify the minimum entry in each column
+        of \(C_1\).
+      </p>
+
+      <p>
+        The column minima are
+      </p>
+
+      <div class="display-math">
+
+\[
+0,\quad 0,\quad 0,\quad 15.
+\]
+
+      </div>
+
+    </div>
+
 </div>
 
 </div>
