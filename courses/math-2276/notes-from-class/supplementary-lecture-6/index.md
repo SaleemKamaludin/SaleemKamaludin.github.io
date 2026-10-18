@@ -571,6 +571,24 @@ C_1=
         </p>
 
       </div>
+
+      <div id="example-hungarian-additional-column-reduced-matrix-c2">
+
+        <div class="display-math">
+
+\[
+C_2=
+\begin{pmatrix}
+13 & 14 & 0 & 8\\
+40 & 0 & 12 & 40\\
+6 & 64 & 0 & 66\\
+0 & 1 & 90 & 0
+\end{pmatrix}.
+\]
+
+        </div>
+
+      </div>
 </div>
 
 </div>
