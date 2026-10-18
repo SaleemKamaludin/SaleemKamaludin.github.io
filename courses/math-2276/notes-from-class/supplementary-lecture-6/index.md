@@ -497,7 +497,20 @@ w_4 & 8 & 9 & 98 & 23 & 8
 
       </div>
 
-    </div>
+    
+      <div id="example-hungarian-additional-row-subtraction">
+
+        <p>
+          Subtract the minimum entry from every entry
+          in its corresponding row.
+        </p>
+
+        <p>
+          Therefore, the row-reduced matrix is
+        </p>
+
+      </div>
+</div>
 
 </div>
 
