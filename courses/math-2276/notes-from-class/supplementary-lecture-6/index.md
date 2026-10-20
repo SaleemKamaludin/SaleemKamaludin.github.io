@@ -694,6 +694,22 @@ C_2=
         </div>
 
       </div>
+
+      <div id="example-hungarian-additional-smallest-uncovered-entry">
+
+        <p>
+          Therefore, the smallest uncovered entry is
+        </p>
+
+        <div class="display-math">
+
+\[
+k=6.
+\]
+
+        </div>
+
+      </div>
 </div>
 
 </div>
