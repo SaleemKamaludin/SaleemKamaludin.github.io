@@ -657,6 +657,14 @@ C_2=
         </p>
 
       </div>
+
+      <div id="example-hungarian-additional-further-reduction-required">
+
+        <p>
+          Therefore, further reduction is required.
+        </p>
+
+      </div>
 </div>
 
 </div>
