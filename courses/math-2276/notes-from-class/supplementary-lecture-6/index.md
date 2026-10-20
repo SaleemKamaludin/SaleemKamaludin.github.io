@@ -591,6 +591,20 @@ C_2=
       </div>
 </div>
 
+    <div id="example-hungarian-additional-step-3-cover-zeros">
+
+      <p>
+        <strong>Step 3: Cover All Zeros Using the Minimum Number of Lines</strong>
+      </p>
+
+      <p>
+        We now cover all zeros in \(C_2\) using the
+        smallest possible number of horizontal and
+        vertical lines.
+      </p>
+
+    </div>
+
 </div>
 
 </div>
