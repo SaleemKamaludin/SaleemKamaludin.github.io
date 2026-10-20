@@ -603,7 +603,27 @@ C_2=
         vertical lines.
       </p>
 
-    </div>
+    
+      <div id="example-hungarian-additional-minimum-covering-lines">
+
+        <p>
+          One possible minimum covering consists of:
+        </p>
+
+        <ol>
+          <li>
+            A horizontal line through row \(w_2\).
+          </li>
+          <li>
+            A horizontal line through row \(w_4\).
+          </li>
+          <li>
+            A vertical line through column \(J_3\).
+          </li>
+        </ol>
+
+      </div>
+</div>
 
 </div>
 
