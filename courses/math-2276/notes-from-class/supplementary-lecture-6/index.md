@@ -623,6 +623,19 @@ C_2=
         </ol>
 
       </div>
+
+      <div id="example-hungarian-additional-covering-conclusion">
+
+        <p>
+          Hence, all zeros can be covered using \(3\) lines.
+        </p>
+
+        <p>
+          Since the matrix is of order \(4\), we require
+          \(4\) independent zeros to complete the assignment.
+        </p>
+
+      </div>
 </div>
 
 </div>
