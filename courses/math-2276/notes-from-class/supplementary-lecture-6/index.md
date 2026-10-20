@@ -636,6 +636,27 @@ C_2=
         </p>
 
       </div>
+
+      <div id="example-hungarian-additional-insufficient-independent-zeros">
+
+        <p>
+          As the minimum number of covering lines is
+        </p>
+
+        <div class="display-math">
+
+\[
+3<4,
+\]
+
+        </div>
+
+        <p>
+          the current matrix does not contain enough
+          independent zeros.
+        </p>
+
+      </div>
 </div>
 
 </div>
