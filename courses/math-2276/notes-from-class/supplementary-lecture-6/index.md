@@ -710,6 +710,30 @@ k=6.
         </div>
 
       </div>
+
+      <div id="example-hungarian-additional-adjustment-operations">
+
+        <p>
+          We now perform the following operations:
+        </p>
+
+        <ol>
+          <li>
+            Subtract \(6\) from every uncovered entry.
+          </li>
+
+          <li>
+            Add \(6\) to every entry lying at the
+            intersection of two covering lines.
+          </li>
+
+          <li>
+            Leave all entries covered by exactly
+            one line unchanged.
+          </li>
+        </ol>
+
+      </div>
 </div>
 
 </div>
