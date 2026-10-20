@@ -678,7 +678,23 @@ C_2=
         covered by any line.
       </p>
 
-    </div>
+    
+      <div id="example-hungarian-additional-uncovered-entries">
+
+        <p>
+          The uncovered entries are
+        </p>
+
+        <div class="display-math">
+
+\[
+13,\quad 14,\quad 8,\quad 6,\quad 64,\quad 66.
+\]
+
+        </div>
+
+      </div>
+</div>
 
 </div>
 
