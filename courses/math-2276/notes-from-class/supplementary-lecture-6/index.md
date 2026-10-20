@@ -667,6 +667,19 @@ C_2=
       </div>
 </div>
 
+    <div id="example-hungarian-additional-step-4-adjust-matrix">
+
+      <p>
+        <strong>Step 4: Adjust the Reduced Matrix</strong>
+      </p>
+
+      <p>
+        We identify the smallest entry that is not
+        covered by any line.
+      </p>
+
+    </div>
+
 </div>
 
 </div>
