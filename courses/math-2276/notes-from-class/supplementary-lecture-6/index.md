@@ -734,6 +734,28 @@ k=6.
         </ol>
 
       </div>
+
+      <div id="example-hungarian-additional-adjusted-matrix-c3">
+
+        <p>
+          Consequently, the adjusted matrix becomes
+        </p>
+
+        <div class="display-math">
+
+\[
+C_3=
+\begin{pmatrix}
+7 & 8 & 0 & 2\\
+40 & 0 & 18 & 40\\
+0 & 58 & 0 & 60\\
+0 & 1 & 96 & 0
+\end{pmatrix}.
+\]
+
+        </div>
+
+      </div>
 </div>
 
 </div>
