@@ -790,6 +790,24 @@ C_3=
         </p>
 
       </div>
+
+      <div id="example-hungarian-additional-step-5-selection-matrix">
+
+        <div class="display-math">
+
+\[
+\begin{array}{c|cccc}
+& J_1 & J_2 & J_3 & J_4\\ \hline
+w_1 & 7 & 8 & \boxed{0} & 2\\
+w_2 & 40 & \boxed{0} & 18 & 40\\
+w_3 & \boxed{0} & 58 & 0 & 60\\
+w_4 & 0 & 1 & 96 & \boxed{0}
+\end{array}
+\]
+
+        </div>
+
+      </div>
 </div>
 
 </div>
