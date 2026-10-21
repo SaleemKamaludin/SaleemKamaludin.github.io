@@ -808,6 +808,19 @@ w_4 & 0 & 1 & 96 & \boxed{0}
         </div>
 
       </div>
+
+      <div id="example-hungarian-additional-step-5-optimal-conclusion">
+
+        <p>
+          We have successfully selected \(4\) independent
+          zeros, one in each row and each column.
+        </p>
+
+        <p>
+          Therefore, an optimal assignment has been found.
+        </p>
+
+      </div>
 </div>
 
 </div>
