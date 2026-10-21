@@ -756,7 +756,24 @@ C_3=
         </div>
 
       </div>
+
+      <div id="example-hungarian-additional-step-4-additional-zero">
+
+        <p>
+          Notice that the adjustment has introduced an
+          additional zero in the third row.
+        </p>
+
+      </div>
 </div>
+
+    <div id="example-hungarian-additional-step-5-independent-zeros">
+
+      <p>
+        <strong>Step 5: Select Independent Zeros</strong>
+      </p>
+
+    </div>
 
 </div>
 
