@@ -773,7 +773,24 @@ C_3=
         <strong>Step 5: Select Independent Zeros</strong>
       </p>
 
-    </div>
+    
+      <div id="example-hungarian-additional-step-5-selection-intro">
+
+        <p>
+          We again attempt to select \(4\) independent zeros.
+        </p>
+
+        <p>
+          Recall that independent zeros must lie in
+          different rows and different columns.
+        </p>
+
+        <p>
+          For \(C_3\), we can select
+        </p>
+
+      </div>
+</div>
 
 </div>
 
