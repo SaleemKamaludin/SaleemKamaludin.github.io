@@ -859,6 +859,24 @@ w_4 &\longrightarrow J_4.
         </p>
 
       </div>
+
+      <div id="example-hungarian-additional-step-6-original-costs-table">
+
+        <div class="display-math">
+
+\[
+\begin{array}{c|c|c}
+\text{Worker} & \text{Job} & \text{Cost}\\ \hline
+w_1 & J_3 & 69\\
+w_2 & J_2 & 37\\
+w_3 & J_1 & 11\\
+w_4 & J_4 & 23
+\end{array}
+\]
+
+        </div>
+
+      </div>
 </div>
 
 </div>
