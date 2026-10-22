@@ -877,6 +877,31 @@ w_4 & J_4 & 23
         </div>
 
       </div>
+
+      <div id="example-hungarian-additional-step-6-minimum-cost-conclusion">
+
+        <p>
+          Hence,
+        </p>
+
+        <div class="display-math">
+
+\[
+\begin{aligned}
+C_{\min}
+&=69+37+11+23\\
+&=\boxed{140}.
+\end{aligned}
+\]
+
+        </div>
+
+        <p>
+          Therefore, the minimum total assignment cost
+          is \(140\).
+        </p>
+
+      </div>
 </div>
 
 </div>
