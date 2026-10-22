@@ -850,6 +850,15 @@ w_4 &\longrightarrow J_4.
         </div>
 
       </div>
+
+      <div id="example-hungarian-additional-step-6-original-costs-intro">
+
+        <p>
+          Returning to the original cost matrix, the
+          corresponding costs are
+        </p>
+
+      </div>
 </div>
 
 </div>
