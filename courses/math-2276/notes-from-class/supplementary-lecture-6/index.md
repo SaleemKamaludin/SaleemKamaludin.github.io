@@ -833,7 +833,24 @@ w_4 & 0 & 1 & 96 & \boxed{0}
         The optimal assignment is
       </p>
 
-    </div>
+    
+      <div id="example-hungarian-additional-step-6-optimal-assignment">
+
+        <div class="display-math">
+
+\[
+\begin{aligned}
+w_1 &\longrightarrow J_3,\\
+w_2 &\longrightarrow J_2,\\
+w_3 &\longrightarrow J_1,\\
+w_4 &\longrightarrow J_4.
+\end{aligned}
+\]
+
+        </div>
+
+      </div>
+</div>
 
 </div>
 
