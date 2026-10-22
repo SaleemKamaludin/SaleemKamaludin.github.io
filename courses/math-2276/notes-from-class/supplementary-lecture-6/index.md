@@ -823,6 +823,18 @@ w_4 & 0 & 1 & 96 & \boxed{0}
       </div>
 </div>
 
+    <div id="example-hungarian-additional-step-6-minimum-total-cost">
+
+      <p>
+        <strong>Step 6: Determine the Minimum Total Cost</strong>
+      </p>
+
+      <p>
+        The optimal assignment is
+      </p>
+
+    </div>
+
 </div>
 
 </div>
