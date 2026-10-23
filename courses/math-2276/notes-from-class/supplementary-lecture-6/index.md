@@ -953,6 +953,17 @@ C_{\min}
           zeros can be selected.
         </p>
       </li>
+
+      <li id="remark-hungarian-important-observations-item-4">
+        <strong>Insufficient independent zeros:</strong>
+
+        <p>
+          If fewer than \(n\) independent zeros can
+          be selected, cover all zeros using the
+          minimum number of horizontal and vertical
+          lines, and adjust the matrix.
+        </p>
+      </li>
 </ol>
 
   </div>
