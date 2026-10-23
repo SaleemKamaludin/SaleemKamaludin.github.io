@@ -943,6 +943,16 @@ C_{\min}
           lie in the same row or column.
         </p>
       </li>
+
+      <li id="remark-hungarian-important-observations-item-3">
+        <strong>Optimal assignment:</strong>
+
+        <p>
+          For an \(n\times n\) cost matrix, an optimal
+          assignment is obtained when \(n\) independent
+          zeros can be selected.
+        </p>
+      </li>
 </ol>
 
   </div>
