@@ -964,6 +964,26 @@ C_{\min}
           lines, and adjust the matrix.
         </p>
       </li>
+
+      <li id="remark-hungarian-important-observations-item-5">
+        <strong>Matrix adjustment:</strong>
+
+        <p>
+          Let \(k\) be the smallest uncovered entry.
+        </p>
+
+        <p>
+          Subtract \(k\) from every uncovered entry,
+          add \(k\) to entries covered by two lines,
+          and leave entries covered by exactly one
+          line unchanged.
+        </p>
+
+        <p>
+          Repeat until \(n\) independent zeros can
+          be selected.
+        </p>
+      </li>
 </ol>
 
   </div>
