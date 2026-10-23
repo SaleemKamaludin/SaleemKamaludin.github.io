@@ -920,6 +920,23 @@ C_{\min}
     the following points in mind.
   </p>
 
+
+  <div id="remark-hungarian-important-observations-list">
+
+    <ol id="hungarian-important-observations-list">
+
+      <li>
+        <strong>Row and column reduction:</strong>
+
+        <p>
+          Subtract the smallest entry in each row
+          and then in each column.
+        </p>
+      </li>
+
+    </ol>
+
+  </div>
 </div>
 
 
