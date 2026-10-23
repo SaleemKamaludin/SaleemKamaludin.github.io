@@ -908,6 +908,20 @@ C_{\min}
 
 </div>
 
+<div id="remark-hungarian-important-observations" class="math-env remark">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Remark 1.2</span>
+    <span class="math-env-title">Important Observations</span>
+  </div>
+
+  <p>
+    When applying the Hungarian algorithm, keep
+    the following points in mind.
+  </p>
+
+</div>
+
 
 <hr>
 
