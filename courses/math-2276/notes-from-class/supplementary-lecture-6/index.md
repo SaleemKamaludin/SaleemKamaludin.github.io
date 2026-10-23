@@ -984,6 +984,15 @@ C_{\min}
           be selected.
         </p>
       </li>
+
+      <li id="remark-hungarian-important-observations-item-6">
+        <strong>Final cost:</strong>
+
+        <p>
+          Always use the original cost matrix
+          to calculate the minimum total cost.
+        </p>
+      </li>
 </ol>
 
   </div>
