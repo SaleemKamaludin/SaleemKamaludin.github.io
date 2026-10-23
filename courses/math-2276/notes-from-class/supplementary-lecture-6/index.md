@@ -934,7 +934,16 @@ C_{\min}
         </p>
       </li>
 
-    </ol>
+    
+      <li id="remark-hungarian-important-observations-item-2">
+        <strong>Independent zeros:</strong>
+
+        <p>
+          Two zeros are independent if they do not
+          lie in the same row or column.
+        </p>
+      </li>
+</ol>
 
   </div>
 </div>
