@@ -1031,6 +1031,15 @@ w_5 & 19 & 10 & 19 & 4 & 13
     </div>
 
   </div>
+
+  <div id="example-hungarian-five-by-five-problem-instruction">
+
+    <p>
+      Use the Hungarian algorithm to determine an assignment
+      that minimizes the total cost.
+    </p>
+
+  </div>
 </div>
 
 
