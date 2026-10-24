@@ -1040,6 +1040,22 @@ w_5 & 19 & 10 & 19 & 4 & 13
     </p>
 
   </div>
+
+  <div id="example-hungarian-five-by-five-step-1-row-reduction">
+
+    <p>
+      <strong>Step 1: Row Reduction</strong>
+    </p>
+
+    <p>
+      We first identify the minimum entry in each row.
+    </p>
+
+    <p>
+      The row minima are
+    </p>
+
+  </div>
 </div>
 
 
