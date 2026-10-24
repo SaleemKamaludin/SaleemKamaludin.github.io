@@ -1011,6 +1011,26 @@ C_{\min}
     \(J_1,J_2,J_3,J_4,J_5\):
   </p>
 
+
+  <div id="example-hungarian-five-by-five-original-cost-matrix">
+
+    <div class="display-math">
+
+\[
+C=
+\begin{array}{c|ccccc}
+& J_1 & J_2 & J_3 & J_4 & J_5\\ \hline
+w_1 & 9 & 19 & 11 & 7 & 13\\
+w_2 & 15 & 13 & 7 & 6 & 5\\
+w_3 & 16 & 3 & 11 & 18 & 10\\
+w_4 & 4 & 13 & 4 & 11 & 17\\
+w_5 & 19 & 10 & 19 & 4 & 13
+\end{array}
+\]
+
+    </div>
+
+  </div>
 </div>
 
 
