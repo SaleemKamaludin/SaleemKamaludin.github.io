@@ -1055,7 +1055,24 @@ w_5 & 19 & 10 & 19 & 4 & 13
       The row minima are
     </p>
 
-  </div>
+  
+    <div id="example-hungarian-five-by-five-step-1-row-minima">
+
+      <div class="display-math">
+
+\[
+7,\quad 5,\quad 3,\quad 4,\quad 4.
+\]
+
+      </div>
+
+      <p>
+        Subtracting the minimum entry from every entry in its
+        corresponding row gives
+      </p>
+
+    </div>
+</div>
 </div>
 
 
