@@ -998,6 +998,21 @@ C_{\min}
   </div>
 </div>
 
+<div id="example-hungarian-five-by-five-assignment" class="math-env example">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Example 1.3</span>
+    <span class="math-env-title">Hungarian Algorithm: A \(5\times5\) Assignment Problem</span>
+  </div>
+
+  <p>
+    Consider the following cost matrix for assigning five workers
+    \(w_1,w_2,w_3,w_4,w_5\) to five jobs
+    \(J_1,J_2,J_3,J_4,J_5\):
+  </p>
+
+</div>
+
 
 <hr>
 
