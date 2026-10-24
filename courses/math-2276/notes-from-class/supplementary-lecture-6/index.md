@@ -1072,6 +1072,25 @@ w_5 & 19 & 10 & 19 & 4 & 13
       </p>
 
     </div>
+
+    <div id="example-hungarian-five-by-five-step-1-row-reduced-matrix-c1">
+
+      <div class="display-math">
+
+\[
+C_1=
+\begin{pmatrix}
+2 & 12 & 4 & 0 & 6\\
+10 & 8 & 2 & 1 & 0\\
+13 & 0 & 8 & 15 & 7\\
+0 & 9 & 0 & 7 & 13\\
+15 & 6 & 15 & 0 & 9
+\end{pmatrix}.
+\]
+
+      </div>
+
+    </div>
 </div>
 </div>
 
