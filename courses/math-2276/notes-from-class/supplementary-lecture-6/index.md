@@ -1130,7 +1130,16 @@ C_1=
       each row and each column.
     </p>
 
-  </div>
+  
+    <div id="example-hungarian-five-by-five-step-3-j4-conflict">
+
+      <p>
+        However, rows \(w_1\) and \(w_5\) each contain a zero
+        only in column \(J_4\).
+      </p>
+
+    </div>
+</div>
 </div>
 
 
