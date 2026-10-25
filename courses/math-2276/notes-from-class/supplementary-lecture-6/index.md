@@ -1118,6 +1118,19 @@ C_1=
 
     </div>
 </div>
+
+  <div id="example-hungarian-five-by-five-step-3-cover-zeros">
+
+    <p>
+      <strong>Step 3: Cover All Zeros with the Minimum Number of Lines</strong>
+    </p>
+
+    <p>
+      We attempt to select five independent zeros, one from
+      each row and each column.
+    </p>
+
+  </div>
 </div>
 
 
