@@ -1103,7 +1103,21 @@ C_1=
       We now identify the minimum entry in each column.
     </p>
 
-  </div>
+  
+    <div id="example-hungarian-five-by-five-step-2-no-column-reduction">
+
+      <p>
+        Notice that every column of \(C_1\) already contains
+        at least one zero.
+      </p>
+
+      <p>
+        Thus, all column minima are zero, and no further
+        column reduction is necessary.
+      </p>
+
+    </div>
+</div>
 </div>
 
 
