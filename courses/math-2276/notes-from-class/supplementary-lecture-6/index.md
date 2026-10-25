@@ -1092,6 +1092,18 @@ C_1=
 
     </div>
 </div>
+
+  <div id="example-hungarian-five-by-five-step-2-column-reduction">
+
+    <p>
+      <strong>Step 2: Column Reduction</strong>
+    </p>
+
+    <p>
+      We now identify the minimum entry in each column.
+    </p>
+
+  </div>
 </div>
 
 
