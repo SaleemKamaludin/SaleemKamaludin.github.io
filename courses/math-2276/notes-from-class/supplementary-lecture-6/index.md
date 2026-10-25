@@ -1139,6 +1139,20 @@ C_1=
       </p>
 
     </div>
+
+    <div id="example-hungarian-five-by-five-step-3-covering-intro">
+
+      <p>
+        Therefore, we cannot select five independent zeros
+        from the current matrix.
+      </p>
+
+      <p>
+        We now cover all zeros using the minimum number of
+        horizontal and vertical lines.
+      </p>
+
+    </div>
 </div>
 </div>
 
