@@ -1215,7 +1215,23 @@ C_1=
       The entries that are not covered by any line are
     </p>
 
-  </div>
+  
+    <div id="example-hungarian-five-by-five-step-4-uncovered-entries">
+
+      <div class="display-math">
+
+\[
+\begin{array}{ccc}
+2 & 12 & 4\\
+10 & 8 & 2\\
+15 & 6 & 15
+\end{array}.
+\]
+
+      </div>
+
+    </div>
+</div>
 </div>
 
 
