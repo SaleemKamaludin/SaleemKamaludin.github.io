@@ -1153,6 +1153,32 @@ C_1=
       </p>
 
     </div>
+
+    <div id="example-hungarian-five-by-five-step-3-minimum-covering-lines">
+
+      <p>
+        One possible minimum covering consists of:
+      </p>
+
+      <ol>
+        <li>
+          A horizontal line through row \(w_3\).
+        </li>
+
+        <li>
+          A horizontal line through row \(w_4\).
+        </li>
+
+        <li>
+          A vertical line through column \(J_4\).
+        </li>
+
+        <li>
+          A vertical line through column \(J_5\).
+        </li>
+      </ol>
+
+    </div>
 </div>
 </div>
 
