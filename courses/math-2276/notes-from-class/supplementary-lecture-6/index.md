@@ -1231,6 +1231,22 @@ C_1=
       </div>
 
     </div>
+
+    <div id="example-hungarian-five-by-five-step-4-smallest-uncovered-entry">
+
+      <p>
+        The smallest uncovered entry is
+      </p>
+
+      <div class="display-math">
+
+\[
+k=2.
+\]
+
+      </div>
+
+    </div>
 </div>
 </div>
 
