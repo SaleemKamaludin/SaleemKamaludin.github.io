@@ -1179,6 +1179,30 @@ C_1=
       </ol>
 
     </div>
+
+    <div id="example-hungarian-five-by-five-step-3-covering-conclusion">
+
+      <p>
+        Hence, the minimum number of covering lines is \(4\).
+      </p>
+
+      <p>
+        Since
+      </p>
+
+      <div class="display-math">
+
+\[
+4<5,
+\]
+
+      </div>
+
+      <p>
+        we must perform an additional matrix adjustment.
+      </p>
+
+    </div>
 </div>
 </div>
 
