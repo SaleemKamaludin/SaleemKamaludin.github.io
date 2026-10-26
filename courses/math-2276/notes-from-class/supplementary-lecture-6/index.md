@@ -1204,6 +1204,18 @@ C_1=
 
     </div>
 </div>
+
+  <div id="example-hungarian-five-by-five-step-4-adjust-matrix">
+
+    <p>
+      <strong>Step 4: Adjust the Matrix</strong>
+    </p>
+
+    <p>
+      The entries that are not covered by any line are
+    </p>
+
+  </div>
 </div>
 
 
