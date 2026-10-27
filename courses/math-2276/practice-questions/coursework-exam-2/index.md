@@ -22,7 +22,35 @@ These questions are provided for additional practice for **Coursework Exam 2** a
   </div>
   <div class="math-env-body">
     <p><strong>(a)</strong> Let \(G\) be a finite simple bipartite graph with partite sets \(X\) and \(Y\), where \(|X|=|Y|=n\) and \(n\geq 1\). Suppose that every vertex of \(G\) has degree at least \(n/2\). Using Hall's condition, prove that \(G\) has a perfect matching.</p>
-  </div>
+  
+<p id="cw2-question-1b">
+<strong>(b)</strong>
+Let \(G\) be a finite bipartite graph with
+partite sets \(X\) and \(Y\), where
+\(|X|=|Y|\).
+</p>
+
+<p>
+Suppose that there exists a positive integer
+\(r\) such that
+</p>
+
+\[
+\deg(x)\geq r
+\quad\text{for every }x\in X,
+\]
+
+<p>and</p>
+
+\[
+\deg(y)\leq r
+\quad\text{for every }y\in Y.
+\]
+
+<p>
+Prove that \(G\) has a perfect matching.
+</p>
+</div>
 </div>
 
 ---
