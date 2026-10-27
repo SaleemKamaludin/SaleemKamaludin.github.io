@@ -70,6 +70,24 @@ You may use the result that every finite
 </div>
 </div>
 
+<style>
+#cw2-question-2 ol {
+    list-style-type: none;
+    counter-reset: part;
+    padding-left: 2.5em;
+}
+
+#cw2-question-2 ol > li {
+    counter-increment: part;
+    position: relative;
+}
+
+#cw2-question-2 ol > li::before {
+    content: "(" counter(part, lower-alpha) ")";
+    position: absolute;
+    left: -2.5em;
+}
+</style>
 <div id="cw2-question-2" class="math-env exercise">
 
 <div class="math-env-heading">
