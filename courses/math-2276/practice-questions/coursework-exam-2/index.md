@@ -135,6 +135,32 @@ or prove that no such system exists.
 </div>
 </div>
 
+<div id="cw2-question-3" class="math-env exercise">
+
+<div class="math-env-heading">
+<span class="math-env-tag">Question 3</span>
+</div>
+
+<div class="math-env-body">
+
+<p id="cw2-question-3a">
+<strong>(a)</strong>
+Let \(T\) be a tournament of order \(n\geq 3\).
+</p>
+
+<p>
+Prove that if \(T\) contains a directed cycle,
+then \(T\) contains a directed cycle of length \(3\).
+</p>
+
+<p>
+Hence, deduce that a tournament containing no
+directed \(3\)-cycle must be transitive.
+</p>
+
+</div>
+</div>
+
 ---
 
 [← Back to Practice Questions]({{ '/courses/math-2276/practice-questions/' | relative_url }})
