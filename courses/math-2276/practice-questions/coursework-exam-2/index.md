@@ -70,6 +70,53 @@ You may use the result that every finite
 </div>
 </div>
 
+<div id="cw2-question-2" class="math-env exercise">
+
+<div class="math-env-heading">
+<span class="math-env-tag">Question 2</span>
+</div>
+
+<div class="math-env-body">
+
+<p>
+For each of the following families of sets,
+construct a system of distinct representatives (SDR),
+or prove that no such system exists.
+</p>
+
+<ol type="a">
+
+<li>
+\(\{a,c\},\ \{b,c,d\},\ \{a,d,e\},\
+\{b,e\},\ \{c,d,e\}\).
+</li>
+
+<li>
+\(\{a,b\},\ \{b,c\},\ \{a,c\},\
+\{a,b,c\},\ \{d,e\}\).
+</li>
+
+<li>
+\(\{p,q,r\},\ \{q,s\},\ \{p,t\},\
+\{r,s,u\},\ \{t,u\},\ \{q,u,v\}\).
+</li>
+
+<li>
+\(\{a,d,e\},\ \{b,e,f\},\ \{a,b,c\},\
+\{b,c\},\ \{a,c\},\ \{a,b,c\}\).
+</li>
+
+<li>
+\(\{a,d,h\},\ \{b,d,e\},\ \{c,e,g\},\
+\{a,f,g\},\ \{c,f,h\},\ \{b,g,h\},\
+\{d,e,f,i\}\).
+</li>
+
+</ol>
+
+</div>
+</div>
+
 ---
 
 [← Back to Practice Questions]({{ '/courses/math-2276/practice-questions/' | relative_url }})
