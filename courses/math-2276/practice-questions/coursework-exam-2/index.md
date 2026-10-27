@@ -50,6 +50,23 @@ Suppose that there exists a positive integer
 <p>
 Prove that \(G\) has a perfect matching.
 </p>
+
+<p id="cw2-question-1c">
+<strong>(c)</strong>
+Let \(G\) be a finite \(r\)-regular bipartite
+graph, where \(r\geq 1\).
+
+Prove, by mathematical induction on \(r\),
+that the edge set of \(G\) can be partitioned
+into \(r\) pairwise edge-disjoint
+perfect matchings.
+</p>
+
+<p>
+You may use the result that every finite
+\(r\)-regular bipartite graph, where
+\(r\geq 1\), has a perfect matching.
+</p>
 </div>
 </div>
 
