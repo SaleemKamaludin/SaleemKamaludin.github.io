@@ -15,6 +15,7 @@ The material is intended to support preparation for coursework examinations and 
 ## Practice Sets
 
 - **[Coursework Exam 1 (and Final Exam) Practice Questions]({{ '/courses/math-2276/practice-questions/coursework-exam-1/' | relative_url }})**
+- **[Coursework Exam 2 (and Final Exam) Practice Questions]({{ '/courses/math-2276/practice-questions/coursework-exam-2/' | relative_url }})**
 
 ---
 
