@@ -250,6 +250,87 @@ construct one.
 </div>
 </div>
 
+<div id="cw2-question-5" class="math-env exercise">
+
+<div class="math-env-heading">
+<span class="math-env-tag">Question 5</span>
+</div>
+
+<div class="math-env-body">
+
+<p id="cw2-question-5a">
+<strong>(a)</strong>
+Five women \(a,b,c,d,e\) are to be matched with
+five men \(u,v,w,x,y\). Their preference orderings,
+from most preferred to least preferred, are given below.
+</p>
+
+<table style="width: auto; margin: 1em auto; border-collapse: collapse;">
+<thead>
+<tr>
+<th colspan="2" style="text-align:center;">Women</th>
+<th colspan="2" style="text-align:center;">Men</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>\(a:\)</td>
+<td>\(w>x>v>u>y\)</td>
+<td>\(u:\)</td>
+<td>\(d>a>b>e>c\)</td>
+</tr>
+
+<tr>
+<td>\(b:\)</td>
+<td>\(y>w>u>v>x\)</td>
+<td>\(v:\)</td>
+<td>\(c>a>e>d>b\)</td>
+</tr>
+
+<tr>
+<td>\(c:\)</td>
+<td>\(y>w>v>x>u\)</td>
+<td>\(w:\)</td>
+<td>\(c>a>e>b>d\)</td>
+</tr>
+
+<tr>
+<td>\(d:\)</td>
+<td>\(y>v>u>w>x\)</td>
+<td>\(x:\)</td>
+<td>\(c>b>a>e>d\)</td>
+</tr>
+
+<tr>
+<td>\(e:\)</td>
+<td>\(u>w>v>y>x\)</td>
+<td>\(y:\)</td>
+<td>\(b>e>c>a>d\)</td>
+</tr>
+</tbody>
+</table>
+
+<ol style="list-style-type: none; padding-left: 2em;">
+
+<li style="margin-bottom: 0.8em;">
+<strong>(i)</strong>
+Using the Gale--Shapley Proposal Algorithm,
+determine a stable matching that is optimal
+for the men.
+</li>
+
+<li style="margin-bottom: 0.8em;">
+<strong>(ii)</strong>
+Is this the only stable matching?
+Justify your answer.
+</li>
+
+</ol>
+
+</div>
+</div>
+
 ---
 
 [← Back to Practice Questions]({{ '/courses/math-2276/practice-questions/' | relative_url }})
