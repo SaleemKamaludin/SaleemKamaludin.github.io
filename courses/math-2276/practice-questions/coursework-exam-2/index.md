@@ -250,6 +250,28 @@ construct one.
 </div>
 </div>
 
+<style>
+/* Question 5 preference table spacing */
+
+#cw2-question-5 table td:nth-child(3) {
+    padding-left: 60px !important;
+}
+
+#cw2-question-5 table th:nth-child(2) {
+    padding-left: 60px !important;
+}
+
+#cw2-question-5 table td {
+    white-space: nowrap;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+#cw2-question-5 table td:nth-child(1),
+#cw2-question-5 table td:nth-child(3) {
+    padding-right: 12px !important;
+}
+</style>
 <div id="cw2-question-5" class="math-env exercise">
 
 <div class="math-env-heading">
