@@ -158,6 +158,23 @@ Hence, deduce that a tournament containing no
 directed \(3\)-cycle must be transitive.
 </p>
 
+
+<p id="cw2-question-3b">
+<strong>(b)</strong>
+Let \(T\) be a tournament of order \(n\geq 1\),
+and suppose that the scores of all its vertices
+are distinct.
+</p>
+
+<p>
+Prove, by mathematical induction on \(n\),
+that \(T\) is transitive.
+</p>
+
+<p>
+You must not assume the corollary relating
+distinct vertex scores to transitivity.
+</p>
 </div>
 </div>
 
