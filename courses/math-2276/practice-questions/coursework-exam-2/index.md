@@ -350,6 +350,80 @@ Justify your answer.
 
 </ol>
 
+
+
+<hr style="margin: 1.5em 0;">
+
+<p id="cw2-question-5b">
+<strong>(b)</strong>
+Five women \(a,b,c,d,e\) are to be matched with
+five men \(u,v,w,x,y\). Their preference orderings,
+from most preferred to least preferred, are given below.
+</p>
+
+<table style="width: auto; margin: 1em auto; border-collapse: collapse;">
+<thead>
+<tr>
+<th colspan="2" style="text-align:center;">Women</th>
+<th colspan="2" style="text-align:center; padding-left:60px;">Men</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>\(a:\)</td>
+<td>\(v>u>w>x>y\)</td>
+<td style="padding-left:60px;">\(u:\)</td>
+<td>\(a>b>e>d>c\)</td>
+</tr>
+
+<tr>
+<td>\(b:\)</td>
+<td>\(v>y>w>u>x\)</td>
+<td style="padding-left:60px;">\(v:\)</td>
+<td>\(b>e>d>c>a\)</td>
+</tr>
+
+<tr>
+<td>\(c:\)</td>
+<td>\(w>v>y>u>x\)</td>
+<td style="padding-left:60px;">\(w:\)</td>
+<td>\(a>c>d>b>e\)</td>
+</tr>
+
+<tr>
+<td>\(d:\)</td>
+<td>\(y>w>u>x>v\)</td>
+<td style="padding-left:60px;">\(x:\)</td>
+<td>\(c>e>b>d>a\)</td>
+</tr>
+
+<tr>
+<td>\(e:\)</td>
+<td>\(u>x>w>v>y\)</td>
+<td style="padding-left:60px;">\(y:\)</td>
+<td>\(b>e>d>c>a\)</td>
+</tr>
+</tbody>
+</table>
+
+<ol style="list-style-type: none; padding-left: 2em;">
+
+<li style="margin-bottom: 0.8em;">
+<strong>(i)</strong>
+Using the Gale--Shapley Proposal Algorithm,
+determine a stable matching that is optimal
+for the men.
+</li>
+
+<li style="margin-bottom: 0.8em;">
+<strong>(ii)</strong>
+Is this the only stable matching?
+Justify your answer.
+</li>
+
+</ol>
+
 </div>
 </div>
 
