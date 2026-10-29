@@ -204,6 +204,52 @@ belongs to a directed cycle of length \(3\).
 </div>
 </div>
 
+<div id="cw2-question-4" class="math-env exercise">
+
+<div class="math-env-heading">
+<span class="math-env-tag">Question 4</span>
+</div>
+
+<div class="math-env-body">
+
+<p>
+For each of the following sequences, determine whether
+there exists a tournament having that score sequence
+by using Landau's conditions.
+</p>
+
+<p>
+Justify your answers. If such a tournament exists,
+construct one.
+</p>
+
+<ol style="list-style-type: none; padding-left: 2em;">
+
+<li style="margin-bottom: 0.8em;">
+<strong>(a)</strong> \((3,3,2,1,1)\).
+</li>
+
+<li style="margin-bottom: 0.8em;">
+<strong>(b)</strong> \((4,4,1,1,0)\).
+</li>
+
+<li style="margin-bottom: 0.8em;">
+<strong>(c)</strong> \((2,2,2,2,2)\).
+</li>
+
+<li style="margin-bottom: 0.8em;">
+<strong>(d)</strong> \((4,3,3,0,0)\).
+</li>
+
+<li style="margin-bottom: 0.8em;">
+<strong>(e)</strong> \((4,2,2,1,1)\).
+</li>
+
+</ol>
+
+</div>
+</div>
+
 ---
 
 [← Back to Practice Questions]({{ '/courses/math-2276/practice-questions/' | relative_url }})
