@@ -501,6 +501,91 @@ Justify your answer.
 </div>
 </div>
 
+<div id="cw2-question-6" class="math-env exercise">
+
+<div class="math-env-heading">
+<span class="math-env-tag">Question 6</span>
+</div>
+
+<div class="math-env-body">
+
+<p id="cw2-question-6a">
+<strong>(a)</strong>
+Construct an Activity-on-Node (AON) network showing
+each activity's earliest and latest starting times
+for the following precedence table.
+</p>
+
+<p>
+Hence, determine the critical path and the minimum
+project completion time.
+</p>
+
+<table style="width:auto; margin:1.5em auto; border-collapse:collapse; text-align:center;">
+
+<thead>
+<tr>
+<th style="border:1px solid #777; padding:10px 18px;">Activity</th>
+<th style="border:1px solid #777; padding:10px 18px;">Duration</th>
+<th style="border:1px solid #777; padding:10px 18px;">Immediate Predecessors</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td style="border:1px solid #777; padding:8px 18px;">A</td>
+<td style="border:1px solid #777;">3</td>
+<td style="border:1px solid #777;">&ndash;</td>
+</tr>
+
+<tr>
+<td style="border:1px solid #777; padding:8px 18px;">B</td>
+<td style="border:1px solid #777;">4</td>
+<td style="border:1px solid #777;">&ndash;</td>
+</tr>
+
+<tr>
+<td style="border:1px solid #777; padding:8px 18px;">C</td>
+<td style="border:1px solid #777;">2</td>
+<td style="border:1px solid #777;">&ndash;</td>
+</tr>
+
+<tr>
+<td style="border:1px solid #777; padding:8px 18px;">D</td>
+<td style="border:1px solid #777;">4</td>
+<td style="border:1px solid #777;">A</td>
+</tr>
+
+<tr>
+<td style="border:1px solid #777; padding:8px 18px;">E</td>
+<td style="border:1px solid #777;">5</td>
+<td style="border:1px solid #777;">A, B</td>
+</tr>
+
+<tr>
+<td style="border:1px solid #777; padding:8px 18px;">F</td>
+<td style="border:1px solid #777;">6</td>
+<td style="border:1px solid #777;">C</td>
+</tr>
+
+<tr>
+<td style="border:1px solid #777; padding:8px 18px;">G</td>
+<td style="border:1px solid #777;">3</td>
+<td style="border:1px solid #777;">D, E</td>
+</tr>
+
+<tr>
+<td style="border:1px solid #777; padding:8px 18px;">H</td>
+<td style="border:1px solid #777;">2</td>
+<td style="border:1px solid #777;">F, G</td>
+</tr>
+</tbody>
+
+</table>
+
+</div>
+</div>
+
 ---
 
 [← Back to Practice Questions]({{ '/courses/math-2276/practice-questions/' | relative_url }})
