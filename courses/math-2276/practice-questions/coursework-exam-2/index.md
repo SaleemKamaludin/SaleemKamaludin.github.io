@@ -175,6 +175,32 @@ that \(T\) is transitive.
 You must not assume the corollary relating
 distinct vertex scores to transitivity.
 </p>
+
+<p id="cw2-question-3c">
+<strong>(c)</strong>
+Let \(T\) be a finite \(r\)-regular tournament,
+where \(r\geq 1\).
+</p>
+
+<ol style="list-style-type: none; padding-left: 2em;">
+
+<li style="margin-bottom: 0.8em;">
+<strong>(i)</strong>
+Prove that \(T\) has odd order.
+</li>
+
+<li style="margin-bottom: 0.8em;">
+<strong>(ii)</strong>
+Prove that \(T\) cannot be transitive.
+</li>
+
+<li style="margin-bottom: 0.8em;">
+<strong>(iii)</strong>
+Prove that every vertex of \(T\)
+belongs to a directed cycle of length \(3\).
+</li>
+
+</ol>
 </div>
 </div>
 
