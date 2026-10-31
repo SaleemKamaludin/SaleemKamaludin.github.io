@@ -1310,6 +1310,14 @@ C_2=
       </p>
 
     </div>
+
+    <div id="example-hungarian-five-by-five-step-5-possible-selection-intro">
+
+      <p>
+        One possible selection is
+      </p>
+
+    </div>
 </div>
 </div>
 
