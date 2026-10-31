@@ -1346,6 +1346,15 @@ w_5 & 13 & 4 & 13 & \boxed{0} & 9
       </p>
 
     </div>
+
+    <div id="example-hungarian-five-by-five-step-5-optimal-conclusion">
+
+      <p>
+        Since we have selected five independent zeros,
+        an optimal assignment has been obtained.
+      </p>
+
+    </div>
 </div>
 </div>
 
