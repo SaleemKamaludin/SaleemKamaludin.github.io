@@ -1363,7 +1363,15 @@ w_5 & 13 & 4 & 13 & \boxed{0} & 9
       <strong>Step 6: Determine the Minimum Total Cost</strong>
     </p>
 
-  </div>
+  
+    <div id="example-hungarian-five-by-five-step-6-optimal-assignment-intro">
+
+      <p>
+        The optimal assignment is
+      </p>
+
+    </div>
+</div>
 </div>
 
 
