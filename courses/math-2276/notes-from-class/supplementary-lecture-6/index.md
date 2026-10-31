@@ -1271,6 +1271,29 @@ k=2.
       </ol>
 
     </div>
+
+    <div id="example-hungarian-five-by-five-step-4-resulting-matrix-c2">
+
+      <p>
+        The resulting matrix is
+      </p>
+
+      <div class="display-math">
+
+\[
+C_2=
+\begin{pmatrix}
+0 & 10 & 2 & 0 & 6\\
+8 & 6 & 0 & 1 & 0\\
+13 & 0 & 8 & 17 & 9\\
+0 & 9 & 0 & 9 & 15\\
+13 & 4 & 13 & 0 & 9
+\end{pmatrix}.
+\]
+
+      </div>
+
+    </div>
 </div>
 </div>
 
