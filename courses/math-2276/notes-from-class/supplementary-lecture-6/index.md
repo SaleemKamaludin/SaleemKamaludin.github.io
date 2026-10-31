@@ -1371,6 +1371,24 @@ w_5 & 13 & 4 & 13 & \boxed{0} & 9
       </p>
 
     </div>
+
+    <div id="example-hungarian-five-by-five-step-6-optimal-assignment">
+
+      <div class="display-math">
+
+\[
+\begin{aligned}
+w_1 &\longrightarrow J_1,\\
+w_2 &\longrightarrow J_5,\\
+w_3 &\longrightarrow J_2,\\
+w_4 &\longrightarrow J_3,\\
+w_5 &\longrightarrow J_4.
+\end{aligned}
+\]
+
+      </div>
+
+    </div>
 </div>
 </div>
 
