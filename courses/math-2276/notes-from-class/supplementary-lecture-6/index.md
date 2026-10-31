@@ -1295,6 +1295,14 @@ C_2=
 
     </div>
 </div>
+
+  <div id="example-hungarian-five-by-five-step-5-independent-zeros">
+
+    <p>
+      <strong>Step 5: Select Independent Zeros</strong>
+    </p>
+
+  </div>
 </div>
 
 
