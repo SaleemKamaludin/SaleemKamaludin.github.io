@@ -1302,7 +1302,15 @@ C_2=
       <strong>Step 5: Select Independent Zeros</strong>
     </p>
 
-  </div>
+  
+    <div id="example-hungarian-five-by-five-step-5-selection-intro">
+
+      <p>
+        We now attempt to select five independent zeros.
+      </p>
+
+    </div>
+</div>
 </div>
 
 
