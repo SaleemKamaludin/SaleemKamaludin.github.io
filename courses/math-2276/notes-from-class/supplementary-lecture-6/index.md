@@ -1247,6 +1247,30 @@ k=2.
       </div>
 
     </div>
+
+    <div id="example-hungarian-five-by-five-step-4-adjustment-rules">
+
+      <p>
+        We now apply the following rules:
+      </p>
+
+      <ol>
+        <li>
+          Subtract \(2\) from every uncovered entry.
+        </li>
+
+        <li>
+          Add \(2\) to every entry at the intersection
+          of two covering lines.
+        </li>
+
+        <li>
+          Leave entries covered by exactly one line
+          unchanged.
+        </li>
+      </ol>
+
+    </div>
 </div>
 </div>
 
