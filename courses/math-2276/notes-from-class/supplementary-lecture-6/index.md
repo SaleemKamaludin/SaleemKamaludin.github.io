@@ -1356,6 +1356,14 @@ w_5 & 13 & 4 & 13 & \boxed{0} & 9
 
     </div>
 </div>
+
+  <div id="example-hungarian-five-by-five-step-6-minimum-total-cost">
+
+    <p>
+      <strong>Step 6: Determine the Minimum Total Cost</strong>
+    </p>
+
+  </div>
 </div>
 
 
