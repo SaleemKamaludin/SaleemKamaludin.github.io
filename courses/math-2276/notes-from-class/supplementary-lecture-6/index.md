@@ -1318,6 +1318,25 @@ C_2=
       </p>
 
     </div>
+
+    <div id="example-hungarian-five-by-five-step-5-selection-matrix">
+
+      <div class="display-math">
+
+\[
+\begin{array}{c|ccccc}
+& J_1 & J_2 & J_3 & J_4 & J_5\\ \hline
+w_1 & \boxed{0} & 10 & 2 & 0 & 6\\
+w_2 & 8 & 6 & 0 & 1 & \boxed{0}\\
+w_3 & 13 & \boxed{0} & 8 & 17 & 9\\
+w_4 & 0 & 9 & \boxed{0} & 9 & 15\\
+w_5 & 13 & 4 & 13 & \boxed{0} & 9
+\end{array}
+\]
+
+      </div>
+
+    </div>
 </div>
 </div>
 
