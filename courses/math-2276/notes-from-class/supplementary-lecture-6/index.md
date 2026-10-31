@@ -1337,6 +1337,15 @@ w_5 & 13 & 4 & 13 & \boxed{0} & 9
       </div>
 
     </div>
+
+    <div id="example-hungarian-five-by-five-step-5-independent-zero-observation">
+
+      <p>
+        Notice that the selected zeros lie in different
+        rows and different columns.
+      </p>
+
+    </div>
 </div>
 </div>
 
