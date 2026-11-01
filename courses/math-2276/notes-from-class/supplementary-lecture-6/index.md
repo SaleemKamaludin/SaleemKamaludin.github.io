@@ -1440,6 +1440,14 @@ C_{\min}
       </div>
 
     </div>
+
+    <div id="example-hungarian-five-by-five-step-6-final-conclusion">
+
+      <p>
+        Hence, the minimum total assignment cost is \(25\).
+      </p>
+
+    </div>
 </div>
 </div>
 
