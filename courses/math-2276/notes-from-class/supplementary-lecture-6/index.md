@@ -1416,6 +1416,14 @@ w_5 & J_4 & 4
       </div>
 
     </div>
+
+    <div id="example-hungarian-five-by-five-step-6-therefore">
+
+      <p>
+        Therefore,
+      </p>
+
+    </div>
 </div>
 </div>
 
