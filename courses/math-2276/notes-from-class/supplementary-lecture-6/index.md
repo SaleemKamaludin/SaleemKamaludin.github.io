@@ -1389,6 +1389,14 @@ w_5 &\longrightarrow J_4.
       </div>
 
     </div>
+
+    <div id="example-hungarian-five-by-five-step-6-original-costs-intro">
+
+      <p>
+        Returning to the original cost matrix, we obtain
+      </p>
+
+    </div>
 </div>
 </div>
 
