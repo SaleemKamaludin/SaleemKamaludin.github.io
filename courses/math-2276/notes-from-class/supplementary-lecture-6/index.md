@@ -1397,6 +1397,25 @@ w_5 &\longrightarrow J_4.
       </p>
 
     </div>
+
+    <div id="example-hungarian-five-by-five-step-6-original-costs-table">
+
+      <div class="display-math">
+
+\[
+\begin{array}{c|c|c}
+\text{Worker} & \text{Job} & \text{Cost}\\ \hline
+w_1 & J_1 & 9\\
+w_2 & J_5 & 5\\
+w_3 & J_2 & 3\\
+w_4 & J_3 & 4\\
+w_5 & J_4 & 4
+\end{array}
+\]
+
+      </div>
+
+    </div>
 </div>
 </div>
 
