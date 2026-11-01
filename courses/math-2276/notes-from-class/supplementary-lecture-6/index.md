@@ -1424,6 +1424,22 @@ w_5 & J_4 & 4
       </p>
 
     </div>
+
+    <div id="example-hungarian-five-by-five-step-6-minimum-cost-calculation">
+
+      <div class="display-math">
+
+\[
+\begin{aligned}
+C_{\min}
+&=9+5+3+4+4\\
+&=\boxed{25}.
+\end{aligned}
+\]
+
+      </div>
+
+    </div>
 </div>
 </div>
 
