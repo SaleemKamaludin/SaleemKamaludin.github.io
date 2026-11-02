@@ -1467,6 +1467,15 @@ C_{\min}
 
 </div>
 
+<div id="unbalanced-assignment-problems-square-matrix-observation">
+
+  <p>
+    The standard Hungarian algorithm is applied to
+    a square cost matrix.
+  </p>
+
+</div>
+
 
 
 <hr>
