@@ -1476,6 +1476,15 @@ C_{\min}
 
 </div>
 
+<div id="unbalanced-assignment-problems-balancing-requirement">
+
+  <p>
+    Therefore, an unbalanced assignment problem must
+    first be converted into a balanced assignment problem.
+  </p>
+
+</div>
+
 
 
 <hr>
