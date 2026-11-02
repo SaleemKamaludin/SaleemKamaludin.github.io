@@ -1457,6 +1457,16 @@ C_{\min}
   Unbalanced Assignment Problems
 </h2>
 
+<div id="unbalanced-assignment-problems-intro">
+
+  <p>
+    An assignment problem is said to be
+    <strong>unbalanced</strong> when the number of workers
+    is different from the number of jobs.
+  </p>
+
+</div>
+
 
 
 <hr>
