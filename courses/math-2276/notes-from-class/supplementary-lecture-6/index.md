@@ -1547,6 +1547,15 @@ C_{\min}
     actual assignment.
   </p>
 
+
+  <div id="remark-unbalanced-assignment-dummy-worker-meaning">
+
+    <p>
+      If a dummy worker is assigned to a job, that job
+      remains unassigned.
+    </p>
+
+  </div>
 </div>
 
 
