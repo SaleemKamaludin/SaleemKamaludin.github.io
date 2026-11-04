@@ -1499,6 +1499,14 @@ C_{\min}
 
 </div>
 
+<div id="unbalanced-assignment-problems-case-2-more-workers-than-jobs">
+
+  <p>
+    <strong>Case 2: More workers than jobs</strong>
+  </p>
+
+</div>
+
 
 
 <hr>
