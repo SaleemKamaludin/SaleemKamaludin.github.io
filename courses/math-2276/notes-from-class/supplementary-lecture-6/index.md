@@ -1517,6 +1517,16 @@ C_{\min}
   </div>
 </div>
 
+<div id="unbalanced-assignment-problems-dummy-costs">
+
+  <p>
+    For the standard assignment problem, the costs
+    associated with dummy workers or dummy jobs are
+    taken to be zero.
+  </p>
+
+</div>
+
 
 
 <hr>
