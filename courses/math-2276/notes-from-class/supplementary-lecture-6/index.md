@@ -1575,6 +1575,22 @@ C_{\min}
   </div>
 </div>
 
+<div style="height: 2rem;"></div>
+
+<div id="example-unbalanced-assignment-problem" class="math-env example">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Example 1.4</span>
+    <span class="math-env-title">Unbalanced Assignment Problem</span>
+  </div>
+
+  <p>
+    Suppose three workers \(w_1,w_2,w_3\) are available
+    to perform four jobs \(J_1,J_2,J_3,J_4\).
+  </p>
+
+</div>
+
 
 
 <hr>
