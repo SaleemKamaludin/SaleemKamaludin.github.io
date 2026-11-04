@@ -1565,6 +1565,14 @@ C_{\min}
     </p>
 
   </div>
+
+  <div id="remark-unbalanced-assignment-dummy-cost-conclusion">
+
+    <p>
+      Dummy assignments contribute zero to the total cost.
+    </p>
+
+  </div>
 </div>
 
 
