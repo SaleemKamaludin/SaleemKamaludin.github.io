@@ -1556,6 +1556,15 @@ C_{\min}
     </p>
 
   </div>
+
+  <div id="remark-unbalanced-assignment-dummy-job-meaning">
+
+    <p>
+      Similarly, if a worker is assigned to a dummy job,
+      that worker remains unassigned.
+    </p>
+
+  </div>
 </div>
 
 
