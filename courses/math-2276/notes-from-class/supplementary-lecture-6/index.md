@@ -1505,6 +1505,16 @@ C_{\min}
     <strong>Case 2: More workers than jobs</strong>
   </p>
 
+
+  <div id="unbalanced-assignment-problems-case-2-dummy-jobs">
+
+    <p>
+      If there are more workers than jobs, we introduce
+      dummy jobs until the number of jobs equals
+      the number of workers.
+    </p>
+
+  </div>
 </div>
 
 
