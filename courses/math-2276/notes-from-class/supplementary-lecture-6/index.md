@@ -1527,6 +1527,15 @@ C_{\min}
 
 </div>
 
+<div id="unbalanced-assignment-problems-apply-hungarian-algorithm">
+
+  <p>
+    The Hungarian algorithm can then be applied
+    to the resulting square matrix.
+  </p>
+
+</div>
+
 
 
 <hr>
