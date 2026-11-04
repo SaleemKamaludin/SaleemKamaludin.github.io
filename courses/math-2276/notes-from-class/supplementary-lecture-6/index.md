@@ -1536,6 +1536,19 @@ C_{\min}
 
 </div>
 
+<div id="remark-unbalanced-assignment-dummy-interpretation" class="math-env remark">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Remark</span>
+  </div>
+
+  <p>
+    A dummy worker or dummy job does not represent an
+    actual assignment.
+  </p>
+
+</div>
+
 
 
 <hr>
