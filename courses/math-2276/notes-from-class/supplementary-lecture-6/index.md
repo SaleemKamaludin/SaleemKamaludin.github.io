@@ -1606,6 +1606,24 @@ C_{\min}
     </p>
 
   </div>
+
+  <div id="example-unbalanced-assignment-problem-original-cost-matrix">
+
+    <div class="display-math">
+
+\[
+C=
+\begin{array}{c|cccc}
+& J_1 & J_2 & J_3 & J_4\\ \hline
+w_1 & 8 & 6 & 10 & 9\\
+w_2 & 9 & 7 & 4 & 8\\
+w_3 & 5 & 8 & 7 & 6
+\end{array}
+\]
+
+    </div>
+
+  </div>
 </div>
 
 
