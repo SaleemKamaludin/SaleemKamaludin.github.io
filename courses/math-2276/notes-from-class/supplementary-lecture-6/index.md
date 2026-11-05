@@ -1633,6 +1633,14 @@ w_3 & 5 & 8 & 7 & 6
     </p>
 
   </div>
+
+  <div id="example-unbalanced-assignment-problem-step-1-balance-cost-matrix">
+
+    <p>
+      <strong>Step 1: Balance the Cost Matrix</strong>
+    </p>
+
+  </div>
 </div>
 
 
