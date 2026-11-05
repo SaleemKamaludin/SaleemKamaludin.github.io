@@ -1598,6 +1598,14 @@ C_{\min}
     </p>
 
   </div>
+
+  <div id="example-unbalanced-assignment-problem-cost-matrix-intro">
+
+    <p>
+      The cost matrix is
+    </p>
+
+  </div>
 </div>
 
 
