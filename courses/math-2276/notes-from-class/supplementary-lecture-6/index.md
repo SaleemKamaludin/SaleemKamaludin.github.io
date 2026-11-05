@@ -1589,6 +1589,15 @@ C_{\min}
     to perform four jobs \(J_1,J_2,J_3,J_4\).
   </p>
 
+
+  <div id="example-unbalanced-assignment-problem-constraints">
+
+    <p>
+      Each worker must be assigned exactly one job,
+      and no job may be assigned to more than one worker.
+    </p>
+
+  </div>
 </div>
 
 
