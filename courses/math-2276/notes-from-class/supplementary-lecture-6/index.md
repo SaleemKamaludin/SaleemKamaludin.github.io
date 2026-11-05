@@ -1624,6 +1624,15 @@ w_3 & 5 & 8 & 7 & 6
     </div>
 
   </div>
+
+  <div id="example-unbalanced-assignment-problem-instruction">
+
+    <p>
+      Determine the assignment that minimizes the
+      total cost.
+    </p>
+
+  </div>
 </div>
 
 
