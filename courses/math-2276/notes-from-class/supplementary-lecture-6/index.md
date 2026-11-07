@@ -1649,6 +1649,15 @@ w_3 & 5 & 8 & 7 & 6
       </p>
 
     </div>
+
+    <div id="example-unbalanced-assignment-problem-step-1-dummy-worker">
+
+      <p>
+        We introduce a dummy worker \(w_4\) with zero
+        cost for every job.
+      </p>
+
+    </div>
 </div>
 </div>
 
