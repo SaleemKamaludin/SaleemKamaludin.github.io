@@ -1640,7 +1640,16 @@ w_3 & 5 & 8 & 7 & 6
       <strong>Step 1: Balance the Cost Matrix</strong>
     </p>
 
-  </div>
+  
+    <div id="example-unbalanced-assignment-problem-step-1-unbalanced-observation">
+
+      <p>
+        Since there are three workers and four jobs,
+        the assignment problem is unbalanced.
+      </p>
+
+    </div>
+</div>
 </div>
 
 
