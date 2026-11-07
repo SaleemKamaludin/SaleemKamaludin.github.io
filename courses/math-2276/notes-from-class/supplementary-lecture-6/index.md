@@ -1721,6 +1721,15 @@ w_4\text{ (dummy)} & 0 & 0 & 0 & 0
       </div>
 
     </div>
+
+    <div id="example-unbalanced-assignment-problem-step-2-row-reduction-intro">
+
+      <p>
+        Subtracting these values from their respective
+        rows gives
+      </p>
+
+    </div>
 </div>
 </div>
 
