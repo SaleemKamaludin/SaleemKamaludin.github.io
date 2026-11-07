@@ -1709,6 +1709,18 @@ w_4\text{ (dummy)} & 0 & 0 & 0 & 0
       </p>
 
     </div>
+
+    <div id="example-unbalanced-assignment-problem-step-2-row-minima">
+
+      <div class="display-math">
+
+\[
+6,\quad 4,\quad 5,\quad 0.
+\]
+
+      </div>
+
+    </div>
 </div>
 </div>
 
