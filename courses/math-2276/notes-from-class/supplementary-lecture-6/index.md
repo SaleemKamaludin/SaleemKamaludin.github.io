@@ -1658,6 +1658,14 @@ w_3 & 5 & 8 & 7 & 6
       </p>
 
     </div>
+
+    <div id="example-unbalanced-assignment-problem-step-1-balanced-matrix-intro">
+
+      <p>
+        The balanced cost matrix becomes
+      </p>
+
+    </div>
 </div>
 </div>
 
