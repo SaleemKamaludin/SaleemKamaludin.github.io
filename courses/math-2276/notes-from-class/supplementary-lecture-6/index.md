@@ -1685,6 +1685,14 @@ w_4\text{ (dummy)} & 0 & 0 & 0 & 0
       </div>
 
     </div>
+
+    <div id="example-unbalanced-assignment-problem-step-1-hungarian-ready">
+
+      <p>
+        We can now apply the Hungarian algorithm.
+      </p>
+
+    </div>
 </div>
 </div>
 
