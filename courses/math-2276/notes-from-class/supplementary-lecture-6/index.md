@@ -1701,7 +1701,15 @@ w_4\text{ (dummy)} & 0 & 0 & 0 & 0
       <strong>Step 2: Row Reduction</strong>
     </p>
 
-  </div>
+  
+    <div id="example-unbalanced-assignment-problem-step-2-row-minima-intro">
+
+      <p>
+        The minimum entry in each row is
+      </p>
+
+    </div>
+</div>
 </div>
 
 
