@@ -1730,6 +1730,24 @@ w_4\text{ (dummy)} & 0 & 0 & 0 & 0
       </p>
 
     </div>
+
+    <div id="example-unbalanced-assignment-problem-step-2-row-reduced-matrix-c1">
+
+      <div class="display-math">
+
+\[
+C_1=
+\begin{pmatrix}
+2 & 0 & 4 & 3\\
+5 & 3 & 0 & 4\\
+0 & 3 & 2 & 1\\
+0 & 0 & 0 & 0
+\end{pmatrix}.
+\]
+
+      </div>
+
+    </div>
 </div>
 </div>
 
