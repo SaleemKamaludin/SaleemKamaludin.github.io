@@ -1756,7 +1756,16 @@ C_1=
       <strong>Step 3: Column Reduction</strong>
     </p>
 
-  </div>
+  
+    <div id="example-unbalanced-assignment-problem-step-3-zero-columns-observation">
+
+      <p>
+        Notice that every column of \(C_1\) already
+        contains at least one zero.
+      </p>
+
+    </div>
+</div>
 </div>
 
 
