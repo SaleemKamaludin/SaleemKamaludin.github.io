@@ -1749,6 +1749,14 @@ C_1=
 
     </div>
 </div>
+
+  <div id="example-unbalanced-assignment-problem-step-3-column-reduction">
+
+    <p>
+      <strong>Step 3: Column Reduction</strong>
+    </p>
+
+  </div>
 </div>
 
 
