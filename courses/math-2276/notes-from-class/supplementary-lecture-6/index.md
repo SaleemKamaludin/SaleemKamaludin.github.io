@@ -1775,6 +1775,14 @@ C_1=
 
     </div>
 </div>
+
+  <div id="example-unbalanced-assignment-problem-step-4-select-independent-zeros">
+
+    <p>
+      <strong>Step 4: Select Independent Zeros</strong>
+    </p>
+
+  </div>
 </div>
 
 
