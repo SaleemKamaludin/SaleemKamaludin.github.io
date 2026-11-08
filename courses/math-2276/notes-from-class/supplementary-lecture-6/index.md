@@ -1765,6 +1765,15 @@ C_1=
       </p>
 
     </div>
+
+    <div id="example-unbalanced-assignment-problem-step-3-no-column-reduction">
+
+      <p>
+        Therefore, no additional column reduction
+        is necessary.
+      </p>
+
+    </div>
 </div>
 </div>
 
