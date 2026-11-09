@@ -1782,7 +1782,16 @@ C_1=
       <strong>Step 4: Select Independent Zeros</strong>
     </p>
 
-  </div>
+  
+    <div id="example-unbalanced-assignment-problem-step-4-independent-zero-intro">
+
+      <p>
+        We now select four independent zeros,
+        one from each row and each column.
+      </p>
+
+    </div>
+</div>
 </div>
 
 
