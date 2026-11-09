@@ -1799,6 +1799,24 @@ C_1=
       </p>
 
     </div>
+
+    <div id="example-unbalanced-assignment-problem-step-4-independent-zero-selection-matrix">
+
+      <div class="display-math">
+
+\[
+\begin{array}{c|cccc}
+& J_1 & J_2 & J_3 & J_4\\ \hline
+w_1 & 2 & \boxed{0} & 4 & 3\\
+w_2 & 5 & 3 & \boxed{0} & 4\\
+w_3 & \boxed{0} & 3 & 2 & 1\\
+w_4 & 0 & 0 & 0 & \boxed{0}
+\end{array}
+\]
+
+      </div>
+
+    </div>
 </div>
 </div>
 
