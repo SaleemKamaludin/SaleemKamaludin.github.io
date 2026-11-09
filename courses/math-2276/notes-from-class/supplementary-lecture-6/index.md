@@ -1817,6 +1817,15 @@ w_4 & 0 & 0 & 0 & \boxed{0}
       </div>
 
     </div>
+
+    <div id="example-unbalanced-assignment-problem-step-4-optimal-assignment-conclusion">
+
+      <p>
+        Since four independent zeros have been selected,
+        an optimal assignment has been obtained.
+      </p>
+
+    </div>
 </div>
 </div>
 
