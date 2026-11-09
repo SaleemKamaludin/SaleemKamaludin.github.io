@@ -1791,6 +1791,14 @@ C_1=
       </p>
 
     </div>
+
+    <div id="example-unbalanced-assignment-problem-step-4-possible-selection-intro">
+
+      <p>
+        A possible selection is
+      </p>
+
+    </div>
 </div>
 </div>
 
