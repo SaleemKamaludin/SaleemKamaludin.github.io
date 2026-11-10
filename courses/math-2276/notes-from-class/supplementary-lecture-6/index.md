@@ -1827,6 +1827,14 @@ w_4 & 0 & 0 & 0 & \boxed{0}
 
     </div>
 </div>
+
+  <div id="example-unbalanced-assignment-problem-step-5-minimum-total-cost">
+
+    <p>
+      <strong>Step 5: Determine the Minimum Total Cost</strong>
+    </p>
+
+  </div>
 </div>
 
 
