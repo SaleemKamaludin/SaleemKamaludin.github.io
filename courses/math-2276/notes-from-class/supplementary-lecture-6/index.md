@@ -1842,6 +1842,23 @@ w_4 & 0 & 0 & 0 & \boxed{0}
       </p>
 
     </div>
+
+    <div id="example-unbalanced-assignment-problem-step-5-corresponding-assignment">
+
+      <div class="display-math">
+
+\[
+\begin{aligned}
+w_1 &\longrightarrow J_2,\\
+w_2 &\longrightarrow J_3,\\
+w_3 &\longrightarrow J_1,\\
+w_4 &\longrightarrow J_4.
+\end{aligned}
+\]
+
+      </div>
+
+    </div>
 </div>
 </div>
 
