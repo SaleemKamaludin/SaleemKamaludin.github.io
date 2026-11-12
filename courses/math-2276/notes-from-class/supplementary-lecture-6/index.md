@@ -1937,6 +1937,23 @@ C_{\min}
 </div>
 </div>
 
+<div style="height: 2rem;"></div>
+
+<div id="example-assignment-from-reduced-cost-matrix" class="math-env example">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Example 1.5</span>
+    <span class="math-env-title">Assignment from a Reduced Cost Matrix</span>
+  </div>
+
+  <p>
+    Suppose the following matrix is obtained after
+    applying the reduction steps of the Hungarian
+    algorithm:
+  </p>
+
+</div>
+
 
 
 <hr>
