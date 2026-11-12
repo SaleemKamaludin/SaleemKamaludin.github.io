@@ -1952,6 +1952,24 @@ C_{\min}
     algorithm:
   </p>
 
+
+  <div id="example-assignment-from-reduced-cost-matrix-cr">
+
+    <div class="display-math">
+
+\[
+C_r=
+\begin{pmatrix}
+6 & 4 & 0 & 2\\
+3 & 2 & 8 & 0\\
+0 & 6 & 4 & 5\\
+8 & 0 & 3 & 8
+\end{pmatrix}.
+\]
+
+    </div>
+
+  </div>
 </div>
 
 
