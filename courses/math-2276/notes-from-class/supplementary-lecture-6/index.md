@@ -1867,6 +1867,14 @@ w_4 &\longrightarrow J_4.
       </p>
 
     </div>
+
+    <div id="example-unbalanced-assignment-problem-step-5-unassigned-job">
+
+      <p>
+        Thus, job \(J_4\) remains unassigned.
+      </p>
+
+    </div>
 </div>
 </div>
 
