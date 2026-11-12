@@ -1901,6 +1901,14 @@ w_4\text{ (dummy)} & J_4 & 0
       </div>
 
     </div>
+
+    <div id="example-unbalanced-assignment-problem-step-5-hence-intro">
+
+      <p>
+        Hence,
+      </p>
+
+    </div>
 </div>
 </div>
 
