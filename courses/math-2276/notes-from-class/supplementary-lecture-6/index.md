@@ -1875,6 +1875,14 @@ w_4 &\longrightarrow J_4.
       </p>
 
     </div>
+
+    <div id="example-unbalanced-assignment-problem-step-5-original-cost-intro">
+
+      <p>
+        Using the original cost matrix, we obtain
+      </p>
+
+    </div>
 </div>
 </div>
 
