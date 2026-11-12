@@ -1925,6 +1925,15 @@ C_{\min}
       </div>
 
     </div>
+
+    <div id="example-unbalanced-assignment-problem-final-conclusion">
+
+      <p>
+        Therefore, the minimum total cost is \(15\),
+        with job \(J_4\) left unassigned.
+      </p>
+
+    </div>
 </div>
 </div>
 
