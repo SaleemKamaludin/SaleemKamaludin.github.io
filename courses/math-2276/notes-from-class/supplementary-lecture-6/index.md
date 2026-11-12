@@ -1909,6 +1909,22 @@ w_4\text{ (dummy)} & J_4 & 0
       </p>
 
     </div>
+
+    <div id="example-unbalanced-assignment-problem-step-5-minimum-cost-calculation">
+
+      <div class="display-math">
+
+\[
+\begin{aligned}
+C_{\min}
+&=6+4+5+0\\
+&=\boxed{15}.
+\end{aligned}
+\]
+
+      </div>
+
+    </div>
 </div>
 </div>
 
