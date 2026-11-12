@@ -1859,6 +1859,14 @@ w_4 &\longrightarrow J_4.
       </div>
 
     </div>
+
+    <div id="example-unbalanced-assignment-problem-step-5-dummy-worker-reminder">
+
+      <p>
+        Recall that \(w_4\) is a dummy worker.
+      </p>
+
+    </div>
 </div>
 </div>
 
