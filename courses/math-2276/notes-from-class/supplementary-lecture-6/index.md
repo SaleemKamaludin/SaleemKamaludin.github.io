@@ -1883,6 +1883,24 @@ w_4 &\longrightarrow J_4.
       </p>
 
     </div>
+
+    <div id="example-unbalanced-assignment-problem-step-5-original-cost-table">
+
+      <div class="display-math">
+
+\[
+\begin{array}{c|c|c}
+\text{Worker} & \text{Job} & \text{Cost}\\ \hline
+w_1 & J_2 & 6\\
+w_2 & J_3 & 4\\
+w_3 & J_1 & 5\\
+w_4\text{ (dummy)} & J_4 & 0
+\end{array}
+\]
+
+      </div>
+
+    </div>
 </div>
 </div>
 
