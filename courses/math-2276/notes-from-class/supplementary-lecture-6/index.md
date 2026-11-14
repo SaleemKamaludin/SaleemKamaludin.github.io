@@ -1998,6 +1998,24 @@ C_r=
       </p>
 
     </div>
+
+    <div id="example-assignment-from-reduced-cost-matrix-independent-zero-selection">
+
+      <div class="display-math">
+
+\[
+\begin{array}{c|cccc}
+& J_1 & J_2 & J_3 & J_4\\ \hline
+w_1 & 6 & 4 & \boxed{0} & 2\\
+w_2 & 3 & 2 & 8 & \boxed{0}\\
+w_3 & \boxed{0} & 6 & 4 & 5\\
+w_4 & 8 & \boxed{0} & 3 & 8
+\end{array}
+\]
+
+      </div>
+
+    </div>
 </div>
 </div>
 
