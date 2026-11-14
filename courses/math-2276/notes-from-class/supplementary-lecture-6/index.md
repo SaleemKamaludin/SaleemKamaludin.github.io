@@ -1990,7 +1990,15 @@ C_r=
       one from each row and each column.
     </p>
 
-  </div>
+  
+    <div id="example-assignment-from-reduced-cost-matrix-zero-selection-intro">
+
+      <p>
+        Observe that we can select
+      </p>
+
+    </div>
+</div>
 </div>
 
 
