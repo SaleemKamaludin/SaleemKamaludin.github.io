@@ -1970,6 +1970,14 @@ C_r=
     </div>
 
   </div>
+
+  <div id="example-assignment-from-reduced-cost-matrix-instruction">
+
+    <p>
+      Determine an optimal assignment.
+    </p>
+
+  </div>
 </div>
 
 
