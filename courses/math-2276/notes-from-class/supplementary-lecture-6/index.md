@@ -1978,6 +1978,19 @@ C_r=
     </p>
 
   </div>
+
+  <div id="example-assignment-from-reduced-cost-matrix-solution" class="solution">
+
+    <p>
+      <strong>Solution</strong>
+    </p>
+
+    <p>
+      We attempt to select four independent zeros,
+      one from each row and each column.
+    </p>
+
+  </div>
 </div>
 
 
