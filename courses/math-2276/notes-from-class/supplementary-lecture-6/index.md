@@ -2054,6 +2054,14 @@ w_4 &\longrightarrow J_2.
       </p>
 
     </div>
+
+    <div id="example-assignment-from-reduced-cost-matrix-minimum-cost-explanation">
+
+      <p>
+        Not from the reduced matrix alone.
+      </p>
+
+    </div>
 </div>
 </div>
 
