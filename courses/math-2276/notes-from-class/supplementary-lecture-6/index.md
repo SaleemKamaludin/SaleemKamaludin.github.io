@@ -2062,6 +2062,16 @@ w_4 &\longrightarrow J_2.
       </p>
 
     </div>
+
+    <div id="example-assignment-from-reduced-cost-matrix-original-cost-required">
+
+      <p>
+        The original cost matrix is required to
+        calculate the numerical value of the minimum
+        total cost.
+      </p>
+
+    </div>
 </div>
 </div>
 
