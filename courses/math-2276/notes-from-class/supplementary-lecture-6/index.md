@@ -2046,6 +2046,14 @@ w_4 &\longrightarrow J_2.
       </div>
 
     </div>
+
+    <div id="example-assignment-from-reduced-cost-matrix-minimum-cost-question">
+
+      <p style="margin-top: 1rem;">
+        <strong>Can we determine the minimum total cost?</strong>
+      </p>
+
+    </div>
 </div>
 </div>
 
