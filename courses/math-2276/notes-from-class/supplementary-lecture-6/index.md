@@ -2016,6 +2016,19 @@ w_4 & 8 & \boxed{0} & 3 & 8
       </div>
 
     </div>
+
+    <div id="example-assignment-from-reduced-cost-matrix-optimality-conclusion">
+
+      <p>
+        Since these four zeros are independent, an
+        optimal assignment has been obtained.
+      </p>
+
+      <p>
+        Therefore,
+      </p>
+
+    </div>
 </div>
 </div>
 
