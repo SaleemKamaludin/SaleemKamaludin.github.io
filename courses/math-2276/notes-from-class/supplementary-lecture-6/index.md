@@ -2111,6 +2111,16 @@ w_4 &\longrightarrow J_2.
     matrix into a reduced cost matrix.
   </p>
 
+
+  <div id="remark-reduced-costs-preserve-optimal-assignments">
+
+    <p>
+      These transformations preserve the set of
+      optimal assignments but generally change
+      the numerical values of the costs.
+    </p>
+
+  </div>
 </div>
 
 
