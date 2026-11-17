@@ -2082,6 +2082,17 @@ w_4 &\longrightarrow J_2.
       </p>
 
     </div>
+
+    <div id="example-assignment-from-reduced-cost-matrix-final-conclusion">
+
+      <p>
+        Thus, while we can determine an optimal
+        assignment from the reduced matrix, the
+        original minimum total cost cannot be
+        determined from this information alone.
+      </p>
+
+    </div>
 </div>
 </div>
 
