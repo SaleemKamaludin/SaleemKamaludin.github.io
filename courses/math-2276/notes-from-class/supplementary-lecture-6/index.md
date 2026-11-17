@@ -2149,6 +2149,18 @@ w_4 &\longrightarrow J_2.
     </p>
 
   </div>
+
+  <div id="remark-reduced-costs-final-conclusion">
+
+    <p>
+      If only a reduced cost matrix is provided,
+      an optimal assignment may be determined,
+      but the original minimum total cost cannot
+      generally be recovered unless the reductions
+      or equivalent additional information are known.
+    </p>
+
+  </div>
 </div>
 
 
