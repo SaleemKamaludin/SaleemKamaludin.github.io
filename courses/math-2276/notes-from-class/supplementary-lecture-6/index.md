@@ -2132,6 +2132,15 @@ w_4 &\longrightarrow J_2.
     </p>
 
   </div>
+
+  <div id="remark-reduced-costs-original-matrix-required">
+
+    <p>
+      However, the minimum total cost must be
+      calculated using the original cost matrix.
+    </p>
+
+  </div>
 </div>
 
 
