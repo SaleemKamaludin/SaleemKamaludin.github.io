@@ -2096,6 +2096,23 @@ w_4 &\longrightarrow J_2.
 </div>
 </div>
 
+<div style="height: 2.5rem;"></div>
+
+<div id="remark-reduced-costs-and-original-costs" class="math-env remark">
+
+  <div class="math-env-heading">
+    <span class="math-env-tag">Remark</span>
+    <span class="math-env-title">Reduced Costs and Original Costs</span>
+  </div>
+
+  <p>
+    The Hungarian algorithm identifies an optimal
+    assignment by transforming the original cost
+    matrix into a reduced cost matrix.
+  </p>
+
+</div>
+
 
 
 <hr>
