@@ -2121,6 +2121,17 @@ w_4 &\longrightarrow J_2.
     </p>
 
   </div>
+
+  <div id="remark-reduced-costs-independent-zeros-conclusion">
+
+    <p>
+      Consequently, selecting independent zeros
+      determines an optimal assignment, provided
+      the reduced matrix was obtained by valid
+      Hungarian algorithm operations.
+    </p>
+
+  </div>
 </div>
 
 
