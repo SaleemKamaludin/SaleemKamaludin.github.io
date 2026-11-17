@@ -2072,6 +2072,16 @@ w_4 &\longrightarrow J_2.
       </p>
 
     </div>
+
+    <div id="example-assignment-from-reduced-cost-matrix-reduction-explanation">
+
+      <p>
+        This is because row and column reductions
+        change the cost entries, although they
+        preserve the optimal assignments.
+      </p>
+
+    </div>
 </div>
 </div>
 
