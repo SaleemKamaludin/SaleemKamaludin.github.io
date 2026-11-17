@@ -2141,6 +2141,14 @@ w_4 &\longrightarrow J_2.
     </p>
 
   </div>
+
+  <div id="remark-reduced-costs-important-heading">
+
+    <p style="margin-top: 1rem;">
+      <strong>Important:</strong>
+    </p>
+
+  </div>
 </div>
 
 
