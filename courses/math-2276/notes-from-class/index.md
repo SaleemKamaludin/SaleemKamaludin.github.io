@@ -21,6 +21,7 @@ Lecture material will be organized here by topic.
 - **[Supplementary Notes from Lecture 4](./supplementary-lecture-4/)**
 
 - **[Supplementary Notes from Lecture 5](./supplementary-lecture-5/)**
+
 - **[Supplementary Notes from Lecture 6](./supplementary-lecture-6/)**
 
 
