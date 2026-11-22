@@ -17,6 +17,7 @@ Here you'll find organized links to course notes and resources. This will expand
 - [Introduction to Linear Algebra and Analytical Geometry]({% link courses/intro-linear-geometry.md %}) — Vectors,(points line and planes),  matrix methods, and complex numbers.
 - [Sets and Number Systems]({% link courses/sets-number-systems.md %}) — Logic, sets, binary operations and induction.
 - [Linear Algebra I]({% link courses/linear-algebra.md %}) — Systems, determinants, eigenvalues, transformations.
+- [Linear Algebra II]({% link courses/linear-algebra-ii/index.md %}) — Vector spaces, linear transformations, inner product spaces, and canonical forms.
 - [Abstract Algebra I]({% link courses/abstract-algebra-1.md %}) — Groups, subgroups, cosets, Lagrange’s theorem. A basic intoruduction to rings.
 - [Abstract Algebra II]({% link courses/abstract-algebra-2.md %}) — Rings, fields, ideals, polynomial factorization, Galois Theory and Sylow Theorems.
 - [Number Theory]({% link courses/number-theory.md %}) — Divisibility, congruences, Diophantine equations, arithmetic functions.- 
