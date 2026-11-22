@@ -6,7 +6,8 @@ permalink: /courses/linear-algebra-ii/
 
 # Linear Algebra II
 
-Welcome to the Linear Algebra II course page.
+Vector spaces, linear transformations, inner product spaces, orthogonality, diagonalization, and canonical forms.
+
 
 Course notes, exercises, and other resources will be added here.
 
