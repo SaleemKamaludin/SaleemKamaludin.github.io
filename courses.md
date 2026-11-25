@@ -39,7 +39,7 @@ Here you'll find organized links to course notes and resources. This will expand
 
 ## 📚 Foundations of Mathematics
 
-- **MATH 1115 — Fundamental Mathematics for the General**
+- **MATH 1115 — Fundamental Mathematics for the General Sciences I**
   - [Materials]({{ '/courses/math-1115/' | relative_url }})
   - [Lecture Notes]({{ '/courses/math-1115/lecture-notes/' | relative_url }})
   - [Problem Paper Solutions]({{ '/courses/math-1115/problem-paper-solutions/' | relative_url }})
