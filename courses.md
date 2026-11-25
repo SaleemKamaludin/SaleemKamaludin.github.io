@@ -62,11 +62,6 @@ Here you'll find organized links to course notes and resources. This will expand
 
 
 
-## Math Clinic
-
-- [Math Clinic](/courses/math-clinic/) — Refresher workshops with materials.
-
----
 ## Other courses
 - [Mathematics for Business]({% link courses/math-for-business.md %}) — Applied mathematics for economics and social sciences
 
