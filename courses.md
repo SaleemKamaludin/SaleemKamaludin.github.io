@@ -67,14 +67,4 @@ Here you'll find organized links to course notes and resources. This will expand
 
 ---
 
-
-
-## 🧪 Research work 
-
-- Graph Theory (Szeged Index) — see research notes.  
-- Counterfeit Drugs Project 
-- Codeine Research on practices and attitute.
-
----
-
 > *This page is a living document. New materials will appear as they’re prepared and uploaded.*
